@@ -1,0 +1,24 @@
+{
+  "pointerOffset": "0x70159",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hope-capital-ashura-negotiation",
+  "decodedBytes": 1126,
+  "complete": true,
+  "status": "native-verified-v45",
+  "reviewNotes": [
+    "All 8 records visually reviewed against original-ROM glyph renders and checked against source bytes. Draft only; no ROM or manifest changes.",
+    "Merchant name is 蜂乃屋, not 蝉乃屋/蟬乃屋. Original bytes 1962 1963 1983 in records 0 and 1 render 蜂乃屋. Enlarging 1962 shows 虫 plus 夆 (夂 above 丰), not 単 or 單. The earlier postwar-rebuilding draft is outside this task's ownership and remains unmodified.",
+    "Preserve the three poetry clues, mountain cherry versus Somei Yoshino distinction, golden Buddha, bridal 角隱, Ashura's arson threat, Yasha's plea and his eventual resolve to support Enma before Vajra King.",
+    "No kana reading is supplied for 蜂乃屋 in this block; the written kanji are verified without guessing a pronunciation."
+  ],
+  "records": {
+    "0": "阿修羅\n「呵呵呵……！蜂乃屋先生！」\n\n「整座都城燒得通紅，\n您不覺得很美嗎？」\n\n「若覺得困擾，就把世上，\n三樣比都城的火焰，\n更美的東西交出來吧！」\n「這三樣美麗的東西，\n我已經寄託在詩歌之中了。」\n\n「若能湊齊三樣，\n我就考慮打消，\n在都城放火的念頭吧！」\n「第一樣！」\n\n\n『趁著深夜，\n渡過黃泉之路的，\n白色角隱！』\n「第二樣是……！」\n\n\n『黃泉之國，\n綻放讚頌的花朵，\n夢見草！』\n「第三樣是……！」\n\n\n『金光照耀，\n守護佛尊的燕子。』\n",
+    "1": "「呵呵呵……！\n在下就是阿修羅，\n是蜂乃屋派來的年輕人吧？」\n「我等得都累了，\n正猶豫著，要不要，\n乾脆在都城放火呢！」\n「三樣東西都湊齊了嗎？」\n\n",
+    "2": "「喔！好美的櫻花！\n這是山櫻吧，\n不是染井吉野櫻，真好。」",
+    "3": "「黃金佛像！\n這造形的美麗，\n完全不輸那金色的光輝。」",
+    "4": "「然後，是角隱……」\n\n",
+    "5": "「很適合您喔，夜叉姬殿下！」\n\n",
+    "6": "阿修羅\n「呵呵呵……！」\n\n「你們這種膚淺的，\n小小計謀，難道真以為，\n我會察覺不到嗎？」\n夜叉姬\n「阿修羅啊！」\n\n「你也曾被稱為，\n閻魔大人的左右手啊！」\n\n「如今的地獄，\n已經混亂到什麼地步，\n你應該很清楚吧？」\n「聚斂金錢！」\n\n\n「打敗對手！」\n\n\n「擴大鬼族的世界！」\n\n\n「這些話聽來都沒有錯，\n卻帶來了無數的，\n悲傷與憎恨啊！」\n阿修羅\n「呵呵呵……」\n\n「連夜叉姬殿下都被你迷住……\n[02a0]先生！你的力量，\n讓我越來越感興趣了呢。」\n「來戰鬥吧！我要，\n用自己的雙眼，\n確認你潛藏的力量。」\n夜叉姬\n「阿修羅！\n聽我說啊！」",
+    "7": "阿修羅\n「呵呵呵……」\n\n「看來就連我，\n也被[02a0]先生，\n給迷住了呢。」\n「我就心甘情願地受迷惑吧！\n再一起讓鬼族的世界，\n回到正確的道路上吧！」\n「我現在就去，\n向伐折羅王大人稟告，\n閻魔大人所言才是正道！」\n「[02a0]先生！夜叉姬，\n就拜託您多多照顧了！」\n"
+  }
+}

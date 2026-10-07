@@ -1,0 +1,78 @@
+{
+  "targetSha256": "1adb065eab4c8782817c59177316eae3f7442a61efbefc5fc9e9e9535bff0762",
+  "baselineSha256": "47dd33fc820943a848adc9cf68262499fe18c215aabcd3c4c16daf0813806da0",
+  "fixtureSha256": "686a94ffbe01cfbcf7e2b82a1585e9b1d66ccb9a9785c3e1d50e23419b926a20",
+  "originalFixtureUnchanged": true,
+  "syntheticStateChanges": false,
+  "nativeControllerNavigation": true,
+  "heading": {
+    "x": 108,
+    "y": 176,
+    "width": 24,
+    "height": 16
+  },
+  "sourceNegativeControlPassed": true,
+  "outsideHeadingPixelsIdentical": true,
+  "initialParty": [
+    1,
+    6,
+    2,
+    3
+  ],
+  "initialCursorIndex": 1,
+  "partyAddress": "7E1569",
+  "cases": [
+    {
+      "name": "cancel",
+      "party": [
+        1,
+        6,
+        2,
+        3
+      ],
+      "gameDataMatchesBaseline": true,
+      "outsideHeadingPixelsIdentical": true,
+      "image": "cancel-target.png"
+    },
+    {
+      "name": "cancel-after-pick",
+      "party": [
+        1,
+        6,
+        2,
+        3
+      ],
+      "gameDataMatchesBaseline": true,
+      "outsideHeadingPixelsIdentical": true,
+      "image": "cancel-after-pick-target.png"
+    },
+    {
+      "name": "swap-second-third",
+      "party": [
+        1,
+        2,
+        6,
+        3
+      ],
+      "gameDataMatchesBaseline": true,
+      "outsideHeadingPixelsIdentical": true,
+      "image": "swap-second-third-target.png"
+    },
+    {
+      "name": "swap-second-fourth",
+      "party": [
+        1,
+        3,
+        2,
+        6
+      ],
+      "gameDataMatchesBaseline": true,
+      "outsideHeadingPixelsIdentical": true,
+      "image": "swap-second-fourth-target.png"
+    }
+  ],
+  "image": "formation-target.png",
+  "limitations": [
+    "Four-member world-map fixture only; not every party size, physical device or full release regression."
+  ]
+}

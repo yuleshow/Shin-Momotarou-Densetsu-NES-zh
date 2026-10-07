@@ -1,0 +1,420 @@
+{
+  "targetSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "path": "native indexed dialogue",
+  "word": "秩測",
+  "dispatchMaximum": 5567,
+  "captureRetention": "matched frame per positive probe; final frame per negative probe; title state",
+  "cases": [
+    {
+      "indexes": [
+        0,
+        1
+      ],
+      "codes": [
+        "1bc0",
+        "1bc1"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        63,
+        64
+      ],
+      "codes": [
+        "1bff",
+        "1c00"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        319,
+        320
+      ],
+      "codes": [
+        "1cff",
+        "1d00"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        575,
+        576
+      ],
+      "codes": [
+        "1dff",
+        "1e00"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        831,
+        832
+      ],
+      "codes": [
+        "1eff",
+        "1f00"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        1087,
+        1088
+      ],
+      "codes": [
+        "1fff",
+        "2400"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        1343,
+        1344
+      ],
+      "codes": [
+        "24ff",
+        "2500"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        1599,
+        1600
+      ],
+      "codes": [
+        "25ff",
+        "2600"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        1855,
+        1856
+      ],
+      "codes": [
+        "26ff",
+        "2700"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2111,
+        2112
+      ],
+      "codes": [
+        "27ff",
+        "2800"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2175,
+        2176
+      ],
+      "codes": [
+        "283f",
+        "2840"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2239,
+        2240
+      ],
+      "codes": [
+        "287f",
+        "2880"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2303,
+        2304
+      ],
+      "codes": [
+        "28bf",
+        "28c0"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2367,
+        2368
+      ],
+      "codes": [
+        "28ff",
+        "2900"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2431,
+        2432
+      ],
+      "codes": [
+        "293f",
+        "2940"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2495,
+        2496
+      ],
+      "codes": [
+        "297f",
+        "2980"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2559,
+        2560
+      ],
+      "codes": [
+        "29bf",
+        "29c0"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2623,
+        2624
+      ],
+      "codes": [
+        "29ff",
+        "2a00"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2687,
+        2688
+      ],
+      "codes": [
+        "2a3f",
+        "2a40"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2879,
+        2880
+      ],
+      "codes": [
+        "2aff",
+        "2b00"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        3135,
+        3136
+      ],
+      "codes": [
+        "2bff",
+        "2c00"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2112,
+        2113
+      ],
+      "codes": [
+        "2800",
+        "2801"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        3326,
+        3327
+      ],
+      "codes": [
+        "2cbe",
+        "2cbf"
+      ],
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    }
+  ],
+  "negativeControls": [
+    {
+      "indexes": [
+        2110,
+        2111
+      ],
+      "maximum": 4351,
+      "rendered": true,
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2112,
+        2113
+      ],
+      "maximum": 4351,
+      "rendered": false,
+      "match": null
+    },
+    {
+      "indexes": [
+        2366,
+        2367
+      ],
+      "maximum": 4351,
+      "rendered": false,
+      "match": null
+    },
+    {
+      "indexes": [
+        2366,
+        2367
+      ],
+      "maximum": 4607,
+      "rendered": true,
+      "match": {
+        "frame": "frame-1020.ppm",
+        "x": 32,
+        "y": 80
+      }
+    },
+    {
+      "indexes": [
+        2368,
+        2369
+      ],
+      "maximum": 4607,
+      "rendered": false,
+      "match": null
+    },
+    {
+      "indexes": [
+        3326,
+        3327
+      ],
+      "maximum": 4607,
+      "rendered": false,
+      "match": null
+    }
+  ]
+}

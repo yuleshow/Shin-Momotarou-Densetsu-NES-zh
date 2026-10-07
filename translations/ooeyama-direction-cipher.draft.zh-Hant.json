@@ -1,0 +1,22 @@
+{
+  "pointerOffset": "0x701e3",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ooeyama-direction-cipher",
+  "target": "0x2cc400",
+  "decodedBytes": 428,
+  "complete": true,
+  "status": "localized-puzzle-pending-build-and-native-verification",
+  "reviewNotes": [
+    "Original six records reviewed as glyphs. The Japanese row/vowel cipher decodes to right, left, left, up, right, down, right; corroborated by https://tvgamedb.com/snec/shinmomoden/kouryaku-3/.",
+    "Editorial localization replaces kana decomposition with Mandarin same-tone homophones: 又=右, 佐=左, 尚=上, 夏=下. The sunrise example 冬=東 supplies the decoding rule without printing the solution.",
+    "Only dialogue is localized; the movement sequence, event scripts, three choice outcomes, and text controls are unchanged. Natural puzzle interaction and native rendering remain unverified."
+  ],
+  "records": {
+    "0": "迦樓羅\n「嘿嘿嘿！[02a0]！」\n\n「還以為你早就放棄，\n回啟程村種田了呢！\n倒是值得誇獎啊！」\n「順便讓你聽個奇妙的故事！\n三個故事之中，\n只能選一個！」",
+    "1": "「嘿嘿嘿！\n你本來該聽第二個故事的！」\n",
+    "2": "「嘿嘿嘿！\n你本來該聽第三個故事的！」\n",
+    "3": "「嘿嘿嘿！\n你本來該聽第一個故事的！」\n",
+    "4": "[02a0]調查了石板！\n\n\n[02a0]讀起石板上的文字！\n\n\n又 佐\n佐 尚\n又 夏 又",
+    "5": "[02a0]調查了石板！\n\n\n[02a0]讀起石板上的文字！\n\n\n太陽升起之處，名曰\n『冬』。借其聲，辨其方向。\n\n解開這些文字的謎，\n依照指示移動岩石！\n如此，道路便會敞開！"
+  }
+}

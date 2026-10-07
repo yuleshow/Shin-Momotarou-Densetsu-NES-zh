@@ -1,0 +1,44 @@
+{
+  "version": "v29",
+  "status": "deployed-readback-verified-screenshots-removed",
+  "targetSha256": "52d10219f8c501b33d7841c363b79304932fd1fd33ab84fae9f28843afbd54cd",
+  "previousSha256": "7b25d20e6192297155fcc3f69e7971b790fbbcb02ad0cd4e6bd4a8c5c5f6e09f",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "backupRom": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/opening-preview-v29/deployment-backup/previous-v28.sfc",
+  "screenshotBackupDirectory": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/opening-preview-v29/deployment-backup",
+  "backedUpScreenshots": [
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-160212.png",
+      "sha256": "d7cdde7cf243c4882f0c26de28d24d37e2c5b480f45445755448b4f3fbc341d3"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-160812.png",
+      "sha256": "5ee76d66de26ce80743b640c5d968830386697e2fddba8c4e4653a33b808c535"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-160857.png",
+      "sha256": "3769521eec1d6180fd97a3ea3ea8a2f3c262caf75e40248364c55c0f49685325"
+    }
+  ],
+  "deletedScreenshots": [
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-160212.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-160812.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-160857.png"
+  ],
+  "screenshotsDeleted": 3,
+  "savesWrittenOrRestored": false,
+  "physicalDeviceBootVerified": false,
+  "installedAt": "2026-10-01T23:44:24.968Z",
+  "fullReadbackVerified": true,
+  "readbackBytes": 4194304,
+  "finalDeviceSha256": "52d10219f8c501b33d7841c363b79304932fd1fd33ab84fae9f28843afbd54cd",
+  "completedAt": "2026-10-01T23:44:25.670Z",
+  "unchangedSaveFiles": 73,
+  "saveEntriesUnchanged": true,
+  "changedSaves": [],
+  "cheatsUnchanged": true,
+  "preservedScreenshotEntriesPresent": true,
+  "preservedScreenshotEntryCount": 200,
+  "remainingRelatedScreenshots": [],
+  "relatedRomCount": 1
+}

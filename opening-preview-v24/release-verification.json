@@ -1,0 +1,302 @@
+{
+  "version": "v24",
+  "status": "locally-verified-not-deployed",
+  "targetSha256": "7b9d2ffcd958348b0f522716f43711ddbe8e981351c2ac67e55b76b0ff3e562b",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV23": 81,
+  "addedInlineLabels": 7,
+  "glyphs": 1566,
+  "glyphCapacity": 1600,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 1218,
+    "untranslatedRecords": 6570,
+    "emptyRecords": 82
+  },
+  "screenshots": [
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-114545.png",
+      "sha256": "2a43d908a0c6fca0497313d5c6029f5e85ce9cb675aa178857f3820f8663bb85",
+      "imageRetained": true,
+      "cases": [],
+      "inlineMenus": [
+        "spell-actions"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120343.png",
+      "sha256": "94ff8d84bb1f67c08e9422049de7006cc2cadfac42f303c03710f73f30c8fd9e",
+      "imageRetained": true,
+      "cases": [
+        "pheasant-rescue:0"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120349.png",
+      "sha256": "808684cd0a40eed326bb5d21681c5eb7aeb12c7adc1536afda9799b756d8d21b",
+      "imageRetained": true,
+      "cases": [
+        "pheasant-rescue:0"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120357.png",
+      "sha256": "7c8577c514b1588197e9413790375298cd8d112574abbabcc271423d10abfb81",
+      "imageRetained": true,
+      "cases": [
+        "pheasant-rescue:0"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120434.png",
+      "sha256": "8ec2c643bc1733c9bdb7e0bad96d023bdb1de4b81f3eaed11a3034e9391b3058",
+      "imageRetained": true,
+      "cases": [
+        "spell-chants:14"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120559.png",
+      "sha256": "8572babf415d732416103c3a2593d920e3ff578858b2c701e3af79e8170fb7e0",
+      "imageRetained": true,
+      "cases": [
+        "field-messages:61"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120603.png",
+      "sha256": "8a786420a58e87afab8c66c05410d38f81284d4e35f30b2fdf5479288489cfd6",
+      "imageRetained": true,
+      "cases": [
+        "field-messages:66"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120610.png",
+      "sha256": "875bd133eb77417ad79d4d6676451acd067bc4cf921cff8ef5e94ef9292a2361",
+      "imageRetained": true,
+      "cases": [
+        "pheasant-rescue:1"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120616.png",
+      "sha256": "fe54ae3654b7524417b12e8a86f8ab473bfbc25722b6b4a2e75ec7d18cbbb2f3",
+      "imageRetained": true,
+      "cases": [
+        "pheasant-rescue:1"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120623.png",
+      "sha256": "b616915b33a1d14e0b583f2b761ac846193ed3d782492a32bba95bafeaa88228",
+      "imageRetained": true,
+      "cases": [
+        "pheasant-rescue:1"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120634.png",
+      "sha256": "3c42ceb03a3575487971c8cc5eb688ff2659a3f5f8f1f6f1ff22641b11bed3ce",
+      "imageRetained": true,
+      "cases": [
+        "field-messages:78"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-120649.png",
+      "sha256": "2337ec80f7d5321e4ab763023cbde358c37274b349782dff1377e9a33ef19e32",
+      "imageRetained": true,
+      "cases": [
+        "field-messages:122"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121238.png",
+      "sha256": "d634369e9fc9984e1422b29374a06a4f8ac26a120b9d483ae60c3d3ad990d61b",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-village:22"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121242.png",
+      "sha256": "128a8dcc61d3b18da90c0b6a4e0617141ff0c687102ba6b3eb4b35b51061db9f",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-village:22"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121246.png",
+      "sha256": "3da04bc2716ad600bf63c9f7fc77e83788b67454e9b5589826be5f7362e743a4",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-village:22"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121251.png",
+      "sha256": "712489741d6b9ae80b85d61908bb3e7f532bff290082ee7aa52efdc310b7d2d7",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-village:22"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121256.png",
+      "sha256": "e9634bd9564dcdfad48cd8aa925065f12572d63c569470517db62fc35bb12ea1",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-village:22"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121309.png",
+      "sha256": "b14874829bcf6d4e5d7f01c9fb366eba6b8e218de979893da5eab7253d83b71c",
+      "imageRetained": true,
+      "cases": [
+        "screenshot-locations:14"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121324.png",
+      "sha256": "c9e8550c84229bcfdf4b4c8f5bfcd8f5f28b51cc09eb69a332e46b52e81c5b2b",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-visitors:13"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121340.png",
+      "sha256": "b50bd6cbf3cbe76c45fa0dd2da7ebbe6d3c6764112b48b8a8fe03ec59e91f5f7",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-visitors:13"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121350.png",
+      "sha256": "70089add3dfe6f0ef8c1bf3da9afc19bcdd01d846c2ae5f78cb9cb1af928609a",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-visitors:11"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121358.png",
+      "sha256": "f6ebdeddb4a2d9fcb8d843618570f88aea49fc1af97e5291951086ccf28ce439",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-visitors:11"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121434.png",
+      "sha256": "239e215d7a5eaf9a1e0817124becc2d378006f14084d84f100b3b944c300e668",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-village:6"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121440.png",
+      "sha256": "411895a5942702e5477f4acb50b3b7f53f13c8c008d8ed5181d32caaf074b400",
+      "imageRetained": true,
+      "cases": [
+        "hanasaka-village:6"
+      ],
+      "inlineMenus": []
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-121926.png",
+      "sha256": null,
+      "imageRetained": false,
+      "cases": [],
+      "inlineMenus": [],
+      "note": "Reviewed using OCR and exact source item 53; device became unavailable before image backup.",
+      "itemIndexes": [
+        53
+      ]
+    }
+  ],
+  "pendingScreenshots": null,
+  "verification": {
+    "dialogueScenes": 117,
+    "exactDialogueWords": 200,
+    "dialogueSuitePartial": true,
+    "newDialogueLocationChantCases": 79,
+    "enemyNameIndex": 51,
+    "itemNameIndex": 53,
+    "newInlineMenus": [
+      "spell-actions",
+      "battle-spell-actions",
+      "chest-sizes"
+    ],
+    "sourceControlFramesIdentical": true,
+    "fullMenuSuitePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "completeEventBlocks": [
+    "pheasant-rescue",
+    "hanasaka-village",
+    "hanasaka-prison-entrance",
+    "hanasaka-water-prison"
+  ],
+  "relatedBranches": [
+    "hanasaka-visitors:11-14",
+    "field-messages:61-66,76-78,122"
+  ],
+  "olderScreenshotGapsResolved": [
+    "Village-completion invitation",
+    "Lizard half-HP escape hint",
+    "Chest-size choices"
+  ],
+  "device": {
+    "deployed": false,
+    "lastVerifiedVersion": "v23",
+    "sha256": "70a7098e8b3ebf167813c69f5beec785bdd6bb926dce7ecfe336443b2a94a89c",
+    "availableDuringPackaging": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "remainingJapanese": [
+    "Enemy phonetic readings",
+    "Battle condition banners",
+    "Other untranslated indexed records and undiscovered text"
+  ],
+  "notVerified": [
+    "Full playthrough",
+    "Physical device boot",
+    "Natural water-prison puzzle and boss completion",
+    "Natural spell-menu and chest-choice effects",
+    "Every glyph visually inspected"
+  ],
+  "nameNote": "Enemy 51 is transliterated from the source kana as shown in the translation manifest, not an asserted canonical Chinese name."
+}

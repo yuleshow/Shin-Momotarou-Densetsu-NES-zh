@@ -1,0 +1,35 @@
+{
+  "pointerOffset": "0x700cf",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hope-capital-lottery",
+  "decodedBytes": 1079,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 19 original glyph records reviewed. Preserve the 100 ryo ticket price, 10000/3000/1000 ryo prizes and consolation millet dumpling.",
+    "The special-prize dialogue describes the original Hudson mail-in promotion with a 1994-04-30 deadline. Keep that historical date; this is not a current promotion.",
+    "Record 18's fixed code was enlarged and visually verified as ねでいな えしおは にちだもと. Preserve all thirteen kana verbatim, intentionally untranslated; omit decorative quotation/group padding to fit one 14-cell line, retaining both source newlines and outer blank-line spaces.",
+    "Only text is drafted; lottery timing, outcomes, rewards and the special code are not changed."
+  ],
+  "records": {
+    "0": "「要不要買張彩券啊？\n馬上就要開獎了喔！\n一次１００兩！很便宜吧！」",
+    "1": "「說不定一轉眼，\n就變成大富翁囉！\n真可惜啊！」",
+    "2": "「喂！喂！喂！喂！\n沒錢還敢來買彩券，\n膽子真不小嘛！」",
+    "3": "「來！在喜歡的地方，\n叫停吧！停下的位置，\n如果中獎，立刻變大富翁！」\n「來囉！命運的岔路！\n停了！停了！停了！」\n",
+    "4": "「太好了！中了大獎！\n竟然抽中頭獎啦！」\n\n「恭喜您！\n獎金是１００００兩！」\n\n[02a0]等人，\n獲得了１００００兩！\n",
+    "5": "「恭喜您！\n抽中二獎啦！」\n\n「獎金是３０００兩！」\n\n\n[02a0]等人，\n獲得了３０００兩！\n",
+    "6": "「恭喜您！\n抽中三獎啦！」\n\n「獎金是１０００兩！」\n\n\n[02a0]等人，\n獲得了１０００兩！\n",
+    "7": "「哎呀，真可惜！\n沒有中獎呢！\n來！這是安慰獎黍糰子！」",
+    "8": "「還要再玩一次嗎？」\n\n",
+    "9": "「我還以為，\n這次一定會中呢！」\n",
+    "10": "「嗯……？喔！這個字！\n特、特獎啊！」\n\n「喂────！不得了啦！\n這位客人剛剛，\n抽中特獎啦────！」",
+    "11": "「您聽好！接下來，\n我要說很重要的事，\n請準備好紙筆！」",
+    "12": "「準備好了嗎？」\n\n",
+    "13": "「那我等您！\n準備好再過來吧！」\n",
+    "14": "「現在要告訴您，\n幾個特別的字，\n請寫在紙上。」",
+    "15": "「把這些字寫在明信片上，\n貼上包裝盒附的抽獎券，\n寄到哈德森公司！」\n「經過抽選，就有機會，\n真的獲得豪華獎品喔！」\n\n「１９９４年４月３０日，\n是最後期限喔！」\n\n「詳細說明，\n請仔細閱讀問卷明信片！」\n",
+    "16": "「要不要再確認一次，\n剛才的字呢？」\n",
+    "17": "「那麼！祝您，\n抽中豪華的獎品囉！」\n",
+    "18": " \nねでいなえしおはにちだもと\n "
+  }
+}

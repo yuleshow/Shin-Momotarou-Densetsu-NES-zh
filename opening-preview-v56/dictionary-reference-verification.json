@@ -1,0 +1,50 @@
+{
+  "targetSha256": "cdd864a94f3e058d4ff775e94f8aa76b311794e778221b2312376a762434bcf4",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "shared-dictionary-remaining",
+      "firstIndex": 39,
+      "words": [
+        "村"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70000",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 30,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    }
+  ],
+  "manifest": "verification/default-animals-v56/resolved-translation-manifest.json",
+  "draftFiles": [
+    "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+    "translations/common-status-labels-remaining.draft.zh-Hant.json"
+  ],
+  "screenshotOnly": false,
+  "isolatedRecords": true,
+  "selectedBlocks": [
+    "shared-dictionary-remaining"
+  ],
+  "dictionaryReferenceProbes": [
+    {
+      "index": 39,
+      "referenceHex": "02c7"
+    }
+  ],
+  "plannedScenes": 1,
+  "exactCandidateRecordsVerified": 1
+}

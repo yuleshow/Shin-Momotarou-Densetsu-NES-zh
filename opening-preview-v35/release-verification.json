@@ -1,0 +1,62 @@
+{
+  "version": "v35",
+  "status": "locally-verified-not-deployed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "e77d8c2a6f96134e0d5c6769f770d94a890e93f8e89f43a44a6e8058dbee15bd",
+  "addedIndexedRecordsSinceV34": 221,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2769,
+    "untranslatedRecords": 5019,
+    "emptyRecords": 82
+  },
+  "glyphs": 1966,
+  "glyphCapacity": 2112,
+  "battleRecordsTranslated": 252,
+  "battleRecordsTotal": 254,
+  "previousTranslationsPreserved": true,
+  "retainedOriginalBattleRecords": [
+    {
+      "index": 1,
+      "reason": "Internal processing note"
+    },
+    {
+      "index": 50,
+      "reason": "Unresolved spell name: tou rou"
+    }
+  ],
+  "verification": {
+    "nativeDialogueScenes": 252,
+    "exactWords": 546,
+    "originalRelocationFramesIdentical": true,
+    "previewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNameRegressionsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "device": {
+    "deployed": false,
+    "lastVerifiedVersion": "v33",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "All prior dialogue suites on this exact hash",
+    "Every natural battle caller, skill effect and event progression"
+  ],
+  "remainingJapanese": [
+    "Other untranslated dialogue",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph",
+    "Companion default names",
+    "Other untranslated interface text"
+  ]
+}

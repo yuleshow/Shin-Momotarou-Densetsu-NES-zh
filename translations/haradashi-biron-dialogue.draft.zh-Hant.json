@@ -1,0 +1,37 @@
+{
+  "pointerOffset": "0x701a4",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "haradashi-biron-dialogue",
+  "decodedBytes": 1892,
+  "complete": false,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 32 source records reviewed. Translate 22 comprehensible records only; preserve original language-state records 13,15,17,19,23,24,25,29,30,31. Record 13 is romanized speech; the other nine use the original invented Biron script.",
+    "Preserve chief 大里's explanation of Satokichi's tail belief, feeding responses, both character-name fields in the tail-patting scene, and established 分福茶釜 terminology.",
+    "Future integration must keep all ten unselected source records intact. Preserve repeated tea-kettle hints and the separate location rumor at 鬼爪痕."
+  ],
+  "records": {
+    "0": "「哈啦呵囉嘻咧！」\n\n\n「我們在山明水秀的村子，\n安靜過日子就夠了！\n這個不需要，送你吧！」",
+    "1": "「哈啦呵囉嘻咧！」\n\n\n「在水源豐沛的地方，\n悠──閒──地，\n過日子才是最棒的！」",
+    "2": "「哈啦呵囉嘻咧！」\n\n\n「鬼族好可怕，\n我們已經，\n不敢去採芋頭了！」",
+    "3": "「哈啦呵囉嘻咧！」\n\n\n「快點教訓鬼族，\n讓我們能安心，\n採集山菜吧！」",
+    "4": "「哈啦呵囉嘻咧！」\n\n\n「成為[02a0]先生的同伴，\n是里吉，\n從小的夢想呀！」",
+    "5": "「哈啦呵囉嘻咧！」\n\n\n「里吉是個認真的孩子！\n[02a0]先生，拜託您，\n千萬別拋棄他呀！」",
+    "6": "「哈啦呵囉嘻咧！」\n\n\n「我就是這座村子的，\n村長大里！」\n\n「里吉以前總是，\n把討伐鬼族掛在嘴邊！」\n\n「不過呢！」\n\n\n「沒有蜥蜴尾巴，\n里吉恐怕也不肯跟你走吧！」\n\n「要成為[02a0]先生的同伴，\n就得有蜥蜴尾巴，\n他一直深信著呢！」",
+    "7": "「哈啦呵囉嘻咧！」\n\n\n「山藥就算生吃，\n也清脆爽口，\n非常好吃喔！」",
+    "8": "「比囉比囉！比隆！\n肚子餓，\n給點東西！」",
+    "9": "「比囉比囉！比隆！\n自己，找！」\n",
+    "10": "「比囉比囉！比隆！\n喜歡吃的，沒有！」\n",
+    "11": "「比囉比囉！比隆！\n這個，最喜歡！\n好高興！」\n比隆對著，\n[09]，\n用尾巴拍了拍！\n[09]的背脊，\n竄過一股涼意！\n",
+    "12": "「比囉比囉！比隆！\n這個，不喜歡！\n給別的！」",
+    "14": "「比囉比囉！比隆！\n肚子餓！」\n",
+    "16": "「比囉比囉！比隆！\n比隆，\n大家，兄弟！」",
+    "18": "「比囉比囉！比隆！」\n\n",
+    "20": "「比囉比囉！比隆！\n分福茶釜，\n非常稀奇！」",
+    "21": "「比囉比囉！比隆！\n分福茶釜，\n找到，好厲害！」",
+    "22": "「比囉比囉！比隆！\n分福茶釜，\n世上，只有一個！」",
+    "26": "「比囉比囉！比隆！」\n\n\n「分福茶釜，\n鬼爪痕那裡，\n有這個傳聞！」",
+    "27": "「比囉比囉！比隆！\n分福茶釜，\n找到，好厲害！」",
+    "28": "「比囉比囉！比隆！\n分福茶釜，\n世上，只有一個！」"
+  }
+}

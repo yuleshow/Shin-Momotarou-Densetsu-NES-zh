@@ -1,0 +1,26 @@
+{
+  "pointerOffset": "0x700d8",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "bathhouse-services",
+  "decodedBytes": 442,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All twelve original glyph records reviewed. Preserve the ten-ryo-per-person fee, both dynamic number fields, full HP/MP recovery notice and A-button exit instruction.",
+    "Use existing 露肚怪; retain the joke contrasting heavenly bathing comfort with a creature from hell. No bathing, payment or recovery behavior is changed."
+  ],
+  "records": {
+    "0": "「啊～泡澡真舒服啊！」\n\n",
+    "1": "[02a0]等人的體力與技力，\n完全恢復了！\n",
+    "2": "「[02a0]先生！差不多，\n該出發去討伐鬼族了吧？」",
+    "3": "「[02a0]先生！我要，\n把這事傳遍全都城喔！\n騙你的！騙你的！等著吧！」",
+    "4": "「來！加把勁，\n繼續討伐鬼族吧！」",
+    "5": "露肚怪最喜歡泡溫泉了！\n「啊～極樂極樂！」\n地獄的鬼，還說什麼極樂！\n\n差不多該回去了嗎？\n",
+    "6": "那麼，請慢慢享受吧！\n\n想要回去的時候，\n請按Ａ鈕！",
+    "7": "「大哥！大哥！\n錢可要好好付清喔！」\n",
+    "8": "「這裡是澡堂喔！\n每人１０兩，\n要不要洗去一身汗水啊？」",
+    "9": "「[02a0]先生！偶爾，\n也該消除一下旅途的疲勞！」\n",
+    "10": "「什麼嘛！什麼嘛！\n你沒帶錢啊！\n前天再來吧！」",
+    "11": "「[0a]人，[0a]兩\n慢慢泡暖身子吧！」\n"
+  }
+}

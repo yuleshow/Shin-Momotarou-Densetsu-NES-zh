@@ -1,0 +1,11 @@
+{
+  "version": "v63",
+  "baseDirectory": "verification/fixed-names-v62",
+  "manifest": "translations/moon-labels-v63.release.json",
+  "addedIndexedEntries": 3,
+  "drafts": [
+    "translations/common-status-labels-remaining.draft.zh-Hant.json"
+  ],
+  "status": "source-reviewed-pending-native-verification",
+  "scope": "Three lunar-phase labels only. Preserve phase order, other labels, name-entry byte mappings, existing names and save data."
+}

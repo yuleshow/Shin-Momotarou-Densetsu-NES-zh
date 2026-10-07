@@ -1,0 +1,11 @@
+{
+  "version": "v62",
+  "baseDirectory": "verification/residual-v61",
+  "manifest": "translations/fixed-names-v62.release.json",
+  "addedIndexedEntries": 2,
+  "drafts": [
+    "translations/character-labels-remaining.draft.zh-Hant.json"
+  ],
+  "status": "source-reviewed-pending-native-verification",
+  "scope": "Two fixed character labels only; player names, default animal labels and name-entry byte mappings are unchanged."
+}

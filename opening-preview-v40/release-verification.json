@@ -1,0 +1,58 @@
+{
+  "version": "v40",
+  "status": "deployed-readback-verified-checked-screenshots-removed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+  "addedRecordsSinceV39": 90,
+  "completeMoonRegionRecords": 66,
+  "inlineSumoLabels": 3,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 3042,
+    "untranslatedRecords": 4746,
+    "emptyRecords": 82
+  },
+  "glyphs": 2061,
+  "glyphCapacity": 2112,
+  "previousTranslationsPreserved": true,
+  "reviewedScreenshots": 51,
+  "verification": {
+    "nativeDialogueScenes": 124,
+    "exactWords": 285,
+    "allAddedRecordsTested": true,
+    "originalRelocationFramesIdentical": true,
+    "representativePreviewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNamesAndReadingsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "ipsRoundtripPassed": true
+  },
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v40",
+    "sha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+    "accessed": true,
+    "deviceWrites": true,
+    "screenshotsDeleted": 87,
+    "savesWritten": false,
+    "cheatsWritten": false,
+    "deploymentReport": "deployment-verification.json"
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "Every prior dialogue scene on this hash",
+    "Natural event branches and all dynamic names and values"
+  ],
+  "remainingJapanese": [
+    "4746 indexed records",
+    "Saved companion names",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph"
+  ]
+}

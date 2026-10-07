@@ -1,0 +1,9 @@
+{
+  "version": "v54",
+  "baseDirectory": "verification/field-menu-v53",
+  "manifest": "translations/formation-menu-v54.release.json",
+  "addedIndexedEntries": 0,
+  "status": "native-verified-scope-only-not-released",
+  "drafts": [],
+  "inlineMenuFiles": ["translations/formation-menu.json"]
+}

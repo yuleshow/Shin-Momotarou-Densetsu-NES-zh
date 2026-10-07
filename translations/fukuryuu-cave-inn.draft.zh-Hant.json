@@ -1,0 +1,24 @@
+{
+  "pointerOffset": "0x7017d",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "fukuryuu-cave-inn",
+  "decodedBytes": 616,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All ten original glyph records reviewed. Preserve southeast mountain cave, scattered animal companions, Yashahime's treatment and the rock-dropping hint for Raijin's cave.",
+    "The source explicitly names 伏龍 (ふくりゅう), distinct from other dragon/teacher names; no access or healing behavior is changed."
+  ],
+  "records": {
+    "0": "「伏龍是一條，\n自遙遠的古代起，\n便永遠伏在地底的龍啊！」\n「[02a0]！\n你能夠打開，\n伏龍的心扉嗎？」",
+    "1": "「[02a0]！被吹飛的，\n狗、猴子和雉雞，\n似乎就在前面的洞窟裡！」",
+    "2": "「啾啾！[02a0]先生！\n伏龍的洞窟，\n就在東南方的山間！」",
+    "3": "「啾啾！夜叉姬小姐！\n妳已經完全康復了呢！」\n\n「不不，不必道謝！\n是[02a0]等人的勇氣，\n救了夜叉姬小姐呀！」",
+    "4": "「啾啾！夜叉姬大人，\n就交給我們照顧吧！\n我們一定會盡心盡力！」",
+    "5": "「啾啾！真希望，\n被吹散的人們，\n都能早點平安找到呀！」",
+    "6": "「啾啾！龍鱗，\n可是能治百病的藥！\n一定會好起來的！」",
+    "7": "「啾啾！雷神洞窟裡，\n道路已經崩塌，\n或許找不到正確的路！」\n「如果讓岩石落下，\n也許就連人類，\n也能徒步繼續前進！」",
+    "8": "「那位姑娘的情況如何？\n什麼？要去伏龍洞窟？\n人類絕對不能去啊！」",
+    "9": "「雷神洞窟裡的商人，\n不知道還好嗎？他不逃走，\n留下幫助大家，真了不起呀！」"
+  }
+}

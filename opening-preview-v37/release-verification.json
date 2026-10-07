@@ -1,0 +1,51 @@
+{
+  "version": "v37",
+  "status": "deployed-readback-verified-checked-screenshots-removed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "b4f7d64a740ea2906c2fda9c949563a8fcf6dd236c647e567ca02367538f820c",
+  "correctedDialogueRecords": 2,
+  "addedIndexedRecords": 0,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2791,
+    "untranslatedRecords": 4997,
+    "emptyRecords": 82
+  },
+  "glyphs": 1968,
+  "glyphCapacity": 2112,
+  "canonicalLocations": 87,
+  "travelDestinations": 26,
+  "previousTranslationsOtherwisePreserved": true,
+  "verification": {
+    "nativeDialogueScenes": 89,
+    "exactWords": 95,
+    "nativeTravelMenuCases": 14,
+    "allLocationPreviewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "savedShopAndCavePassed": true,
+    "allEnemyNamesAndReadingsPassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v37",
+    "sha256": "b4f7d64a740ea2906c2fda9c949563a8fcf6dd236c647e567ca02367538f820c",
+    "accessed": true,
+    "deviceWrites": true,
+    "screenshotsDeleted": 16,
+    "savesWritten": false,
+    "deploymentReport": "deployment-verification.json"
+  },
+  "notVerified": [
+    "Every natural map transition",
+    "Every place-name occurrence in untranslated dialogue",
+    "Player-customized name values",
+    "Physical-device boot",
+    "Full playthrough",
+    "All prior dialogue suites on this exact ROM"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": "v31",
+  "status": "deployed-readback-verified-checked-screenshots-removed",
+  "targetSha256": "e77a840dad9dfe290e7b723a407e6ea806c399d4273392013f56f9e010d79168",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV30": 39,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2299,
+    "untranslatedRecords": 5489,
+    "emptyRecords": 82
+  },
+  "glyphs": 1798,
+  "glyphCapacity": 2112,
+  "newRecords": {
+    "rokkakuVillage": 7,
+    "ooeyamaPuzzles": 11,
+    "trainingReactions": 15,
+    "trainingResultsAndReply": 3,
+    "swordSharpness": 1,
+    "locations": 2
+  },
+  "maximumLines": {
+    "rokkaku-village": 12,
+    "ooeyama-puzzles": 14
+  },
+  "allocation": {
+    "rokkakuVillage": "0x3d5800",
+    "ooeyamaPuzzles": "0x3a0000",
+    "relocatedGoldenBuddha": "0x3df980"
+  },
+  "verification": {
+    "nativeDialogueScenes": 132,
+    "exactWords": 219,
+    "originalRelocationFramesIdentical": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNameRegressionsPassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "previewsVisuallyReviewed": true
+  },
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v31",
+    "sha256": "e77a840dad9dfe290e7b723a407e6ea806c399d4273392013f56f9e010d79168",
+    "deviceWrites": true,
+    "screenshotsDeleted": 16,
+    "savesWritten": false,
+    "deploymentReport": "deployment-verification.json"
+  },
+  "notVerified": [
+    "Natural village and cave event progression",
+    "Actual puzzle solutions",
+    "Full playthrough",
+    "Physical-device boot",
+    "All earlier dialogue suites on this exact hash"
+  ],
+  "remainingJapanese": [
+    "Other untranslated indexed dialogue and locations",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph",
+    "Other untranslated interface text"
+  ]
+}

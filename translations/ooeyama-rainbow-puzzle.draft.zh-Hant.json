@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x701ec",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ooeyama-rainbow-puzzle",
+  "target": "0x2cd000",
+  "decodedBytes": 327,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "迦樓羅\n「嘿嘿嘿！真沒想到，\n你竟然能來到這裡！」\n「看來你的智慧，\n已經足以讓人放心，\n把一座村莊交給你了！」\n「那麼，這就是\n最後一道謎題！」\n\n「重新排列前面的岩石！\n移動的順序，\n要按照彩虹的顏色！」\n「沒錯！你們的心願，\n就要化作彩虹消失了！\n嘿嘿嘿！嘿嘿嘿！」",
+    "1": "[02a0]調查了石板！\n\n\n[02a0]讀起石板上的文字！\n\n\n懸掛天際的七色彩虹，\n依照它所指示的顏色，\n排列剩餘的五顆玉！\n如此，道路便會敞開！\n\n"
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "targetSha256": "89b125b1686987985782f673cca0ac20038eeb495bbbf3631060a6cba85f1852",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "無聲洞窟": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 0,
+      "frames": 10200,
+      "changedFrames": 154,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "天賊鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "武藝高強": {
+          "frame": "frame-1320.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "替猴子當保母": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "這座洞窟送給我": {
+          "frame": "frame-1800.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "活動筋骨": {
+          "frame": "frame-2220.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我好想見你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我是猴子": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "陪你一起旅行": {
+          "frame": "frame-1560.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "把黍糰": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "交給了猴子": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "請給我一個黍糰": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生真小氣": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 5,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "老天保佑": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "這個給您": {
+          "frame": "frame-1440.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好好懲治": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 7,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "剛才聽到的叫聲": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "盡一份心力": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "讓它派上用場": {
+          "frame": "frame-1560.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "soundless-cave",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "都能安心旅行": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "cave-route-hints",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "提起什麼水牢": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "牆壁怎麼樣": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "幫上您的忙": {
+          "frame": "frame-1500.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "cave-route-hints",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "請在旅途中": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "好好利用": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "cave-route-hints",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "穿過無聲洞窟": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "三間仙人庵": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "花咲村洞窟": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "花咲村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滾飯糰洞": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飯糰村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館一號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館二號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館三號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館四號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館五號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館六號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館七號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "松葉山": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 65,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "稻妻仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "soundless-cave",
+    "cave-route-hints",
+    "screenshot-locations"
+  ]
+}

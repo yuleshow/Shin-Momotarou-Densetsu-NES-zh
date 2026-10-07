@@ -1,0 +1,21 @@
+{
+  "pointerOffset": "0x700c3",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "kimono-dye-shop",
+  "decodedBytes": 246,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All seven original glyph records reviewed; preserve the 300 ryo price, character-name fields and all trailing newlines.",
+    "Only dialogue is translated; character selection, color choices and dyeing mechanics are unchanged."
+  ],
+  "records": {
+    "0": "「歡迎光臨！\n歡迎來到染衣店！」\n\n「每次只要３００兩，\n就能將衣服染成，\n您喜歡的顏色！」",
+    "1": "「您的錢不夠喔！\n去討伐鬼族賺些錢，\n再來吧，[02a0]先生！」",
+    "2": "「要替哪位客人的衣服，\n重新染色呢？」\n",
+    "3": "「要染成什麼顏色呢？」\n\n",
+    "4": "「那麼，[09]，\n請到這邊來！」\n",
+    "5": "「好了！已經，\n染得漂漂亮亮了！」\n\n「[09]！\n這顏色很適合您呢！」\n",
+    "6": "「歡迎再次光臨！」\n\n"
+  }
+}

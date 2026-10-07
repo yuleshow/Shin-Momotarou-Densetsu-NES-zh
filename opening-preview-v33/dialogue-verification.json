@@ -1,0 +1,731 @@
+{
+  "targetSha256": "bc3f8dfc9ededf9961d3d6bac28e7fd84e83acb3a59e78bfafa20555848e6bb8",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "老夫是天之仙人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "有件事要告訴你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 1,
+      "frames": 13800,
+      "changedFrames": 212,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之水晶": {
+          "frame": "frame-1080.ppm",
+          "x": 140,
+          "y": 80
+        },
+        "八顆": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "也就是": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "新月": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "三日月": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "上弦": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "下弦": {
+          "frame": "frame-1860.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "臥待": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "居待": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "十六夜": {
+          "frame": "frame-2100.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "滿月": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鬼族都不知道的力量": {
+          "frame": "frame-2520.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還想再聽一次": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "月之水晶": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一面鏡子": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "八顆水晶的所在": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "變成老爺爺": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "比我還慢": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這個給你": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "討伐惡鬼要加油": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 7,
+      "frames": 4200,
+      "changedFrames": 53,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腰痛得很": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "瀑布竟然停了": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "其他村的人": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 8,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "武器也弱": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "認真努力": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "討伐惡鬼結束": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "什麼都別說": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "帶上吧": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "祈求你們平安": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "神明": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救出都城": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "往南是浦島村": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "多來打聽": {
+          "frame": "frame-1500.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "往南是浦島村": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "多來打聽": {
+          "frame": "frame-1500.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "山勢險峻": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "記熟山路": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "趁浦島先生不在": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "下手了": {
+          "frame": "frame-1200.ppm",
+          "x": 116,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 4,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍宮城": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "更狡猾": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不熟悉山路": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "慢慢記住山路": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 6,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "北方的橋": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "邀浦島先生同行": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你在找水晶": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "沒見過": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 8,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "長著翅膀的鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "麻雀朋友們": {
+          "frame": "frame-1500.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 9,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "設置機關": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "好像是猜拳": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 10,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島剛才": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "天之仙人": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "一臉凶相": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "果然被騙": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "太老實": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大江山對吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "這個帶著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力不夠": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "沒問題": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島村有個": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "請小心": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "變成老爺爺": {
+          "frame": "frame-1140.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "打了一場": {
+          "frame": "frame-1200.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 16,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "世界說不定": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "囉哩囉唆": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "男子氣概": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "光說不練": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 18,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迎面卻又是雪國": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "築起堡壘": {
+          "frame": "frame-1440.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 19,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "憑我的腦袋": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "辦不到": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 20,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "路上小心": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "一路順風": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 21,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "避鬼仙人庵": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "群山環繞": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-crossroads",
+      "firstIndex": 22,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "天之仙人的塔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "半島的盡頭": {
+          "frame": "frame-1500.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "moon-crystal-guidance",
+    "sparrow-inn-crossroads"
+  ]
+}

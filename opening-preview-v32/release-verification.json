@@ -1,0 +1,66 @@
+{
+  "version": "v32",
+  "status": "locally-verified-not-deployed",
+  "targetSha256": "28d5335ee49d67ad0aa2e6ae5c11d86787cad004d784ffa41e5c5f2e40540aab",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV31": 159,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2458,
+    "untranslatedRecords": 5330,
+    "emptyRecords": 82
+  },
+  "glyphs": 1825,
+  "glyphCapacity": 2112,
+  "newRecords": {
+    "spellDescriptionsAndMessages": 107,
+    "locations": 52
+  },
+  "completedGroups": {
+    "spellRecordsWithWording": 127,
+    "controlOnlySpellRecordsPreserved": [
+      1,
+      3
+    ],
+    "locations": 87
+  },
+  "allocation": {
+    "spellMessages": "0x3d8000",
+    "locations": "0x3d9800"
+  },
+  "verification": {
+    "nativeDialogueScenes": 214,
+    "exactWords": 307,
+    "literalNumbersInNewSpellsPreserved": true,
+    "previousSpellTranslationsUnchanged": true,
+    "originalRelocationFramesIdentical": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNameRegressionsPassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "previewsVisuallyReviewed": true
+  },
+  "device": {
+    "deployed": false,
+    "lastVerifiedVersion": "v31",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Every spell in its natural battle or field context",
+    "Every location title in natural progression",
+    "Full playthrough",
+    "Physical-device boot",
+    "All earlier dialogue suites on this exact hash"
+  ],
+  "remainingJapanese": [
+    "Other untranslated dialogue",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph",
+    "Other untranslated interface text"
+  ]
+}

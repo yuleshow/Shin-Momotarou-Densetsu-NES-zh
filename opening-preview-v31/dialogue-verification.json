@@ -1,0 +1,2299 @@
+{
+  "targetSha256": "e77a840dad9dfe290e7b723a407e6ea806c399d4273392013f56f9e010d79168",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "足柄山": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "無聲洞窟": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "疏於向仙人修行": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "金太郎村東北方": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "解毒仙人庵": {
+          "frame": "frame-1380.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "正等著您": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "戒掉最愛的將棋": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "鹿角之術": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 2,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "梅木杖": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "不可思議的力量": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "梅花真香": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "跑哪去了": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "白蝴蝶翩翩飛舞": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "老頭子": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "梅樹很漂亮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "驅除邪氣": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "討些梅乾": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "對身體很好": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 0,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族設下的陷阱": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "三個人與三隻夥伴": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "平安穿越大江山": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "通往二樓": {
+          "frame": "frame-1980.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只能幫到這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "保佑你們平安": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 2,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "尚未完成的事情": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "切莫心急": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "再回到這裡": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 3,
+      "frames": 23400,
+      "changedFrames": 374,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "當作敵人對待": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "連小孩都會玩": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就會出現新的樓梯": {
+          "frame": "frame-2460.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "配對文字": {
+          "frame": "frame-3000.ppm",
+          "x": 128,
+          "y": 112
+        },
+        "翻開兩塊石板": {
+          "frame": "frame-3240.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "還想再聽一次": {
+          "frame": "frame-3660.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 4,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我們之間的較量": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "愚蠢的生物": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還在逞強": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "都不會告訴你": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 6,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了石板": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "配對相同的文字": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "消除所有石板": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 7,
+      "frames": 11400,
+      "changedFrames": 174,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "小試身手": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "龍勝虎": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 88
+        },
+        "虎勝龜": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "龜勝龍": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "還想知道更多": {
+          "frame": "frame-2280.ppm",
+          "x": 44,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "誰要告訴你": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乖乖回答想知道": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 10,
+      "frames": 13800,
+      "changedFrames": 214,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍為水": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "龜為風": {
+          "frame": "frame-1560.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "火能喚起風": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "風能聚集水": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "逐一移動藍色石板": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "花咲村洞窟": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "花咲村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滾飯糰洞": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飯糰村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館一號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館二號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館三號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館四號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館五號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館六號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館七號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "松葉山": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 65,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "稻妻仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啟程村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 7,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "微笑村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "希望之都": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 36,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猴蟹村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 38,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竹取村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 41,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寧靜村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 42,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "豐饒村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 43,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之宮殿": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 44,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風暴村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 45,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼島": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 57,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "七夕村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 58,
+      "frames": 1620,
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夢之村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 61,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "新村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 83,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "機關村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 48,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "刀變得更加鋒利": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 247,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "漂亮地拿下一分": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 248,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鹿角之術有多厲害": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鹿角啊啊啊啊": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 249,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "漂亮地拿下一分": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 216,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "別忘了這份光芒": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 217,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "連老夫都吃不消": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 218,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這小子進步得真快": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 219,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "完全打不中": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 220,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竟然也能走到這裡": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 221,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "打鬼可不是鬧著玩的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 222,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恐怕辦不到": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 223,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "居然越來越強": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 224,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一點也不見衰弱": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 225,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "真是一副堅毅的神情": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 226,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "都願意跟隨你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 227,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只顧著看自己的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 228,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "可是不斷在恢復": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 229,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "老夫也得加把勁": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 230,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你還是稍微休息一下": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鹿角之里": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 66,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鹿角仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好漂亮的黃金佛像": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "什麼也沒發生": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "現在無法使用": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "無法出聲的詛咒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不能施展法術": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身受重傷": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "不能施展法術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "消耗": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "少量回復一位夥伴的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大量回復一位夥伴的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "完全回復一位夥伴的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "少量回復全體夥伴的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大量回復全體夥伴的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "完全回復全體夥伴的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "逐漸回復全體夥伴的體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "香氣包圍了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 19,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "治好一位夥伴的重傷": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "體力回復至上限的一半": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 20,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "什麼也沒發生": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 21,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "站起來了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復了意識": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "spell-messages",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "解除一位夥伴的中毒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發動攻擊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鋼鐵身軀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "打擊加倍反彈": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼道吸收術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被吸走了一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "縮小了": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "攻擊力恢復原狀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "防禦力恢復原狀": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "熊熊怒火": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 7,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力變成兩倍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "防禦力變成兩倍": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出蜘蛛絲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "武器": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "黏稠的蜘蛛絲纏住了": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出蜘蛛絲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "耀眼的光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "詭異的光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 13,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "互相交換了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼道解咒術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 214,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "本大爺": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "實力相差太遠了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要施展哪種術": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就讓你來選吧": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 215,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "選的是": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "接招吧": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "背後的佛像": {
+          "frame": "frame-1380.ppm",
+          "x": 64,
+          "y": 112
+        },
+        "不少錢": {
+          "frame": "frame-1740.ppm",
+          "x": 64,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 1,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "天之仙人": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不客氣": {
+          "frame": "frame-1440.ppm",
+          "x": 136,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "阿修羅": {
+          "frame": "frame-1080.ppm",
+          "x": 100,
+          "y": 96
+        },
+        "千萬不能輸": {
+          "frame": "frame-1140.ppm",
+          "x": 40,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "得到了黃金佛像": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 225,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吸走了": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "達伊達": {
+          "frame": "frame-2520.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "擊飛了": {
+          "frame": "frame-3300.ppm",
+          "x": 28,
+          "y": 168
+        },
+        "阿闍世": {
+          "frame": "frame-6720.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "夜叉姬": {
+          "frame": "frame-7560.ppm",
+          "x": 16,
+          "y": 152
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 236,
+      "frames": 7800,
+      "changedFrames": 114,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "閻魔大人": {
+          "frame": "frame-1920.ppm",
+          "x": 38,
+          "y": 112
+        },
+        "同伴關係": {
+          "frame": "frame-2700.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 126,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "羅生門": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "同伴的力量": {
+          "frame": "frame-3240.ppm",
+          "x": 52,
+          "y": 184
+        },
+        "蘆葦": {
+          "frame": "frame-3840.ppm",
+          "x": 100,
+          "y": 184
+        },
+        "真正的強大": {
+          "frame": "frame-7440.ppm",
+          "x": 98,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 138,
+      "frames": 12000,
+      "changedFrames": 183,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "左魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "身為鬼的尊嚴": {
+          "frame": "frame-6300.ppm",
+          "x": 28,
+          "y": 184
+        },
+        "永世長存": {
+          "frame": "frame-6720.ppm",
+          "x": 40,
+          "y": 184
+        },
+        "月亮之王": {
+          "frame": "frame-6900.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "地獄之王": {
+          "frame": "frame-7260.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "大地之王": {
+          "frame": "frame-8340.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "天上之王": {
+          "frame": "frame-8580.ppm",
+          "x": 70,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 152,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腳越來越硬": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "村民的聲音": {
+          "frame": "frame-1740.ppm",
+          "x": 82,
+          "y": 168
+        },
+        "強烈的怨恨": {
+          "frame": "frame-1800.ppm",
+          "x": 64,
+          "y": 184
+        },
+        "達伊達": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 184
+        },
+        "別再叫了": {
+          "frame": "frame-2760.ppm",
+          "x": 16,
+          "y": 184
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 201,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎麼回事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "腰勢": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 202,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "刀揮得這麼慢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "蒼蠅": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 203,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一點力氣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "黍糰": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 204,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這點身手": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "惡鬼打倒": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 205,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "手臂揮動": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "越來越快": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 206,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "進步不少": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 207,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "剛才那一擊": {
+          "frame": "frame-1080.ppm",
+          "x": 38,
+          "y": 80
+        },
+        "真夠勁": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 208,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就是這樣": {
+          "frame": "frame-1020.ppm",
+          "x": 38,
+          "y": 80
+        },
+        "哇哈哈": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 209,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "差不多": {
+          "frame": "frame-1080.ppm",
+          "x": 74,
+          "y": 80
+        },
+        "認真上了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 210,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "依賴術法": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "打不贏": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 211,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "消滅惡鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "懲治牠們": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 212,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "了解對手": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "找到出路": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 213,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "冷靜": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "辦不成": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 214,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這一招": {
+          "frame": "frame-1080.ppm",
+          "x": 74,
+          "y": 80
+        },
+        "承受得住": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 215,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就是這樣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "rokkaku-village",
+    "ooeyama-puzzles",
+    "golden-buddha",
+    "screenshot-locations",
+    "prince-and-karura-dialogue",
+    "boss-battle-dialogue",
+    "spell-messages"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pointerOffset": "0x70258",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "urashima-fushimachi-crystal",
+  "decodedBytes": 71,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "竟、竟然！\n浦島抓住了水晶！\n\n「這是月之水晶的其中一顆！\n是臥待水晶啊！」\n"
+  }
+}

@@ -1,0 +1,3907 @@
+{
+  "status": "partial-menu-and-complete-opening-text-block",
+  "romFilename": "opening-zh-Hant.sfc",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "4f1652a1f2f54693eaa27ddc14f7549339d7eebb391c2ab5d9c83d8823d45d93",
+  "fontSha256": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4",
+  "font": "momotaro-NotoSansCJKtc-Regular.otf",
+  "glyphs": [
+    {
+      "character": "無",
+      "code": "1bc0"
+    },
+    {
+      "character": "存",
+      "code": "1bc1"
+    },
+    {
+      "character": "檔",
+      "code": "1bc2"
+    },
+    {
+      "character": "繼",
+      "code": "1bc3"
+    },
+    {
+      "character": "續",
+      "code": "1bc4"
+    },
+    {
+      "character": "開",
+      "code": "1bc5"
+    },
+    {
+      "character": "始",
+      "code": "1bc6"
+    },
+    {
+      "character": "複",
+      "code": "1bc7"
+    },
+    {
+      "character": "製",
+      "code": "1bc8"
+    },
+    {
+      "character": "刪",
+      "code": "1bc9"
+    },
+    {
+      "character": "除",
+      "code": "1bca"
+    },
+    {
+      "character": "在",
+      "code": "1bcb"
+    },
+    {
+      "character": "鬼",
+      "code": "1bcc"
+    },
+    {
+      "character": "島",
+      "code": "1bcd"
+    },
+    {
+      "character": "懲",
+      "code": "1bce"
+    },
+    {
+      "character": "治",
+      "code": "1bcf"
+    },
+    {
+      "character": "閻",
+      "code": "1bd0"
+    },
+    {
+      "character": "魔",
+      "code": "1bd1"
+    },
+    {
+      "character": "後",
+      "code": "1bd2"
+    },
+    {
+      "character": "，",
+      "code": "1bd3"
+    },
+    {
+      "character": "已",
+      "code": "1bd4"
+    },
+    {
+      "character": "經",
+      "code": "1bd5"
+    },
+    {
+      "character": "過",
+      "code": "1bd6"
+    },
+    {
+      "character": "了",
+      "code": "1bd7"
+    },
+    {
+      "character": "六",
+      "code": "1bd8"
+    },
+    {
+      "character": "年",
+      "code": "1bd9"
+    },
+    {
+      "character": "…",
+      "code": "1bda"
+    },
+    {
+      "character": "迦",
+      "code": "1bdb"
+    },
+    {
+      "character": "樓",
+      "code": "1bdc"
+    },
+    {
+      "character": "羅",
+      "code": "1bdd"
+    },
+    {
+      "character": "嘿",
+      "code": "1bde"
+    },
+    {
+      "character": "伐",
+      "code": "1bdf"
+    },
+    {
+      "character": "折",
+      "code": "1be0"
+    },
+    {
+      "character": "王",
+      "code": "1be1"
+    },
+    {
+      "character": "大",
+      "code": "1be2"
+    },
+    {
+      "character": "人",
+      "code": "1be3"
+    },
+    {
+      "character": "請",
+      "code": "1be4"
+    },
+    {
+      "character": "看",
+      "code": "1be5"
+    },
+    {
+      "character": "我",
+      "code": "1be6"
+    },
+    {
+      "character": "的",
+      "code": "1be7"
+    },
+    {
+      "character": "面",
+      "code": "1be8"
+    },
+    {
+      "character": "子",
+      "code": "1be9"
+    },
+    {
+      "character": "上",
+      "code": "1bea"
+    },
+    {
+      "character": "饒",
+      "code": "1beb"
+    },
+    {
+      "character": "恕",
+      "code": "1bec"
+    },
+    {
+      "character": "吧",
+      "code": "1bed"
+    },
+    {
+      "character": "說",
+      "code": "1bee"
+    },
+    {
+      "character": "什",
+      "code": "1bef"
+    },
+    {
+      "character": "麼",
+      "code": "1bf0"
+    },
+    {
+      "character": "愛",
+      "code": "1bf1"
+    },
+    {
+      "character": "呀",
+      "code": "1bf2"
+    },
+    {
+      "character": "友",
+      "code": "1bf3"
+    },
+    {
+      "character": "情",
+      "code": "1bf4"
+    },
+    {
+      "character": "雖",
+      "code": "1bf5"
+    },
+    {
+      "character": "然",
+      "code": "1bf6"
+    },
+    {
+      "character": "他",
+      "code": "1bf7"
+    },
+    {
+      "character": "四",
+      "code": "1bf8"
+    },
+    {
+      "character": "處",
+      "code": "1bf9"
+    },
+    {
+      "character": "宣",
+      "code": "1bfa"
+    },
+    {
+      "character": "揚",
+      "code": "1bfb"
+    },
+    {
+      "character": "那",
+      "code": "1bfc"
+    },
+    {
+      "character": "些",
+      "code": "1bfd"
+    },
+    {
+      "character": "莫",
+      "code": "1bfe"
+    },
+    {
+      "character": "名",
+      "code": "1bff"
+    },
+    {
+      "character": "其",
+      "code": "1c00"
+    },
+    {
+      "character": "妙",
+      "code": "1c01"
+    },
+    {
+      "character": "話",
+      "code": "1c02"
+    },
+    {
+      "character": "可",
+      "code": "1c03"
+    },
+    {
+      "character": "是",
+      "code": "1c04"
+    },
+    {
+      "character": "創",
+      "code": "1c05"
+    },
+    {
+      "character": "造",
+      "code": "1c06"
+    },
+    {
+      "character": "族",
+      "code": "1c07"
+    },
+    {
+      "character": "今",
+      "code": "1c08"
+    },
+    {
+      "character": "日",
+      "code": "1c09"
+    },
+    {
+      "character": "榮",
+      "code": "1c0a"
+    },
+    {
+      "character": "景",
+      "code": "1c0b"
+    },
+    {
+      "character": "啊",
+      "code": "1c0c"
+    },
+    {
+      "character": "懇",
+      "code": "1c0d"
+    },
+    {
+      "character": "您",
+      "code": "1c0e"
+    },
+    {
+      "character": "前",
+      "code": "1c0f"
+    },
+    {
+      "character": "並",
+      "code": "1c10"
+    },
+    {
+      "character": "沒",
+      "code": "1c11"
+    },
+    {
+      "character": "有",
+      "code": "1c12"
+    },
+    {
+      "character": "追",
+      "code": "1c13"
+    },
+    {
+      "character": "究",
+      "code": "1c14"
+    },
+    {
+      "character": "你",
+      "code": "1c15"
+    },
+    {
+      "character": "罪",
+      "code": "1c16"
+    },
+    {
+      "character": "責",
+      "code": "1c17"
+    },
+    {
+      "character": "因",
+      "code": "1c18"
+    },
+    {
+      "character": "為",
+      "code": "1c19"
+    },
+    {
+      "character": "曾",
+      "code": "1c1a"
+    },
+    {
+      "character": "堂",
+      "code": "1c1b"
+    },
+    {
+      "character": "正",
+      "code": "1c1c"
+    },
+    {
+      "character": "地",
+      "code": "1c1d"
+    },
+    {
+      "character": "與",
+      "code": "1c1e"
+    },
+    {
+      "character": "個",
+      "code": "1c1f"
+    },
+    {
+      "character": "一",
+      "code": "1c20"
+    },
+    {
+      "character": "戰",
+      "code": "1c21"
+    },
+    {
+      "character": "之",
+      "code": "1c22"
+    },
+    {
+      "character": "呢",
+      "code": "1c23"
+    },
+    {
+      "character": "又",
+      "code": "1c24"
+    },
+    {
+      "character": "做",
+      "code": "1c25"
+    },
+    {
+      "character": "夠",
+      "code": "1c26"
+    },
+    {
+      "character": "要",
+      "code": "1c27"
+    },
+    {
+      "character": "對",
+      "code": "1c28"
+    },
+    {
+      "character": "嗎",
+      "code": "1c29"
+    },
+    {
+      "character": "既",
+      "code": "1c2a"
+    },
+    {
+      "character": "命",
+      "code": "1c2b"
+    },
+    {
+      "character": "令",
+      "code": "1c2c"
+    },
+    {
+      "character": "任",
+      "code": "1c2d"
+    },
+    {
+      "character": "何",
+      "code": "1c2e"
+    },
+    {
+      "character": "罰",
+      "code": "1c2f"
+    },
+    {
+      "character": "都",
+      "code": "1c30"
+    },
+    {
+      "character": "甘",
+      "code": "1c31"
+    },
+    {
+      "character": "願",
+      "code": "1c32"
+    },
+    {
+      "character": "承",
+      "code": "1c33"
+    },
+    {
+      "character": "受",
+      "code": "1c34"
+    },
+    {
+      "character": "很",
+      "code": "1c35"
+    },
+    {
+      "character": "好",
+      "code": "1c36"
+    },
+    {
+      "character": "還",
+      "code": "1c37"
+    },
+    {
+      "character": "樣",
+      "code": "1c38"
+    },
+    {
+      "character": "乾",
+      "code": "1c39"
+    },
+    {
+      "character": "脆",
+      "code": "1c3a"
+    },
+    {
+      "character": "回",
+      "code": "1c3b"
+    },
+    {
+      "character": "來",
+      "code": "1c3c"
+    },
+    {
+      "character": "月",
+      "code": "1c3d"
+    },
+    {
+      "character": "亮",
+      "code": "1c3e"
+    },
+    {
+      "character": "輝",
+      "code": "1c3f"
+    },
+    {
+      "character": "夜",
+      "code": "1c40"
+    },
+    {
+      "character": "姬",
+      "code": "1c41"
+    },
+    {
+      "character": "也",
+      "code": "1c42"
+    },
+    {
+      "character": "差",
+      "code": "1c43"
+    },
+    {
+      "character": "不",
+      "code": "1c44"
+    },
+    {
+      "character": "多",
+      "code": "1c45"
+    },
+    {
+      "character": "該",
+      "code": "1c46"
+    },
+    {
+      "character": "理",
+      "code": "1c47"
+    },
+    {
+      "character": "若",
+      "code": "1c48"
+    },
+    {
+      "character": "放",
+      "code": "1c49"
+    },
+    {
+      "character": "宮",
+      "code": "1c4a"
+    },
+    {
+      "character": "管",
+      "code": "1c4b"
+    },
+    {
+      "character": "豈",
+      "code": "1c4c"
+    },
+    {
+      "character": "非",
+      "code": "1c4d"
+    },
+    {
+      "character": "心",
+      "code": "1c4e"
+    },
+    {
+      "character": "腹",
+      "code": "1c4f"
+    },
+    {
+      "character": "患",
+      "code": "1c50"
+    },
+    {
+      "character": "必",
+      "code": "1c51"
+    },
+    {
+      "character": "須",
+      "code": "1c52"
+    },
+    {
+      "character": "採",
+      "code": "1c53"
+    },
+    {
+      "character": "取",
+      "code": "1c54"
+    },
+    {
+      "character": "行",
+      "code": "1c55"
+    },
+    {
+      "character": "動",
+      "code": "1c56"
+    },
+    {
+      "character": "到",
+      "code": "1c57"
+    },
+    {
+      "character": "去",
+      "code": "1c58"
+    },
+    {
+      "character": "把",
+      "code": "1c59"
+    },
+    {
+      "character": "兒",
+      "code": "1c5a"
+    },
+    {
+      "character": "達",
+      "code": "1c5b"
+    },
+    {
+      "character": "伊",
+      "code": "1c5c"
+    },
+    {
+      "character": "同",
+      "code": "1c5d"
+    },
+    {
+      "character": "帶",
+      "code": "1c5e"
+    },
+    {
+      "character": "遵",
+      "code": "1c5f"
+    },
+    {
+      "character": "就",
+      "code": "1c60"
+    },
+    {
+      "character": "這",
+      "code": "1c61"
+    },
+    {
+      "character": "居",
+      "code": "1c62"
+    },
+    {
+      "character": "住",
+      "code": "1c63"
+    },
+    {
+      "character": "遭",
+      "code": "1c64"
+    },
+    {
+      "character": "掌",
+      "code": "1c65"
+    },
+    {
+      "character": "威",
+      "code": "1c66"
+    },
+    {
+      "character": "脅",
+      "code": "1c67"
+    },
+    {
+      "character": "接",
+      "code": "1c68"
+    },
+    {
+      "character": "消",
+      "code": "1c69"
+    },
+    {
+      "character": "息",
+      "code": "1c6a"
+    },
+    {
+      "character": "跳",
+      "code": "1c6b"
+    },
+    {
+      "character": "自",
+      "code": "1c6c"
+    },
+    {
+      "character": "牛",
+      "code": "1c6d"
+    },
+    {
+      "character": "車",
+      "code": "1c6e"
+    },
+    {
+      "character": "朝",
+      "code": "1c6f"
+    },
+    {
+      "character": "趕",
+      "code": "1c70"
+    },
+    {
+      "character": "全",
+      "code": "1c71"
+    },
+    {
+      "character": "新",
+      "code": "1c72"
+    },
+    {
+      "character": "傳",
+      "code": "1c73"
+    },
+    {
+      "character": "此",
+      "code": "1c74"
+    },
+    {
+      "character": "展",
+      "code": "1c75"
+    },
+    {
+      "character": "村",
+      "code": "1c76"
+    },
+    {
+      "character": "喂",
+      "code": "1c77"
+    },
+    {
+      "character": "倒",
+      "code": "1c78"
+    },
+    {
+      "character": "裡",
+      "code": "1c79"
+    },
+    {
+      "character": "怎",
+      "code": "1c7a"
+    },
+    {
+      "character": "傷",
+      "code": "1c7b"
+    },
+    {
+      "character": "痕",
+      "code": "1c7c"
+    },
+    {
+      "character": "累",
+      "code": "1c7d"
+    },
+    {
+      "character": "得",
+      "code": "1c7e"
+    },
+    {
+      "character": "啦",
+      "code": "1c7f"
+    },
+    {
+      "character": "緊",
+      "code": "1c80"
+    },
+    {
+      "character": "抬",
+      "code": "1c81"
+    },
+    {
+      "character": "身",
+      "code": "1c82"
+    },
+    {
+      "character": "手",
+      "code": "1c83"
+    },
+    {
+      "character": "更",
+      "code": "1c84"
+    },
+    {
+      "character": "層",
+      "code": "1c85"
+    },
+    {
+      "character": "如",
+      "code": "1c86"
+    },
+    {
+      "character": "真",
+      "code": "1c87"
+    },
+    {
+      "character": "想",
+      "code": "1c88"
+    },
+    {
+      "character": "竟",
+      "code": "1c89"
+    },
+    {
+      "character": "會",
+      "code": "1c8a"
+    },
+    {
+      "character": "敗",
+      "code": "1c8b"
+    },
+    {
+      "character": "給",
+      "code": "1c8c"
+    },
+    {
+      "character": "小",
+      "code": "1c8d"
+    },
+    {
+      "character": "孩",
+      "code": "1c8e"
+    },
+    {
+      "character": "從",
+      "code": "1c8f"
+    },
+    {
+      "character": "哪",
+      "code": "1c90"
+    },
+    {
+      "character": "股",
+      "code": "1c91"
+    },
+    {
+      "character": "力",
+      "code": "1c92"
+    },
+    {
+      "character": "量",
+      "code": "1c93"
+    },
+    {
+      "character": "罷",
+      "code": "1c94"
+    },
+    {
+      "character": "公",
+      "code": "1c95"
+    },
+    {
+      "character": "主",
+      "code": "1c96"
+    },
+    {
+      "character": "聽",
+      "code": "1c97"
+    },
+    {
+      "character": "們",
+      "code": "1c98"
+    },
+    {
+      "character": "當",
+      "code": "1c99"
+    },
+    {
+      "character": "成",
+      "code": "1c9a"
+    },
+    {
+      "character": "神",
+      "code": "1c9b"
+    },
+    {
+      "character": "深",
+      "code": "1c9c"
+    },
+    {
+      "character": "信",
+      "code": "1c9d"
+    },
+    {
+      "character": "疑",
+      "code": "1c9e"
+    },
+    {
+      "character": "所",
+      "code": "1c9f"
+    },
+    {
+      "character": "用",
+      "code": "1ca0"
+    },
+    {
+      "character": "以",
+      "code": "1ca1"
+    },
+    {
+      "character": "慢",
+      "code": "1ca2"
+    },
+    {
+      "character": "交",
+      "code": "1ca3"
+    },
+    {
+      "character": "談",
+      "code": "1ca4"
+    },
+    {
+      "character": "道",
+      "code": "1ca5"
+    },
+    {
+      "character": "具",
+      "code": "1ca6"
+    },
+    {
+      "character": "術",
+      "code": "1ca7"
+    },
+    {
+      "character": "裝",
+      "code": "1ca8"
+    },
+    {
+      "character": "備",
+      "code": "1ca9"
+    },
+    {
+      "character": "能",
+      "code": "1caa"
+    },
+    {
+      "character": "調",
+      "code": "1cab"
+    },
+    {
+      "character": "查",
+      "code": "1cac"
+    },
+    {
+      "character": "特",
+      "code": "1cad"
+    },
+    {
+      "character": "別",
+      "code": "1cae"
+    },
+    {
+      "character": "語",
+      "code": "1caf"
+    },
+    {
+      "character": "速",
+      "code": "1cb0"
+    },
+    {
+      "character": "隊",
+      "code": "1cb1"
+    },
+    {
+      "character": "列",
+      "code": "1cb2"
+    },
+    {
+      "character": "步",
+      "code": "1cb3"
+    },
+    {
+      "character": "飛",
+      "code": "1cb4"
+    },
+    {
+      "character": "音",
+      "code": "1cb5"
+    },
+    {
+      "character": "樂",
+      "code": "1cb6"
+    },
+    {
+      "character": "度",
+      "code": "1cb7"
+    },
+    {
+      "character": "快",
+      "code": "1cb8"
+    },
+    {
+      "character": "普",
+      "code": "1cb9"
+    },
+    {
+      "character": "通",
+      "code": "1cba"
+    },
+    {
+      "character": "極",
+      "code": "1cbb"
+    },
+    {
+      "character": "訊",
+      "code": "1cbc"
+    },
+    {
+      "character": "立",
+      "code": "1cbd"
+    },
+    {
+      "character": "體",
+      "code": "1cbe"
+    },
+    {
+      "character": "聲",
+      "code": "1cbf"
+    },
+    {
+      "character": "單",
+      "code": "1cc0"
+    },
+    {
+      "character": "值",
+      "code": "1cc1"
+    },
+    {
+      "character": "技",
+      "code": "1cc2"
+    },
+    {
+      "character": "攻",
+      "code": "1cc3"
+    },
+    {
+      "character": "擊",
+      "code": "1cc4"
+    },
+    {
+      "character": "防",
+      "code": "1cc5"
+    },
+    {
+      "character": "禦",
+      "code": "1cc6"
+    },
+    {
+      "character": "使",
+      "code": "1cc7"
+    },
+    {
+      "character": "明",
+      "code": "1cc8"
+    },
+    {
+      "character": "付",
+      "code": "1cc9"
+    },
+    {
+      "character": "丟",
+      "code": "1cca"
+    },
+    {
+      "character": "棄",
+      "code": "1ccb"
+    },
+    {
+      "character": "掩",
+      "code": "1ccc"
+    },
+    {
+      "character": "護",
+      "code": "1ccd"
+    },
+    {
+      "character": "逃",
+      "code": "1cce"
+    },
+    {
+      "character": "跑",
+      "code": "1ccf"
+    },
+    {
+      "character": "饅",
+      "code": "1cd0"
+    },
+    {
+      "character": "頭",
+      "code": "1cd1"
+    },
+    {
+      "character": "藷",
+      "code": "1cd2"
+    },
+    {
+      "character": "飯",
+      "code": "1cd3"
+    },
+    {
+      "character": "糰",
+      "code": "1cd4"
+    },
+    {
+      "character": "黍",
+      "code": "1cd5"
+    },
+    {
+      "character": "雪",
+      "code": "1cd6"
+    },
+    {
+      "character": "竹",
+      "code": "1cd7"
+    },
+    {
+      "character": "水",
+      "code": "1cd8"
+    },
+    {
+      "character": "筒",
+      "code": "1cd9"
+    },
+    {
+      "character": "仙",
+      "code": "1cda"
+    },
+    {
+      "character": "霞",
+      "code": "1cdb"
+    },
+    {
+      "character": "桃",
+      "code": "1cdc"
+    },
+    {
+      "character": "意",
+      "code": "1cdd"
+    },
+    {
+      "character": "槌",
+      "code": "1cde"
+    },
+    {
+      "character": "烤",
+      "code": "1cdf"
+    },
+    {
+      "character": "菓",
+      "code": "1ce0"
+    },
+    {
+      "character": "白",
+      "code": "1ce1"
+    },
+    {
+      "character": "蘿",
+      "code": "1ce2"
+    },
+    {
+      "character": "蔔",
+      "code": "1ce3"
+    },
+    {
+      "character": "醃",
+      "code": "1ce4"
+    },
+    {
+      "character": "千",
+      "code": "1ce5"
+    },
+    {
+      "character": "枚",
+      "code": "1ce6"
+    },
+    {
+      "character": "漬",
+      "code": "1ce7"
+    },
+    {
+      "character": "半",
+      "code": "1ce8"
+    },
+    {
+      "character": "河",
+      "code": "1ce9"
+    },
+    {
+      "character": "沙",
+      "code": "1cea"
+    },
+    {
+      "character": "玉",
+      "code": "1ceb"
+    },
+    {
+      "character": "元",
+      "code": "1cec"
+    },
+    {
+      "character": "氣",
+      "code": "1ced"
+    },
+    {
+      "character": "恆",
+      "code": "1cee"
+    },
+    {
+      "character": "強",
+      "code": "1cef"
+    },
+    {
+      "character": "丹",
+      "code": "1cf0"
+    },
+    {
+      "character": "解",
+      "code": "1cf1"
+    },
+    {
+      "character": "毒",
+      "code": "1cf2"
+    },
+    {
+      "character": "藥",
+      "code": "1cf3"
+    },
+    {
+      "character": "麻",
+      "code": "1cf4"
+    },
+    {
+      "character": "咒",
+      "code": "1cf5"
+    },
+    {
+      "character": "奇",
+      "code": "1cf6"
+    },
+    {
+      "character": "效",
+      "code": "1cf7"
+    },
+    {
+      "character": "丸",
+      "code": "1cf8"
+    },
+    {
+      "character": "金",
+      "code": "1cf9"
+    },
+    {
+      "character": "瘡",
+      "code": "1cfa"
+    },
+    {
+      "character": "萬",
+      "code": "1cfb"
+    },
+    {
+      "character": "黃",
+      "code": "1cfc"
+    },
+    {
+      "character": "瓜",
+      "code": "1cfd"
+    },
+    {
+      "character": "丁",
+      "code": "1cfe"
+    },
+    {
+      "character": "魚",
+      "code": "1cff"
+    },
+    {
+      "character": "鯖",
+      "code": "1d00"
+    },
+    {
+      "character": "鰤",
+      "code": "1d01"
+    },
+    {
+      "character": "鮪",
+      "code": "1d02"
+    },
+    {
+      "character": "鯛",
+      "code": "1d03"
+    },
+    {
+      "character": "腐",
+      "code": "1d04"
+    },
+    {
+      "character": "麥",
+      "code": "1d05"
+    },
+    {
+      "character": "芽",
+      "code": "1d06"
+    },
+    {
+      "character": "糖",
+      "code": "1d07"
+    },
+    {
+      "character": "塑",
+      "code": "1d08"
+    },
+    {
+      "character": "替",
+      "code": "1d09"
+    },
+    {
+      "character": "藏",
+      "code": "1d0a"
+    },
+    {
+      "character": "晶",
+      "code": "1d0b"
+    },
+    {
+      "character": "勇",
+      "code": "1d0c"
+    },
+    {
+      "character": "劍",
+      "code": "1d0d"
+    },
+    {
+      "character": "鎧",
+      "code": "1d0e"
+    },
+    {
+      "character": "甲",
+      "code": "1d0f"
+    },
+    {
+      "character": "盔",
+      "code": "1d10"
+    },
+    {
+      "character": "長",
+      "code": "1d11"
+    },
+    {
+      "character": "靴",
+      "code": "1d12"
+    },
+    {
+      "character": "幌",
+      "code": "1d13"
+    },
+    {
+      "character": "波",
+      "code": "1d14"
+    },
+    {
+      "character": "海",
+      "code": "1d15"
+    },
+    {
+      "character": "嘯",
+      "code": "1d16"
+    },
+    {
+      "character": "稻",
+      "code": "1d17"
+    },
+    {
+      "character": "妻",
+      "code": "1d18"
+    },
+    {
+      "character": "雷",
+      "code": "1d19"
+    },
+    {
+      "character": "鳴",
+      "code": "1d1a"
+    },
+    {
+      "character": "電",
+      "code": "1d1b"
+    },
+    {
+      "character": "旋",
+      "code": "1d1c"
+    },
+    {
+      "character": "風",
+      "code": "1d1d"
+    },
+    {
+      "character": "突",
+      "code": "1d1e"
+    },
+    {
+      "character": "烈",
+      "code": "1d1f"
+    },
+    {
+      "character": "炎",
+      "code": "1d20"
+    },
+    {
+      "character": "火",
+      "code": "1d21"
+    },
+    {
+      "character": "焰",
+      "code": "1d22"
+    },
+    {
+      "character": "走",
+      "code": "1d23"
+    },
+    {
+      "character": "玫",
+      "code": "1d24"
+    },
+    {
+      "character": "瑰",
+      "code": "1d25"
+    },
+    {
+      "character": "吹",
+      "code": "1d26"
+    },
+    {
+      "character": "忍",
+      "code": "1d27"
+    },
+    {
+      "character": "冬",
+      "code": "1d28"
+    },
+    {
+      "character": "流",
+      "code": "1d29"
+    },
+    {
+      "character": "星",
+      "code": "1d2a"
+    },
+    {
+      "character": "鹿",
+      "code": "1d2b"
+    },
+    {
+      "character": "角",
+      "code": "1d2c"
+    },
+    {
+      "character": "奪",
+      "code": "1d2d"
+    },
+    {
+      "character": "搜",
+      "code": "1d2e"
+    },
+    {
+      "character": "刮",
+      "code": "1d2f"
+    },
+    {
+      "character": "露",
+      "code": "1d30"
+    },
+    {
+      "character": "臀",
+      "code": "1d31"
+    },
+    {
+      "character": "吉",
+      "code": "1d32"
+    },
+    {
+      "character": "倍",
+      "code": "1d33"
+    },
+    {
+      "character": "守",
+      "code": "1d34"
+    },
+    {
+      "character": "疾",
+      "code": "1d35"
+    },
+    {
+      "character": "喚",
+      "code": "1d36"
+    },
+    {
+      "character": "醒",
+      "code": "1d37"
+    },
+    {
+      "character": "封",
+      "code": "1d38"
+    },
+    {
+      "character": "撥",
+      "code": "1d39"
+    },
+    {
+      "character": "弦",
+      "code": "1d3a"
+    },
+    {
+      "character": "假",
+      "code": "1d3b"
+    },
+    {
+      "character": "象",
+      "code": "1d3c"
+    },
+    {
+      "character": "隱",
+      "code": "1d3d"
+    },
+    {
+      "character": "屁",
+      "code": "1d3e"
+    },
+    {
+      "character": "軟",
+      "code": "1d3f"
+    },
+    {
+      "character": "化",
+      "code": "1d40"
+    },
+    {
+      "character": "迷",
+      "code": "1d41"
+    },
+    {
+      "character": "惘",
+      "code": "1d42"
+    },
+    {
+      "character": "印",
+      "code": "1d43"
+    },
+    {
+      "character": "招",
+      "code": "1d44"
+    },
+    {
+      "character": "微",
+      "code": "1d45"
+    },
+    {
+      "character": "眠",
+      "code": "1d46"
+    },
+    {
+      "character": "變",
+      "code": "1d47"
+    },
+    {
+      "character": "幻",
+      "code": "1d48"
+    },
+    {
+      "character": "縛",
+      "code": "1d49"
+    },
+    {
+      "character": "影",
+      "code": "1d4a"
+    },
+    {
+      "character": "哈",
+      "code": "1d4b"
+    },
+    {
+      "character": "呵",
+      "code": "1d4c"
+    },
+    {
+      "character": "囉",
+      "code": "1d4d"
+    },
+    {
+      "character": "燕",
+      "code": "1d4e"
+    },
+    {
+      "character": "脫",
+      "code": "1d4f"
+    },
+    {
+      "character": "避",
+      "code": "1d50"
+    },
+    {
+      "character": "料",
+      "code": "1d51"
+    },
+    {
+      "character": "浮",
+      "code": "1d52"
+    },
+    {
+      "character": "游",
+      "code": "1d53"
+    },
+    {
+      "character": "泡",
+      "code": "1d54"
+    },
+    {
+      "character": "妖",
+      "code": "1d55"
+    },
+    {
+      "character": "異",
+      "code": "1d56"
+    },
+    {
+      "character": "赤",
+      "code": "1d57"
+    },
+    {
+      "character": "裸",
+      "code": "1d58"
+    },
+    {
+      "character": "細",
+      "code": "1d59"
+    },
+    {
+      "character": "崩",
+      "code": "1d5a"
+    },
+    {
+      "character": "切",
+      "code": "1d5b"
+    },
+    {
+      "character": "分",
+      "code": "1d5c"
+    },
+    {
+      "character": "打",
+      "code": "1d5d"
+    },
+    {
+      "character": "山",
+      "code": "1d5e"
+    },
+    {
+      "character": "彥",
+      "code": "1d5f"
+    },
+    {
+      "character": "夢",
+      "code": "1d60"
+    },
+    {
+      "character": "見",
+      "code": "1d61"
+    },
+    {
+      "character": "擾",
+      "code": "1d62"
+    },
+    {
+      "character": "亂",
+      "code": "1d63"
+    },
+    {
+      "character": "陽",
+      "code": "1d64"
+    },
+    {
+      "character": "照",
+      "code": "1d65"
+    },
+    {
+      "character": "狐",
+      "code": "1d66"
+    },
+    {
+      "character": "？",
+      "code": "1d67"
+    },
+    {
+      "character": "誰",
+      "code": "1d68"
+    },
+    {
+      "character": "！",
+      "code": "1d69"
+    },
+    {
+      "character": "准",
+      "code": "1d6a"
+    },
+    {
+      "character": "弱",
+      "code": "1d6b"
+    },
+    {
+      "character": "勝",
+      "code": "1d6c"
+    },
+    {
+      "character": "生",
+      "code": "1d6d"
+    },
+    {
+      "character": "門",
+      "code": "1d6e"
+    },
+    {
+      "character": "傢",
+      "code": "1d6f"
+    },
+    {
+      "character": "伙",
+      "code": "1d70"
+    },
+    {
+      "character": "家",
+      "code": "1d71"
+    },
+    {
+      "character": "隨",
+      "code": "1d72"
+    },
+    {
+      "character": "難",
+      "code": "1d73"
+    },
+    {
+      "character": "贏",
+      "code": "1d74"
+    },
+    {
+      "character": "中",
+      "code": "1d75"
+    },
+    {
+      "character": "著",
+      "code": "1d76"
+    },
+    {
+      "character": "才",
+      "code": "1d77"
+    },
+    {
+      "character": "互",
+      "code": "1d78"
+    },
+    {
+      "character": "相",
+      "code": "1d79"
+    },
+    {
+      "character": "扶",
+      "code": "1d7a"
+    },
+    {
+      "character": "持",
+      "code": "1d7b"
+    },
+    {
+      "character": "伴",
+      "code": "1d7c"
+    },
+    {
+      "character": "凝",
+      "code": "1d7d"
+    },
+    {
+      "character": "聚",
+      "code": "1d7e"
+    },
+    {
+      "character": "起",
+      "code": "1d7f"
+    },
+    {
+      "character": "原",
+      "code": "1d80"
+    },
+    {
+      "character": "樹",
+      "code": "1d81"
+    },
+    {
+      "character": "而",
+      "code": "1d82"
+    },
+    {
+      "character": "蘆",
+      "code": "1d83"
+    },
+    {
+      "character": "葦",
+      "code": "1d84"
+    },
+    {
+      "character": "壯",
+      "code": "1d85"
+    },
+    {
+      "character": "卻",
+      "code": "1d86"
+    },
+    {
+      "character": "易",
+      "code": "1d87"
+    },
+    {
+      "character": "旦",
+      "code": "1d88"
+    },
+    {
+      "character": "下",
+      "code": "1d89"
+    },
+    {
+      "character": "便",
+      "code": "1d8a"
+    },
+    {
+      "character": "再",
+      "code": "1d8b"
+    },
+    {
+      "character": "站",
+      "code": "1d8c"
+    },
+    {
+      "character": "種",
+      "code": "1d8d"
+    },
+    {
+      "character": "遍",
+      "code": "1d8e"
+    },
+    {
+      "character": "布",
+      "code": "1d8f"
+    },
+    {
+      "character": "方",
+      "code": "1d90"
+    },
+    {
+      "character": "、",
+      "code": "1d91"
+    },
+    {
+      "character": "擺",
+      "code": "1d92"
+    },
+    {
+      "character": "迎",
+      "code": "1d93"
+    },
+    {
+      "character": "支",
+      "code": "1d94"
+    },
+    {
+      "character": "磨",
+      "code": "1d95"
+    },
+    {
+      "character": "練",
+      "code": "1d96"
+    },
+    {
+      "character": "致",
+      "code": "1d97"
+    },
+    {
+      "character": "讓",
+      "code": "1d98"
+    },
+    {
+      "character": "終",
+      "code": "1d99"
+    },
+    {
+      "character": "於",
+      "code": "1d9a"
+    },
+    {
+      "character": "討",
+      "code": "1d9b"
+    },
+    {
+      "character": "厭",
+      "code": "1d9c"
+    },
+    {
+      "character": "透",
+      "code": "1d9d"
+    },
+    {
+      "character": "和",
+      "code": "1d9e"
+    },
+    {
+      "character": "類",
+      "code": "1d9f"
+    },
+    {
+      "character": "東",
+      "code": "1da0"
+    },
+    {
+      "character": "西",
+      "code": "1da1"
+    },
+    {
+      "character": "鬥",
+      "code": "1da2"
+    },
+    {
+      "character": "骯",
+      "code": "1da3"
+    },
+    {
+      "character": "髒",
+      "code": "1da4"
+    },
+    {
+      "character": "結",
+      "code": "1da5"
+    },
+    {
+      "character": "束",
+      "code": "1da6"
+    },
+    {
+      "character": "場",
+      "code": "1da7"
+    },
+    {
+      "character": "喝",
+      "code": "1da8"
+    },
+    {
+      "character": "點",
+      "code": "1da9"
+    },
+    {
+      "character": "酒",
+      "code": "1daa"
+    },
+    {
+      "character": "掉",
+      "code": "1dab"
+    },
+    {
+      "character": "口",
+      "code": "1dac"
+    },
+    {
+      "character": "悶",
+      "code": "1dad"
+    },
+    {
+      "character": "右",
+      "code": "1dae"
+    },
+    {
+      "character": "魂",
+      "code": "1daf"
+    },
+    {
+      "character": "左",
+      "code": "1db0"
+    },
+    {
+      "character": "狠",
+      "code": "1db1"
+    },
+    {
+      "character": "收",
+      "code": "1db2"
+    },
+    {
+      "character": "拾",
+      "code": "1db3"
+    },
+    {
+      "character": "直",
+      "code": "1db4"
+    },
+    {
+      "character": "滿",
+      "code": "1db5"
+    },
+    {
+      "character": "止",
+      "code": "1db6"
+    },
+    {
+      "character": "螻",
+      "code": "1db7"
+    },
+    {
+      "character": "蟻",
+      "code": "1db8"
+    },
+    {
+      "character": "味",
+      "code": "1db9"
+    },
+    {
+      "character": "臭",
+      "code": "1dba"
+    },
+    {
+      "character": "沾",
+      "code": "1dbb"
+    },
+    {
+      "character": "輸",
+      "code": "1dbc"
+    },
+    {
+      "character": "嘎",
+      "code": "1dbd"
+    },
+    {
+      "character": "區",
+      "code": "1dbe"
+    },
+    {
+      "character": "事",
+      "code": "1dbf"
+    },
+    {
+      "character": "尊",
+      "code": "1dc0"
+    },
+    {
+      "character": "嚴",
+      "code": "1dc1"
+    },
+    {
+      "character": "絕",
+      "code": "1dc2"
+    },
+    {
+      "character": "允",
+      "code": "1dc3"
+    },
+    {
+      "character": "許",
+      "code": "1dc4"
+    },
+    {
+      "character": "寧",
+      "code": "1dc5"
+    },
+    {
+      "character": "選",
+      "code": "1dc6"
+    },
+    {
+      "character": "擇",
+      "code": "1dc7"
+    },
+    {
+      "character": "死",
+      "code": "1dc8"
+    },
+    {
+      "character": "亡",
+      "code": "1dc9"
+    },
+    {
+      "character": "永",
+      "code": "1dca"
+    },
+    {
+      "character": "世",
+      "code": "1dcb"
+    },
+    {
+      "character": "本",
+      "code": "1dcc"
+    },
+    {
+      "character": "爺",
+      "code": "1dcd"
+    },
+    {
+      "character": "獄",
+      "code": "1dce"
+    },
+    {
+      "character": "天",
+      "code": "1dcf"
+    },
+    {
+      "character": "敢",
+      "code": "1dd0"
+    },
+    {
+      "character": "反",
+      "code": "1dd1"
+    },
+    {
+      "character": "抗",
+      "code": "1dd2"
+    },
+    {
+      "character": "蟲",
+      "code": "1dd3"
+    },
+    {
+      "character": "鳥",
+      "code": "1dd4"
+    },
+    {
+      "character": "服",
+      "code": "1dd5"
+    },
+    {
+      "character": "被",
+      "code": "1dd6"
+    },
+    {
+      "character": "統",
+      "code": "1dd7"
+    },
+    {
+      "character": "眾",
+      "code": "1dd8"
+    },
+    {
+      "character": "腦",
+      "code": "1dd9"
+    },
+    {
+      "character": "袋",
+      "code": "1dda"
+    },
+    {
+      "character": "乖",
+      "code": "1ddb"
+    },
+    {
+      "character": "腳",
+      "code": "1ddc"
+    },
+    {
+      "character": "越",
+      "code": "1ddd"
+    },
+    {
+      "character": "硬",
+      "code": "1dde"
+    },
+    {
+      "character": "民",
+      "code": "1ddf"
+    },
+    {
+      "character": "怨",
+      "code": "1de0"
+    },
+    {
+      "character": "恨",
+      "code": "1de1"
+    },
+    {
+      "character": "叫",
+      "code": "1de2"
+    },
+    {
+      "character": "呻",
+      "code": "1de3"
+    },
+    {
+      "character": "吟",
+      "code": "1de4"
+    },
+    {
+      "character": "哇",
+      "code": "1de5"
+    },
+    {
+      "character": "活",
+      "code": "1de6"
+    },
+    {
+      "character": "嘰",
+      "code": "1de7"
+    },
+    {
+      "character": "雜",
+      "code": "1de8"
+    },
+    {
+      "character": "兵",
+      "code": "1de9"
+    },
+    {
+      "character": "陰",
+      "code": "1dea"
+    },
+    {
+      "character": "散",
+      "code": "1deb"
+    },
+    {
+      "character": "失",
+      "code": "1dec"
+    },
+    {
+      "character": "式",
+      "code": "1ded"
+    },
+    {
+      "character": "清",
+      "code": "1dee"
+    },
+    {
+      "character": "二",
+      "code": "1def"
+    },
+    {
+      "character": "楚",
+      "code": "1df0"
+    },
+    {
+      "character": "未",
+      "code": "1df1"
+    },
+    {
+      "character": "免",
+      "code": "1df2"
+    },
+    {
+      "character": "太",
+      "code": "1df3"
+    },
+    {
+      "character": "謂",
+      "code": "1df4"
+    },
+    {
+      "character": "吸",
+      "code": "1df5"
+    },
+    {
+      "character": "碎",
+      "code": "1df6"
+    },
+    {
+      "character": "破",
+      "code": "1df7"
+    },
+    {
+      "character": "向",
+      "code": "1df8"
+    },
+    {
+      "character": "八",
+      "code": "1df9"
+    },
+    {
+      "character": "將",
+      "code": "1dfa"
+    },
+    {
+      "character": "哼",
+      "code": "1dfb"
+    },
+    {
+      "character": "聊",
+      "code": "1dfc"
+    },
+    {
+      "character": "根",
+      "code": "1dfd"
+    },
+    {
+      "character": "首",
+      "code": "1dfe"
+    },
+    {
+      "character": "先",
+      "code": "1dff"
+    },
+    {
+      "character": "且",
+      "code": "1e00"
+    },
+    {
+      "character": "總",
+      "code": "1e01"
+    },
+    {
+      "character": "保",
+      "code": "1e02"
+    },
+    {
+      "character": "胖",
+      "code": "1e03"
+    },
+    {
+      "character": "停",
+      "code": "1e04"
+    },
+    {
+      "character": "施",
+      "code": "1e05"
+    },
+    {
+      "character": "時",
+      "code": "1e06"
+    },
+    {
+      "character": "機",
+      "code": "1e07"
+    },
+    {
+      "character": "判",
+      "code": "1e08"
+    },
+    {
+      "character": "斷",
+      "code": "1e09"
+    },
+    {
+      "character": "嫩",
+      "code": "1e0a"
+    },
+    {
+      "character": "毫",
+      "code": "1e0b"
+    },
+    {
+      "character": "章",
+      "code": "1e0c"
+    },
+    {
+      "character": "法",
+      "code": "1e0d"
+    },
+    {
+      "character": "擋",
+      "code": "1e0e"
+    },
+    {
+      "character": "阿",
+      "code": "1e0f"
+    },
+    {
+      "character": "闍",
+      "code": "1e10"
+    },
+    {
+      "character": "刀",
+      "code": "1e11"
+    },
+    {
+      "character": "紊",
+      "code": "1e12"
+    },
+    {
+      "character": "。",
+      "code": "1e13"
+    },
+    {
+      "character": "般",
+      "code": "1e14"
+    },
+    {
+      "character": "純",
+      "code": "1e15"
+    },
+    {
+      "character": "淨",
+      "code": "1e16"
+    },
+    {
+      "character": "察",
+      "code": "1e17"
+    },
+    {
+      "character": "叉",
+      "code": "1e18"
+    },
+    {
+      "character": "高",
+      "code": "1e19"
+    },
+    {
+      "character": "興",
+      "code": "1e1a"
+    },
+    {
+      "character": "久",
+      "code": "1e1b"
+    },
+    {
+      "character": "認",
+      "code": "1e1c"
+    },
+    {
+      "character": "兩",
+      "code": "1e1d"
+    },
+    {
+      "character": "痛",
+      "code": "1e1e"
+    },
+    {
+      "character": "呼",
+      "code": "1e1f"
+    },
+    {
+      "character": "嚕",
+      "code": "1e20"
+    },
+    {
+      "character": "抱",
+      "code": "1e21"
+    },
+    {
+      "character": "歉",
+      "code": "1e22"
+    },
+    {
+      "character": "碰",
+      "code": "1e23"
+    },
+    {
+      "character": "但",
+      "code": "1e24"
+    },
+    {
+      "character": "規",
+      "code": "1e25"
+    },
+    {
+      "character": "矩",
+      "code": "1e26"
+    },
+    {
+      "character": "論",
+      "code": "1e27"
+    },
+    {
+      "character": "間",
+      "code": "1e28"
+    },
+    {
+      "character": "關",
+      "code": "1e29"
+    },
+    {
+      "character": "係",
+      "code": "1e2a"
+    },
+    {
+      "character": "親",
+      "code": "1e2b"
+    },
+    {
+      "character": "確",
+      "code": "1e2c"
+    },
+    {
+      "character": "果",
+      "code": "1e2d"
+    },
+    {
+      "character": "感",
+      "code": "1e2e"
+    },
+    {
+      "character": "激",
+      "code": "1e2f"
+    },
+    {
+      "character": "第",
+      "code": "1e30"
+    },
+    {
+      "character": "武",
+      "code": "1e31"
+    },
+    {
+      "character": "稱",
+      "code": "1e32"
+    },
+    {
+      "character": "執",
+      "code": "1e33"
+    },
+    {
+      "character": "平",
+      "code": "1e34"
+    },
+    {
+      "character": "常",
+      "code": "1e35"
+    },
+    {
+      "character": "位",
+      "code": "1e36"
+    },
+    {
+      "character": "現",
+      "code": "1e37"
+    },
+    {
+      "character": "出",
+      "code": "1e38"
+    },
+    {
+      "character": "渴",
+      "code": "1e39"
+    },
+    {
+      "character": "望",
+      "code": "1e3a"
+    },
+    {
+      "character": "者",
+      "code": "1e3b"
+    },
+    {
+      "character": "只",
+      "code": "1e3c"
+    },
+    {
+      "character": "馬",
+      "code": "1e3d"
+    },
+    {
+      "character": "倌",
+      "code": "1e3e"
+    },
+    {
+      "character": "職",
+      "code": "1e3f"
+    },
+    {
+      "character": "賞",
+      "code": "1e40"
+    },
+    {
+      "character": "準",
+      "code": "1e41"
+    },
+    {
+      "character": "妥",
+      "code": "1e42"
+    },
+    {
+      "character": "她",
+      "code": "1e43"
+    },
+    {
+      "character": "定",
+      "code": "1e44"
+    },
+    {
+      "character": "安",
+      "code": "1e45"
+    },
+    {
+      "character": "整",
+      "code": "1e46"
+    },
+    {
+      "character": "猛",
+      "code": "1e47"
+    },
+    {
+      "character": "搖",
+      "code": "1e48"
+    },
+    {
+      "character": "晃",
+      "code": "1e49"
+    },
+    {
+      "character": "座",
+      "code": "1e4a"
+    },
+    {
+      "character": "殿",
+      "code": "1e4b"
+    },
+    {
+      "character": "勉",
+      "code": "1e4c"
+    },
+    {
+      "character": "注",
+      "code": "1e4d"
+    },
+    {
+      "character": "入",
+      "code": "1e4e"
+    },
+    {
+      "character": "試",
+      "code": "1e4f"
+    },
+    {
+      "character": "落",
+      "code": "1e50"
+    },
+    {
+      "character": "豐",
+      "code": "1e51"
+    },
+    {
+      "character": "藍",
+      "code": "1e52"
+    },
+    {
+      "character": "鍛",
+      "code": "1e53"
+    },
+    {
+      "character": "鍊",
+      "code": "1e54"
+    },
+    {
+      "character": "它",
+      "code": "1e55"
+    },
+    {
+      "character": "惡",
+      "code": "1e56"
+    },
+    {
+      "character": "希",
+      "code": "1e57"
+    },
+    {
+      "character": "託",
+      "code": "1e58"
+    },
+    {
+      "character": "蹦",
+      "code": "1e59"
+    },
+    {
+      "character": "據",
+      "code": "1e5a"
+    },
+    {
+      "character": "偶",
+      "code": "1e5b"
+    },
+    {
+      "character": "爾",
+      "code": "1e5c"
+    },
+    {
+      "character": "墜",
+      "code": "1e5d"
+    },
+    {
+      "character": "恩",
+      "code": "1e5e"
+    },
+    {
+      "character": "惠",
+      "code": "1e5f"
+    },
+    {
+      "character": "剩",
+      "code": "1e60"
+    },
+    {
+      "character": "倖",
+      "code": "1e61"
+    },
+    {
+      "character": "慘",
+      "code": "1e62"
+    },
+    {
+      "character": "狀",
+      "code": "1e63"
+    },
+    {
+      "character": "像",
+      "code": "1e64"
+    },
+    {
+      "character": "重",
+      "code": "1e65"
+    },
+    {
+      "character": "弄",
+      "code": "1e66"
+    },
+    {
+      "character": "團",
+      "code": "1e67"
+    },
+    {
+      "character": "肆",
+      "code": "1e68"
+    },
+    {
+      "character": "壞",
+      "code": "1e69"
+    },
+    {
+      "character": "往",
+      "code": "1e6a"
+    },
+    {
+      "character": "泉",
+      "code": "1e6b"
+    },
+    {
+      "character": "塔",
+      "code": "1e6c"
+    },
+    {
+      "character": "嵐",
+      "code": "1e6d"
+    },
+    {
+      "character": "找",
+      "code": "1e6e"
+    },
+    {
+      "character": "辦",
+      "code": "1e6f"
+    },
+    {
+      "character": "粉",
+      "code": "1e70"
+    },
+    {
+      "character": "燃",
+      "code": "1e71"
+    },
+    {
+      "character": "燒",
+      "code": "1e72"
+    },
+    {
+      "character": "片",
+      "code": "1e73"
+    },
+    {
+      "character": "灑",
+      "code": "1e74"
+    },
+    {
+      "character": "界",
+      "code": "1e75"
+    },
+    {
+      "character": "最",
+      "code": "1e76"
+    },
+    {
+      "character": "模",
+      "code": "1e77"
+    },
+    {
+      "character": "鳳",
+      "code": "1e78"
+    },
+    {
+      "character": "凰",
+      "code": "1e79"
+    },
+    {
+      "character": "復",
+      "code": "1e7a"
+    },
+    {
+      "character": "岩",
+      "code": "1e7b"
+    },
+    {
+      "character": "石",
+      "code": "1e7c"
+    },
+    {
+      "character": "包",
+      "code": "1e7d"
+    },
+    {
+      "character": "圍",
+      "code": "1e7e"
+    },
+    {
+      "character": "嗚",
+      "code": "1e7f"
+    },
+    {
+      "character": "物",
+      "code": "1e80"
+    },
+    {
+      "character": "品",
+      "code": "1e81"
+    },
+    {
+      "character": "容",
+      "code": "1e82"
+    },
+    {
+      "character": "盡",
+      "code": "1e83"
+    },
+    {
+      "character": "份",
+      "code": "1e84"
+    },
+    {
+      "character": "少",
+      "code": "1e85"
+    },
+    {
+      "character": "眼",
+      "code": "1e86"
+    },
+    {
+      "character": "淚",
+      "code": "1e87"
+    },
+    {
+      "character": "妳",
+      "code": "1e88"
+    },
+    {
+      "character": "底",
+      "code": "1e89"
+    },
+    {
+      "character": "靜",
+      "code": "1e8a"
+    },
+    {
+      "character": "偷",
+      "code": "1e8b"
+    },
+    {
+      "character": "珍",
+      "code": "1e8c"
+    },
+    {
+      "character": "寶",
+      "code": "1e8d"
+    },
+    {
+      "character": "龍",
+      "code": "1e8e"
+    },
+    {
+      "character": "城",
+      "code": "1e8f"
+    },
+    {
+      "character": "乙",
+      "code": "1e90"
+    },
+    {
+      "character": "否",
+      "code": "1e91"
+    },
+    {
+      "character": "紅",
+      "code": "1e92"
+    },
+    {
+      "character": "害",
+      "code": "1e93"
+    },
+    {
+      "character": "減",
+      "code": "1e94"
+    },
+    {
+      "character": "輕",
+      "code": "1e95"
+    },
+    {
+      "character": "巧",
+      "code": "1e96"
+    },
+    {
+      "character": "閃",
+      "code": "1e97"
+    },
+    {
+      "character": "竭",
+      "code": "1e98"
+    },
+    {
+      "character": "發",
+      "code": "1e99"
+    },
+    {
+      "character": "仍",
+      "code": "1e9a"
+    },
+    {
+      "character": "奶",
+      "code": "1e9b"
+    },
+    {
+      "character": "振",
+      "code": "1e9c"
+    },
+    {
+      "character": "作",
+      "code": "1e9d"
+    },
+    {
+      "character": "噩",
+      "code": "1e9e"
+    },
+    {
+      "character": "苦",
+      "code": "1e9f"
+    },
+    {
+      "character": "表",
+      "code": "1ea0"
+    },
+    {
+      "character": "唉",
+      "code": "1ea1"
+    },
+    {
+      "character": "咦",
+      "code": "1ea2"
+    },
+    {
+      "character": "扒",
+      "code": "1ea3"
+    },
+    {
+      "character": "銀",
+      "code": "1ea4"
+    },
+    {
+      "character": "次",
+      "code": "1ea5"
+    },
+    {
+      "character": "泥",
+      "code": "1ea6"
+    },
+    {
+      "character": "巴",
+      "code": "1ea7"
+    },
+    {
+      "character": "休",
+      "code": "1ea8"
+    },
+    {
+      "character": "己",
+      "code": "1ea9"
+    },
+    {
+      "character": "忘",
+      "code": "1eaa"
+    },
+    {
+      "character": "應",
+      "code": "1eab"
+    },
+    {
+      "character": "精",
+      "code": "1eac"
+    },
+    {
+      "character": "拿",
+      "code": "1ead"
+    },
+    {
+      "character": "１",
+      "code": "1eae"
+    },
+    {
+      "character": "０",
+      "code": "1eaf"
+    },
+    {
+      "character": "留",
+      "code": "1eb0"
+    },
+    {
+      "character": "旅",
+      "code": "1eb1"
+    },
+    {
+      "character": "途",
+      "code": "1eb2"
+    },
+    {
+      "character": "吃",
+      "code": "1eb3"
+    },
+    {
+      "character": "咱",
+      "code": "1eb4"
+    },
+    {
+      "character": "陣",
+      "code": "1eb5"
+    },
+    {
+      "character": "陪",
+      "code": "1eb6"
+    },
+    {
+      "character": "加",
+      "code": "1eb7"
+    },
+    {
+      "character": "伍",
+      "code": "1eb8"
+    },
+    {
+      "character": "館",
+      "code": "1eb9"
+    },
+    {
+      "character": "晚",
+      "code": "1eba"
+    },
+    {
+      "character": "喔",
+      "code": "1ebb"
+    },
+    {
+      "character": "纏",
+      "code": "1ebc"
+    },
+    {
+      "character": "三",
+      "code": "1ebd"
+    },
+    {
+      "character": "祈",
+      "code": "1ebe"
+    },
+    {
+      "character": "禱",
+      "code": "1ebf"
+    },
+    {
+      "character": "佑",
+      "code": "1ec0"
+    },
+    {
+      "character": "：",
+      "code": "1ec1"
+    },
+    {
+      "character": "忙",
+      "code": "1ec2"
+    },
+    {
+      "character": "食",
+      "code": "1ec3"
+    },
+    {
+      "character": "限",
+      "code": "1ec4"
+    },
+    {
+      "character": "飲",
+      "code": "1ec5"
+    },
+    {
+      "character": "部",
+      "code": "1ec6"
+    },
+    {
+      "character": "至",
+      "code": "1ec7"
+    },
+    {
+      "character": "員",
+      "code": "1ec8"
+    },
+    {
+      "character": "超",
+      "code": "1ec9"
+    },
+    {
+      "character": "贈",
+      "code": "1eca"
+    },
+    {
+      "character": "予",
+      "code": "1ecb"
+    },
+    {
+      "character": "歡",
+      "code": "1ecc"
+    },
+    {
+      "character": "光",
+      "code": "1ecd"
+    },
+    {
+      "character": "臨",
+      "code": "1ece"
+    },
+    {
+      "character": "價",
+      "code": "1ecf"
+    },
+    {
+      "character": "宜",
+      "code": "1ed0"
+    },
+    {
+      "character": "買",
+      "code": "1ed1"
+    },
+    {
+      "character": "舊",
+      "code": "1ed2"
+    },
+    {
+      "character": "換",
+      "code": "1ed3"
+    },
+    {
+      "character": "商",
+      "code": "1ed4"
+    },
+    {
+      "character": "勞",
+      "code": "1ed5"
+    },
+    {
+      "character": "需",
+      "code": "1ed6"
+    },
+    {
+      "character": "務",
+      "code": "1ed7"
+    },
+    {
+      "character": "啾",
+      "code": "1ed8"
+    },
+    {
+      "character": "器",
+      "code": "1ed9"
+    },
+    {
+      "character": "店",
+      "code": "1eda"
+    },
+    {
+      "character": "呦",
+      "code": "1edb"
+    },
+    {
+      "character": "吱",
+      "code": "1edc"
+    },
+    {
+      "character": "似",
+      "code": "1edd"
+    },
+    {
+      "character": "乎",
+      "code": "1ede"
+    },
+    {
+      "character": "思",
+      "code": "1edf"
+    },
+    {
+      "character": "菜",
+      "code": "1ee0"
+    },
+    {
+      "character": "賣",
+      "code": "1ee1"
+    },
+    {
+      "character": "問",
+      "code": "1ee2"
+    },
+    {
+      "character": "飼",
+      "code": "1ee3"
+    },
+    {
+      "character": "茶",
+      "code": "1ee4"
+    },
+    {
+      "character": "券",
+      "code": "1ee5"
+    },
+    {
+      "character": "格",
+      "code": "1ee6"
+    },
+    {
+      "character": "五",
+      "code": "1ee7"
+    },
+    {
+      "character": "近",
+      "code": "1ee8"
+    },
+    {
+      "character": "十",
+      "code": "1ee9"
+    },
+    {
+      "character": "比",
+      "code": "1eea"
+    },
+    {
+      "character": "購",
+      "code": "1eeb"
+    },
+    {
+      "character": "老",
+      "code": "1eec"
+    },
+    {
+      "character": "怪",
+      "code": "1eed"
+    },
+    {
+      "character": "顧",
+      "code": "1eee"
+    },
+    {
+      "character": "低",
+      "code": "1eef"
+    },
+    {
+      "character": "花",
+      "code": "1ef0"
+    },
+    {
+      "character": "錢",
+      "code": "1ef1"
+    },
+    {
+      "character": "冷",
+      "code": "1ef2"
+    },
+    {
+      "character": "努",
+      "code": "1ef3"
+    },
+    {
+      "character": "由",
+      "code": "1ef4"
+    },
+    {
+      "character": "攜",
+      "code": "1ef5"
+    },
+    {
+      "character": "謝",
+      "code": "1ef6"
+    },
+    {
+      "character": "提",
+      "code": "1ef7"
+    },
+    {
+      "character": "供",
+      "code": "1ef8"
+    },
+    {
+      "character": "客",
+      "code": "1ef9"
+    },
+    {
+      "character": "實",
+      "code": "1efa"
+    },
+    {
+      "character": "件",
+      "code": "1efb"
+    },
+    {
+      "character": "估",
+      "code": "1efc"
+    },
+    {
+      "character": "蜥",
+      "code": "1efd"
+    },
+    {
+      "character": "蜴",
+      "code": "1efe"
+    },
+    {
+      "character": "尾",
+      "code": "1eff"
+    },
+    {
+      "character": "稍",
+      "code": "1f00"
+    },
+    {
+      "character": "候",
+      "code": "1f01"
+    },
+    {
+      "character": "等",
+      "code": "1f02"
+    },
+    {
+      "character": "補",
+      "code": "1f03"
+    },
+    {
+      "character": "額",
+      "code": "1f04"
+    },
+    {
+      "character": "屬",
+      "code": "1f05"
+    },
+    {
+      "character": "抵",
+      "code": "1f06"
+    },
+    {
+      "character": "虧",
+      "code": "1f07"
+    },
+    {
+      "character": "惜",
+      "code": "1f08"
+    },
+    {
+      "character": "貨",
+      "code": "1f09"
+    },
+    {
+      "character": "項",
+      "code": "1f0a"
+    },
+    {
+      "character": "熟",
+      "code": "1f0b"
+    },
+    {
+      "character": "知",
+      "code": "1f0c"
+    },
+    {
+      "character": "販",
+      "code": "1f0d"
+    },
+    {
+      "character": "售",
+      "code": "1f0e"
+    },
+    {
+      "character": "豆",
+      "code": "1f0f"
+    },
+    {
+      "character": "識",
+      "code": "1f10"
+    },
+    {
+      "character": "貴",
+      "code": "1f11"
+    },
+    {
+      "character": "完",
+      "code": "1f12"
+    },
+    {
+      "character": "另",
+      "code": "1f13"
+    },
+    {
+      "character": "箱",
+      "code": "1f14"
+    },
+    {
+      "character": "挑",
+      "code": "1f15"
+    },
+    {
+      "character": "抽",
+      "code": "1f16"
+    },
+    {
+      "character": "各",
+      "code": "1f17"
+    },
+    {
+      "character": "玩",
+      "code": "1f18"
+    },
+    {
+      "character": "獎",
+      "code": "1f19"
+    },
+    {
+      "character": "隆",
+      "code": "1f1a"
+    },
+    {
+      "character": "兌",
+      "code": "1f1b"
+    },
+    {
+      "character": "屋",
+      "code": "1f1c"
+    },
+    {
+      "character": "號",
+      "code": "1f1d"
+    },
+    {
+      "character": "寄",
+      "code": "1f1e"
+    },
+    {
+      "character": "財",
+      "code": "1f1f"
+    },
+    {
+      "character": "厲",
+      "code": "1f20"
+    },
+    {
+      "character": "賺",
+      "code": "1f21"
+    },
+    {
+      "character": "羨",
+      "code": "1f22"
+    },
+    {
+      "character": "慕",
+      "code": "1f23"
+    },
+    {
+      "character": "僱",
+      "code": "1f24"
+    },
+    {
+      "character": "豪",
+      "code": "1f25"
+    },
+    {
+      "character": "爽",
+      "code": "1f26"
+    },
+    {
+      "character": "嘛",
+      "code": "1f27"
+    },
+    {
+      "character": "拜",
+      "code": "1f28"
+    },
+    {
+      "character": "考",
+      "code": "1f29"
+    },
+    {
+      "character": "慮",
+      "code": "1f2a"
+    },
+    {
+      "character": "款",
+      "code": "1f2b"
+    },
+    {
+      "character": "領",
+      "code": "1f2c"
+    },
+    {
+      "character": "傻",
+      "code": "1f2d"
+    },
+    {
+      "character": "耍",
+      "code": "1f2e"
+    },
+    {
+      "character": "剛",
+      "code": "1f2f"
+    },
+    {
+      "character": "進",
+      "code": "1f30"
+    },
+    {
+      "character": "每",
+      "code": "1f31"
+    },
+    {
+      "character": "範",
+      "code": "1f32"
+    },
+    {
+      "character": "內",
+      "code": "1f33"
+    },
+    {
+      "character": "聯",
+      "code": "1f34"
+    },
+    {
+      "character": "絡",
+      "code": "1f35"
+    },
+    {
+      "character": "網",
+      "code": "1f36"
+    },
+    {
+      "character": "故",
+      "code": "1f37"
+    },
+    {
+      "character": "朋",
+      "code": "1f38"
+    },
+    {
+      "character": "療",
+      "code": "1f39"
+    },
+    {
+      "character": "費",
+      "code": "1f3a"
+    },
+    {
+      "character": "醫",
+      "code": "1f3b"
+    },
+    {
+      "character": "幫",
+      "code": "1f3c"
+    },
+    {
+      "character": "況",
+      "code": "1f3d"
+    },
+    {
+      "character": "早",
+      "code": "1f3e"
+    },
+    {
+      "character": "拖",
+      "code": "1f3f"
+    },
+    {
+      "character": "及",
+      "code": "1f40"
+    },
+    {
+      "character": "靈",
+      "code": "1f41"
+    },
+    {
+      "character": "逞",
+      "code": "1f42"
+    },
+    {
+      "character": "痺",
+      "code": "1f43"
+    },
+    {
+      "character": "適",
+      "code": "1f44"
+    },
+    {
+      "character": "房",
+      "code": "1f45"
+    },
+    {
+      "character": "哎",
+      "code": "1f46"
+    },
+    {
+      "character": "禮",
+      "code": "1f47"
+    },
+    {
+      "character": "宿",
+      "code": "1f48"
+    },
+    {
+      "character": "野",
+      "code": "1f49"
+    },
+    {
+      "character": "外",
+      "code": "1f4a"
+    },
+    {
+      "character": "辛",
+      "code": "1f4b"
+    }
+  ],
+  "checksum": "5f43",
+  "newFontGroupOffset": "240000",
+  "newFontGroupCount": 15,
+  "nameBlocks": [
+    {
+      "name": "battle-commands",
+      "kind": "names",
+      "sourceStart": 462431,
+      "sourceEnd": 462982,
+      "relocatedOffset": "0x254000",
+      "strings": 95,
+      "translatedNames": 6,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 553,
+      "storedBytes": 554
+    },
+    {
+      "name": "enemies",
+      "kind": "names",
+      "sourceStart": 462982,
+      "sourceEnd": 464621,
+      "relocatedOffset": "0x253000",
+      "strings": 248,
+      "translatedNames": 5,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 1643,
+      "storedBytes": 1644
+    },
+    {
+      "name": "items",
+      "kind": "names",
+      "sourceStart": 465801,
+      "sourceEnd": 467152,
+      "relocatedOffset": "0x250000",
+      "strings": 165,
+      "translatedNames": 39,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 1337,
+      "storedBytes": 1338
+    },
+    {
+      "name": "equipment",
+      "kind": "names",
+      "sourceStart": 467152,
+      "sourceEnd": 469191,
+      "relocatedOffset": "0x251000",
+      "strings": 234,
+      "translatedNames": 6,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 2043,
+      "storedBytes": 2044
+    },
+    {
+      "name": "techniques",
+      "kind": "names",
+      "sourceStart": 469191,
+      "sourceEnd": 469665,
+      "relocatedOffset": "0x252000",
+      "strings": 94,
+      "translatedNames": 93,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 508,
+      "storedBytes": 509
+    }
+  ],
+  "textBlocks": [
+    {
+      "name": "moon-palace-guard",
+      "kind": "text",
+      "sourceStart": 667726,
+      "sourceEnd": 667763,
+      "relocatedOffset": "0x2c0000",
+      "strings": 1,
+      "translatedNames": 1,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 49,
+      "storedBytes": 63
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "kind": "text",
+      "sourceStart": 521581,
+      "sourceEnd": 533452,
+      "relocatedOffset": "0x2b0000",
+      "strings": 231,
+      "translatedNames": 31,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 12247,
+      "storedBytes": 12248
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "kind": "text",
+      "sourceStart": 499364,
+      "sourceEnd": 509943,
+      "relocatedOffset": "0x2a0000",
+      "strings": 254,
+      "translatedNames": 12,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 10686,
+      "storedBytes": 10687
+    },
+    {
+      "name": "moon-challenge-dialogue",
+      "kind": "text",
+      "sourceStart": 667763,
+      "sourceEnd": 669096,
+      "relocatedOffset": "0x280000",
+      "strings": 19,
+      "translatedNames": 19,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 1936,
+      "storedBytes": 2410
+    },
+    {
+      "name": "battle-messages",
+      "kind": "text",
+      "sourceStart": 509943,
+      "sourceEnd": 514442,
+      "relocatedOffset": "0x290000",
+      "strings": 181,
+      "translatedNames": 13,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 4515,
+      "storedBytes": 4516
+    },
+    {
+      "name": "awakening-dialogue",
+      "kind": "text",
+      "sourceStart": 566207,
+      "sourceEnd": 567063,
+      "relocatedOffset": "0x270000",
+      "strings": 24,
+      "translatedNames": 24,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 1432,
+      "storedBytes": 1612
+    },
+    {
+      "name": "item-descriptions",
+      "kind": "text",
+      "sourceStart": 487463,
+      "sourceEnd": 493745,
+      "relocatedOffset": "0x260000",
+      "strings": 204,
+      "translatedNames": 25,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 6345,
+      "storedBytes": 6346
+    },
+    {
+      "name": "shared-village-services",
+      "kind": "text",
+      "sourceStart": 533452,
+      "sourceEnd": 537806,
+      "relocatedOffset": "0x2d0000",
+      "strings": 203,
+      "translatedNames": 203,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 7341,
+      "storedBytes": 8260
+    }
+  ],
+  "inlineMenus": [
+    {
+      "name": "field-menu-compact",
+      "sourceStart": "0x1ef1e",
+      "sourceEnd": "0x1ef76",
+      "target": "0x230000",
+      "translatedLabels": 8
+    },
+    {
+      "name": "field-menu-expanded",
+      "sourceStart": "0x1ef76",
+      "sourceEnd": "0x1effc",
+      "target": "0x231000",
+      "translatedLabels": 8
+    },
+    {
+      "name": "special-menu",
+      "sourceStart": "0x1f096",
+      "sourceEnd": "0x1f0cf",
+      "target": "0x232000",
+      "translatedLabels": 5
+    },
+    {
+      "name": "walking-speed",
+      "sourceStart": "0x1f0eb",
+      "sourceEnd": "0x1f115",
+      "target": "0x233000",
+      "translatedLabels": 4
+    },
+    {
+      "name": "flight-speed",
+      "sourceStart": "0x1f157",
+      "sourceEnd": "0x1f188",
+      "target": "0x234000",
+      "translatedLabels": 5
+    },
+    {
+      "name": "speech-speed",
+      "sourceStart": "0x1f1aa",
+      "sourceEnd": "0x1f1de",
+      "target": "0x235000",
+      "translatedLabels": 6
+    },
+    {
+      "name": "audio-mode",
+      "sourceStart": "0x1f201",
+      "sourceEnd": "0x1f21e",
+      "target": "0x236000",
+      "translatedLabels": 2
+    },
+    {
+      "name": "ability-status",
+      "sourceStart": "0x5bfc2",
+      "sourceEnd": "0x5c0ea",
+      "target": "0x237000",
+      "translatedLabels": 6
+    },
+    {
+      "name": "item-actions",
+      "sourceStart": "0x3a4b5",
+      "sourceEnd": "0x3a4db",
+      "target": "0x238000",
+      "translatedLabels": 4
+    }
+  ],
+  "opening": {
+    "translated": true,
+    "pointerOffset": "0x702c4",
+    "sourceStart": 682801,
+    "originalDecodedBytes": 1428,
+    "originalParagraphBytes": 1428,
+    "replacementParagraphBytes": 1657,
+    "suffixPreserved": true,
+    "relocatedOffset": "0x220000",
+    "compressedBytes": 1865
+  }
+}

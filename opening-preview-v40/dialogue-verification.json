@@ -1,0 +1,2671 @@
+{
+  "targetSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+  "scenes": [
+    {
+      "name": "spell-chants",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "稻妻啊啊啊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "轟隆轟隆轟隆": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "轟隆轟隆閃光": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "轟隆閃光": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 86,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的攻擊力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹啊啊啊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "千金丹啊啊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "萬金丹啊啊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "全體金丹啊啊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 36,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "撲向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 37,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "咬住了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 38,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "猛烈撞向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 39,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "擋開了攻擊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 40,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被打飛了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 41,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "發出了低吼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 42,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "舔呀舔": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 43,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "撲向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 44,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "抓傷了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 45,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "酒潑向了敵人": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 46,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "戳中了敵人的眼睛": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 47,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "把藥用的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "餵給了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 48,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "飛撲向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 49,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了守護之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 50,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了金丹之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 51,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了千金丹之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 52,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "用鳥喙啄中了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "穴位": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 53,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了解毒之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 11,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "小小波浪啊啊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 51,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飛呀飛燕——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 52,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "穿牆脫身——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 53,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "避鬼退散——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 54,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哩喲哩囉哩——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 55,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "避災避邪——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 56,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "海流——": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 2,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "偷竊失敗了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 6,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對一名敵人必定造成傷害": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "消耗最大體力的四分之一": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 7,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "以目前攻擊力四分之三的力量": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "消耗最大體力的三分之一": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 8,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "能對一名敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "消耗最大體力的二分之一": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 9,
+      "frames": 2400,
+      "changedFrames": 18,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使出了拍掌": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 10,
+      "frames": 2400,
+      "changedFrames": 22,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使出了推掌": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 11,
+      "frames": 2400,
+      "changedFrames": 18,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使出了頭槌": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 12,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "剩餘的體力不足": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 68,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "偷竊失敗了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 0,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "海龜": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "乙姬大人在裡面的房間": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "請快一點": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 10,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "您在哪裡啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 52,
+      "frames": 4800,
+      "changedFrames": 64,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "龍宮城那間緊閉的房間": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "請往這邊走": {
+          "frame": "frame-2640.ppm",
+          "x": 44,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 4,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "真不甘心": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "連救乙姬大人的力量都沒有": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就只有您了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 7,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "究竟會變成怎樣啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 13,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "這座龍宮若落入鬼族手中": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "請先稍作休息": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 14,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食水餓鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "本來正想逼乙姬": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "哇哈哈哈": {
+          "frame": "frame-1500.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 0,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "請讓我們跨越波浪吧": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 1,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "我會一直為各位敞開": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "祝你們平安": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 10,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "您在哪裡啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "kintarou-festival-farewell",
+      "firstIndex": 0,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "有什麼事很好玩嗎": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我們走吧": {
+          "frame": "frame-1680.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "kintarou-festival-farewell",
+      "firstIndex": 1,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "替各位打聽消息去啦": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "決定獨自踏上旅途": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 104
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "kintarou-festival-farewell",
+      "firstIndex": 2,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "看完祭典再走不就好了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我們走吧": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 0,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生第一次": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "踏上討伐鬼族的旅程": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不肯離開地獄呢": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 1,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族最崇尚的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "所以他借用伐折羅王之名": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "替自己效力": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 2,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "您是來": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "尋找月之鏡的吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "臥龍的試煉才行": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 3,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "接受臥龍試煉的人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請問要由誰前往呢": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "由": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1020.ppm",
+          "x": 56,
+          "y": 80
+        },
+        "對吧": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 5,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "等您不再猶豫時": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "再過來吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 6,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請從那個洞口": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "臥龍的認可": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-treasure-hall",
+      "firstIndex": 7,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用月之鏡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就能知道月之水晶的下落": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "願月亮庇佑您": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 0,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "自從輝夜姬": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "幸好有住在村裡的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "鬼族才無法進來": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之鏡能映出": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "月之水晶的所在": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "它就在寶物殿裡": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 2,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想要取得月之鏡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "臥龍的試煉": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 3,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "當時有一位不願透露姓名的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "那位大人明明也是鬼族": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了村莊的那位大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "笛子吹得非常好呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 5,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想不到鬼族之中": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "竟然也有那麼出色的": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "真令人驚訝": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 6,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "沒有見到輝夜姬大人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "平安無事就好了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "quiet-village-residents",
+      "firstIndex": 7,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "非得搭乘月之舟不可了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "實在辦不到啊": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "garyuu-trial",
+      "firstIndex": 0,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "臥龍": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "渴求月之鏡的人嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "garyuu-trial",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那就離去吧": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "可以踏足的地方": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "garyuu-trial",
+      "firstIndex": 2,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "傳說中的月之鏡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "在我面前展現你的力量吧": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "garyuu-trial",
+      "firstIndex": 3,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "臥龍": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "遵循月之鏡的指引": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "重新綻放吧": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "garyuu-trial",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "遵循月之鏡的指引": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "重新綻放吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "garyuu-trial",
+      "firstIndex": 5,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "臥龍": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "你的力量似乎還不夠": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "再來挑戰吧": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 0,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "聽說月之水晶裡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "一定有她的用意": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 1,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅從以前起": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "或許正因迦樓羅貪得無厭": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "無欲無求的閻魔吧": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 2,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "輝夜姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "是連結月亮與人類的人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一直很在意這件事": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 3,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就能開啟通往鬼島的道路": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 4,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "傳說藍色隕星": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "能夠鍛鍊勇氣之劍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "親自證實過這件事": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 5,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "您那小小的身軀裡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "也請不要太勉強自己": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "說了也是白說吧": {
+          "frame": "frame-1680.ppm",
+          "x": 68,
+          "y": 88
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 6,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大地如波浪般翻騰": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就連與月亮共度數千年的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "也不知道是否還平安": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 7,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "勇氣之劍能藉由藍色隕星": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "也要去嗎": {
+          "frame": "frame-1500.ppm",
+          "x": 92,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 8,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "勇者真正的試煉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "絕對沒有錯": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 9,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這樣啊": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "繼續沿著階梯往下走": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "協助您的": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 10,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "看來我的妹妹星夜": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "對月亮上的居民來說": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "先生": {
+          "frame": "frame-1500.ppm",
+          "x": 116,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 11,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "絕望是一種": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "從中重新站起的堅強心志": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "您一定能夠明白": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 12,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之民不懂得": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "月之民若遭到鬼族襲擊": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "根本沒有勝算": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 13,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "夕月大人的住處": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 14,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "小女子名叫夕月": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "您打聽的黃昏之夢": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "惡夢呢": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 15,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "阿闍世王子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "竟然會在這裡遇見你們": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 16,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夕月": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "恐怕是迦樓羅信口胡說": {
+          "frame": "frame-2580.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "快回地上去": {
+          "frame": "frame-2880.ppm",
+          "x": 44,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 17,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "我也有不祥的預感": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "回到地上吧": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 18,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我是夕月": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "竟然做出這麼殘酷的事": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "如此強烈的怒火": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "yuuzuki-moon-events",
+      "firstIndex": 19,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我正在尋找": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "才將妹妹託付給你": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "她就拜託你了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-karura-history",
+      "firstIndex": 0,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那是達伊達王子": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "還沒在地獄出生時的事": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "獻給了伐折羅王": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-karura-history",
+      "firstIndex": 1,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅和閻魔王": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "都只能憑自己的智慧與力量": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "竟然會相差這麼遠呢": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-karura-history",
+      "firstIndex": 2,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "謊言": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "被迦樓羅犧牲的鬼族": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "兩百個啊": {
+          "frame": "frame-1440.ppm",
+          "x": 104,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-karura-history",
+      "firstIndex": 3,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "阿闍世王子說過": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就自己開出一條路": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "前往月宮嗎": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-karura-history",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我們根本沒有辦法": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "輝夜姬大人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-karura-history",
+      "firstIndex": 5,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這麼冷清的村莊": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "鬼族想要的寶物呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-karura-history",
+      "firstIndex": 6,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恐怕連鬼族也": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "輝夜姬大人真正的力量吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 0,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "想聽聽月亮公主被鬼族抓走": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "的往事嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "是啊": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那是個悲傷的故事": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "不要聽比較好": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 2,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族之王伐折羅王": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "已經是很久以前的事了": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就是輝夜姬": {
+          "frame": "frame-3060.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 3,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "這場討伐鬼族的旅程": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就永遠不會結束": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "阿闍世王子說過": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "他都要前往月宮": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 5,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "這個世界的力量": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 6,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "落在勇氣之劍上嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "對吧": {
+          "frame": "frame-1500.ppm",
+          "x": 116,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 7,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那把閃耀的勇氣之劍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "祝您大展身手": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 8,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蹦蹦跳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "一起搗年糕的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "現在做不到了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 9,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "如果輝夜姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就會發生可怕的事": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "會就此毀滅": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 10,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "能這樣見到": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我就稍微安心了些": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "藍色隕星般的光芒": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 11,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我能夠占卜": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "可是藍色隕星落下的時間": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "無法準確占卜出來": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 12,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "連占卜的結果": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "都能夠超越呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 13,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就連天道安排的命運": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "根本無法預知啊": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 14,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "輝夜姬大人似乎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "輝夜姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "明明是宮殿的主人": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 15,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "您說黃昏之夢": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "像石頭這麼實在的東西": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "這麼虛幻的名字嗎": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "moon-princess-history",
+      "firstIndex": 16,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "萬一輝夜姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請您務必救出輝夜姬大人": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-dialogue-retry"
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 12,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "學會了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "之術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-learning"
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 21,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "遭到了突襲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v40-release-ambush"
+    }
+  ],
+  "actualStoryRouteVerified": false
+}

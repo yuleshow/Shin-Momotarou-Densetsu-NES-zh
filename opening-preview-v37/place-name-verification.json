@@ -1,0 +1,636 @@
+{
+  "targetSha256": "b4f7d64a740ea2906c2fda9c949563a8fcf6dd236c647e567ca02367538f820c",
+  "labels": [
+    {
+      "index": 0,
+      "label": "[02a0]的老家",
+      "originalHex": "02a0a8189a199a"
+    },
+    {
+      "index": 1,
+      "label": "啟程村",
+      "originalHex": "199b199ca0a81814"
+    },
+    {
+      "index": 2,
+      "label": "滾飯糰洞",
+      "originalHex": "94b09cdf99bab7bd"
+    },
+    {
+      "index": 3,
+      "label": "飯糰村",
+      "originalHex": "94b09cdf1814"
+    },
+    {
+      "index": 4,
+      "label": "麻雀旅館一號店",
+      "originalHex": "9c19feb1a89419b052"
+    },
+    {
+      "index": 5,
+      "label": "麻雀旅館二號店",
+      "originalHex": "9c19feb1a89419b053"
+    },
+    {
+      "index": 6,
+      "label": "麻雀旅館三號店",
+      "originalHex": "9c19feb1a89419b054"
+    },
+    {
+      "index": 7,
+      "label": "麻雀旅館四號店",
+      "originalHex": "9c19feb1a89419b055"
+    },
+    {
+      "index": 8,
+      "label": "麻雀旅館五號店",
+      "originalHex": "9c19feb1a89419b056"
+    },
+    {
+      "index": 9,
+      "label": "麻雀旅館六號店",
+      "originalHex": "9c19feb1a89419b057"
+    },
+    {
+      "index": 10,
+      "label": "麻雀旅館七號店",
+      "originalHex": "9c19feb1a89419b058"
+    },
+    {
+      "index": 11,
+      "label": "松葉山",
+      "originalHex": "184318f01889"
+    },
+    {
+      "index": 12,
+      "label": "花咲村洞窟",
+      "originalHex": "1981198295a81814a819861987"
+    },
+    {
+      "index": 13,
+      "label": "鹿角之里",
+      "originalHex": "199d199ea8199f"
+    },
+    {
+      "index": 14,
+      "label": "花咲村",
+      "originalHex": "1981198295a81814"
+    },
+    {
+      "index": 15,
+      "label": "無聲洞窟",
+      "originalHex": "198518f29ba819861987"
+    },
+    {
+      "index": 16,
+      "label": "足柄山",
+      "originalHex": "198a198b1889"
+    },
+    {
+      "index": 17,
+      "label": "金太郎村",
+      "originalHex": "180318011802a81814"
+    },
+    {
+      "index": 18,
+      "label": "浦島村",
+      "originalHex": "18041805a81814"
+    },
+    {
+      "index": 19,
+      "label": "養老瀑布",
+      "originalHex": "198c198da8198e"
+    },
+    {
+      "index": 20,
+      "label": "龍宮城",
+      "originalHex": "18de19a019a1"
+    },
+    {
+      "index": 21,
+      "label": "大江山",
+      "originalHex": "184019ea1889"
+    },
+    {
+      "index": 22,
+      "label": "寢太郎村",
+      "originalHex": "180618011802a81814"
+    },
+    {
+      "index": 23,
+      "label": "寢太郎之穴",
+      "originalHex": "180618011802a819eb"
+    },
+    {
+      "index": 24,
+      "label": "大太郎庵",
+      "originalHex": "be9518011802a81989"
+    },
+    {
+      "index": 25,
+      "label": "冰之塔",
+      "originalHex": "1896a81991"
+    },
+    {
+      "index": 26,
+      "label": "微笑村",
+      "originalHex": "adad93afa81814"
+    },
+    {
+      "index": 27,
+      "label": "希望之都",
+      "originalHex": "19a419a5a819a6"
+    },
+    {
+      "index": 28,
+      "label": "伸長怪森林",
+      "originalHex": "dfba80bda81af0"
+    },
+    {
+      "index": 29,
+      "label": "眾神之里",
+      "originalHex": "180d19a7a8199f"
+    },
+    {
+      "index": 30,
+      "label": "風神谷",
+      "originalHex": "180c180da819ba"
+    },
+    {
+      "index": 31,
+      "label": "伏龍洞窟",
+      "originalHex": "18a51910a819861987"
+    },
+    {
+      "index": 32,
+      "label": "雷神洞窟",
+      "originalHex": "180b180da819861987"
+    },
+    {
+      "index": 33,
+      "label": "左源內庵",
+      "originalHex": "19f019f119f2a81989"
+    },
+    {
+      "index": 34,
+      "label": "鬼族牢獄",
+      "originalHex": "18dba819ed1904"
+    },
+    {
+      "index": 35,
+      "label": "露肚怪之里",
+      "originalHex": "a9b6da9ba8199f"
+    },
+    {
+      "index": 36,
+      "label": "猴蟹村",
+      "originalHex": "049ab895a503a81814"
+    },
+    {
+      "index": 37,
+      "label": "山姥洞窟",
+      "originalHex": "b3aebddea819861987"
+    },
+    {
+      "index": 38,
+      "label": "竹取村",
+      "originalHex": "184419adb7a81814"
+    },
+    {
+      "index": 39,
+      "label": "黃泉之塔",
+      "originalHex": "18e61999a81991"
+    },
+    {
+      "index": 40,
+      "label": "彩虹洞窟",
+      "originalHex": "19efa819861987"
+    },
+    {
+      "index": 41,
+      "label": "寧靜村",
+      "originalHex": "19b195a81814"
+    },
+    {
+      "index": 42,
+      "label": "豐饒村",
+      "originalHex": "19b295a81814"
+    },
+    {
+      "index": 43,
+      "label": "月之宮殿",
+      "originalHex": "1892a819a019b3"
+    },
+    {
+      "index": 44,
+      "label": "風暴村",
+      "originalHex": "18f4a81814"
+    },
+    {
+      "index": 45,
+      "label": "鬼島",
+      "originalHex": "18dbd01805"
+    },
+    {
+      "index": 46,
+      "label": "地獄・三途川",
+      "originalHex": "189c190460188119fda819bb"
+    },
+    {
+      "index": 47,
+      "label": "地獄・黑繩地獄",
+      "originalHex": "189c19046018e819f5189c1904"
+    },
+    {
+      "index": 48,
+      "label": "地獄・血池地獄",
+      "originalHex": "189c190460189fa819f6189c1904"
+    },
+    {
+      "index": 49,
+      "label": "地獄・眾合地獄",
+      "originalHex": "189c19046019f719f8189c1904"
+    },
+    {
+      "index": 50,
+      "label": "地獄・焦熱地獄",
+      "originalHex": "189c19046019f919fa189c1904"
+    },
+    {
+      "index": 51,
+      "label": "地獄・極寒地獄",
+      "originalHex": "189c19046018f519fb189c1904"
+    },
+    {
+      "index": 52,
+      "label": "地獄・大焦熱地獄",
+      "originalHex": "189c190460184019f919fa189c1904"
+    },
+    {
+      "index": 53,
+      "label": "地獄・阿鼻地獄",
+      "originalHex": "189c19046018c619fc189c1904"
+    },
+    {
+      "index": 54,
+      "label": "伐折羅王之間",
+      "originalHex": "1a871a6a19141841a819b6"
+    },
+    {
+      "index": 55,
+      "label": "月之祠",
+      "originalHex": "1892a81af1"
+    },
+    {
+      "index": 56,
+      "label": "神仙鄉",
+      "originalHex": "180d198819ae"
+    },
+    {
+      "index": 57,
+      "label": "七夕村",
+      "originalHex": "19a919aaa81814"
+    },
+    {
+      "index": 58,
+      "label": "夢之村",
+      "originalHex": "19eea81814"
+    },
+    {
+      "index": 59,
+      "label": "海之庵",
+      "originalHex": "18d4a81989"
+    },
+    {
+      "index": 60,
+      "label": "仙人庵",
+      "originalHex": "19881847a81989"
+    },
+    {
+      "index": 61,
+      "label": "新村",
+      "originalHex": "19c99b911814"
+    },
+    {
+      "index": 62,
+      "label": "奈落洞窟",
+      "originalHex": "19f319f4a819861987"
+    },
+    {
+      "index": 63,
+      "label": "人魚村",
+      "originalHex": "184718eea81814"
+    },
+    {
+      "index": 64,
+      "label": "金丹仙人庵",
+      "originalHex": "02b019881847a81989"
+    },
+    {
+      "index": 65,
+      "label": "稻妻仙人庵",
+      "originalHex": "1a7e1a7f19881847a81989"
+    },
+    {
+      "index": 66,
+      "label": "鹿角仙人庵",
+      "originalHex": "199d199e19881847a81989"
+    },
+    {
+      "index": 67,
+      "label": "解毒仙人庵",
+      "originalHex": "dd97989b19881847a81989"
+    },
+    {
+      "index": 68,
+      "label": "避鬼仙人庵",
+      "originalHex": "94a5b59819881847a81989"
+    },
+    {
+      "index": 69,
+      "label": "脫身仙人庵",
+      "originalHex": "a698da9b19881847a81989"
+    },
+    {
+      "index": 70,
+      "label": "天之仙人塔",
+      "originalHex": "188ca819881847a81991"
+    },
+    {
+      "index": 71,
+      "label": "避魔仙人庵",
+      "originalHex": "aeb59819881847a81989"
+    },
+    {
+      "index": 72,
+      "label": "浮游仙人庵",
+      "originalHex": "abb49219881847a81989"
+    },
+    {
+      "index": 73,
+      "label": "放屁仙人庵",
+      "originalHex": "ad92aa19881847a81989"
+    },
+    {
+      "index": 74,
+      "label": "萬金仙人庵",
+      "originalHex": "aebd96bd19881847a81989"
+    },
+    {
+      "index": 75,
+      "label": "金瘡仙人庵",
+      "originalHex": "96bd9e9219881847a81989"
+    },
+    {
+      "index": 76,
+      "label": "海之仙人庵",
+      "originalHex": "18d4a819881847a81989"
+    },
+    {
+      "index": 77,
+      "label": "[09]城",
+      "originalHex": "0919a1"
+    },
+    {
+      "index": 78,
+      "label": "五重塔",
+      "originalHex": "194c1994a81991"
+    },
+    {
+      "index": 79,
+      "label": "月之洞窟",
+      "originalHex": "1892a819861987"
+    },
+    {
+      "index": 80,
+      "label": "怨恨洞窟",
+      "originalHex": "19ecafa819861987"
+    },
+    {
+      "index": 81,
+      "label": "漂泊之島",
+      "originalHex": "9aaeb5921805"
+    },
+    {
+      "index": 82,
+      "label": "雪原",
+      "originalHex": "1807185b"
+    },
+    {
+      "index": 83,
+      "label": "機關村",
+      "originalHex": "95b697b7a81814"
+    },
+    {
+      "index": 84,
+      "label": "原野",
+      "originalHex": "1933185b"
+    },
+    {
+      "index": 85,
+      "label": "月亮",
+      "originalHex": "1892"
+    },
+    {
+      "index": 86,
+      "label": "臥龍洞窟",
+      "originalHex": "18ca1910a819861987"
+    }
+  ],
+  "travelLabels": [
+    {
+      "index": 0,
+      "label": "啟程村",
+      "locationIndex": 1,
+      "originalHex": "199b199ca0a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 1,
+      "label": "飯糰村",
+      "locationIndex": 3,
+      "originalHex": "94b09cdf1814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 2,
+      "label": "麻雀旅館一號店",
+      "locationIndex": 4,
+      "originalHex": "9c19feb1a89419b052",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 3,
+      "label": "花咲村",
+      "locationIndex": 14,
+      "originalHex": "1981198295a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 4,
+      "label": "金太郎村",
+      "locationIndex": 17,
+      "originalHex": "180318011802a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 5,
+      "label": "麻雀旅館二號店",
+      "locationIndex": 5,
+      "originalHex": "9c19feb1a89419b053",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 6,
+      "label": "浦島村",
+      "locationIndex": 18,
+      "originalHex": "18041805a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 7,
+      "label": "寧靜村",
+      "locationIndex": 41,
+      "originalHex": "19b195a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 8,
+      "label": "寢太郎村左側",
+      "locationIndex": 22,
+      "originalHex": "180618011802a8181419f0",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 9,
+      "label": "麻雀旅館三號店",
+      "locationIndex": 6,
+      "originalHex": "9c19feb1a89419b054",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 10,
+      "label": "微笑村",
+      "locationIndex": 26,
+      "originalHex": "19a219a3afa81814",
+      "alternateJapaneseSpelling": true
+    },
+    {
+      "index": 11,
+      "label": "希望之都",
+      "locationIndex": 27,
+      "originalHex": "19a419a5a819a6",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 12,
+      "label": "麻雀旅館四號店",
+      "locationIndex": 7,
+      "originalHex": "9c19feb1a89419b055",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 13,
+      "label": "麻雀旅館五號店",
+      "locationIndex": 8,
+      "originalHex": "9c19feb1a89419b056",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 14,
+      "label": "新村",
+      "locationIndex": 61,
+      "originalHex": "19c99b911814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 15,
+      "label": "夢之村",
+      "locationIndex": 58,
+      "originalHex": "19eea81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 16,
+      "label": "猴蟹村",
+      "locationIndex": 36,
+      "originalHex": "049ab895a503a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 17,
+      "label": "麻雀旅館六號店",
+      "locationIndex": 9,
+      "originalHex": "9c19feb1a89419b057",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 18,
+      "label": "機關村",
+      "locationIndex": 83,
+      "originalHex": "95b697b7a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 19,
+      "label": "七夕村",
+      "locationIndex": 57,
+      "originalHex": "19a919aaa81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 20,
+      "label": "麻雀旅館七號店",
+      "locationIndex": 10,
+      "originalHex": "9c19feb1a89419b058",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 21,
+      "label": "竹取村",
+      "locationIndex": 38,
+      "originalHex": "184419adb7a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 22,
+      "label": "風暴村",
+      "locationIndex": 44,
+      "originalHex": "18f4a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 23,
+      "label": "月之宮殿",
+      "locationIndex": 43,
+      "originalHex": "1892a819a019b3",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 24,
+      "label": "豐饒村",
+      "locationIndex": 42,
+      "originalHex": "19b295a81814",
+      "alternateJapaneseSpelling": false
+    },
+    {
+      "index": 25,
+      "label": "鬼島",
+      "locationIndex": 45,
+      "originalHex": "18dbd01805",
+      "alternateJapaneseSpelling": false
+    }
+  ],
+  "canonicalLocations": 87,
+  "travelDestinations": 26,
+  "allSourceControlsPreserved": true,
+  "allTravelNamesMatchLocations": true,
+  "allLabelsWithoutKana": true,
+  "nativeLocationScenes": 87,
+  "nativeTravelMenuCases": 14,
+  "dynamicNameControlsPreserved": [
+    "02a0",
+    "09"
+  ],
+  "allNaturalMapTransitionsVerified": false
+}

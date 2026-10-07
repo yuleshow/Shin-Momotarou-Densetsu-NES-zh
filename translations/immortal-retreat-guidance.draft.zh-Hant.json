@@ -1,0 +1,28 @@
+{
+  "pointerOffset": "0x701a7",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "immortal-retreat-guidance",
+  "decodedBytes": 1107,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 14 source records reviewed. 神仙郷 is 神仙鄉 and is distinct from 神々の里. Preserve the stated popularity-over-90 welcome, eight immortals, sunken 勇氣鎧甲 and 天樹種子 route to 七夕村 via a small southern island.",
+    "Karura's backstory contrasts concern for friends with ambition and stolen credit. ばっかんき provisionally rendered 巴坎鬼 pending proper-name research; retain the original kana here for follow-up."
+  ],
+  "records": {
+    "0": "「勇氣鎧甲似乎，\n沉在海底！\n希望你能找到啊！」",
+    "1": "「哦！[02a0]啊！\n人氣終於超過９０了嗎！\n嗚嘻嘻……」\n「八位仙人，\n早就引頸期盼著，\n你來到這裡的這一天！」\n「來吧！[02a0]！\n快進去吧！\n嗚嘻嘻！」",
+    "2": "「嗚嘻嘻……！」\n\n\n「這裡只有，\n真心受到人們愛戴的人，\n才有資格進入！」\n「人氣只有[0a]的話，\n還不能讓你進去啊！」\n",
+    "3": "「看來你很努力，\n在討伐鬼族呢！\n這個送你！嗚嘻嘻！」",
+    "4": "「今後也要，\n繼續努力，\n討伐鬼族啊！」",
+    "5": "「不好好完成，\n仙人的修行，\n可贏不了鬼族喔！」",
+    "6": "「神仙鄉是我們仙人，\n休憩的地方！」\n\n「像這樣從高處，\n往下望去，\n會看見原本看不見的事物……」\n「這是我們，\n一點點心意，\n給你的鼓勵！」",
+    "7": "「迦樓羅和閻魔王，\n明明都出身貧困家庭，\n卻走上了截然不同的路……」\n「迦樓羅缺少的，\n就是珍惜朋友的心啊！」\n",
+    "8": "「想聽迦樓羅的故事嗎？」\n\n\n「迦樓羅沒有力量，\n只好一直擁立別人，\n想藉此飛黃騰達！」\n「最初是，\n銀之鬼、金之鬼，\n巴坎鬼、酒吞童子！」\n「他看上那些，\n還默默無名的傢伙，\n派去戰鬥來打響名聲！」\n「聽說有時，\n連阿修羅的功勞都搶走，\n好替自己揚名呢！」",
+    "9": "「[02a0]！這是我們，\n給可愛弟子，\n一點點鼓勵！」",
+    "10": "「再辛苦也別灰心，\n一定要完成討伐鬼族！\n我一直都在看著你！」",
+    "11": "「嗚嘻嘻！[02a0]！\n我是天之仙人！\n過得好嗎？」\n「我得到了一樣有趣的東西，\n所以特地，\n拿來送給你！」\n「這叫天樹種子，\n能長成一棵，\n直達七夕村的大樹！」",
+    "12": "「七夕村裡住著天女！\n她們見多識廣，\n也許能幫上討伐鬼族的忙！」",
+    "13": "「七夕村可以從，\n南邊的小島前往！」\n\n「島的位置，\n就由你們自己去找吧！\n再見啦！嗚嘻嘻！」"
+  }
+}

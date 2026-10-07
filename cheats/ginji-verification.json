@@ -1,0 +1,63 @@
+{
+  "cheatSha256": "274e1b63742c75e6e9b67d7002b5bcc0bc5e66f0672f622458d127b01af513a6",
+  "characterId": "0d",
+  "statIndex": 12,
+  "runs": [
+    {
+      "version": "original",
+      "mode": "hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "original",
+      "mode": "mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "original",
+      "mode": "both",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v21",
+      "mode": "hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v21",
+      "mode": "mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v21",
+      "mode": "both",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    }
+  ],
+  "actualBattleAndSpellUseVerified": false,
+  "installedAt": "2026-10-01T05:32:01.528Z",
+  "devicePath": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+  "deviceSha256": "7911706421039b6fb9c7ed45dd088fec3d2c5915a9b6ad32bb3d0d50853ac625",
+  "previousDeviceSha256": "0b4997d194507600da63aa432a5b3ccdadf31df8a9a94e935e38ea8550801c23",
+  "backup": "/var/folders/rc/016sqsys46q6f9p4mn0tp34c0000gn/T/momotaro-cheats-before-ginji-CBpyc9/Shin Momotarou Densetsu (Traditional Chinese).cht",
+  "existingCheatFieldsPreserved": true,
+  "newCheatsDefaultOff": true,
+  "romUnchanged": true,
+  "unchangedSaveFiles": 39,
+  "changedSaves": [],
+  "saveEntriesUnchanged": true,
+  "savesWrittenOrRestored": false,
+  "physicalDeviceActivationVerified": false
+}

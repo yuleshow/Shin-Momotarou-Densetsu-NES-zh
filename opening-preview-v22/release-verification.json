@@ -1,0 +1,165 @@
+{
+  "version": "v22",
+  "status": "deployed-readback-verified",
+  "deploymentReport": "deployment-verification.json",
+  "targetSha256": "83095c7cc470cd1090d58943b71e184b8ee25c4678c9af853f2ea9461a946660",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV21": 64,
+  "glyphs": 1497,
+  "glyphCapacity": 1600,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 1086,
+    "untranslatedRecords": 6702,
+    "emptyRecords": 82
+  },
+  "screenshots": [
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-221722.png",
+      "sha256": "40dbf4f232cb296777cad4fff8ab0e39cddf6d6c84d164bec2c8d65483707e46",
+      "cases": [
+        "spell-messages:0",
+        "spell-messages:2",
+        "spell-chants:1"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-222826.png",
+      "sha256": "9297790c9b728b3d08b9be6c5c1c2836a913018d629a5254946ce2b3b35acd84",
+      "cases": [],
+      "note": "Only emulator save notification detected, outside ROM text"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-223718.png",
+      "sha256": "e080476239e4934b63ec4307119a8d1d47cc6092315803c77e12ec68a1c5c955",
+      "cases": [
+        "battle-effects:86"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-223917.png",
+      "sha256": "dea3d57ceca62757f0902a8eac93824e39d70623b5bca1e60239aa9fa7318838",
+      "cases": [
+        "equipment-effects:16"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-224700.png",
+      "sha256": "57d93ee45ce8e69aca7a11d5614efff58b1d6c399574473caccec9184b6c8897",
+      "cases": [
+        "equipment-effects:16"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-224702.png",
+      "sha256": "68eec75c0632ca16844db1752b4acdc6d375c70711f732da773dafebc193f8fe",
+      "cases": [
+        "battle-messages:156",
+        "battle-messages:157"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-224955.png",
+      "sha256": "40775f1ae25f48ad9bb85ccf1f20c07705c5f0dfe3d08cdfd714cea5a338c02a",
+      "cases": [
+        "field-messages:53"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-225334.png",
+      "sha256": "2d85e289c242ea807c803b88acdd38db51398d34e290534c1f8c4f8dd55b3627",
+      "cases": [
+        "battle-messages:35"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-225418.png",
+      "sha256": "166be55eeb3c34217d5e9d4d8c3894ab8fa135ac7593af9911fda2925ff530ff",
+      "cases": [
+        "battle-effects:86"
+      ]
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-225443.png",
+      "sha256": "9859a8e99dc99fe4891564dc7c808d6b0d68e1509aba954cc38f115730da9eb2",
+      "cases": [
+        "battle-effects:86"
+      ]
+    }
+  ],
+  "pendingScreenshots": [
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-231919.png",
+      "sha256": "935079c5c6de40a92f5a0555f27f83a089f3454c1f154c2b4a6d0797aa662e9d"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234423.png",
+      "sha256": "b8dff549d91cff123d508f7c0479ae4fdef55cf112b90ccafc9aa3589e0d10fe"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234430.png",
+      "sha256": "62212e757e6f045718a9f89bcc8a8c0e2a4d383ea82ed16fef7f1678b16d2979"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234435.png",
+      "sha256": "452f29f403d7fa5144359512e98b03071f2dcd70b372ba5b5fa2819b4233fd44"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234441.png",
+      "sha256": "9d9b9e92d25e5f6d0424f22cada7456fec7bf2ab490eec51a9379a5aba673e64"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234449.png",
+      "sha256": "06ebcaff57f4150edacf11f3b94581b981c89287e7fd271432e6375a8fac5ab4"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234506.png",
+      "sha256": "037146daf8ad4a8fd43685b839e90f8b46ccc8e0d1c41ece1689516c249deafe"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234550.png",
+      "sha256": "5380e70c8a7a1f3193633b7fbe6c7b1182a533d0826851c7fcfa49c54c3051b4"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-234557.png",
+      "sha256": "2e7de6bfd1663b3f61baad9c2e5f640a104576acf2584ca272af4d80dbdf2111"
+    }
+  ],
+  "pendingSourceEdits": [
+    "main-messages:101 discovery message",
+    "equipment:221 rabbit tabi"
+  ],
+  "screenshotReview": "Vision OCR matched to original ROM glyphs and indexed text; emulator notifications excluded. Not a manual all-pixel legibility review.",
+  "verification": {
+    "dialogueScenes": 89,
+    "exactDialogueWords": 125,
+    "dialogueSuitePartial": true,
+    "newRecordCases": 64,
+    "sourceControlFramesIdentical": true,
+    "fullMenuSuitePassed": true,
+    "savedShopResults": [
+      1,
+      0,
+      0
+    ],
+    "savedCaveActorDataIdentical": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v22",
+    "sha256": "83095c7cc470cd1090d58943b71e184b8ee25c4678c9af853f2ea9461a946660",
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Full playthrough",
+    "Physical device boot",
+    "All new messages in natural gameplay",
+    "Every glyph visually inspected"
+  ]
+}

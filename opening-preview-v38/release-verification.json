@@ -1,0 +1,57 @@
+{
+  "version": "v38",
+  "status": "locally-verified-not-deployed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "0fdde8d9e933bf8c56c842fdefc35b64418b567844d50c830493a09de317d86e",
+  "addedRecordsSinceV37": 98,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2889,
+    "untranslatedRecords": 4899,
+    "emptyRecords": 82
+  },
+  "glyphs": 1995,
+  "glyphCapacity": 2112,
+  "previousTranslationsPreserved": true,
+  "fieldRecordsTranslated": 119,
+  "fieldRecordsTotal": 192,
+  "netarouRecordsTranslated": 29,
+  "verification": {
+    "nativeDialogueScenes": 166,
+    "exactWords": 281,
+    "originalRelocationFramesIdentical": true,
+    "previewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNamesAndReadingsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "ipsRoundtripPassed": true
+  },
+  "device": {
+    "deployed": false,
+    "lastVerifiedVersion": "v37",
+    "lastVerifiedSha256": "b4f7d64a740ea2906c2fda9c949563a8fcf6dd236c647e567ca02367538f820c",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false,
+    "cheatsWritten": false
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "All prior dialogue suites on this exact hash",
+    "Natural Netarou event progression",
+    "Natural companion command execution and all dynamic values",
+    "Combined direction display: individual fragments pass; artificial flat concatenation clips both Japanese and Chinese and does not model the native caller"
+  ],
+  "remainingJapanese": [
+    "4899 catalog records",
+    "Companion default and saved names",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph"
+  ]
+}

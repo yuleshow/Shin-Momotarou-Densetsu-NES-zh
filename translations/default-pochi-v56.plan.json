@@ -1,0 +1,10 @@
+{
+  "version": "v56",
+  "baseDirectory": "verification/residual-v55",
+  "manifest": "translations/default-pochi-v56.release.json",
+  "addedIndexedEntries": 0,
+  "status": "native-verified-scope-only-not-released",
+  "drafts": [],
+  "defaultPochi": true,
+  "defaultKiko": true
+}

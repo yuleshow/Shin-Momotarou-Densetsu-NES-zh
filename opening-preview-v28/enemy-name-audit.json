@@ -1,0 +1,3679 @@
+{
+  "auditedAt": "2026-10-01T23:01:17.993Z",
+  "version": "v28",
+  "targetSha256": "7b25d20e6192297155fcc3f69e7971b790fbbcb02ad0cd4e6bd4a8c5c5f6e09f",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "summary": {
+    "nameSlots": 248,
+    "nonemptyNameSlots": 247,
+    "emptyNameSlots": 1,
+    "translatedNameSlots": 15,
+    "retainedOriginalNameSlots": 232,
+    "distinctOriginalGlyphNames": 231,
+    "duplicateGroups": 10,
+    "inconsistentDuplicateTranslations": [],
+    "readingSlots": 248,
+    "nonemptyReadingSlots": 247,
+    "translatedReadingSlots": 0,
+    "blankOcrForNonemptyNames": [
+      9,
+      106,
+      177,
+      190,
+      229
+    ]
+  },
+  "manualGlyphReview": {
+    "image": "enemy-name-audit-rare-glyphs.png",
+    "ocrBlankNamesHaveVisibleOriginalGlyphs": true,
+    "entries": [
+      { "index": 9, "reading": "たく", "note": "Rare-kanji transcription remains unconfirmed; original glyphs are visible." },
+      { "index": 106, "source": "一切", "reading": "いっさい" },
+      { "index": 177, "source": "コマヒキ", "reading": "こまひき" },
+      { "index": 190, "source": "羅刹", "reading": "らせつ" },
+      { "index": 229, "source": "アジャセ王子", "reading": "あじゃせおうじ" }
+    ]
+  },
+  "checks": {
+    "all248NameIndexesPreserved": true,
+    "allDeclaredTranslationsEncodedExactly": true,
+    "untranslatedNameBytesUnchanged": true,
+    "readingPointerAndCompressedDataUnchanged": true,
+    "translatedNamesWithinSynthetic104PixelColumn": true,
+    "actualBattleLayoutForEveryEnemyVerified": false,
+    "ocrIsAuthoritativeTranscription": false
+  },
+  "scope": "All slots of the indexed enemy-name and phonetic-reading tables, including bosses, teachers, duplicate encounters and possible internal labels; nonempty does not prove an active encounter.",
+  "duplicateGroups": [
+    {
+      "indexes": [
+        38,
+        39
+      ],
+      "sourceOcr": [
+        "燈台鬼"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        72,
+        73
+      ],
+      "sourceOcr": [
+        "見えない敵"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        212,
+        213,
+        214,
+        215
+      ],
+      "sourceOcr": [
+        "うわん"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        221,
+        222
+      ],
+      "sourceOcr": [
+        "カルラ"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        224,
+        225,
+        226,
+        227,
+        228
+      ],
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "translatedIndexes": [
+        224,
+        225,
+        226,
+        227,
+        228
+      ],
+      "translations": [
+        "達伊達王子"
+      ],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        233,
+        234,
+        235
+      ],
+      "sourceOcr": [
+        "風神"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        236,
+        237
+      ],
+      "sourceOcr": [
+        "雷神"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        240,
+        241
+      ],
+      "sourceOcr": [
+        "鹿角仙人"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        242,
+        243
+      ],
+      "sourceOcr": [
+        "ふゆう仙大"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    },
+    {
+      "indexes": [
+        244,
+        245
+      ],
+      "sourceOcr": [
+        "まんきん仙人"
+      ],
+      "translatedIndexes": [],
+      "translations": [],
+      "mixedTranslationStatus": false
+    }
+  ],
+  "records": [
+    {
+      "index": 0,
+      "offset": "0x71087",
+      "originalHex": "",
+      "sourceOcr": [],
+      "readingOcr": [],
+      "status": "empty",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-0.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-0.pgm"
+    },
+    {
+      "index": 1,
+      "offset": "0x71088",
+      "originalHex": "18ab18db",
+      "sourceOcr": [
+        "赤鬼"
+      ],
+      "readingOcr": [
+        "あかおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-1.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-1.pgm"
+    },
+    {
+      "index": 2,
+      "offset": "0x7108d",
+      "originalHex": "18c218db",
+      "sourceOcr": [
+        "青鬼"
+      ],
+      "readingOcr": [
+        "あおおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-2.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-2.pgm"
+    },
+    {
+      "index": 3,
+      "offset": "0x71092",
+      "originalHex": "180b18db",
+      "sourceOcr": [
+        "審鬼"
+      ],
+      "readingOcr": [
+        "らいぎ"
+      ],
+      "declaredSource": "雷鬼",
+      "translation": "雷鬼",
+      "status": "translated",
+      "translationPixelsWide": 24,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-3.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-3.pgm"
+    },
+    {
+      "index": 4,
+      "offset": "0x71097",
+      "originalHex": "95a718f31888",
+      "sourceOcr": [
+        "かね子"
+      ],
+      "readingOcr": [
+        "かねどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-4.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-4.pgm"
+    },
+    {
+      "index": 5,
+      "offset": "0x7109e",
+      "originalHex": "1896a818db",
+      "sourceOcr": [
+        "氷の鬼"
+      ],
+      "readingOcr": [
+        "こおりのおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-5.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-5.pgm"
+    },
+    {
+      "index": 6,
+      "offset": "0x710a4",
+      "originalHex": "18e818db",
+      "sourceOcr": [
+        "黑鬼"
+      ],
+      "readingOcr": [
+        "くろおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-6.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-6.pgm"
+    },
+    {
+      "index": 7,
+      "offset": "0x710a9",
+      "originalHex": "bbb6e118db",
+      "sourceOcr": [
+        "わらべ鬼"
+      ],
+      "readingOcr": [
+        "わらべおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-7.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-7.pgm"
+    },
+    {
+      "index": 8,
+      "offset": "0x710af",
+      "originalHex": "9aa3b7bbf5e3",
+      "sourceOcr": [
+        "さとりわっぱ"
+      ],
+      "readingOcr": [
+        "さとりわっぱ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-8.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-8.pgm"
+    },
+    {
+      "index": 9,
+      "offset": "0x710b6",
+      "originalHex": "18a118cb",
+      "sourceOcr": [],
+      "readingOcr": [
+        "たく"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-9.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-9.pgm"
+    },
+    {
+      "index": 10,
+      "offset": "0x710bb",
+      "originalHex": "18a918c1",
+      "sourceOcr": [
+        "沙門"
+      ],
+      "readingOcr": [
+        "しゃもん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-10.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-10.pgm"
+    },
+    {
+      "index": 11,
+      "offset": "0x710c0",
+      "originalHex": "aaa3daae",
+      "sourceOcr": [
+        "ひとだま"
+      ],
+      "readingOcr": [
+        "ひとだま"
+      ],
+      "declaredSource": "ひとだま",
+      "translation": "鬼火",
+      "status": "translated",
+      "translationPixelsWide": 24,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-11.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-11.pgm"
+    },
+    {
+      "index": 12,
+      "offset": "0x710c5",
+      "originalHex": "188e18c7188f",
+      "sourceOcr": [
+        "不知火"
+      ],
+      "readingOcr": [
+        "しらめい"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-12.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-12.pgm"
+    },
+    {
+      "index": 13,
+      "offset": "0x710cc",
+      "originalHex": "abb6b7188f",
+      "sourceOcr": [
+        "ふら的火"
+      ],
+      "readingOcr": [
+        "ふらりび"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-13.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-13.pgm"
+    },
+    {
+      "index": 14,
+      "offset": "0x710d2",
+      "originalHex": "18e7188f",
+      "sourceOcr": [
+        "漁火"
+      ],
+      "readingOcr": [
+        "いさりび"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-14.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-14.pgm"
+    },
+    {
+      "index": 15,
+      "offset": "0x710d7",
+      "originalHex": "0492d7d2b203",
+      "sourceOcr": [
+        "ウズグモ"
+      ],
+      "readingOcr": [
+        "うずぐも"
+      ],
+      "declaredSource": "ウズグモ",
+      "translation": "渦蜘蛛",
+      "status": "translated",
+      "translationPixelsWide": 36,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-15.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-15.pgm"
+    },
+    {
+      "index": 16,
+      "offset": "0x710de",
+      "originalHex": "04d6d2b203",
+      "sourceOcr": [
+        "ジグモ"
+      ],
+      "readingOcr": [
+        "じぐも"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-16.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-16.pgm"
+    },
+    {
+      "index": 17,
+      "offset": "0x710e4",
+      "originalHex": "04adb6aab1d2b203",
+      "sourceOcr": [
+        "ホラヒメグモ"
+      ],
+      "readingOcr": [
+        "ほらひめぐも"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-17.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-17.pgm"
+    },
+    {
+      "index": 18,
+      "offset": "0x710ed",
+      "originalHex": "04a1a0d2b203",
+      "sourceOcr": [
+        "ツチグモ"
+      ],
+      "readingOcr": [
+        "つちぐも"
+      ],
+      "declaredSource": "ツチグモ",
+      "translation": "土蜘蛛",
+      "status": "translated",
+      "translationPixelsWide": 36,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-18.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-18.pgm"
+    },
+    {
+      "index": 19,
+      "offset": "0x710f4",
+      "originalHex": "04bb9cb9a4d2b203",
+      "sourceOcr": [
+        "ワスレ ナグモ"
+      ],
+      "readingOcr": [
+        "わすれなぐも"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-19.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-19.pgm"
+    },
+    {
+      "index": 20,
+      "offset": "0x710fd",
+      "originalHex": "049494aab1d2b203",
+      "sourceOcr": [
+        "オオピメグモ"
+      ],
+      "readingOcr": [
+        "おおひめぐも"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-20.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-20.pgm"
+    },
+    {
+      "index": 21,
+      "offset": "0x71106",
+      "originalHex": "189c189d",
+      "sourceOcr": [
+        "地出"
+      ],
+      "readingOcr": [
+        "じむ1"
+      ],
+      "declaredSource": "地虫",
+      "translation": "地蟲",
+      "status": "translated",
+      "translationPixelsWide": 24,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-21.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-21.pgm"
+    },
+    {
+      "index": 22,
+      "offset": "0x7110b",
+      "originalHex": "04a8dca003",
+      "sourceOcr": [
+        "ノツチ"
+      ],
+      "readingOcr": [
+        "のづら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-22.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-22.pgm"
+    },
+    {
+      "index": 23,
+      "offset": "0x71111",
+      "originalHex": "bc92a5",
+      "sourceOcr": [
+        "きうに"
+      ],
+      "readingOcr": [
+        "きうに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-23.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-23.pgm"
+    },
+    {
+      "index": 24,
+      "offset": "0x71115",
+      "originalHex": "9bf89298b6",
+      "sourceOcr": [
+        "しょうけら"
+      ],
+      "readingOcr": [
+        "しょうけら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-24.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-24.pgm"
+    },
+    {
+      "index": 25,
+      "offset": "0x7111b",
+      "originalHex": "04a395d303",
+      "sourceOcr": [
+        "トカゲ"
+      ],
+      "readingOcr": [
+        "とかげ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-25.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-25.pgm"
+    },
+    {
+      "index": 26,
+      "offset": "0x71121",
+      "originalHex": "180304a395d303",
+      "sourceOcr": [
+        "金トカゲ"
+      ],
+      "readingOcr": [
+        "きんとかげ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-26.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-26.pgm"
+    },
+    {
+      "index": 27,
+      "offset": "0x71129",
+      "originalHex": "049593b803",
+      "sourceOcr": [
+        "カエル"
+      ],
+      "readingOcr": [
+        "かえる"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-27.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-27.pgm"
+    },
+    {
+      "index": 28,
+      "offset": "0x7112f",
+      "originalHex": "049499df9603",
+      "sourceOcr": [
+        "オコビキ"
+      ],
+      "readingOcr": [
+        "おこびき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-28.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-28.pgm"
+    },
+    {
+      "index": 29,
+      "offset": "0x71136",
+      "originalHex": "04d0ae03",
+      "sourceOcr": [
+        "く"
+      ],
+      "readingOcr": [
+        "がま"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-29.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-29.pgm"
+    },
+    {
+      "index": 30,
+      "offset": "0x7113b",
+      "originalHex": "04aa9603",
+      "sourceOcr": [
+        "ヒキ"
+      ],
+      "readingOcr": [
+        "另收"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-30.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-30.pgm"
+    },
+    {
+      "index": 31,
+      "offset": "0x71140",
+      "originalHex": "04a9b7a7d7af03",
+      "sourceOcr": [
+        "ハリネズミ"
+      ],
+      "readingOcr": [
+        "はりねずみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-31.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-31.pgm"
+    },
+    {
+      "index": 32,
+      "offset": "0x71148",
+      "originalHex": "188918f4",
+      "sourceOcr": [
+        "山風"
+      ],
+      "readingOcr": [
+        "やまあらし"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-32.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-32.pgm"
+    },
+    {
+      "index": 33,
+      "offset": "0x7114d",
+      "originalHex": "184018a304a9b7a7d7af03",
+      "sourceOcr": [
+        "大耳ハリネズミ"
+      ],
+      "readingOcr": [
+        "おおみみはりねずみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-33.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-33.pgm"
+    },
+    {
+      "index": 34,
+      "offset": "0x71159",
+      "originalHex": "18d218f29b18db",
+      "sourceOcr": [
+        "首無し鬼"
+      ],
+      "readingOcr": [
+        "くびなしおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-34.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-34.pgm"
+    },
+    {
+      "index": 35,
+      "offset": "0x71161",
+      "originalHex": "18dd18db",
+      "sourceOcr": [
+        "馬鬼"
+      ],
+      "readingOcr": [
+        "うまおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-35.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-35.pgm"
+    },
+    {
+      "index": 36,
+      "offset": "0x71166",
+      "originalHex": "188d18db",
+      "sourceOcr": [
+        "牛鬼"
+      ],
+      "readingOcr": [
+        "うしおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-36.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-36.pgm"
+    },
+    {
+      "index": 37,
+      "offset": "0x7116b",
+      "originalHex": "18c818db",
+      "sourceOcr": [
+        "狐鬼"
+      ],
+      "readingOcr": [
+        "きつねおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-37.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-37.pgm"
+    },
+    {
+      "index": 38,
+      "offset": "0x71170",
+      "originalHex": "1911189718db",
+      "sourceOcr": [
+        "燈台鬼"
+      ],
+      "readingOcr": [
+        "とうだいき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-38.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-38.pgm"
+    },
+    {
+      "index": 39,
+      "offset": "0x71177",
+      "originalHex": "1911189718db",
+      "sourceOcr": [
+        "燈台鬼"
+      ],
+      "readingOcr": [
+        "とうだいき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-39.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-39.pgm"
+    },
+    {
+      "index": 40,
+      "offset": "0x7117e",
+      "originalHex": "190a18db",
+      "sourceOcr": [
+        "［鬼"
+      ],
+      "readingOcr": [
+        "がき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-40.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-40.pgm"
+    },
+    {
+      "index": 41,
+      "offset": "0x71183",
+      "originalHex": "18d11890190a18db",
+      "sourceOcr": [
+        "食水餓鬼"
+      ],
+      "readingOcr": [
+        "じきすいがき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-41.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-41.pgm"
+    },
+    {
+      "index": 42,
+      "offset": "0x7118c",
+      "originalHex": "18d11940190a18db",
+      "sourceOcr": [
+        "食吐餓鬼"
+      ],
+      "readingOcr": [
+        "じきとがき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-42.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-42.pgm"
+    },
+    {
+      "index": 43,
+      "offset": "0x71195",
+      "originalHex": "18e118e1190a18db",
+      "sourceOcr": [
+        "殺殺鬼"
+      ],
+      "readingOcr": [
+        "せつせつがき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-43.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-43.pgm"
+    },
+    {
+      "index": 44,
+      "offset": "0x7119e",
+      "originalHex": "18d1188f18d3190a18db",
+      "sourceOcr": [
+        "食火炭餓鬼"
+      ],
+      "readingOcr": [
+        "じきかたんがき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-44.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-44.pgm"
+    },
+    {
+      "index": 45,
+      "offset": "0x711a9",
+      "originalHex": "18d1189f190a18db",
+      "sourceOcr": [
+        "食血餓鬼"
+      ],
+      "readingOcr": [
+        "じきけつがき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-45.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-45.pgm"
+    },
+    {
+      "index": 46,
+      "offset": "0x711b2",
+      "originalHex": "91b3daa59abd",
+      "sourceOcr": [
+        "いやだにさん"
+      ],
+      "readingOcr": [
+        "いやだにさん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-46.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-46.pgm"
+    },
+    {
+      "index": 47,
+      "offset": "0x711b9",
+      "originalHex": "9f9fb7b2f598",
+      "sourceOcr": [
+        "たたりもっけ"
+      ],
+      "readingOcr": [
+        "たたりもっけ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-47.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-47.pgm"
+    },
+    {
+      "index": 48,
+      "offset": "0x711c0",
+      "originalHex": "a6f5e6abadab",
+      "sourceOcr": [
+        "ゆっぺふほふ"
+      ],
+      "readingOcr": [
+        "ゆっぺふほふ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-48.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-48.pgm"
+    },
+    {
+      "index": 49,
+      "offset": "0x711c7",
+      "originalHex": "ddabb299abb2",
+      "sourceOcr": [
+        "どふもこふも"
+      ],
+      "readingOcr": [
+        "どふもこふも"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-49.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-49.pgm"
+    },
+    {
+      "index": 50,
+      "offset": "0x711ce",
+      "originalHex": "18e618df18ad",
+      "sourceOcr": [
+        "黄粉坊"
+      ],
+      "readingOcr": [
+        "きなこぼう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-50.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-50.pgm"
+    },
+    {
+      "index": 51,
+      "offset": "0x711d5",
+      "originalHex": "def595bd96",
+      "sourceOcr": [
+        "ぱっかんぎ"
+      ],
+      "readingOcr": [
+        "ぱっかんぎ"
+      ],
+      "declaredSource": "ばっかんき",
+      "translation": "巴坎鬼",
+      "status": "translated",
+      "translationPixelsWide": 36,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-51.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-51.pgm"
+    },
+    {
+      "index": 52,
+      "offset": "0x711db",
+      "originalHex": "18a418ae18f31888",
+      "sourceOcr": [
+        "伊吹童子"
+      ],
+      "readingOcr": [
+        "いぶきどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-52.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-52.pgm"
+    },
+    {
+      "index": 53,
+      "offset": "0x711e4",
+      "originalHex": "18f218f2",
+      "sourceOcr": [
+        "無無"
+      ],
+      "readingOcr": [
+        "むむ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-53.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-53.pgm"
+    },
+    {
+      "index": 54,
+      "offset": "0x711e9",
+      "originalHex": "0491a89b9b03",
+      "sourceOcr": [
+        "インシジ"
+      ],
+      "readingOcr": [
+        ".L",
+        "1001"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-54.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-54.pgm"
+    },
+    {
+      "index": 55,
+      "offset": "0x711f0",
+      "originalHex": "188997d6b6",
+      "sourceOcr": [
+        "山じら"
+      ],
+      "readingOcr": [
+        "やまくじら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-55.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-55.pgm"
+    },
+    {
+      "index": 56,
+      "offset": "0x711f6",
+      "originalHex": "0495bb91a89b9b03",
+      "sourceOcr": [
+        "カワイノシシ"
+      ],
+      "readingOcr": [
+        "かおいのしL"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-56.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-56.pgm"
+    },
+    {
+      "index": 57,
+      "offset": "0x711ff",
+      "originalHex": "95d0a0",
+      "sourceOcr": [
+        "かがち"
+      ],
+      "readingOcr": [
+        "かがち"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-57.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-57.pgm"
+    },
+    {
+      "index": 58,
+      "offset": "0x71203",
+      "originalHex": "d6b0d2b7",
+      "sourceOcr": [
+        "じむぐり"
+      ],
+      "readingOcr": [
+        "じむぐり"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-58.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-58.pgm"
+    },
+    {
+      "index": 59,
+      "offset": "0x71208",
+      "originalHex": "04b3a3a895af03",
+      "sourceOcr": [
+        "アトノカミ"
+      ],
+      "readingOcr": [
+        "やどのかみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-59.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-59.pgm"
+    },
+    {
+      "index": 60,
+      "offset": "0x71210",
+      "originalHex": "18c918db",
+      "sourceOcr": [
+        "堅鬼"
+      ],
+      "readingOcr": [
+        "订ぎ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-60.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-60.pgm"
+    },
+    {
+      "index": 61,
+      "offset": "0x71215",
+      "originalHex": "190c18db",
+      "sourceOcr": [
+        "魅鬼"
+      ],
+      "readingOcr": [
+        "房心"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-61.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-61.pgm"
+    },
+    {
+      "index": 62,
+      "offset": "0x7121a",
+      "originalHex": "190b18db",
+      "sourceOcr": [
+        "魃鬼"
+      ],
+      "readingOcr": [
+        "ぱっき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-62.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-62.pgm"
+    },
+    {
+      "index": 63,
+      "offset": "0x7121f",
+      "originalHex": "0495b69c03",
+      "sourceOcr": [
+        "カラス"
+      ],
+      "readingOcr": [
+        "からす"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-63.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-63.pgm"
+    },
+    {
+      "index": 64,
+      "offset": "0x71225",
+      "originalHex": "04af9a9603",
+      "sourceOcr": [
+        "ミサキ"
+      ],
+      "readingOcr": [
+        "みさぎ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-64.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-64.pgm"
+    },
+    {
+      "index": 65,
+      "offset": "0x7122b",
+      "originalHex": "0492afddb703",
+      "sourceOcr": [
+        "ウミドリ"
+      ],
+      "readingOcr": [
+        "うみどり"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-65.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-65.pgm"
+    },
+    {
+      "index": 66,
+      "offset": "0x71232",
+      "originalHex": "04b39fd0b69c03",
+      "sourceOcr": [
+        "ヤタガラス"
+      ],
+      "readingOcr": [
+        "やたがらす"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-66.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-66.pgm"
+    },
+    {
+      "index": 67,
+      "offset": "0x7123a",
+      "originalHex": "0495b69c03188c18c4",
+      "sourceOcr": [
+        "カラス天河"
+      ],
+      "readingOcr": [
+        "からすてんぐ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-67.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-67.pgm"
+    },
+    {
+      "index": 68,
+      "offset": "0x71244",
+      "originalHex": "188ba818f0188c18c4",
+      "sourceOcr": [
+        "本の葉天狗"
+      ],
+      "readingOcr": [
+        "このはてんぐ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-68.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-68.pgm"
+    },
+    {
+      "index": 69,
+      "offset": "0x7124e",
+      "originalHex": "18c618db",
+      "sourceOcr": [
+        "阿鬼"
+      ],
+      "readingOcr": [
+        "あぎ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-69.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-69.pgm"
+    },
+    {
+      "index": 70,
+      "offset": "0x71253",
+      "originalHex": "18af18db",
+      "sourceOcr": [
+        "吽鬼"
+      ],
+      "readingOcr": [
+        "うんき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-70.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-70.pgm"
+    },
+    {
+      "index": 71,
+      "offset": "0x71258",
+      "originalHex": "1819194e",
+      "sourceOcr": [
+        "両鉄"
+      ],
+      "readingOcr": [
+        "りょうてつ"
+      ],
+      "declaredSource": "両鉄",
+      "translation": "兩鐵",
+      "status": "translated",
+      "translationPixelsWide": 24,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-71.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-71.pgm"
+    },
+    {
+      "index": 72,
+      "offset": "0x7125d",
+      "originalHex": "18b093a491190f",
+      "sourceOcr": [
+        "見えない敵"
+      ],
+      "readingOcr": [
+        "みえないてき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-72.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-72.pgm"
+    },
+    {
+      "index": 73,
+      "offset": "0x71265",
+      "originalHex": "18b093a491190f",
+      "sourceOcr": [
+        "見えない敵"
+      ],
+      "readingOcr": [
+        "みえないてき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-73.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-73.pgm"
+    },
+    {
+      "index": 74,
+      "offset": "0x7126d",
+      "originalHex": "18de191118db",
+      "sourceOcr": [
+        "竜燈鬼"
+      ],
+      "readingOcr": [
+        "りゅうとうき"
+      ],
+      "declaredSource": "竜燈鬼",
+      "translation": "龍燈鬼",
+      "status": "translated",
+      "translationPixelsWide": 36,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-74.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-74.pgm"
+    },
+    {
+      "index": 75,
+      "offset": "0x71274",
+      "originalHex": "188c191118db",
+      "sourceOcr": [
+        "天燈鬼"
+      ],
+      "readingOcr": [
+        "てんとうき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-75.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-75.pgm"
+    },
+    {
+      "index": 76,
+      "offset": "0x7127b",
+      "originalHex": "18c3",
+      "sourceOcr": [
+        "虎"
+      ],
+      "readingOcr": [
+        "どふ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-76.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-76.pgm"
+    },
+    {
+      "index": 77,
+      "offset": "0x7127e",
+      "originalHex": "189318c3",
+      "sourceOcr": [
+        "白虎"
+      ],
+      "readingOcr": [
+        "じゃっこ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-77.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-77.pgm"
+    },
+    {
+      "index": 78,
+      "offset": "0x71283",
+      "originalHex": "049f91b603",
+      "sourceOcr": [
+        "ターイ"
+      ],
+      "readingOcr": [
+        "たいぶ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-78.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-78.pgm"
+    },
+    {
+      "index": 79,
+      "offset": "0x71289",
+      "originalHex": "b2ae",
+      "sourceOcr": [
+        "もま"
+      ],
+      "readingOcr": [
+        "もま"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-79.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-79.pgm"
+    },
+    {
+      "index": 80,
+      "offset": "0x7128c",
+      "originalHex": "a8e09cae",
+      "sourceOcr": [
+        "のぶすま"
+      ],
+      "readingOcr": [
+        "のぶすま"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-80.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-80.pgm"
+    },
+    {
+      "index": 81,
+      "offset": "0x71291",
+      "originalHex": "debdddb7",
+      "sourceOcr": [
+        "ぱんどり"
+      ],
+      "readingOcr": [
+        "ぱんどり"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-81.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-81.pgm"
+    },
+    {
+      "index": 82,
+      "offset": "0x71296",
+      "originalHex": "0496a1a703",
+      "sourceOcr": [
+        "キツネ"
+      ],
+      "readingOcr": [
+        "きつね"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-82.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-82.pgm"
+    },
+    {
+      "index": 83,
+      "offset": "0x7129c",
+      "originalHex": "04d1bdd1a1a703",
+      "sourceOcr": [
+        "ギンギツネ"
+      ],
+      "readingOcr": [
+        "ぎんぎつね"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-83.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-83.pgm"
+    },
+    {
+      "index": 84,
+      "offset": "0x712a4",
+      "originalHex": "188218b1",
+      "sourceOcr": [
+        "九尾"
+      ],
+      "readingOcr": [
+        "きゅうび"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-84.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-84.pgm"
+    },
+    {
+      "index": 85,
+      "offset": "0x712a9",
+      "originalHex": "04949495af03",
+      "sourceOcr": [
+        "オオカミ"
+      ],
+      "readingOcr": [
+        "おおかみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-85.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-85.pgm"
+    },
+    {
+      "index": 86,
+      "offset": "0x712b0",
+      "originalHex": "049095949495af03",
+      "sourceOcr": [
+        "アカオオカミ"
+      ],
+      "readingOcr": [
+        "あかおおかみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-86.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-86.pgm"
+    },
+    {
+      "index": 87,
+      "offset": "0x712b9",
+      "originalHex": "188f18e2",
+      "sourceOcr": [
+        "火狼"
+      ],
+      "readingOcr": [
+        "かろう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-87.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-87.pgm"
+    },
+    {
+      "index": 88,
+      "offset": "0x712be",
+      "originalHex": "049b94aea79603",
+      "sourceOcr": [
+        "シオマネ"
+      ],
+      "readingOcr": [
+        "しおまねぎ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-88.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-88.pgm"
+    },
+    {
+      "index": 89,
+      "offset": "0x712c6",
+      "originalHex": "04d0d5af03",
+      "sourceOcr": [
+        "ガザミ"
+      ],
+      "readingOcr": [
+        "がぎみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-89.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-89.pgm"
+    },
+    {
+      "index": 90,
+      "offset": "0x712cc",
+      "originalHex": "04a899d1b7d0d5af03",
+      "sourceOcr": [
+        "ノコギリガザミ"
+      ],
+      "readingOcr": [
+        "のこぎりがぎみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-90.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-90.pgm"
+    },
+    {
+      "index": 91,
+      "offset": "0x712d6",
+      "originalHex": "1905a818c0",
+      "sourceOcr": [
+        "緑の岩"
+      ],
+      "readingOcr": [
+        "みどりのいわ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-91.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-91.pgm"
+    },
+    {
+      "index": 92,
+      "offset": "0x712dc",
+      "originalHex": "18aba818c0",
+      "sourceOcr": [
+        "赤の岩"
+      ],
+      "readingOcr": [
+        "あかのいわ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-92.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-92.pgm"
+    },
+    {
+      "index": 93,
+      "offset": "0x712e2",
+      "originalHex": "18e8a818c0",
+      "sourceOcr": [
+        "黑の岩"
+      ],
+      "readingOcr": [
+        "くろめいわ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-93.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-93.pgm"
+    },
+    {
+      "index": 94,
+      "offset": "0x712e8",
+      "originalHex": "92b8aebda3",
+      "sourceOcr": [
+        "うるまんと"
+      ],
+      "readingOcr": [
+        "うるまんと"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-94.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-94.pgm"
+    },
+    {
+      "index": 95,
+      "offset": "0x712ee",
+      "originalHex": "9e92aaa1a892",
+      "sourceOcr": [
+        "そうひつのう"
+      ],
+      "readingOcr": [
+        "そうひつのう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-95.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-95.pgm"
+    },
+    {
+      "index": 96,
+      "offset": "0x712f5",
+      "originalHex": "d6f7b0acbd97",
+      "sourceOcr": [
+        "じゅむへんく"
+      ],
+      "readingOcr": [
+        "じゅむへんく"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-96.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-96.pgm"
+    },
+    {
+      "index": 97,
+      "offset": "0x712fc",
+      "originalHex": "04b095be03",
+      "sourceOcr": [
+        "ムカデ"
+      ],
+      "readingOcr": [
+        "むかで"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-97.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-97.pgm"
+    },
+    {
+      "index": 98,
+      "offset": "0x71302",
+      "originalHex": "049094d7b095be03",
+      "sourceOcr": [
+        "アオブムカデ"
+      ],
+      "readingOcr": [
+        "あおずむかで"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-98.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-98.pgm"
+    },
+    {
+      "index": 99,
+      "offset": "0x7130b",
+      "originalHex": "049095b095be03",
+      "sourceOcr": [
+        "アカムカデ"
+      ],
+      "readingOcr": [
+        "あかむかで"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-99.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-99.pgm"
+    },
+    {
+      "index": 100,
+      "offset": "0x71313",
+      "originalHex": "189018c3",
+      "sourceOcr": [
+        "水虎"
+      ],
+      "readingOcr": [
+        "すし"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-100.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-100.pgm"
+    },
+    {
+      "index": 101,
+      "offset": "0x71318",
+      "originalHex": "d0bbbddef5a0f8",
+      "sourceOcr": [
+        "がわんばっちょ"
+      ],
+      "readingOcr": [
+        "がわんばっちょ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-101.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-101.pgm"
+    },
+    {
+      "index": 102,
+      "offset": "0x71320",
+      "originalHex": "18d418ad1898",
+      "sourceOcr": [
+        "海坊主"
+      ],
+      "readingOcr": [
+        "うみぼうず"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-102.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-102.pgm"
+    },
+    {
+      "index": 103,
+      "offset": "0x71327",
+      "originalHex": "1893190d",
+      "sourceOcr": [
+        "白蓮"
+      ],
+      "readingOcr": [
+        "びゃくれん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-103.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-103.pgm"
+    },
+    {
+      "index": 104,
+      "offset": "0x7132c",
+      "originalHex": "189e190e",
+      "sourceOcr": [
+        "死霊"
+      ],
+      "readingOcr": [
+        "しりょう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-104.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-104.pgm"
+    },
+    {
+      "index": 105,
+      "offset": "0x71331",
+      "originalHex": "18ea18ea",
+      "sourceOcr": [
+        "異異"
+      ],
+      "readingOcr": [],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-105.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-105.pgm"
+    },
+    {
+      "index": 106,
+      "offset": "0x71336",
+      "originalHex": "18801899",
+      "sourceOcr": [],
+      "readingOcr": [
+        "いっっさい"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-106.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-106.pgm"
+    },
+    {
+      "index": 107,
+      "offset": "0x7133b",
+      "originalHex": "18ca1910",
+      "sourceOcr": [
+        "臥龍"
+      ],
+      "readingOcr": [
+        "がりゅう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-107.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-107.pgm"
+    },
+    {
+      "index": 108,
+      "offset": "0x71340",
+      "originalHex": "18a51910",
+      "sourceOcr": [
+        "伏龍"
+      ],
+      "readingOcr": [
+        "ふくりゅう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-108.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-108.pgm"
+    },
+    {
+      "index": 109,
+      "offset": "0x71345",
+      "originalHex": "18e81910",
+      "sourceOcr": [
+        "黑龍"
+      ],
+      "readingOcr": [
+        "こくりゅう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-109.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-109.pgm"
+    },
+    {
+      "index": 110,
+      "offset": "0x7134a",
+      "originalHex": "04d09bf603",
+      "sourceOcr": [
+        "ガシャ"
+      ],
+      "readingOcr": [
+        "が1",
+        "Lや"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-110.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-110.pgm"
+    },
+    {
+      "index": 111,
+      "offset": "0x71350",
+      "originalHex": "18f518cb",
+      "sourceOcr": [
+        "蓚苦"
+      ],
+      "readingOcr": [],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-111.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-111.pgm"
+    },
+    {
+      "index": 112,
+      "offset": "0x71355",
+      "originalHex": "90bdaff892",
+      "sourceOcr": [
+        "あんみょう"
+      ],
+      "readingOcr": [
+        "あんみょう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-112.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-112.pgm"
+    },
+    {
+      "index": 113,
+      "offset": "0x7135b",
+      "originalHex": "98a1d0aaf892",
+      "sourceOcr": [
+        "けつがひょう"
+      ],
+      "readingOcr": [
+        "けつがひょう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-113.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-113.pgm"
+    },
+    {
+      "index": 114,
+      "offset": "0x71362",
+      "originalHex": "18cd18a9188f",
+      "sourceOcr": [
+        "雨沙火"
+      ],
+      "readingOcr": [
+        "うしゃか"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-114.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-114.pgm"
+    },
+    {
+      "index": 115,
+      "offset": "0x71369",
+      "originalHex": "1902a8180d",
+      "sourceOcr": [
+        "福の神"
+      ],
+      "readingOcr": [
+        "ふくのかみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-115.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-115.pgm"
+    },
+    {
+      "index": 116,
+      "offset": "0x7136f",
+      "originalHex": "184018e81907",
+      "sourceOcr": [
+        "大黑様"
+      ],
+      "readingOcr": [
+        "だいこくさま"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-116.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-116.pgm"
+    },
+    {
+      "index": 117,
+      "offset": "0x71376",
+      "originalHex": "18e91894180d",
+      "sourceOcr": [
+        "貢乏神"
+      ],
+      "readingOcr": [
+        "びんぼうがみ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-117.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-117.pgm"
+    },
+    {
+      "index": 118,
+      "offset": "0x7137d",
+      "originalHex": "18ab18e9",
+      "sourceOcr": [
+        "赤貢"
+      ],
+      "readingOcr": [
+        "せきひん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-118.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-118.pgm"
+    },
+    {
+      "index": 119,
+      "offset": "0x71382",
+      "originalHex": "1880189118f29b",
+      "sourceOcr": [
+        "-文無し"
+      ],
+      "readingOcr": [
+        "11巧モ，F"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-119.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-119.pgm"
+    },
+    {
+      "index": 120,
+      "offset": "0x7138a",
+      "originalHex": "0496b6910353",
+      "sourceOcr": [
+        "キラ2"
+      ],
+      "readingOcr": [
+        "きい2"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-120.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-120.pgm"
+    },
+    {
+      "index": 121,
+      "offset": "0x71391",
+      "originalHex": "188ca818ac18db",
+      "sourceOcr": [
+        "天の邪鬼"
+      ],
+      "readingOcr": [
+        "あまのじゃく"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-121.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-121.pgm"
+    },
+    {
+      "index": 122,
+      "offset": "0x71399",
+      "originalHex": "188c18d518a6",
+      "sourceOcr": [
+        "天逆每"
+      ],
+      "readingOcr": [
+        "あまのぎこ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-122.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-122.pgm"
+    },
+    {
+      "index": 123,
+      "offset": "0x713a0",
+      "originalHex": "0496b6910352",
+      "sourceOcr": [
+        "キラ1"
+      ],
+      "readingOcr": [
+        "きろい1"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-123.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-123.pgm"
+    },
+    {
+      "index": 124,
+      "offset": "0x713a7",
+      "originalHex": "1807dab8ae",
+      "sourceOcr": [
+        "雪だるま"
+      ],
+      "readingOcr": [
+        "ゆきだるま"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-124.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-124.pgm"
+    },
+    {
+      "index": 125,
+      "offset": "0x713ad",
+      "originalHex": "18921903",
+      "sourceOcr": [
+        "月猿"
+      ],
+      "readingOcr": [
+        "きざる"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-125.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-125.pgm"
+    },
+    {
+      "index": 126,
+      "offset": "0x713b2",
+      "originalHex": "04e0b8038004b2bd96038004d703",
+      "sourceOcr": [
+        "ブルーモンキーズ"
+      ],
+      "readingOcr": [
+        "ふるーもんきーず"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-126.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-126.pgm"
+    },
+    {
+      "index": 127,
+      "offset": "0x713c1",
+      "originalHex": "189f18a091049992b2b703",
+      "sourceOcr": [
+        "血吸いコウモリ"
+      ],
+      "readingOcr": [
+        "ちすいこうもり"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-127.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-127.pgm"
+    },
+    {
+      "index": 128,
+      "offset": "0x713cd",
+      "originalHex": "0495d2b69992b2b703",
+      "sourceOcr": [
+        "カグラコウモリ"
+      ],
+      "readingOcr": [
+        "かぐらこうもり"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-128.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-128.pgm"
+    },
+    {
+      "index": 129,
+      "offset": "0x713d7",
+      "originalHex": "188c18c4049992b2b703",
+      "sourceOcr": [
+        "天狗コウモリ"
+      ],
+      "readingOcr": [
+        "てんぐこうもり"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-129.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-129.pgm"
+    },
+    {
+      "index": 130,
+      "offset": "0x713e2",
+      "originalHex": "1901",
+      "sourceOcr": [
+        "獏"
+      ],
+      "readingOcr": [],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-130.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-130.pgm"
+    },
+    {
+      "index": 131,
+      "offset": "0x713e5",
+      "originalHex": "bb91b6",
+      "sourceOcr": [
+        "おいぶ"
+      ],
+      "readingOcr": [
+        "おいぶ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-131.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-131.pgm"
+    },
+    {
+      "index": 132,
+      "offset": "0x713e9",
+      "originalHex": "190418c5",
+      "sourceOcr": [
+        "獄卒"
+      ],
+      "readingOcr": [
+        "ごくそつ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-132.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-132.pgm"
+    },
+    {
+      "index": 133,
+      "offset": "0x713ee",
+      "originalHex": "95a0999bf8",
+      "sourceOcr": [
+        "からこしょ"
+      ],
+      "readingOcr": [
+        "からこしょ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-133.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-133.pgm"
+    },
+    {
+      "index": 134,
+      "offset": "0x713f4",
+      "originalHex": "97ae18f31888",
+      "sourceOcr": [
+        "くま子"
+      ],
+      "readingOcr": [
+        "くまどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-134.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-134.pgm"
+    },
+    {
+      "index": 135,
+      "offset": "0x713fb",
+      "originalHex": "9f97a8929bf8",
+      "sourceOcr": [
+        "たくのうしょ"
+      ],
+      "readingOcr": [
+        "たくのうしょ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-135.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-135.pgm"
+    },
+    {
+      "index": 136,
+      "offset": "0x71402",
+      "originalHex": "ad9b97ae18f31888",
+      "sourceOcr": [
+        "ほしくま子"
+      ],
+      "readingOcr": [
+        "ほしくまどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-136.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-136.pgm"
+    },
+    {
+      "index": 137,
+      "offset": "0x7140b",
+      "originalHex": "18ce18a7",
+      "sourceOcr": [
+        "波旬"
+      ],
+      "readingOcr": [
+        "はじゅん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-137.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-137.pgm"
+    },
+    {
+      "index": 138,
+      "offset": "0x71410",
+      "originalHex": "188e18f6",
+      "sourceOcr": [
+        "不喜"
+      ],
+      "readingOcr": [
+        "ふぎ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-138.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-138.pgm"
+    },
+    {
+      "index": 139,
+      "offset": "0x71415",
+      "originalHex": "a3b697ae18f31888",
+      "sourceOcr": [
+        "とらくま子"
+      ],
+      "readingOcr": [
+        "とらくまどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-139.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-139.pgm"
+    },
+    {
+      "index": 140,
+      "offset": "0x7141e",
+      "originalHex": "18d6188b18f31888",
+      "sourceOcr": [
+        "获木子"
+      ],
+      "readingOcr": [
+        "いばらきどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-140.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-140.pgm"
+    },
+    {
+      "index": 141,
+      "offset": "0x71427",
+      "originalHex": "18eb18ac18f31888",
+      "sourceOcr": [
+        "悪邪童子"
+      ],
+      "readingOcr": [
+        "あくじゃどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-141.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-141.pgm"
+    },
+    {
+      "index": 142,
+      "offset": "0x71430",
+      "originalHex": "18e018a218f31888",
+      "sourceOcr": [
+        "酒吞童子"
+      ],
+      "readingOcr": [
+        "しゅてんどうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-142.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-142.pgm"
+    },
+    {
+      "index": 143,
+      "offset": "0x71439",
+      "originalHex": "1914189a18c1",
+      "sourceOcr": [
+        "羅生門"
+      ],
+      "readingOcr": [
+        "らしょうもん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-143.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-143.pgm"
+    },
+    {
+      "index": 144,
+      "offset": "0x71440",
+      "originalHex": "18811883189518d7",
+      "sourceOcr": [
+        "三千世界"
+      ],
+      "readingOcr": [
+        "さんぜんせかい"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-144.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-144.pgm"
+    },
+    {
+      "index": 145,
+      "offset": "0x71449",
+      "originalHex": "a9a0d7aedfbd",
+      "sourceOcr": [
+        "はちずまびん"
+      ],
+      "readingOcr": [
+        "はちずまびん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-145.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-145.pgm"
+    },
+    {
+      "index": 146,
+      "offset": "0x71450",
+      "originalHex": "1840a9a0d7ae",
+      "sourceOcr": [
+        "大はちずま"
+      ],
+      "readingOcr": [
+        "だいはちずま"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-146.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-146.pgm"
+    },
+    {
+      "index": 147,
+      "offset": "0x71457",
+      "originalHex": "1840a9a0a397ae",
+      "sourceOcr": [
+        "大はちとくま"
+      ],
+      "readingOcr": [
+        "だいはちとくま"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-147.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-147.pgm"
+    },
+    {
+      "index": 148,
+      "offset": "0x7145f",
+      "originalHex": "9b99b1",
+      "sourceOcr": [
+        "しこめ"
+      ],
+      "readingOcr": [
+        "しこめ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-148.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-148.pgm"
+    },
+    {
+      "index": 149,
+      "offset": "0x71463",
+      "originalHex": "d6f699a1dede90",
+      "sourceOcr": [
+        "じゃこつばばあ"
+      ],
+      "readingOcr": [
+        "じゃこつばばあ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-149.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-149.pgm"
+    },
+    {
+      "index": 150,
+      "offset": "0x7146b",
+      "originalHex": "b3aebdde",
+      "sourceOcr": [
+        "やまんば"
+      ],
+      "readingOcr": [
+        "やまんば"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-150.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-150.pgm"
+    },
+    {
+      "index": 151,
+      "offset": "0x71470",
+      "originalHex": "1908189b18ed",
+      "sourceOcr": [
+        "奪衣婆"
+      ],
+      "readingOcr": [
+        "だつえば"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-151.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-151.pgm"
+    },
+    {
+      "index": 152,
+      "offset": "0x71477",
+      "originalHex": "a4aea9d3",
+      "sourceOcr": [
+        "なまはげ"
+      ],
+      "readingOcr": [
+        "なまはげ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-152.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-152.pgm"
+    },
+    {
+      "index": 153,
+      "offset": "0x7147c",
+      "originalHex": "a4b2af9f97b7",
+      "sourceOcr": [
+        "なもみたくり"
+      ],
+      "readingOcr": [
+        "なもみたくり"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-153.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-153.pgm"
+    },
+    {
+      "index": 154,
+      "offset": "0x71483",
+      "originalHex": "9b959fa9d1",
+      "sourceOcr": [
+        "しかたはぎ"
+      ],
+      "readingOcr": [
+        "しかたはぎ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-154.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-154.pgm"
+    },
+    {
+      "index": 155,
+      "offset": "0x71489",
+      "originalHex": "1807188a",
+      "sourceOcr": [
+        "雪女"
+      ],
+      "readingOcr": [
+        "浄きおんな"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-155.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-155.pgm"
+    },
+    {
+      "index": 156,
+      "offset": "0x7148e",
+      "originalHex": "1913188a",
+      "sourceOcr": [
+        "𦶥女"
+      ],
+      "readingOcr": [
+        "いそおんな"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-156.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-156.pgm"
+    },
+    {
+      "index": 157,
+      "offset": "0x71493",
+      "originalHex": "94188c18db19529abd",
+      "sourceOcr": [
+        "お天鬼姉さん"
+      ],
+      "readingOcr": [
+        "おてんきねえさん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-157.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-157.pgm"
+    },
+    {
+      "index": 158,
+      "offset": "0x7149d",
+      "originalHex": "b292b7f892",
+      "sourceOcr": [
+        "もうりょう"
+      ],
+      "readingOcr": [
+        "もうりょう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-158.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-158.pgm"
+    },
+    {
+      "index": 159,
+      "offset": "0x714a3",
+      "originalHex": "a0afb292b7f892",
+      "sourceOcr": [
+        "ちみもうりょう"
+      ],
+      "readingOcr": [
+        "ちみもうりょう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-159.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-159.pgm"
+    },
+    {
+      "index": 160,
+      "offset": "0x714ab",
+      "originalHex": "18a818d9",
+      "sourceOcr": [
+        "如飛"
+      ],
+      "readingOcr": [
+        "にょひ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-160.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-160.pgm"
+    },
+    {
+      "index": 161,
+      "offset": "0x714b0",
+      "originalHex": "a693",
+      "sourceOcr": [
+        "ぬえ"
+      ],
+      "readingOcr": [
+        "ぬえ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-161.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-161.pgm"
+    },
+    {
+      "index": 162,
+      "offset": "0x714b3",
+      "originalHex": "91a1aebe",
+      "sourceOcr": [
+        "いつまで"
+      ],
+      "readingOcr": [
+        "いつまで"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-162.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-162.pgm"
+    },
+    {
+      "index": 163,
+      "offset": "0x714b8",
+      "originalHex": "96ae91b6",
+      "sourceOcr": [
+        "きまい"
+      ],
+      "readingOcr": [
+        "きまい"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-163.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-163.pgm"
+    },
+    {
+      "index": 164,
+      "offset": "0x714bd",
+      "originalHex": "1840188c18c4",
+      "sourceOcr": [
+        "大天狗"
+      ],
+      "readingOcr": [
+        "おおてんぐ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-164.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-164.pgm"
+    },
+    {
+      "index": 165,
+      "offset": "0x714c4",
+      "originalHex": "18da18e418ad",
+      "sourceOcr": [
+        "是害坊"
+      ],
+      "readingOcr": [
+        "ぜがいぼう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-165.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-165.pgm"
+    },
+    {
+      "index": 166,
+      "offset": "0x714cb",
+      "originalHex": "190918da18ad",
+      "sourceOcr": [
+        "聞是坊"
+      ],
+      "readingOcr": [
+        "もんぜぼう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-166.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-166.pgm"
+    },
+    {
+      "index": 167,
+      "offset": "0x714d2",
+      "originalHex": "a9b6da9b",
+      "sourceOcr": [
+        "はらだし"
+      ],
+      "readingOcr": [
+        "はらだし"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-167.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-167.pgm"
+    },
+    {
+      "index": 168,
+      "offset": "0x714d7",
+      "originalHex": "dfba7fbd",
+      "sourceOcr": [
+        "びろ～ん"
+      ],
+      "readingOcr": [
+        "びろ～ん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-168.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-168.pgm"
+    },
+    {
+      "index": 169,
+      "offset": "0x714dc",
+      "originalHex": "0496b6910354",
+      "sourceOcr": [
+        "キライ3"
+      ],
+      "readingOcr": [
+        "きろい3"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-169.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-169.pgm"
+    },
+    {
+      "index": 170,
+      "offset": "0x714e3",
+      "originalHex": "9091b6de9f",
+      "sourceOcr": [
+        "あいらばた"
+      ],
+      "readingOcr": [
+        "あいらばた"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-170.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-170.pgm"
+    },
+    {
+      "index": 171,
+      "offset": "0x714e9",
+      "originalHex": "188f18f1",
+      "sourceOcr": [
+        "火象"
+      ],
+      "readingOcr": [
+        "かぞう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-171.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-171.pgm"
+    },
+    {
+      "index": 172,
+      "offset": "0x714ee",
+      "originalHex": "18e818cc18f3",
+      "sourceOcr": [
+        "黑河童"
+      ],
+      "readingOcr": [
+        "くろがっぱ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-172.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-172.pgm"
+    },
+    {
+      "index": 173,
+      "offset": "0x714f5",
+      "originalHex": "1882188318ad",
+      "sourceOcr": [
+        "九千坊"
+      ],
+      "readingOcr": [
+        "きゅうせんぼう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-173.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-173.pgm"
+    },
+    {
+      "index": 174,
+      "offset": "0x714fc",
+      "originalHex": "aaf8929ce1",
+      "sourceOcr": [
+        "ひょうすべ"
+      ],
+      "readingOcr": [
+        "ひょうすべ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-174.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-174.pgm"
+    },
+    {
+      "index": 175,
+      "offset": "0x71502",
+      "originalHex": "d0909fba",
+      "sourceOcr": [
+        "があたろ"
+      ],
+      "readingOcr": [
+        "があたろ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-175.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-175.pgm"
+    },
+    {
+      "index": 176,
+      "offset": "0x71507",
+      "originalHex": "9bdea2bd",
+      "sourceOcr": [
+        "しばてん"
+      ],
+      "readingOcr": [
+        "しばてん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-176.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-176.pgm"
+    },
+    {
+      "index": 177,
+      "offset": "0x7150c",
+      "originalHex": "0499aeaa9603",
+      "sourceOcr": [],
+      "readingOcr": [
+        "こまひき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-177.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-177.pgm"
+    },
+    {
+      "index": 178,
+      "offset": "0x71513",
+      "originalHex": "0497d6b603",
+      "sourceOcr": [
+        "クジラ"
+      ],
+      "readingOcr": [
+        "くじら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-178.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-178.pgm"
+    },
+    {
+      "index": 179,
+      "offset": "0x71519",
+      "originalHex": "18d018ee",
+      "sourceOcr": [
+        "男魚"
+      ],
+      "readingOcr": [
+        "いさな"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-179.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-179.pgm"
+    },
+    {
+      "index": 180,
+      "offset": "0x7151e",
+      "originalHex": "18a918ee",
+      "sourceOcr": [
+        "沙魚"
+      ],
+      "readingOcr": [
+        "さめ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-180.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-180.pgm"
+    },
+    {
+      "index": 181,
+      "offset": "0x71523",
+      "originalHex": "049094d5b103",
+      "sourceOcr": [
+        "アオザメ"
+      ],
+      "readingOcr": [
+        "あおぎめ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-181.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-181.pgm"
+    },
+    {
+      "index": 182,
+      "offset": "0x7152a",
+      "originalHex": "049bf6990318aa",
+      "sourceOcr": [
+        "シャコ貝"
+      ],
+      "readingOcr": [
+        "しゃこがい"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-182.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-182.pgm"
+    },
+    {
+      "index": 183,
+      "offset": "0x71532",
+      "originalHex": "1840049bf6990318aa",
+      "sourceOcr": [
+        "大シャコ具"
+      ],
+      "readingOcr": [
+        "おおしゃこがい"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-183.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-183.pgm"
+    },
+    {
+      "index": 184,
+      "offset": "0x7153c",
+      "originalHex": "049adeabd203",
+      "sourceOcr": [
+        "サバフグ"
+      ],
+      "readingOcr": [
+        "さばふぐ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-184.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-184.pgm"
+    },
+    {
+      "index": 185,
+      "offset": "0x71543",
+      "originalHex": "04a3b6abd203",
+      "sourceOcr": [
+        "トラフグ"
+      ],
+      "readingOcr": [
+        "とらふぐ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-185.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-185.pgm"
+    },
+    {
+      "index": 186,
+      "offset": "0x7154a",
+      "originalHex": "18de18db18ef",
+      "sourceOcr": [
+        "竜鬼船"
+      ],
+      "readingOcr": [
+        "ゆゅうきせん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-186.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-186.pgm"
+    },
+    {
+      "index": 187,
+      "offset": "0x71551",
+      "originalHex": "189218db18ef",
+      "sourceOcr": [
+        "月鬼船"
+      ],
+      "readingOcr": [
+        "げっきせん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-187.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-187.pgm"
+    },
+    {
+      "index": 188,
+      "offset": "0x71558",
+      "originalHex": "180318dc",
+      "sourceOcr": [
+        "金剛"
+      ],
+      "readingOcr": [
+        "ごう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-188.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-188.pgm"
+    },
+    {
+      "index": 189,
+      "offset": "0x7155d",
+      "originalHex": "180318dc1816",
+      "sourceOcr": [
+        "金剛力"
+      ],
+      "readingOcr": [
+        "こんごうりき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-189.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-189.pgm"
+    },
+    {
+      "index": 190,
+      "offset": "0x71564",
+      "originalHex": "191418cf",
+      "sourceOcr": [],
+      "readingOcr": [
+        "高せ→"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-190.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-190.pgm"
+    },
+    {
+      "index": 191,
+      "offset": "0x71569",
+      "originalHex": "18e818a9191418cf",
+      "sourceOcr": [
+        "黒沙羅刹"
+      ],
+      "readingOcr": [
+        "こくしゃふせつ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-191.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-191.pgm"
+    },
+    {
+      "index": 192,
+      "offset": "0x71572",
+      "originalHex": "18eb1950",
+      "sourceOcr": [
+        "悪杖"
+      ],
+      "readingOcr": [
+        "あくじょう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-192.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-192.pgm"
+    },
+    {
+      "index": 193,
+      "offset": "0x71577",
+      "originalHex": "184018b2190418c5",
+      "sourceOcr": [
+        "大身獄卒"
+      ],
+      "readingOcr": [
+        "だいしんごくそく"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-193.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-193.pgm"
+    },
+    {
+      "index": 194,
+      "offset": "0x71580",
+      "originalHex": "184018f7190418c5",
+      "sourceOcr": [
+        "大悲獄卒"
+      ],
+      "readingOcr": [
+        "だいひごくそつ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-194.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-194.pgm"
+    },
+    {
+      "index": 195,
+      "offset": "0x71589",
+      "originalHex": "93bdde",
+      "sourceOcr": [
+        "えんは"
+      ],
+      "readingOcr": [
+        "えんは"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-195.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-195.pgm"
+    },
+    {
+      "index": 196,
+      "offset": "0x7158d",
+      "originalHex": "93bddea9",
+      "sourceOcr": [
+        "えんばは"
+      ],
+      "readingOcr": [
+        "えんばは"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-196.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-196.pgm"
+    },
+    {
+      "index": 197,
+      "offset": "0x71592",
+      "originalHex": "98bda718e5",
+      "sourceOcr": [
+        "けんね前"
+      ],
+      "readingOcr": [
+        "けんねおう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-197.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-197.pgm"
+    },
+    {
+      "index": 198,
+      "offset": "0x71598",
+      "originalHex": "b2b2bdd691",
+      "sourceOcr": [
+        "ももんじい"
+      ],
+      "readingOcr": [
+        "ももんじい"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-198.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-198.pgm"
+    },
+    {
+      "index": 199,
+      "offset": "0x7159e",
+      "originalHex": "19451946a818db",
+      "sourceOcr": [
+        "歴史の鬼"
+      ],
+      "readingOcr": [
+        "れきしのおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-199.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-199.pgm"
+    },
+    {
+      "index": 200,
+      "offset": "0x715a6",
+      "originalHex": "04d3038004b003a818db",
+      "sourceOcr": [
+        "ゲームの鬼"
+      ],
+      "readingOcr": [
+        "げーむのおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-200.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-200.pgm"
+    },
+    {
+      "index": 201,
+      "offset": "0x715b1",
+      "originalHex": "19471948a818db",
+      "sourceOcr": [
+        "数学の鬼"
+      ],
+      "readingOcr": [
+        "すうがくのおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-201.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-201.pgm"
+    },
+    {
+      "index": 202,
+      "offset": "0x715b9",
+      "originalHex": "02c0a818db",
+      "sourceOcr": [
+        "おにぎりの鬼"
+      ],
+      "readingOcr": [
+        "おにぎりのおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-202.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-202.pgm"
+    },
+    {
+      "index": 203,
+      "offset": "0x715bf",
+      "originalHex": "19511822a818db",
+      "sourceOcr": [
+        "指令の鬼"
+      ],
+      "readingOcr": [
+        "しれいのおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-203.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-203.pgm"
+    },
+    {
+      "index": 204,
+      "offset": "0x715c7",
+      "originalHex": "a8af18db",
+      "sourceOcr": [
+        "のみ鬼"
+      ],
+      "readingOcr": [
+        "のみおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-204.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-204.pgm"
+    },
+    {
+      "index": 205,
+      "offset": "0x715cc",
+      "originalHex": "194918db",
+      "sourceOcr": [
+        "豆鬼"
+      ],
+      "readingOcr": [
+        "まめおに"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-205.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-205.pgm"
+    },
+    {
+      "index": 206,
+      "offset": "0x715d1",
+      "originalHex": "188f18db",
+      "sourceOcr": [
+        "火鬼"
+      ],
+      "readingOcr": [
+        "かき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-206.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-206.pgm"
+    },
+    {
+      "index": 207,
+      "offset": "0x715d6",
+      "originalHex": "194a18db",
+      "sourceOcr": [
+        "土鬼"
+      ],
+      "readingOcr": [
+        "どき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-207.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-207.pgm"
+    },
+    {
+      "index": 208,
+      "offset": "0x715db",
+      "originalHex": "189018db",
+      "sourceOcr": [
+        "水鬼"
+      ],
+      "readingOcr": [
+        "すいき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-208.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-208.pgm"
+    },
+    {
+      "index": 209,
+      "offset": "0x715e0",
+      "originalHex": "180c18db",
+      "sourceOcr": [
+        "風鬼"
+      ],
+      "readingOcr": [
+        "ふうき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-209.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-209.pgm"
+    },
+    {
+      "index": 210,
+      "offset": "0x715e5",
+      "originalHex": "194c1943194d",
+      "sourceOcr": [
+        "五百丁"
+      ],
+      "readingOcr": [
+        "ごひゃくちょう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-210.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-210.pgm"
+    },
+    {
+      "index": 211,
+      "offset": "0x715ec",
+      "originalHex": "194e194f",
+      "sourceOcr": [
+        "鉄丸"
+      ],
+      "readingOcr": [
+        "てつがん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-211.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-211.pgm"
+    },
+    {
+      "index": 212,
+      "offset": "0x715f1",
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "readingOcr": [
+        "うわん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-212.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-212.pgm"
+    },
+    {
+      "index": 213,
+      "offset": "0x715f5",
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "readingOcr": [
+        "うわん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-213.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-213.pgm"
+    },
+    {
+      "index": 214,
+      "offset": "0x715f9",
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "readingOcr": [
+        "うわん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-214.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-214.pgm"
+    },
+    {
+      "index": 215,
+      "offset": "0x715fd",
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "readingOcr": [
+        "うわん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-215.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-215.pgm"
+    },
+    {
+      "index": 216,
+      "offset": "0x71601",
+      "originalHex": "188c18dc18db",
+      "sourceOcr": [
+        "天刚鬼"
+      ],
+      "readingOcr": [
+        "てんごうき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-216.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-216.pgm"
+    },
+    {
+      "index": 217,
+      "offset": "0x71608",
+      "originalHex": "188c190018db",
+      "sourceOcr": [
+        "天賊鬼"
+      ],
+      "readingOcr": [
+        "てんぞくき"
+      ],
+      "declaredSource": "天賊鬼",
+      "translation": "天賊鬼",
+      "status": "translated",
+      "translationPixelsWide": 36,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-217.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-217.pgm"
+    },
+    {
+      "index": 218,
+      "offset": "0x7160f",
+      "originalHex": "188c18ab18db",
+      "sourceOcr": [
+        "天赤鬼"
+      ],
+      "readingOcr": [
+        "てんせきぎ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-218.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-218.pgm"
+    },
+    {
+      "index": 219,
+      "offset": "0x71616",
+      "originalHex": "19251abb18db",
+      "sourceOcr": [
+        "石魂鬼"
+      ],
+      "readingOcr": [
+        "うこんき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-219.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-219.pgm"
+    },
+    {
+      "index": 220,
+      "offset": "0x7161d",
+      "originalHex": "19f01abb18db",
+      "sourceOcr": [
+        "左魂鬼"
+      ],
+      "readingOcr": [
+        "さこんき"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-220.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-220.pgm"
+    },
+    {
+      "index": 221,
+      "offset": "0x71624",
+      "originalHex": "0495b8b603",
+      "sourceOcr": [
+        "カルラ"
+      ],
+      "readingOcr": [
+        "かるら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-221.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-221.pgm"
+    },
+    {
+      "index": 222,
+      "offset": "0x7162a",
+      "originalHex": "0495b8b603",
+      "sourceOcr": [
+        "カルラ"
+      ],
+      "readingOcr": [
+        "かるら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-222.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-222.pgm"
+    },
+    {
+      "index": 223,
+      "offset": "0x71630",
+      "originalHex": "1a871a6a19141841",
+      "sourceOcr": [
+        "伐折羅王"
+      ],
+      "readingOcr": [
+        "ばさらおう"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-223.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-223.pgm"
+    },
+    {
+      "index": 224,
+      "offset": "0x71639",
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "readingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "status": "translated",
+      "translationPixelsWide": 60,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-224.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-224.pgm"
+    },
+    {
+      "index": 225,
+      "offset": "0x71643",
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "readingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "status": "translated",
+      "translationPixelsWide": 60,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-225.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-225.pgm"
+    },
+    {
+      "index": 226,
+      "offset": "0x7164d",
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "readingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "status": "translated",
+      "translationPixelsWide": 60,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-226.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-226.pgm"
+    },
+    {
+      "index": 227,
+      "offset": "0x71657",
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "readingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "status": "translated",
+      "translationPixelsWide": 60,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-227.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-227.pgm"
+    },
+    {
+      "index": 228,
+      "offset": "0x71661",
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "readingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "status": "translated",
+      "translationPixelsWide": 60,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-228.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-228.pgm"
+    },
+    {
+      "index": 229,
+      "offset": "0x7166b",
+      "originalHex": "0490d6f69d0318411888",
+      "sourceOcr": [],
+      "readingOcr": [
+        "あじゃせおうじ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-229.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-229.pgm"
+    },
+    {
+      "index": 230,
+      "offset": "0x71676",
+      "originalHex": "18081809180a",
+      "sourceOcr": [
+        "夜叉姬"
+      ],
+      "readingOcr": [
+        "やしゃひめ"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-230.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-230.pgm"
+    },
+    {
+      "index": 231,
+      "offset": "0x7167d",
+      "originalHex": "02ce",
+      "sourceOcr": [
+        "あしゅら"
+      ],
+      "readingOcr": [
+        "あしゅら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-231.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-231.pgm"
+    },
+    {
+      "index": 232,
+      "offset": "0x71680",
+      "originalHex": "1af318b2",
+      "sourceOcr": [
+        "分身"
+      ],
+      "readingOcr": [
+        "ふんしん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-232.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-232.pgm"
+    },
+    {
+      "index": 233,
+      "offset": "0x71685",
+      "originalHex": "180c180d",
+      "sourceOcr": [
+        "風神"
+      ],
+      "readingOcr": [
+        "ふうじん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-233.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-233.pgm"
+    },
+    {
+      "index": 234,
+      "offset": "0x7168a",
+      "originalHex": "180c180d",
+      "sourceOcr": [
+        "風神"
+      ],
+      "readingOcr": [
+        "ふうじん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-234.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-234.pgm"
+    },
+    {
+      "index": 235,
+      "offset": "0x7168f",
+      "originalHex": "180c180d",
+      "sourceOcr": [
+        "風神"
+      ],
+      "readingOcr": [
+        "ふうじん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-235.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-235.pgm"
+    },
+    {
+      "index": 236,
+      "offset": "0x71694",
+      "originalHex": "180b180d",
+      "sourceOcr": [
+        "雷神"
+      ],
+      "readingOcr": [
+        "ふいじん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-236.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-236.pgm"
+    },
+    {
+      "index": 237,
+      "offset": "0x71699",
+      "originalHex": "180b180d",
+      "sourceOcr": [
+        "雷神"
+      ],
+      "readingOcr": [
+        "ふいじん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-237.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-237.pgm"
+    },
+    {
+      "index": 238,
+      "offset": "0x7169e",
+      "originalHex": "ae9bb6",
+      "sourceOcr": [
+        "ましら"
+      ],
+      "readingOcr": [
+        "ましら"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-238.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-238.pgm"
+    },
+    {
+      "index": 239,
+      "offset": "0x716a2",
+      "originalHex": "02b019881847",
+      "sourceOcr": [
+        "きんたん仙、"
+      ],
+      "readingOcr": [
+        "に片，"
+      ],
+      "declaredSource": "きんたん仙人",
+      "translation": "金丹仙人",
+      "status": "translated",
+      "translationPixelsWide": 48,
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-239.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-239.pgm"
+    },
+    {
+      "index": 240,
+      "offset": "0x716a9",
+      "originalHex": "199d199e19881847",
+      "sourceOcr": [
+        "鹿角仙人"
+      ],
+      "readingOcr": [
+        "ろっかくせんにん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-240.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-240.pgm"
+    },
+    {
+      "index": 241,
+      "offset": "0x716b2",
+      "originalHex": "199d199e19881847",
+      "sourceOcr": [
+        "鹿角仙人"
+      ],
+      "readingOcr": [
+        "ろっかくせんにん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-241.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-241.pgm"
+    },
+    {
+      "index": 242,
+      "offset": "0x716bb",
+      "originalHex": "abb49219881847",
+      "sourceOcr": [
+        "ふゆう仙大"
+      ],
+      "readingOcr": [
+        "ふゆうせんにん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-242.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-242.pgm"
+    },
+    {
+      "index": 243,
+      "offset": "0x716c3",
+      "originalHex": "abb49219881847",
+      "sourceOcr": [
+        "ふゆう仙大"
+      ],
+      "readingOcr": [
+        "ふゆうせんにん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-243.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-243.pgm"
+    },
+    {
+      "index": 244,
+      "offset": "0x716cb",
+      "originalHex": "aebd96bd19881847",
+      "sourceOcr": [
+        "まんきん仙人"
+      ],
+      "readingOcr": [
+        "まんきんせんにん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-244.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-244.pgm"
+    },
+    {
+      "index": 245,
+      "offset": "0x716d4",
+      "originalHex": "aebd96bd19881847",
+      "sourceOcr": [
+        "まんきん仙人"
+      ],
+      "readingOcr": [
+        "まんきんせんにん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-245.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-245.pgm"
+    },
+    {
+      "index": 246,
+      "offset": "0x716dd",
+      "originalHex": "96bd9e9219881847",
+      "sourceOcr": [
+        "きんそう仙人"
+      ],
+      "readingOcr": [
+        "きんそうせんにん"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-246.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-246.pgm"
+    },
+    {
+      "index": 247,
+      "offset": "0x716e6",
+      "originalHex": "1881184a1865",
+      "sourceOcr": [
+        "三上哲"
+      ],
+      "readingOcr": [
+        "うひょー"
+      ],
+      "status": "original-name-retained",
+      "sourceImage": "/tmp/momotaro-oct1-source-NTfzea/0x7000f-247.pgm",
+      "readingImage": "/tmp/momotaro-oct1-source-HW8avM/0x70012-247.pgm"
+    }
+  ]
+}

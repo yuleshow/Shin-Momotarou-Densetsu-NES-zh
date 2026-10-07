@@ -1,0 +1,60 @@
+{
+  "targetSha256": "3195dee3f4676d40689b563f2d497727286332b9cdd57ee60a9fe0645a82332a",
+  "status": "deployed-preview",
+  "newTranslatedRecords": 125,
+  "newBlocks": [
+    {
+      "name": "hidden-passage-training",
+      "records": 5
+    },
+    {
+      "name": "avoid-encounters-training",
+      "records": 3
+    },
+    {
+      "name": "poison-escort-training",
+      "records": 6
+    },
+    {
+      "name": "golden-buddha",
+      "records": 5
+    },
+    {
+      "name": "spell-teachers",
+      "records": 106
+    }
+  ],
+  "glyphs": 1446,
+  "glyphCapacity": 1600,
+  "indexedCoverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 928,
+    "untranslatedRecords": 6860,
+    "emptyRecords": 82
+  },
+  "fullMenuRegressionPassed": true,
+  "confirmationSelectionsVerified": [
+    "yes",
+    "no",
+    "cancel"
+  ],
+  "sellLabelPositionVerified": true,
+  "dialogueScenes": 144,
+  "exactWords": 258,
+  "codecGatePassed": true,
+  "deployed": true,
+  "deviceFilesWritten": true,
+  "lastDeployedVersion": 17,
+  "lastDeployedSha256": "3195dee3f4676d40689b563f2d497727286332b9cdd57ee60a9fe0645a82332a",
+  "actualStoryRouteVerified": false,
+  "actualTrainingEventsVerified": false,
+  "spellEffectsVerified": false,
+  "fullPlaythroughVerified": false,
+  "physicalDeviceBootVerified": false,
+  "deviceReadbackVerified": true,
+  "removedScreenshotCount": 17,
+  "remainingRelatedScreenshots": 0
+}

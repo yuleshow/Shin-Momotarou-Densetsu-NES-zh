@@ -1,0 +1,5135 @@
+{
+  "targetSha256": "6a40aaedc924ec37d135d6a74358803771e88aaca91199b593c32857afb56ad6",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "equipment-effects",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "菜刀的光芒讓": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 188,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 190,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 191,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 193,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竹水筒裡的水喝光了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "如意小槌壞掉了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就能原地復活": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 28,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "背包裡的崑崙之玉": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "發出了耀眼光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 29,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "毒就會消失": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 30,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻痺": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就會解除": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 31,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "詛咒就會解除": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 32,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從混亂中恢復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 33,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "頭腦清醒了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "從混亂中恢復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 34,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "立刻痊癒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 35,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "全部恢復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 36,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復精神了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 37,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "已經喝光了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 38,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "會稍微回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 39,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只能丟掉": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 41,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吃壞了肚子": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "體力下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 42,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "修城工具": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "才能使用": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 43,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "城堡耐久度": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 44,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "術法攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 45,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就會代你承受": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 46,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "背包裡的替身地藏": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "讓我來替你承受吧": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "替身地藏碎裂了": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 47,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼道": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 48,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "獲得的金錢變為": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 49,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "作用不明": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 50,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "打擊反彈一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 147,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "帶在身上就能挖土": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "繼續前進": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 186,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這裡不能使用": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 195,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "無法使用": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發現": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "白忙": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "了一場": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "什麼也沒發生": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吃下了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吃下": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "喝下了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的水": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "分給大家": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "喝下了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "喝下": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "的水": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "喝下": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飲用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "技力回復": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "全部回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力回復": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "技力回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 19,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力回復": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 20,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "技力回復": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 21,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "技力回復": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復至一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全員體力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 24,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "全部回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 25,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飲用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復至超過最大值": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "已回復至超過最大值": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 40,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飲用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "只有露肚怪的": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "體力會全部回復": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 51,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將鬼的": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "打擊原封不動反彈": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 52,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可捕捉鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "讓對方無法逃跑": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 53,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可吸取鬼的": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "一半體力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 54,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被吸走了一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 55,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "造成的打擊量無法預料": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 56,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "碎裂了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 57,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "身體會隱形": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "不容易被鬼發現": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 58,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身影變得難以察覺了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 59,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吹響了鬼笛": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 60,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼們被笛聲吸引": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "聚集過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 61,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是這一帶": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "並沒有藏著鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 62,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼們看見鬼之狼煙": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "聚集過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 63,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是這一帶": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "並沒有藏著鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "暫時不用擔心": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會遇到鬼了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 65,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雙腳變得十分沉重": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 66,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可選擇提升": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "隨從的一項能力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 67,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "狗兒": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "能力就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 68,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "雉雞": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "能力就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 69,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "猴子": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "能力就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 70,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "可以飛回": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "最後一次存檔的地方": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 71,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只要是去過的村莊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "都能飛回去": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 72,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在洞窟或塔內使用": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能立刻離開": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 73,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "身體": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會浮在空中": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 74,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "可以將持有的一件道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "增加為兩件": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 75,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要增加哪件道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 76,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這件道具": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "無法增加": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請選擇其他物品": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 77,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對嗎": {
+          "frame": "frame-1020.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 78,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只要隨身攜帶": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "倒下時": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "就能以一點體力撐住": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 79,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "因為帶著毅力玉": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "以一點體力撐住了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 80,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能召喚鳳凰的笛子": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 81,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將天氣": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "變成烈日照射": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 82,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將天氣": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "變成萬里晴空": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 83,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將天氣": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "變成晴天": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 84,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將天氣": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "變成下雨": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 85,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將天氣": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "變成雷雨": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 86,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將天氣": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "變成下雪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 87,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不在海上": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就無法掀起風浪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 88,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可將天氣": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "變成暴風浪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 89,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在戶外使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "天氣就會改變": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 90,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "封印在石頭裡的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "龍神之力釋放了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 91,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木屐的鞋帶": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "斷掉了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 92,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒想到": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "木屐竟然": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "直直地立住了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 93,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木屐": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "正面朝上落地": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 94,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木屐": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "背面朝上落地": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 95,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木屐落地後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "不停地打轉": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 96,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒想到": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "木屐竟然": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "側著立住了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 97,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木屐": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "沉進海裡了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 98,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可對鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "使出會心一擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 99,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "碎裂了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 100,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能連續攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 101,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "碎裂了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 102,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中對伸長怪使用": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能一擊懲治對方": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 103,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被鹽吸去水分": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "乾癟了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 104,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "白忙了一場": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "終於察覺了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 105,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "閱讀後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會變得聰明": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "心的數量也會增加": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 106,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "讀了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "獲得了": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 107,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "人氣": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 108,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "最大體力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 109,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 110,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "最大技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 111,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 112,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技力沒有提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 113,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "速度": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 114,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "速度提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 115,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 116,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 117,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "防禦力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 118,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "防禦力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 119,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "最大體力減少八點": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "但最大技力增加一點": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1200.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 120,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 121,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "最大技力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 122,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技力沒有提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 123,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "最大技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會增加一點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 124,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "最大技力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就會增加兩點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 125,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雖然沒有特別的用途": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "但賣掉可以換錢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "僅供出售": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 126,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能獲得金錢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 127,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "獲得了一千兩": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 128,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "直到遇見鬼之前": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "每走一步都能獲得金錢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 129,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "突然": {
+          "frame": "frame-1020.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "碎裂了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 130,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會變成": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "另一件道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 131,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒想到": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "竟然變成了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 132,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會變成": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "另一件道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 133,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "在茶店": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就能以優惠價格購物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 134,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能免費住宿": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 135,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能免費玩夜市遊戲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 136,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不論買入或賣出": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "都是兩萬兩": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "僅供出售": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 137,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能變成露肚怪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 138,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒想到": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "竟然變成了露肚怪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 139,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "碎裂了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 140,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能倒著走路": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 141,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能側著走路": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 142,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "可以聽到風鈴": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "悅耳的聲音": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 143,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在地爐使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能生火": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 144,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後會發出聲音": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "永久": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 145,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這塊古代石板": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "是洗雪冤屈的證明": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 146,
+      "frames": 15000,
+      "changedFrames": 232,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "曾為大地帶來黑暗": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "遭到世人厭惡之人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "其名為": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "然而": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "這位": {
+          "frame": "frame-1320.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "終在祈求永久和平的": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "勇者": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "手下": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "陷入了永恆的沉眠": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "而大地再次": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "充滿耀眼的光芒": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "人們將": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "之名": {
+          "frame": "frame-1980.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "永遠傳頌": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "並將": {
+          "frame": "frame-1980.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "邪惡": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "的靈魂": {
+          "frame": "frame-2040.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "封印在這片土地": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "記於此": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "時之說書人": {
+          "frame": "frame-2340.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 148,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "也不能再使用了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 149,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能知道": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "月之水晶的位置": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 150,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這是在冰之塔中": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "能派上用場的道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 151,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "裝著冰室刨冰": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "摸起來冰涼的道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 152,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這件道具可以": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "決定建造城堡的地點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 153,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "據說使用這件道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就沒有治不好的疾病": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 154,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在海上使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能釣起各種東西": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 155,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "據說煎煮後飲用": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "能成為回復體力的藥": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 156,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "據說這顆天樹種子": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "一夜就能長成大樹": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 157,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這是十分珍貴的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "寶物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 158,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這件道具可以": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "改變城堡所在的地點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 159,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這是乙姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "贈予的玉手箱": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次限定": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 160,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "學會了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全體萬丹之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 161,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但什麼也沒發生": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 162,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這份卷軸記載著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "飛燕之術的飛行方法": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 163,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚哈哈": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "快把東西帶到": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "老夫這裡來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "別玩了": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 164,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這份地圖": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "標示著秘密地點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 165,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "輝夜姬贈予的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "月之寶物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 166,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "傳說這件道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "能讓人與眾神相會": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 167,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能查看鬼族指揮圖": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 168,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這是證明": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "你認識源內的信物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 169,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能知道": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "勇氣之劍的位置": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 170,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就能查看鬼族王室系譜": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "永久": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 171,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要對誰使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 172,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要對誰使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 173,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "並沒有受到重傷": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 174,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有人": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "受到重傷": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 175,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "中了肚子脹滿的詛咒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "再也吃不下東西了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 176,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想要吃下": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 177,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想讓": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "吃下": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 178,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "因為肚子脹滿的詛咒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "無法吃下東西": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 179,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "說明文字": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 180,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 181,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 182,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "白忙了一場": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "終於察覺了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 183,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吃下了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 184,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吃下": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 185,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "讀了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 187,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可讓一名夥伴的體力": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一次": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 189,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 192,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 194,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "回復到超越上限": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 196,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "力竭倒下了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 197,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "並沒有中毒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 198,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體內的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "毒消失了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 199,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的身體": {
+          "frame": "frame-1020.ppm",
+          "x": 56,
+          "y": 80
+        },
+        "並沒有麻痺": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 200,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身體的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "麻痺解除了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 201,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "並沒有受到詛咒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 202,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身上的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "詛咒解除了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 203,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復了生氣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "裝備後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "裝備後": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "防禦力提升": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會發生什麼事呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的身體": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "寄宿了玄武之魂": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會發生什麼事呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的身體": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "寄宿了白虎之魂": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會發生什麼事呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "朱雀之魂憤怒了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "掀起火焰漩渦": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會發生什麼事呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "青龍之魂憤怒了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "掀起猛烈暴風雪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨身裝備": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "或許就會發生好事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會發生什麼事呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夕陽的光芒灑落": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "溫柔地包圍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會發生什麼事呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "朝陽的光芒灑落": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "強而有力地包圍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "每回合都會替一名夥伴": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復少量體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "可以攻擊兩次": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "有時能讓一隻鬼的": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "防禦力下降": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 19,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飛散的火花": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "防禦力下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 20,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "雖然有時會失手": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "但能造成巨大的打擊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 21,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "每回合都會替一名夥伴": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復較多體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "每回合都會替全體": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復少量體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "菜刀的光芒": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "注入了力量": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 24,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "每回合都會替一名夥伴": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復大量體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 25,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "每回合都會替全體": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "回復體力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨身裝備": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "或許就會發生好事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹錫杖響起鈴聲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "金丹啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 28,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨身裝備": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "或許就會發生好事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 29,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "閃電錫杖響起鈴聲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "閃電啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 30,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨身裝備": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "或許就會發生好事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 31,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "驅魔錫杖響起鈴聲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "驅魔避邪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 32,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨身裝備": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "或許就會發生好事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 33,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鹿角錫杖響起鈴聲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "鹿角啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 34,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "錫杖變得更加銳利": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 35,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥中使用": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "會發生什麼事呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "敬請期待": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "equipment-effects",
+      "firstIndex": 36,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨身裝備": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "或許就會發生好事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "item-descriptions",
+    "equipment-effects"
+  ]
+}

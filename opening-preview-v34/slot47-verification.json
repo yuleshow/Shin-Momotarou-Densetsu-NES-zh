@@ -1,0 +1,13 @@
+{
+  "targetSha256": "55a39e644e75011beeb66548a6e58c9ed6b958305a48e0904ed65886a77c75e6",
+  "sourceSaveSha256": "b4f0d1416024fc1551d15be4be8f974619827371579ad843c1b0dc145896d15f",
+  "slot": 47,
+  "replayedFromUnmodifiedLocalSaveCopy": true,
+  "cheatsEnabled": false,
+  "frames": 600,
+  "inputs": "30:2:a,90:2:a",
+  "visuallyReviewed": true,
+  "result": "Post-cutscene field scene loads; aging cutscene is not replayed by this save",
+  "naturalAgingEventReplayed": false,
+  "deviceWrites": false
+}

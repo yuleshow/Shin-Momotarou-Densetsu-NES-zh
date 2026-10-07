@@ -1,0 +1,11 @@
+{
+  "version": "v56",
+  "baseDirectory": "verification/residual-v55",
+  "manifest": "verification/default-animals-v56/resolved-translation-manifest.json",
+  "addedIndexedEntries": 0,
+  "nativeMenuFollowups": true,
+  "drafts": [
+    "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+    "translations/common-status-labels-remaining.draft.zh-Hant.json"
+  ]
+}

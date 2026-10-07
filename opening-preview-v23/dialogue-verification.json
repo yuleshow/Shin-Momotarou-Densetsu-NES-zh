@@ -1,0 +1,1122 @@
+{
+  "targetSha256": "70a7098e8b3ebf167813c69f5beec785bdd6bb926dce7ecfe336443b2a94a89c",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "sparrow-inn-one",
+      "firstIndex": 0,
+      "frames": 10200,
+      "changedFrames": 154,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "天氣與法術": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "雷雨時": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "更多技力": {
+          "frame": "frame-1740.ppm",
+          "x": 116,
+          "y": 112
+        },
+        "好好記住": {
+          "frame": "frame-2160.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-one",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "東南方": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 80
+        },
+        "脫身仙人": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-one",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "松葉山": {
+          "frame": "frame-1080.ppm",
+          "x": 140,
+          "y": 80
+        },
+        "大門": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "去路": {
+          "frame": "frame-1200.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-one",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "松葉山的門": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "已經打開": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-one",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滾飯糰洞": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "飯糰村": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "sparrow-inn-one",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "飼料的店": {
+          "frame": "frame-1200.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "學會特技": {
+          "frame": "frame-1440.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "加入戰鬥": {
+          "frame": "frame-1560.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "matsuba-gate",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "果然厲害": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "獨自旅行": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "先行一步": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "打聽消息": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "matsuba-gate",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "扒手銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "各自踏上旅程": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "matsuba-gate",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要是放你過去": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "迦樓羅大人": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "matsuba-gate",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蠻力": {
+          "frame": "frame-1020.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "放馬過來": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "matsuba-gate",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要是放你過去": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "迦樓羅大人": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "matsuba-gate",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "反抗鬼族": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "鮮血": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "matsuba-gate",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要是放你過去": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "迦樓羅大人": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "lightning-hermit",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "稻妻仙人": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "稻妻之術": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "你的本事": {
+          "frame": "frame-1440.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "lightning-hermit",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "松葉山的密道": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "跟著老夫來": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "lightning-hermit",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "小機關": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "lightning-hermit",
+      "firstIndex": 3,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "再加把勁": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "期待你的表現": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "lightning-hermit",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還差得遠": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "再變強一點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "lightning-rock-trial",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "時間到了": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "lightning-rock-trial",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "時間就要不夠": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "lightning-rock-trial",
+      "firstIndex": 2,
+      "frames": 12600,
+      "changedFrames": 184,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "八塊岩石": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "數到一百": {
+          "frame": "frame-1320.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "五塊以上": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "連按Ａ鈕": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "硬度不同": {
+          "frame": "frame-1920.ppm",
+          "x": 104,
+          "y": 112
+        },
+        "用心判斷": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "開始吧": {
+          "frame": "frame-2340.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滾飯糰洞": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飯糰村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館一號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館二號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館三號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館四號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館五號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館六號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館七號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "松葉山": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 65,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "稻妻仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "ryotetsu-encounter",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "地蜘蛛襲擊過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "ryotetsu-encounter",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "土蜘蛛襲擊過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "ryotetsu-encounter",
+      "firstIndex": 2,
+      "frames": 7800,
+      "changedFrames": 113,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咕呵呵呵": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "光靠土蜘蛛": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "迦樓羅大人": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "輕而易舉": {
+          "frame": "frame-1500.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "越強越好": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "酒才更好喝": {
+          "frame": "frame-1860.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "就讓我兩鐵": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "親手收拾你": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ryotetsu-encounter",
+      "firstIndex": 3,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我是甚八": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "向您道謝": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "建好飯糰村": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "盡一份心力": {
+          "frame": "frame-1740.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ryotetsu-encounter",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "現在旅行": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "真的輕鬆多了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ryotetsu-encounter",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "輕鬆旅行的日子": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "早點到來": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "襲擊過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 24,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "襲擊過來了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 101,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發現了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 33,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寶箱裡竟然有": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "埋伏著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 34,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寶箱裡竟然有": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "埋伏著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 35,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從寶箱裡找到了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 156,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 157,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 159,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 160,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 103,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竟然": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "寶箱裡藏著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 104,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拉進了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "寶箱裡": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 105,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從寶箱裡取出了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 106,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "放回了寶箱裡": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 109,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是寶箱裡空空如也": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 54,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有睡著": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 55,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "正在沉睡": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 56,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從睡夢中醒來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 57,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身體": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "黏稠的蜘蛛絲纏住了": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 58,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蜘蛛絲被甩開了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 2,
+      "frames": 4200,
+      "changedFrames": 53,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "造成了": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "點傷害": {
+          "frame": "frame-1080.ppm",
+          "x": 42,
+          "y": 96
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "sparrow-inn-one",
+    "matsuba-gate",
+    "lightning-hermit",
+    "lightning-rock-trial",
+    "screenshot-locations",
+    "ryotetsu-encounter",
+    "main-messages",
+    "battle-messages"
+  ]
+}

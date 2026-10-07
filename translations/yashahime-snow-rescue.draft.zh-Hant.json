@@ -1,0 +1,15 @@
+{
+  "pointerOffset": "0x70264",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "yashahime-snow-rescue",
+  "decodedBytes": 272,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「啾啾！\n有個女人，\n倒在雪地裡了！」",
+    "1": "「啾啾！[02a0]先生！\n這個女人，\n難道不是夜叉姬嗎？」",
+    "2": "「啾啾！\n不好了！不好了！\n她的身體都凍僵了！」",
+    "3": "「啾啾！\n光靠我們的力量，\n搬不動她，沒法送去旅店！」",
+    "4": "銀次\n「是小的！\n小的是銀次啊！」\n「果然，那不好的，\n預感成真了嗎！」\n\n「小的一直心神不寧，\n所以追著趕過來了！」\n\n「[02a0]先生！\n總之，先把夜叉姬，\n送到那邊的旅店去吧！」"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "targetSha256": "8430627185a7bebf8cf369e5c663a70498a26c2cc02f210d93f3a5d89edb74a3",
+  "status": "passed",
+  "jobs": [
+    {
+      "name": "baseline",
+      "status": "passed"
+    },
+    {
+      "name": "control",
+      "status": "passed"
+    },
+    {
+      "name": "font",
+      "status": "passed"
+    },
+    {
+      "name": "menu",
+      "status": "passed"
+    },
+    {
+      "name": "sumo",
+      "status": "passed"
+    },
+    {
+      "name": "welcome",
+      "status": "passed"
+    },
+    {
+      "name": "battle",
+      "status": "passed"
+    },
+    {
+      "name": "labels",
+      "status": "passed"
+    },
+    {
+      "name": "tests",
+      "status": "passed"
+    },
+    {
+      "name": "rom-codec",
+      "status": "passed"
+    },
+    {
+      "name": "font-codec",
+      "status": "passed"
+    },
+    {
+      "name": "text-codec",
+      "status": "passed"
+    },
+    {
+      "name": "lz-fixtures",
+      "status": "passed"
+    },
+    {
+      "name": "catalog",
+      "status": "passed"
+    },
+    {
+      "name": "builder",
+      "status": "passed"
+    },
+    {
+      "name": "common-0",
+      "status": "passed"
+    },
+    {
+      "name": "common-1",
+      "status": "passed"
+    },
+    {
+      "name": "common-2",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-189",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-192",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-200",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-0",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-2",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-11",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-16",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-4",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-1",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-97",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-75",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-5",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-6",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-7",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-8",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-26",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-27",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-30",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-14",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-9",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-3",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-10",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-18",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-20",
+      "status": "passed"
+    }
+  ]
+}

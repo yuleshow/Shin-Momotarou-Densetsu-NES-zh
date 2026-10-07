@@ -1,0 +1,19 @@
+{
+  "status": "independently-verified",
+  "completedAt": "2026-10-07T05:43:32.944Z",
+  "version": "v65",
+  "targetSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "fullRomReadbackVerified": true,
+  "bytes": 4194304,
+  "releaseArtifactsVerified": 448,
+  "previousRomBackupVerified": true,
+  "savesVerified": 405,
+  "cheatFilesVerified": 2,
+  "screenshotFilesVerified": 15,
+  "screenshotDirectoryEntriesVerified": 215,
+  "backupsVerified": true,
+  "savesWritten": false,
+  "cheatsWritten": false,
+  "screenshotsDeleted": 0,
+  "physicalDeviceBootVerified": false
+}

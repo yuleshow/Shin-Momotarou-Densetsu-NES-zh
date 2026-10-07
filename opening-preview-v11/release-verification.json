@@ -1,0 +1,30 @@
+{
+  "targetSha256": "4f1652a1f2f54693eaa27ddc14f7549339d7eebb391c2ab5d9c83d8823d45d93",
+  "previousDeviceSha256": "0f1bc7c0bd20c38f4991bef73b06d2108dcaaa5c6262d6dccce8babbab13392e",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "deviceReadbackVerified": true,
+  "protectedFilesUnchanged": 22,
+  "relatedDeviceRoms": [
+    "Shin Momotarou Densetsu (Traditional Chinese).sfc"
+  ],
+  "releaseStatus": "partial-translation-user-approved-incomplete-runtime-verification",
+  "passed": [
+    "ROM identity and tile decoder",
+    "1111 original glyph round trips",
+    "256-byte Huffman and literal LZ round trips",
+    "166 runtime LZ fixtures",
+    "IPS round trip and SNES checksum",
+    "203 service record source/control/index checks",
+    "Service single-record source/control parity and glyph checks at indexes 38,42,46,52,53,69",
+    "Actual slot 7 shop prompt OCR preview"
+  ],
+  "unresolved": [
+    "Service index 122 bank deposit glyph assertion failed in borrowed-opening playback; reason unresolved",
+    "Full service dialogue verifier did not finish",
+    "Menu regression not rerun on this exact 908-glyph build",
+    "All battle and service effects, physical-device launch and full playthrough unverified",
+    "Names, yes/no menu, village NPCs and other untranslated text remain"
+  ],
+  "approval": "User selected deploy current test build before further bank replay investigation"
+}

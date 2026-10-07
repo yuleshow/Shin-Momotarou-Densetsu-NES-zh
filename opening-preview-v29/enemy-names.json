@@ -1,0 +1,3222 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "52d10219f8c501b33d7841c363b79304932fd1fd33ab84fae9f28843afbd54cd",
+  "localizationPolicy": "Alternate enemy labels use the corresponding Traditional Chinese names instead of Japanese ruby; slot zero remains empty. The final joke reading is localized separately.",
+  "ocrIsAuthoritative": false,
+  "entries": [
+    {
+      "index": 1,
+      "originalHex": "18ab18db",
+      "sourceOcr": [
+        "赤鬼"
+      ],
+      "sourceReadingOcr": [
+        "あかおに"
+      ],
+      "verifiedSource": "赤鬼",
+      "translation": "赤鬼",
+      "alternateLabel": "赤鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 2,
+      "originalHex": "18c218db",
+      "sourceOcr": [
+        "青鬼"
+      ],
+      "sourceReadingOcr": [
+        "あおおに"
+      ],
+      "verifiedSource": "青鬼",
+      "translation": "青鬼",
+      "alternateLabel": "青鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 3,
+      "originalHex": "180b18db",
+      "sourceOcr": [
+        "審鬼"
+      ],
+      "sourceReadingOcr": [
+        "らいぎ"
+      ],
+      "verifiedSource": "雷鬼",
+      "translation": "雷鬼",
+      "alternateLabel": "雷鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 4,
+      "originalHex": "95a718f31888",
+      "sourceOcr": [
+        "かね子"
+      ],
+      "sourceReadingOcr": [
+        "かねどうじ"
+      ],
+      "translation": "金童子",
+      "alternateLabel": "金童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 5,
+      "originalHex": "1896a818db",
+      "sourceOcr": [
+        "氷の鬼"
+      ],
+      "sourceReadingOcr": [
+        "こおりのおに"
+      ],
+      "translation": "冰鬼",
+      "alternateLabel": "冰鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 6,
+      "originalHex": "18e818db",
+      "sourceOcr": [
+        "黑鬼"
+      ],
+      "sourceReadingOcr": [
+        "くろおに"
+      ],
+      "translation": "黑鬼",
+      "alternateLabel": "黑鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 7,
+      "originalHex": "bbb6e118db",
+      "sourceOcr": [
+        "わらべ鬼"
+      ],
+      "sourceReadingOcr": [
+        "わらべおに"
+      ],
+      "translation": "童鬼",
+      "alternateLabel": "童鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 8,
+      "originalHex": "9aa3b7bbf5e3",
+      "sourceOcr": [
+        "さとりわっぱ"
+      ],
+      "sourceReadingOcr": [
+        "さとりわっぱ"
+      ],
+      "translation": "覺童",
+      "alternateLabel": "覺童",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 9,
+      "originalHex": "18a118cb",
+      "sourceOcr": [],
+      "sourceReadingOcr": [
+        "たく"
+      ],
+      "translation": "多苦",
+      "alternateLabel": "多苦",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 10,
+      "originalHex": "18a918c1",
+      "sourceOcr": [
+        "沙門"
+      ],
+      "sourceReadingOcr": [
+        "しゃもん"
+      ],
+      "translation": "沙門",
+      "alternateLabel": "沙門",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 11,
+      "originalHex": "aaa3daae",
+      "sourceOcr": [
+        "ひとだま"
+      ],
+      "sourceReadingOcr": [
+        "ひとだま"
+      ],
+      "verifiedSource": "ひとだま",
+      "translation": "鬼火",
+      "alternateLabel": "鬼火",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 12,
+      "originalHex": "188e18c7188f",
+      "sourceOcr": [
+        "不知火"
+      ],
+      "sourceReadingOcr": [
+        "しらめい"
+      ],
+      "translation": "不知火",
+      "alternateLabel": "不知火",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 13,
+      "originalHex": "abb6b7188f",
+      "sourceOcr": [
+        "ふら的火"
+      ],
+      "sourceReadingOcr": [
+        "ふらりび"
+      ],
+      "translation": "浮游火",
+      "alternateLabel": "浮游火",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 14,
+      "originalHex": "18e7188f",
+      "sourceOcr": [
+        "漁火"
+      ],
+      "sourceReadingOcr": [
+        "いさりび"
+      ],
+      "translation": "漁火",
+      "alternateLabel": "漁火",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 15,
+      "originalHex": "0492d7d2b203",
+      "sourceOcr": [
+        "ウズグモ"
+      ],
+      "sourceReadingOcr": [
+        "うずぐも"
+      ],
+      "verifiedSource": "ウズグモ",
+      "translation": "渦蜘蛛",
+      "alternateLabel": "渦蜘蛛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 16,
+      "originalHex": "04d6d2b203",
+      "sourceOcr": [
+        "ジグモ"
+      ],
+      "sourceReadingOcr": [
+        "じぐも"
+      ],
+      "translation": "地蜘蛛",
+      "alternateLabel": "地蜘蛛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 17,
+      "originalHex": "04adb6aab1d2b203",
+      "sourceOcr": [
+        "ホラヒメグモ"
+      ],
+      "sourceReadingOcr": [
+        "ほらひめぐも"
+      ],
+      "translation": "洞穴姬蛛",
+      "alternateLabel": "洞穴姬蛛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 18,
+      "originalHex": "04a1a0d2b203",
+      "sourceOcr": [
+        "ツチグモ"
+      ],
+      "sourceReadingOcr": [
+        "つちぐも"
+      ],
+      "verifiedSource": "ツチグモ",
+      "translation": "土蜘蛛",
+      "alternateLabel": "土蜘蛛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 19,
+      "originalHex": "04bb9cb9a4d2b203",
+      "sourceOcr": [
+        "ワスレ ナグモ"
+      ],
+      "sourceReadingOcr": [
+        "わすれなぐも"
+      ],
+      "translation": "勿忘蛛",
+      "alternateLabel": "勿忘蛛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 20,
+      "originalHex": "049494aab1d2b203",
+      "sourceOcr": [
+        "オオピメグモ"
+      ],
+      "sourceReadingOcr": [
+        "おおひめぐも"
+      ],
+      "translation": "大姬蛛",
+      "alternateLabel": "大姬蛛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 21,
+      "originalHex": "189c189d",
+      "sourceOcr": [
+        "地出"
+      ],
+      "sourceReadingOcr": [
+        "じむ1"
+      ],
+      "verifiedSource": "地虫",
+      "translation": "地蟲",
+      "alternateLabel": "地蟲",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 22,
+      "originalHex": "04a8dca003",
+      "sourceOcr": [
+        "ノツチ"
+      ],
+      "sourceReadingOcr": [
+        "のづら"
+      ],
+      "translation": "野槌",
+      "alternateLabel": "野槌",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 23,
+      "originalHex": "bc92a5",
+      "sourceOcr": [
+        "きうに"
+      ],
+      "sourceReadingOcr": [
+        "きうに"
+      ],
+      "translation": "木鬼",
+      "alternateLabel": "木鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 24,
+      "originalHex": "9bf89298b6",
+      "sourceOcr": [
+        "しょうけら"
+      ],
+      "sourceReadingOcr": [
+        "しょうけら"
+      ],
+      "translation": "精螻蛄",
+      "alternateLabel": "精螻蛄",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 25,
+      "originalHex": "04a395d303",
+      "sourceOcr": [
+        "トカゲ"
+      ],
+      "sourceReadingOcr": [
+        "とかげ"
+      ],
+      "translation": "蜥蜴",
+      "alternateLabel": "蜥蜴",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 26,
+      "originalHex": "180304a395d303",
+      "sourceOcr": [
+        "金トカゲ"
+      ],
+      "sourceReadingOcr": [
+        "きんとかげ"
+      ],
+      "translation": "金蜥蜴",
+      "alternateLabel": "金蜥蜴",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 27,
+      "originalHex": "049593b803",
+      "sourceOcr": [
+        "カエル"
+      ],
+      "sourceReadingOcr": [
+        "かえる"
+      ],
+      "translation": "青蛙",
+      "alternateLabel": "青蛙",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 28,
+      "originalHex": "049499df9603",
+      "sourceOcr": [
+        "オコビキ"
+      ],
+      "sourceReadingOcr": [
+        "おこびき"
+      ],
+      "translation": "奧科比基",
+      "alternateLabel": "奧科比基",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 29,
+      "originalHex": "04d0ae03",
+      "sourceOcr": [
+        "く"
+      ],
+      "sourceReadingOcr": [
+        "がま"
+      ],
+      "translation": "蛤蟆",
+      "alternateLabel": "蛤蟆",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 30,
+      "originalHex": "04aa9603",
+      "sourceOcr": [
+        "ヒキ"
+      ],
+      "sourceReadingOcr": [
+        "另收"
+      ],
+      "translation": "蟾蜍",
+      "alternateLabel": "蟾蜍",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 31,
+      "originalHex": "04a9b7a7d7af03",
+      "sourceOcr": [
+        "ハリネズミ"
+      ],
+      "sourceReadingOcr": [
+        "はりねずみ"
+      ],
+      "translation": "刺蝟",
+      "alternateLabel": "刺蝟",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 32,
+      "originalHex": "188918f4",
+      "sourceOcr": [
+        "山風"
+      ],
+      "sourceReadingOcr": [
+        "やまあらし"
+      ],
+      "translation": "豪豬",
+      "alternateLabel": "豪豬",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 33,
+      "originalHex": "184018a304a9b7a7d7af03",
+      "sourceOcr": [
+        "大耳ハリネズミ"
+      ],
+      "sourceReadingOcr": [
+        "おおみみはりねずみ"
+      ],
+      "translation": "大耳刺蝟",
+      "alternateLabel": "大耳刺蝟",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 34,
+      "originalHex": "18d218f29b18db",
+      "sourceOcr": [
+        "首無し鬼"
+      ],
+      "sourceReadingOcr": [
+        "くびなしおに"
+      ],
+      "translation": "無頭鬼",
+      "alternateLabel": "無頭鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 35,
+      "originalHex": "18dd18db",
+      "sourceOcr": [
+        "馬鬼"
+      ],
+      "sourceReadingOcr": [
+        "うまおに"
+      ],
+      "translation": "馬鬼",
+      "alternateLabel": "馬鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 36,
+      "originalHex": "188d18db",
+      "sourceOcr": [
+        "牛鬼"
+      ],
+      "sourceReadingOcr": [
+        "うしおに"
+      ],
+      "translation": "牛鬼",
+      "alternateLabel": "牛鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 37,
+      "originalHex": "18c818db",
+      "sourceOcr": [
+        "狐鬼"
+      ],
+      "sourceReadingOcr": [
+        "きつねおに"
+      ],
+      "translation": "狐鬼",
+      "alternateLabel": "狐鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 38,
+      "originalHex": "1911189718db",
+      "sourceOcr": [
+        "燈台鬼"
+      ],
+      "sourceReadingOcr": [
+        "とうだいき"
+      ],
+      "translation": "燈臺鬼",
+      "alternateLabel": "燈臺鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 39,
+      "originalHex": "1911189718db",
+      "sourceOcr": [
+        "燈台鬼"
+      ],
+      "sourceReadingOcr": [
+        "とうだいき"
+      ],
+      "translation": "燈臺鬼",
+      "alternateLabel": "燈臺鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 40,
+      "originalHex": "190a18db",
+      "sourceOcr": [
+        "［鬼"
+      ],
+      "sourceReadingOcr": [
+        "がき"
+      ],
+      "translation": "餓鬼",
+      "alternateLabel": "餓鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 41,
+      "originalHex": "18d11890190a18db",
+      "sourceOcr": [
+        "食水餓鬼"
+      ],
+      "sourceReadingOcr": [
+        "じきすいがき"
+      ],
+      "translation": "食水餓鬼",
+      "alternateLabel": "食水餓鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 42,
+      "originalHex": "18d11940190a18db",
+      "sourceOcr": [
+        "食吐餓鬼"
+      ],
+      "sourceReadingOcr": [
+        "じきとがき"
+      ],
+      "translation": "食吐餓鬼",
+      "alternateLabel": "食吐餓鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 43,
+      "originalHex": "18e118e1190a18db",
+      "sourceOcr": [
+        "殺殺鬼"
+      ],
+      "sourceReadingOcr": [
+        "せつせつがき"
+      ],
+      "verifiedSource": "殺殺餓鬼",
+      "translation": "殺殺餓鬼",
+      "alternateLabel": "殺殺餓鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 44,
+      "originalHex": "18d1188f18d3190a18db",
+      "sourceOcr": [
+        "食火炭餓鬼"
+      ],
+      "sourceReadingOcr": [
+        "じきかたんがき"
+      ],
+      "translation": "食火炭餓鬼",
+      "alternateLabel": "食火炭餓鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 45,
+      "originalHex": "18d1189f190a18db",
+      "sourceOcr": [
+        "食血餓鬼"
+      ],
+      "sourceReadingOcr": [
+        "じきけつがき"
+      ],
+      "translation": "食血餓鬼",
+      "alternateLabel": "食血餓鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 46,
+      "originalHex": "91b3daa59abd",
+      "sourceOcr": [
+        "いやだにさん"
+      ],
+      "sourceReadingOcr": [
+        "いやだにさん"
+      ],
+      "translation": "伊亞谷怪",
+      "alternateLabel": "伊亞谷怪",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 47,
+      "originalHex": "9f9fb7b2f598",
+      "sourceOcr": [
+        "たたりもっけ"
+      ],
+      "sourceReadingOcr": [
+        "たたりもっけ"
+      ],
+      "translation": "祟靈",
+      "alternateLabel": "祟靈",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 48,
+      "originalHex": "a6f5e6abadab",
+      "sourceOcr": [
+        "ゆっぺふほふ"
+      ],
+      "sourceReadingOcr": [
+        "ゆっぺふほふ"
+      ],
+      "translation": "肉人",
+      "alternateLabel": "肉人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 49,
+      "originalHex": "ddabb299abb2",
+      "sourceOcr": [
+        "どふもこふも"
+      ],
+      "sourceReadingOcr": [
+        "どふもこふも"
+      ],
+      "translation": "多夫莫科夫莫",
+      "alternateLabel": "多夫莫科夫莫",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 50,
+      "originalHex": "18e618df18ad",
+      "sourceOcr": [
+        "黄粉坊"
+      ],
+      "sourceReadingOcr": [
+        "きなこぼう"
+      ],
+      "translation": "黃粉坊",
+      "alternateLabel": "黃粉坊",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 51,
+      "originalHex": "def595bd96",
+      "sourceOcr": [
+        "ぱっかんぎ"
+      ],
+      "sourceReadingOcr": [
+        "ぱっかんぎ"
+      ],
+      "verifiedSource": "ばっかんき",
+      "translation": "巴坎鬼",
+      "alternateLabel": "巴坎鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 52,
+      "originalHex": "18a418ae18f31888",
+      "sourceOcr": [
+        "伊吹童子"
+      ],
+      "sourceReadingOcr": [
+        "いぶきどうじ"
+      ],
+      "translation": "伊吹童子",
+      "alternateLabel": "伊吹童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 53,
+      "originalHex": "18f218f2",
+      "sourceOcr": [
+        "無無"
+      ],
+      "sourceReadingOcr": [
+        "むむ"
+      ],
+      "translation": "無無",
+      "alternateLabel": "無無",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 54,
+      "originalHex": "0491a89b9b03",
+      "sourceOcr": [
+        "インシジ"
+      ],
+      "sourceReadingOcr": [
+        ".L",
+        "1001"
+      ],
+      "translation": "野豬",
+      "alternateLabel": "野豬",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 55,
+      "originalHex": "188997d6b6",
+      "sourceOcr": [
+        "山じら"
+      ],
+      "sourceReadingOcr": [
+        "やまくじら"
+      ],
+      "translation": "山鯨",
+      "alternateLabel": "山鯨",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 56,
+      "originalHex": "0495bb91a89b9b03",
+      "sourceOcr": [
+        "カワイノシシ"
+      ],
+      "sourceReadingOcr": [
+        "かおいのしL"
+      ],
+      "translation": "河野豬",
+      "alternateLabel": "河野豬",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 57,
+      "originalHex": "95d0a0",
+      "sourceOcr": [
+        "かがち"
+      ],
+      "sourceReadingOcr": [
+        "かがち"
+      ],
+      "translation": "蛇神",
+      "alternateLabel": "蛇神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 58,
+      "originalHex": "d6b0d2b7",
+      "sourceOcr": [
+        "じむぐり"
+      ],
+      "sourceReadingOcr": [
+        "じむぐり"
+      ],
+      "translation": "地潛蛇",
+      "alternateLabel": "地潛蛇",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 59,
+      "originalHex": "04b3a3a895af03",
+      "sourceOcr": [
+        "アトノカミ"
+      ],
+      "sourceReadingOcr": [
+        "やどのかみ"
+      ],
+      "translation": "夜刀神",
+      "alternateLabel": "夜刀神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 60,
+      "originalHex": "18c918db",
+      "sourceOcr": [
+        "堅鬼"
+      ],
+      "sourceReadingOcr": [
+        "订ぎ"
+      ],
+      "translation": "怪鬼",
+      "alternateLabel": "怪鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 61,
+      "originalHex": "190c18db",
+      "sourceOcr": [
+        "魅鬼"
+      ],
+      "sourceReadingOcr": [
+        "房心"
+      ],
+      "translation": "魅鬼",
+      "alternateLabel": "魅鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 62,
+      "originalHex": "190b18db",
+      "sourceOcr": [
+        "魃鬼"
+      ],
+      "sourceReadingOcr": [
+        "ぱっき"
+      ],
+      "translation": "魃鬼",
+      "alternateLabel": "魃鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 63,
+      "originalHex": "0495b69c03",
+      "sourceOcr": [
+        "カラス"
+      ],
+      "sourceReadingOcr": [
+        "からす"
+      ],
+      "translation": "烏鴉",
+      "alternateLabel": "烏鴉",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 64,
+      "originalHex": "04af9a9603",
+      "sourceOcr": [
+        "ミサキ"
+      ],
+      "sourceReadingOcr": [
+        "みさぎ"
+      ],
+      "translation": "御先鳥",
+      "alternateLabel": "御先鳥",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 65,
+      "originalHex": "0492afddb703",
+      "sourceOcr": [
+        "ウミドリ"
+      ],
+      "sourceReadingOcr": [
+        "うみどり"
+      ],
+      "translation": "海鳥",
+      "alternateLabel": "海鳥",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 66,
+      "originalHex": "04b39fd0b69c03",
+      "sourceOcr": [
+        "ヤタガラス"
+      ],
+      "sourceReadingOcr": [
+        "やたがらす"
+      ],
+      "translation": "八咫烏",
+      "alternateLabel": "八咫烏",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 67,
+      "originalHex": "0495b69c03188c18c4",
+      "sourceOcr": [
+        "カラス天河"
+      ],
+      "sourceReadingOcr": [
+        "からすてんぐ"
+      ],
+      "translation": "烏天狗",
+      "alternateLabel": "烏天狗",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 68,
+      "originalHex": "188ba818f0188c18c4",
+      "sourceOcr": [
+        "本の葉天狗"
+      ],
+      "sourceReadingOcr": [
+        "このはてんぐ"
+      ],
+      "translation": "木葉天狗",
+      "alternateLabel": "木葉天狗",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 69,
+      "originalHex": "18c618db",
+      "sourceOcr": [
+        "阿鬼"
+      ],
+      "sourceReadingOcr": [
+        "あぎ"
+      ],
+      "translation": "阿鬼",
+      "alternateLabel": "阿鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 70,
+      "originalHex": "18af18db",
+      "sourceOcr": [
+        "吽鬼"
+      ],
+      "sourceReadingOcr": [
+        "うんき"
+      ],
+      "translation": "吽鬼",
+      "alternateLabel": "吽鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 71,
+      "originalHex": "1819194e",
+      "sourceOcr": [
+        "両鉄"
+      ],
+      "sourceReadingOcr": [
+        "りょうてつ"
+      ],
+      "verifiedSource": "両鉄",
+      "translation": "兩鐵",
+      "alternateLabel": "兩鐵",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 72,
+      "originalHex": "18b093a491190f",
+      "sourceOcr": [
+        "見えない敵"
+      ],
+      "sourceReadingOcr": [
+        "みえないてき"
+      ],
+      "translation": "隱形敵人",
+      "alternateLabel": "隱形敵人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 73,
+      "originalHex": "18b093a491190f",
+      "sourceOcr": [
+        "見えない敵"
+      ],
+      "sourceReadingOcr": [
+        "みえないてき"
+      ],
+      "translation": "隱形敵人",
+      "alternateLabel": "隱形敵人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 74,
+      "originalHex": "18de191118db",
+      "sourceOcr": [
+        "竜燈鬼"
+      ],
+      "sourceReadingOcr": [
+        "りゅうとうき"
+      ],
+      "verifiedSource": "竜燈鬼",
+      "translation": "龍燈鬼",
+      "alternateLabel": "龍燈鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 75,
+      "originalHex": "188c191118db",
+      "sourceOcr": [
+        "天燈鬼"
+      ],
+      "sourceReadingOcr": [
+        "てんとうき"
+      ],
+      "translation": "天燈鬼",
+      "alternateLabel": "天燈鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 76,
+      "originalHex": "18c3",
+      "sourceOcr": [
+        "虎"
+      ],
+      "sourceReadingOcr": [
+        "どふ"
+      ],
+      "translation": "虎",
+      "alternateLabel": "虎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 77,
+      "originalHex": "189318c3",
+      "sourceOcr": [
+        "白虎"
+      ],
+      "sourceReadingOcr": [
+        "じゃっこ"
+      ],
+      "translation": "白虎",
+      "alternateLabel": "白虎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 78,
+      "originalHex": "049f91b603",
+      "sourceOcr": [
+        "ターイ"
+      ],
+      "sourceReadingOcr": [
+        "たいぶ"
+      ],
+      "translation": "泰拉",
+      "alternateLabel": "泰拉",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 79,
+      "originalHex": "b2ae",
+      "sourceOcr": [
+        "もま"
+      ],
+      "sourceReadingOcr": [
+        "もま"
+      ],
+      "translation": "莫瑪",
+      "alternateLabel": "莫瑪",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 80,
+      "originalHex": "a8e09cae",
+      "sourceOcr": [
+        "のぶすま"
+      ],
+      "sourceReadingOcr": [
+        "のぶすま"
+      ],
+      "translation": "野襖",
+      "alternateLabel": "野襖",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 81,
+      "originalHex": "debdddb7",
+      "sourceOcr": [
+        "ぱんどり"
+      ],
+      "sourceReadingOcr": [
+        "ぱんどり"
+      ],
+      "translation": "飛鼠",
+      "alternateLabel": "飛鼠",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 82,
+      "originalHex": "0496a1a703",
+      "sourceOcr": [
+        "キツネ"
+      ],
+      "sourceReadingOcr": [
+        "きつね"
+      ],
+      "translation": "狐狸",
+      "alternateLabel": "狐狸",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 83,
+      "originalHex": "04d1bdd1a1a703",
+      "sourceOcr": [
+        "ギンギツネ"
+      ],
+      "sourceReadingOcr": [
+        "ぎんぎつね"
+      ],
+      "translation": "銀狐",
+      "alternateLabel": "銀狐",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 84,
+      "originalHex": "188218b1",
+      "sourceOcr": [
+        "九尾"
+      ],
+      "sourceReadingOcr": [
+        "きゅうび"
+      ],
+      "translation": "九尾",
+      "alternateLabel": "九尾",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 85,
+      "originalHex": "04949495af03",
+      "sourceOcr": [
+        "オオカミ"
+      ],
+      "sourceReadingOcr": [
+        "おおかみ"
+      ],
+      "translation": "狼",
+      "alternateLabel": "狼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 86,
+      "originalHex": "049095949495af03",
+      "sourceOcr": [
+        "アカオオカミ"
+      ],
+      "sourceReadingOcr": [
+        "あかおおかみ"
+      ],
+      "translation": "赤狼",
+      "alternateLabel": "赤狼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 87,
+      "originalHex": "188f18e2",
+      "sourceOcr": [
+        "火狼"
+      ],
+      "sourceReadingOcr": [
+        "かろう"
+      ],
+      "translation": "火狼",
+      "alternateLabel": "火狼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 88,
+      "originalHex": "049b94aea79603",
+      "sourceOcr": [
+        "シオマネ"
+      ],
+      "sourceReadingOcr": [
+        "しおまねぎ"
+      ],
+      "translation": "招潮蟹",
+      "alternateLabel": "招潮蟹",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 89,
+      "originalHex": "04d0d5af03",
+      "sourceOcr": [
+        "ガザミ"
+      ],
+      "sourceReadingOcr": [
+        "がぎみ"
+      ],
+      "translation": "梭子蟹",
+      "alternateLabel": "梭子蟹",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 90,
+      "originalHex": "04a899d1b7d0d5af03",
+      "sourceOcr": [
+        "ノコギリガザミ"
+      ],
+      "sourceReadingOcr": [
+        "のこぎりがぎみ"
+      ],
+      "translation": "鋸緣青蟹",
+      "alternateLabel": "鋸緣青蟹",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 91,
+      "originalHex": "1905a818c0",
+      "sourceOcr": [
+        "緑の岩"
+      ],
+      "sourceReadingOcr": [
+        "みどりのいわ"
+      ],
+      "translation": "綠岩",
+      "alternateLabel": "綠岩",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 92,
+      "originalHex": "18aba818c0",
+      "sourceOcr": [
+        "赤の岩"
+      ],
+      "sourceReadingOcr": [
+        "あかのいわ"
+      ],
+      "translation": "紅岩",
+      "alternateLabel": "紅岩",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 93,
+      "originalHex": "18e8a818c0",
+      "sourceOcr": [
+        "黑の岩"
+      ],
+      "sourceReadingOcr": [
+        "くろめいわ"
+      ],
+      "translation": "黑岩",
+      "alternateLabel": "黑岩",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 94,
+      "originalHex": "92b8aebda3",
+      "sourceOcr": [
+        "うるまんと"
+      ],
+      "sourceReadingOcr": [
+        "うるまんと"
+      ],
+      "translation": "烏魯曼托",
+      "alternateLabel": "烏魯曼托",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 95,
+      "originalHex": "9e92aaa1a892",
+      "sourceOcr": [
+        "そうひつのう"
+      ],
+      "sourceReadingOcr": [
+        "そうひつのう"
+      ],
+      "translation": "索希茲諾",
+      "alternateLabel": "索希茲諾",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 96,
+      "originalHex": "d6f7b0acbd97",
+      "sourceOcr": [
+        "じゅむへんく"
+      ],
+      "sourceReadingOcr": [
+        "じゅむへんく"
+      ],
+      "translation": "朱姆亨庫",
+      "alternateLabel": "朱姆亨庫",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 97,
+      "originalHex": "04b095be03",
+      "sourceOcr": [
+        "ムカデ"
+      ],
+      "sourceReadingOcr": [
+        "むかで"
+      ],
+      "translation": "蜈蚣",
+      "alternateLabel": "蜈蚣",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 98,
+      "originalHex": "049094d7b095be03",
+      "sourceOcr": [
+        "アオブムカデ"
+      ],
+      "sourceReadingOcr": [
+        "あおずむかで"
+      ],
+      "translation": "青頭蜈蚣",
+      "alternateLabel": "青頭蜈蚣",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 99,
+      "originalHex": "049095b095be03",
+      "sourceOcr": [
+        "アカムカデ"
+      ],
+      "sourceReadingOcr": [
+        "あかむかで"
+      ],
+      "translation": "赤蜈蚣",
+      "alternateLabel": "赤蜈蚣",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 100,
+      "originalHex": "189018c3",
+      "sourceOcr": [
+        "水虎"
+      ],
+      "sourceReadingOcr": [
+        "すし"
+      ],
+      "translation": "水虎",
+      "alternateLabel": "水虎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 101,
+      "originalHex": "d0bbbddef5a0f8",
+      "sourceOcr": [
+        "がわんばっちょ"
+      ],
+      "sourceReadingOcr": [
+        "がわんばっちょ"
+      ],
+      "translation": "河童怪",
+      "alternateLabel": "河童怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 102,
+      "originalHex": "18d418ad1898",
+      "sourceOcr": [
+        "海坊主"
+      ],
+      "sourceReadingOcr": [
+        "うみぼうず"
+      ],
+      "translation": "海坊主",
+      "alternateLabel": "海坊主",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 103,
+      "originalHex": "1893190d",
+      "sourceOcr": [
+        "白蓮"
+      ],
+      "sourceReadingOcr": [
+        "びゃくれん"
+      ],
+      "translation": "白蓮",
+      "alternateLabel": "白蓮",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 104,
+      "originalHex": "189e190e",
+      "sourceOcr": [
+        "死霊"
+      ],
+      "sourceReadingOcr": [
+        "しりょう"
+      ],
+      "translation": "死靈",
+      "alternateLabel": "死靈",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 105,
+      "originalHex": "18ea18ea",
+      "sourceOcr": [
+        "異異"
+      ],
+      "sourceReadingOcr": [],
+      "translation": "異異",
+      "alternateLabel": "異異",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 106,
+      "originalHex": "18801899",
+      "sourceOcr": [],
+      "sourceReadingOcr": [
+        "いっっさい"
+      ],
+      "translation": "一切",
+      "alternateLabel": "一切",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 107,
+      "originalHex": "18ca1910",
+      "sourceOcr": [
+        "臥龍"
+      ],
+      "sourceReadingOcr": [
+        "がりゅう"
+      ],
+      "translation": "臥龍",
+      "alternateLabel": "臥龍",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 108,
+      "originalHex": "18a51910",
+      "sourceOcr": [
+        "伏龍"
+      ],
+      "sourceReadingOcr": [
+        "ふくりゅう"
+      ],
+      "translation": "伏龍",
+      "alternateLabel": "伏龍",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 109,
+      "originalHex": "18e81910",
+      "sourceOcr": [
+        "黑龍"
+      ],
+      "sourceReadingOcr": [
+        "こくりゅう"
+      ],
+      "translation": "黑龍",
+      "alternateLabel": "黑龍",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 110,
+      "originalHex": "04d09bf603",
+      "sourceOcr": [
+        "ガシャ"
+      ],
+      "sourceReadingOcr": [
+        "が1",
+        "Lや"
+      ],
+      "translation": "骷髏怪",
+      "alternateLabel": "骷髏怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 111,
+      "originalHex": "18f518cb",
+      "sourceOcr": [
+        "蓚苦"
+      ],
+      "sourceReadingOcr": [],
+      "verifiedSource": "極苦",
+      "translation": "極苦",
+      "alternateLabel": "極苦",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 112,
+      "originalHex": "90bdaff892",
+      "sourceOcr": [
+        "あんみょう"
+      ],
+      "sourceReadingOcr": [
+        "あんみょう"
+      ],
+      "translation": "安妙",
+      "alternateLabel": "安妙",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 113,
+      "originalHex": "98a1d0aaf892",
+      "sourceOcr": [
+        "けつがひょう"
+      ],
+      "sourceReadingOcr": [
+        "けつがひょう"
+      ],
+      "translation": "結牙冰",
+      "alternateLabel": "結牙冰",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 114,
+      "originalHex": "18cd18a9188f",
+      "sourceOcr": [
+        "雨沙火"
+      ],
+      "sourceReadingOcr": [
+        "うしゃか"
+      ],
+      "translation": "雨沙火",
+      "alternateLabel": "雨沙火",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 115,
+      "originalHex": "1902a8180d",
+      "sourceOcr": [
+        "福の神"
+      ],
+      "sourceReadingOcr": [
+        "ふくのかみ"
+      ],
+      "translation": "福神",
+      "alternateLabel": "福神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 116,
+      "originalHex": "184018e81907",
+      "sourceOcr": [
+        "大黑様"
+      ],
+      "sourceReadingOcr": [
+        "だいこくさま"
+      ],
+      "translation": "大黑天",
+      "alternateLabel": "大黑天",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 117,
+      "originalHex": "18e91894180d",
+      "sourceOcr": [
+        "貢乏神"
+      ],
+      "sourceReadingOcr": [
+        "びんぼうがみ"
+      ],
+      "translation": "貧窮神",
+      "alternateLabel": "貧窮神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 118,
+      "originalHex": "18ab18e9",
+      "sourceOcr": [
+        "赤貢"
+      ],
+      "sourceReadingOcr": [
+        "せきひん"
+      ],
+      "translation": "赤貧",
+      "alternateLabel": "赤貧",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 119,
+      "originalHex": "1880189118f29b",
+      "sourceOcr": [
+        "-文無し"
+      ],
+      "sourceReadingOcr": [
+        "11巧モ，F"
+      ],
+      "translation": "身無分文",
+      "alternateLabel": "身無分文",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 120,
+      "originalHex": "0496b6910353",
+      "sourceOcr": [
+        "キラ2"
+      ],
+      "sourceReadingOcr": [
+        "きい2"
+      ],
+      "verifiedSource": "キライ2",
+      "translation": "機雷二號",
+      "alternateLabel": "機雷二號",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 121,
+      "originalHex": "188ca818ac18db",
+      "sourceOcr": [
+        "天の邪鬼"
+      ],
+      "sourceReadingOcr": [
+        "あまのじゃく"
+      ],
+      "translation": "天邪鬼",
+      "alternateLabel": "天邪鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 122,
+      "originalHex": "188c18d518a6",
+      "sourceOcr": [
+        "天逆每"
+      ],
+      "sourceReadingOcr": [
+        "あまのぎこ"
+      ],
+      "translation": "天逆每",
+      "alternateLabel": "天逆每",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 123,
+      "originalHex": "0496b6910352",
+      "sourceOcr": [
+        "キラ1"
+      ],
+      "sourceReadingOcr": [
+        "きろい1"
+      ],
+      "verifiedSource": "キライ1",
+      "translation": "機雷一號",
+      "alternateLabel": "機雷一號",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 124,
+      "originalHex": "1807dab8ae",
+      "sourceOcr": [
+        "雪だるま"
+      ],
+      "sourceReadingOcr": [
+        "ゆきだるま"
+      ],
+      "translation": "雪人",
+      "alternateLabel": "雪人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 125,
+      "originalHex": "18921903",
+      "sourceOcr": [
+        "月猿"
+      ],
+      "sourceReadingOcr": [
+        "きざる"
+      ],
+      "translation": "月猿",
+      "alternateLabel": "月猿",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 126,
+      "originalHex": "04e0b8038004b2bd96038004d703",
+      "sourceOcr": [
+        "ブルーモンキーズ"
+      ],
+      "sourceReadingOcr": [
+        "ふるーもんきーず"
+      ],
+      "translation": "藍猴群",
+      "alternateLabel": "藍猴群",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 127,
+      "originalHex": "189f18a091049992b2b703",
+      "sourceOcr": [
+        "血吸いコウモリ"
+      ],
+      "sourceReadingOcr": [
+        "ちすいこうもり"
+      ],
+      "translation": "吸血蝙蝠",
+      "alternateLabel": "吸血蝙蝠",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 128,
+      "originalHex": "0495d2b69992b2b703",
+      "sourceOcr": [
+        "カグラコウモリ"
+      ],
+      "sourceReadingOcr": [
+        "かぐらこうもり"
+      ],
+      "translation": "神樂蝙蝠",
+      "alternateLabel": "神樂蝙蝠",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 129,
+      "originalHex": "188c18c4049992b2b703",
+      "sourceOcr": [
+        "天狗コウモリ"
+      ],
+      "sourceReadingOcr": [
+        "てんぐこうもり"
+      ],
+      "translation": "天狗蝙蝠",
+      "alternateLabel": "天狗蝙蝠",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 130,
+      "originalHex": "1901",
+      "sourceOcr": [
+        "獏"
+      ],
+      "sourceReadingOcr": [],
+      "translation": "貘",
+      "alternateLabel": "貘",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 131,
+      "originalHex": "bb91b6",
+      "sourceOcr": [
+        "おいぶ"
+      ],
+      "sourceReadingOcr": [
+        "おいぶ"
+      ],
+      "translation": "負子怪",
+      "alternateLabel": "負子怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 132,
+      "originalHex": "190418c5",
+      "sourceOcr": [
+        "獄卒"
+      ],
+      "sourceReadingOcr": [
+        "ごくそつ"
+      ],
+      "translation": "獄卒",
+      "alternateLabel": "獄卒",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 133,
+      "originalHex": "95a0999bf8",
+      "sourceOcr": [
+        "からこしょ"
+      ],
+      "sourceReadingOcr": [
+        "からこしょ"
+      ],
+      "translation": "卡奇科修",
+      "alternateLabel": "卡奇科修",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 134,
+      "originalHex": "97ae18f31888",
+      "sourceOcr": [
+        "くま子"
+      ],
+      "sourceReadingOcr": [
+        "くまどうじ"
+      ],
+      "translation": "熊童子",
+      "alternateLabel": "熊童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 135,
+      "originalHex": "9f97a8929bf8",
+      "sourceOcr": [
+        "たくのうしょ"
+      ],
+      "sourceReadingOcr": [
+        "たくのうしょ"
+      ],
+      "translation": "塔庫諾修",
+      "alternateLabel": "塔庫諾修",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 136,
+      "originalHex": "ad9b97ae18f31888",
+      "sourceOcr": [
+        "ほしくま子"
+      ],
+      "sourceReadingOcr": [
+        "ほしくまどうじ"
+      ],
+      "translation": "星熊童子",
+      "alternateLabel": "星熊童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 137,
+      "originalHex": "18ce18a7",
+      "sourceOcr": [
+        "波旬"
+      ],
+      "sourceReadingOcr": [
+        "はじゅん"
+      ],
+      "translation": "波旬",
+      "alternateLabel": "波旬",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 138,
+      "originalHex": "188e18f6",
+      "sourceOcr": [
+        "不喜"
+      ],
+      "sourceReadingOcr": [
+        "ふぎ"
+      ],
+      "translation": "不喜",
+      "alternateLabel": "不喜",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 139,
+      "originalHex": "a3b697ae18f31888",
+      "sourceOcr": [
+        "とらくま子"
+      ],
+      "sourceReadingOcr": [
+        "とらくまどうじ"
+      ],
+      "translation": "虎熊童子",
+      "alternateLabel": "虎熊童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 140,
+      "originalHex": "18d6188b18f31888",
+      "sourceOcr": [
+        "获木子"
+      ],
+      "sourceReadingOcr": [
+        "いばらきどうじ"
+      ],
+      "translation": "茨木童子",
+      "alternateLabel": "茨木童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 141,
+      "originalHex": "18eb18ac18f31888",
+      "sourceOcr": [
+        "悪邪童子"
+      ],
+      "sourceReadingOcr": [
+        "あくじゃどうじ"
+      ],
+      "translation": "惡邪童子",
+      "alternateLabel": "惡邪童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 142,
+      "originalHex": "18e018a218f31888",
+      "sourceOcr": [
+        "酒吞童子"
+      ],
+      "sourceReadingOcr": [
+        "しゅてんどうじ"
+      ],
+      "translation": "酒吞童子",
+      "alternateLabel": "酒吞童子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 143,
+      "originalHex": "1914189a18c1",
+      "sourceOcr": [
+        "羅生門"
+      ],
+      "sourceReadingOcr": [
+        "らしょうもん"
+      ],
+      "translation": "羅生門",
+      "alternateLabel": "羅生門",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 144,
+      "originalHex": "18811883189518d7",
+      "sourceOcr": [
+        "三千世界"
+      ],
+      "sourceReadingOcr": [
+        "さんぜんせかい"
+      ],
+      "translation": "三千世界",
+      "alternateLabel": "三千世界",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 145,
+      "originalHex": "a9a0d7aedfbd",
+      "sourceOcr": [
+        "はちずまびん"
+      ],
+      "sourceReadingOcr": [
+        "はちずまびん"
+      ],
+      "translation": "哈奇茲瑪賓",
+      "alternateLabel": "哈奇茲瑪賓",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 146,
+      "originalHex": "1840a9a0d7ae",
+      "sourceOcr": [
+        "大はちずま"
+      ],
+      "sourceReadingOcr": [
+        "だいはちずま"
+      ],
+      "translation": "大哈奇茲瑪",
+      "alternateLabel": "大哈奇茲瑪",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 147,
+      "originalHex": "1840a9a0a397ae",
+      "sourceOcr": [
+        "大はちとくま"
+      ],
+      "sourceReadingOcr": [
+        "だいはちとくま"
+      ],
+      "translation": "大哈奇托庫瑪",
+      "alternateLabel": "大哈奇托庫瑪",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 148,
+      "originalHex": "9b99b1",
+      "sourceOcr": [
+        "しこめ"
+      ],
+      "sourceReadingOcr": [
+        "しこめ"
+      ],
+      "translation": "醜女",
+      "alternateLabel": "醜女",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 149,
+      "originalHex": "d6f699a1dede90",
+      "sourceOcr": [
+        "じゃこつばばあ"
+      ],
+      "sourceReadingOcr": [
+        "じゃこつばばあ"
+      ],
+      "translation": "蛇骨婆",
+      "alternateLabel": "蛇骨婆",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 150,
+      "originalHex": "b3aebdde",
+      "sourceOcr": [
+        "やまんば"
+      ],
+      "sourceReadingOcr": [
+        "やまんば"
+      ],
+      "translation": "山姥",
+      "alternateLabel": "山姥",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 151,
+      "originalHex": "1908189b18ed",
+      "sourceOcr": [
+        "奪衣婆"
+      ],
+      "sourceReadingOcr": [
+        "だつえば"
+      ],
+      "translation": "奪衣婆",
+      "alternateLabel": "奪衣婆",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 152,
+      "originalHex": "a4aea9d3",
+      "sourceOcr": [
+        "なまはげ"
+      ],
+      "sourceReadingOcr": [
+        "なまはげ"
+      ],
+      "translation": "生剝鬼",
+      "alternateLabel": "生剝鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 153,
+      "originalHex": "a4b2af9f97b7",
+      "sourceOcr": [
+        "なもみたくり"
+      ],
+      "sourceReadingOcr": [
+        "なもみたくり"
+      ],
+      "translation": "剝皮鬼",
+      "alternateLabel": "剝皮鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 154,
+      "originalHex": "9b959fa9d1",
+      "sourceOcr": [
+        "しかたはぎ"
+      ],
+      "sourceReadingOcr": [
+        "しかたはぎ"
+      ],
+      "translation": "鹿田剝",
+      "alternateLabel": "鹿田剝",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 155,
+      "originalHex": "1807188a",
+      "sourceOcr": [
+        "雪女"
+      ],
+      "sourceReadingOcr": [
+        "浄きおんな"
+      ],
+      "translation": "雪女",
+      "alternateLabel": "雪女",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 156,
+      "originalHex": "1913188a",
+      "sourceOcr": [
+        "𦶥女"
+      ],
+      "sourceReadingOcr": [
+        "いそおんな"
+      ],
+      "translation": "磯女",
+      "alternateLabel": "磯女",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 157,
+      "originalHex": "94188c18db19529abd",
+      "sourceOcr": [
+        "お天鬼姉さん"
+      ],
+      "sourceReadingOcr": [
+        "おてんきねえさん"
+      ],
+      "translation": "天氣鬼姐姐",
+      "alternateLabel": "天氣鬼姐姐",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 158,
+      "originalHex": "b292b7f892",
+      "sourceOcr": [
+        "もうりょう"
+      ],
+      "sourceReadingOcr": [
+        "もうりょう"
+      ],
+      "translation": "魍魎",
+      "alternateLabel": "魍魎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 159,
+      "originalHex": "a0afb292b7f892",
+      "sourceOcr": [
+        "ちみもうりょう"
+      ],
+      "sourceReadingOcr": [
+        "ちみもうりょう"
+      ],
+      "translation": "魑魅魍魎",
+      "alternateLabel": "魑魅魍魎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 160,
+      "originalHex": "18a818d9",
+      "sourceOcr": [
+        "如飛"
+      ],
+      "sourceReadingOcr": [
+        "にょひ"
+      ],
+      "translation": "如飛",
+      "alternateLabel": "如飛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 161,
+      "originalHex": "a693",
+      "sourceOcr": [
+        "ぬえ"
+      ],
+      "sourceReadingOcr": [
+        "ぬえ"
+      ],
+      "translation": "鵺",
+      "alternateLabel": "鵺",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 162,
+      "originalHex": "91a1aebe",
+      "sourceOcr": [
+        "いつまで"
+      ],
+      "sourceReadingOcr": [
+        "いつまで"
+      ],
+      "translation": "以津真天",
+      "alternateLabel": "以津真天",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 163,
+      "originalHex": "96ae91b6",
+      "sourceOcr": [
+        "きまい"
+      ],
+      "sourceReadingOcr": [
+        "きまい"
+      ],
+      "translation": "奇美拉",
+      "alternateLabel": "奇美拉",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 164,
+      "originalHex": "1840188c18c4",
+      "sourceOcr": [
+        "大天狗"
+      ],
+      "sourceReadingOcr": [
+        "おおてんぐ"
+      ],
+      "translation": "大天狗",
+      "alternateLabel": "大天狗",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 165,
+      "originalHex": "18da18e418ad",
+      "sourceOcr": [
+        "是害坊"
+      ],
+      "sourceReadingOcr": [
+        "ぜがいぼう"
+      ],
+      "translation": "是害坊",
+      "alternateLabel": "是害坊",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 166,
+      "originalHex": "190918da18ad",
+      "sourceOcr": [
+        "聞是坊"
+      ],
+      "sourceReadingOcr": [
+        "もんぜぼう"
+      ],
+      "translation": "聞是坊",
+      "alternateLabel": "聞是坊",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 167,
+      "originalHex": "a9b6da9b",
+      "sourceOcr": [
+        "はらだし"
+      ],
+      "sourceReadingOcr": [
+        "はらだし"
+      ],
+      "translation": "露肚怪",
+      "alternateLabel": "露肚怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 168,
+      "originalHex": "dfba7fbd",
+      "sourceOcr": [
+        "びろ～ん"
+      ],
+      "sourceReadingOcr": [
+        "びろ～ん"
+      ],
+      "translation": "伸長怪",
+      "alternateLabel": "伸長怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 169,
+      "originalHex": "0496b6910354",
+      "sourceOcr": [
+        "キライ3"
+      ],
+      "sourceReadingOcr": [
+        "きろい3"
+      ],
+      "verifiedSource": "キライ3",
+      "translation": "機雷三號",
+      "alternateLabel": "機雷三號",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 170,
+      "originalHex": "9091b6de9f",
+      "sourceOcr": [
+        "あいらばた"
+      ],
+      "sourceReadingOcr": [
+        "あいらばた"
+      ],
+      "translation": "愛羅婆多",
+      "alternateLabel": "愛羅婆多",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 171,
+      "originalHex": "188f18f1",
+      "sourceOcr": [
+        "火象"
+      ],
+      "sourceReadingOcr": [
+        "かぞう"
+      ],
+      "translation": "火象",
+      "alternateLabel": "火象",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 172,
+      "originalHex": "18e818cc18f3",
+      "sourceOcr": [
+        "黑河童"
+      ],
+      "sourceReadingOcr": [
+        "くろがっぱ"
+      ],
+      "translation": "黑河童",
+      "alternateLabel": "黑河童",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 173,
+      "originalHex": "1882188318ad",
+      "sourceOcr": [
+        "九千坊"
+      ],
+      "sourceReadingOcr": [
+        "きゅうせんぼう"
+      ],
+      "translation": "九千坊",
+      "alternateLabel": "九千坊",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 174,
+      "originalHex": "aaf8929ce1",
+      "sourceOcr": [
+        "ひょうすべ"
+      ],
+      "sourceReadingOcr": [
+        "ひょうすべ"
+      ],
+      "translation": "兵主部",
+      "alternateLabel": "兵主部",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 175,
+      "originalHex": "d0909fba",
+      "sourceOcr": [
+        "があたろ"
+      ],
+      "sourceReadingOcr": [
+        "があたろ"
+      ],
+      "translation": "河太郎",
+      "alternateLabel": "河太郎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 176,
+      "originalHex": "9bdea2bd",
+      "sourceOcr": [
+        "しばてん"
+      ],
+      "sourceReadingOcr": [
+        "しばてん"
+      ],
+      "translation": "芝天狗",
+      "alternateLabel": "芝天狗",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 177,
+      "originalHex": "0499aeaa9603",
+      "sourceOcr": [],
+      "sourceReadingOcr": [
+        "こまひき"
+      ],
+      "translation": "駒引怪",
+      "alternateLabel": "駒引怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 178,
+      "originalHex": "0497d6b603",
+      "sourceOcr": [
+        "クジラ"
+      ],
+      "sourceReadingOcr": [
+        "くじら"
+      ],
+      "translation": "鯨魚",
+      "alternateLabel": "鯨魚",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 179,
+      "originalHex": "18d018ee",
+      "sourceOcr": [
+        "男魚"
+      ],
+      "sourceReadingOcr": [
+        "いさな"
+      ],
+      "translation": "勇魚",
+      "alternateLabel": "勇魚",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 180,
+      "originalHex": "18a918ee",
+      "sourceOcr": [
+        "沙魚"
+      ],
+      "sourceReadingOcr": [
+        "さめ"
+      ],
+      "translation": "鯊魚",
+      "alternateLabel": "鯊魚",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 181,
+      "originalHex": "049094d5b103",
+      "sourceOcr": [
+        "アオザメ"
+      ],
+      "sourceReadingOcr": [
+        "あおぎめ"
+      ],
+      "translation": "尖吻鯖鯊",
+      "alternateLabel": "尖吻鯖鯊",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 182,
+      "originalHex": "049bf6990318aa",
+      "sourceOcr": [
+        "シャコ貝"
+      ],
+      "sourceReadingOcr": [
+        "しゃこがい"
+      ],
+      "translation": "硨磲",
+      "alternateLabel": "硨磲",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 183,
+      "originalHex": "1840049bf6990318aa",
+      "sourceOcr": [
+        "大シャコ具"
+      ],
+      "sourceReadingOcr": [
+        "おおしゃこがい"
+      ],
+      "translation": "大硨磲",
+      "alternateLabel": "大硨磲",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 184,
+      "originalHex": "049adeabd203",
+      "sourceOcr": [
+        "サバフグ"
+      ],
+      "sourceReadingOcr": [
+        "さばふぐ"
+      ],
+      "translation": "鯖河豚",
+      "alternateLabel": "鯖河豚",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 185,
+      "originalHex": "04a3b6abd203",
+      "sourceOcr": [
+        "トラフグ"
+      ],
+      "sourceReadingOcr": [
+        "とらふぐ"
+      ],
+      "translation": "虎河豚",
+      "alternateLabel": "虎河豚",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 186,
+      "originalHex": "18de18db18ef",
+      "sourceOcr": [
+        "竜鬼船"
+      ],
+      "sourceReadingOcr": [
+        "ゆゅうきせん"
+      ],
+      "translation": "龍鬼船",
+      "alternateLabel": "龍鬼船",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 187,
+      "originalHex": "189218db18ef",
+      "sourceOcr": [
+        "月鬼船"
+      ],
+      "sourceReadingOcr": [
+        "げっきせん"
+      ],
+      "translation": "月鬼船",
+      "alternateLabel": "月鬼船",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 188,
+      "originalHex": "180318dc",
+      "sourceOcr": [
+        "金剛"
+      ],
+      "sourceReadingOcr": [
+        "ごう"
+      ],
+      "translation": "金剛",
+      "alternateLabel": "金剛",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 189,
+      "originalHex": "180318dc1816",
+      "sourceOcr": [
+        "金剛力"
+      ],
+      "sourceReadingOcr": [
+        "こんごうりき"
+      ],
+      "translation": "金剛力",
+      "alternateLabel": "金剛力",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 190,
+      "originalHex": "191418cf",
+      "sourceOcr": [],
+      "sourceReadingOcr": [
+        "高せ→"
+      ],
+      "translation": "羅剎",
+      "alternateLabel": "羅剎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 191,
+      "originalHex": "18e818a9191418cf",
+      "sourceOcr": [
+        "黒沙羅刹"
+      ],
+      "sourceReadingOcr": [
+        "こくしゃふせつ"
+      ],
+      "translation": "黑沙羅剎",
+      "alternateLabel": "黑沙羅剎",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 192,
+      "originalHex": "18eb1950",
+      "sourceOcr": [
+        "悪杖"
+      ],
+      "sourceReadingOcr": [
+        "あくじょう"
+      ],
+      "translation": "惡杖",
+      "alternateLabel": "惡杖",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 193,
+      "originalHex": "184018b2190418c5",
+      "sourceOcr": [
+        "大身獄卒"
+      ],
+      "sourceReadingOcr": [
+        "だいしんごくそく"
+      ],
+      "translation": "大身獄卒",
+      "alternateLabel": "大身獄卒",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 194,
+      "originalHex": "184018f7190418c5",
+      "sourceOcr": [
+        "大悲獄卒"
+      ],
+      "sourceReadingOcr": [
+        "だいひごくそつ"
+      ],
+      "translation": "大悲獄卒",
+      "alternateLabel": "大悲獄卒",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 195,
+      "originalHex": "93bdde",
+      "sourceOcr": [
+        "えんは"
+      ],
+      "sourceReadingOcr": [
+        "えんは"
+      ],
+      "translation": "閻婆",
+      "alternateLabel": "閻婆",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 196,
+      "originalHex": "93bddea9",
+      "sourceOcr": [
+        "えんばは"
+      ],
+      "sourceReadingOcr": [
+        "えんばは"
+      ],
+      "translation": "閻婆訶",
+      "alternateLabel": "閻婆訶",
+      "editorialTransliteration": true
+    },
+    {
+      "index": 197,
+      "originalHex": "98bda718e5",
+      "sourceOcr": [
+        "けんね前"
+      ],
+      "sourceReadingOcr": [
+        "けんねおう"
+      ],
+      "translation": "懸衣翁",
+      "alternateLabel": "懸衣翁",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 198,
+      "originalHex": "b2b2bdd691",
+      "sourceOcr": [
+        "ももんじい"
+      ],
+      "sourceReadingOcr": [
+        "ももんじい"
+      ],
+      "translation": "百百爺",
+      "alternateLabel": "百百爺",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 199,
+      "originalHex": "19451946a818db",
+      "sourceOcr": [
+        "歴史の鬼"
+      ],
+      "sourceReadingOcr": [
+        "れきしのおに"
+      ],
+      "translation": "歷史鬼",
+      "alternateLabel": "歷史鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 200,
+      "originalHex": "04d3038004b003a818db",
+      "sourceOcr": [
+        "ゲームの鬼"
+      ],
+      "sourceReadingOcr": [
+        "げーむのおに"
+      ],
+      "translation": "遊戲鬼",
+      "alternateLabel": "遊戲鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 201,
+      "originalHex": "19471948a818db",
+      "sourceOcr": [
+        "数学の鬼"
+      ],
+      "sourceReadingOcr": [
+        "すうがくのおに"
+      ],
+      "translation": "數學鬼",
+      "alternateLabel": "數學鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 202,
+      "originalHex": "02c0a818db",
+      "sourceOcr": [
+        "おにぎりの鬼"
+      ],
+      "sourceReadingOcr": [
+        "おにぎりのおに"
+      ],
+      "translation": "飯糰鬼",
+      "alternateLabel": "飯糰鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 203,
+      "originalHex": "19511822a818db",
+      "sourceOcr": [
+        "指令の鬼"
+      ],
+      "sourceReadingOcr": [
+        "しれいのおに"
+      ],
+      "translation": "指令鬼",
+      "alternateLabel": "指令鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 204,
+      "originalHex": "a8af18db",
+      "sourceOcr": [
+        "のみ鬼"
+      ],
+      "sourceReadingOcr": [
+        "のみおに"
+      ],
+      "translation": "跳蚤鬼",
+      "alternateLabel": "跳蚤鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 205,
+      "originalHex": "194918db",
+      "sourceOcr": [
+        "豆鬼"
+      ],
+      "sourceReadingOcr": [
+        "まめおに"
+      ],
+      "translation": "豆鬼",
+      "alternateLabel": "豆鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 206,
+      "originalHex": "188f18db",
+      "sourceOcr": [
+        "火鬼"
+      ],
+      "sourceReadingOcr": [
+        "かき"
+      ],
+      "translation": "火鬼",
+      "alternateLabel": "火鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 207,
+      "originalHex": "194a18db",
+      "sourceOcr": [
+        "土鬼"
+      ],
+      "sourceReadingOcr": [
+        "どき"
+      ],
+      "translation": "土鬼",
+      "alternateLabel": "土鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 208,
+      "originalHex": "189018db",
+      "sourceOcr": [
+        "水鬼"
+      ],
+      "sourceReadingOcr": [
+        "すいき"
+      ],
+      "translation": "水鬼",
+      "alternateLabel": "水鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 209,
+      "originalHex": "180c18db",
+      "sourceOcr": [
+        "風鬼"
+      ],
+      "sourceReadingOcr": [
+        "ふうき"
+      ],
+      "translation": "風鬼",
+      "alternateLabel": "風鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 210,
+      "originalHex": "194c1943194d",
+      "sourceOcr": [
+        "五百丁"
+      ],
+      "sourceReadingOcr": [
+        "ごひゃくちょう"
+      ],
+      "translation": "五百丁",
+      "alternateLabel": "五百丁",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 211,
+      "originalHex": "194e194f",
+      "sourceOcr": [
+        "鉄丸"
+      ],
+      "sourceReadingOcr": [
+        "てつがん"
+      ],
+      "translation": "鐵丸",
+      "alternateLabel": "鐵丸",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 212,
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "sourceReadingOcr": [
+        "うわん"
+      ],
+      "translation": "驚聲怪",
+      "alternateLabel": "驚聲怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 213,
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "sourceReadingOcr": [
+        "うわん"
+      ],
+      "translation": "驚聲怪",
+      "alternateLabel": "驚聲怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 214,
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "sourceReadingOcr": [
+        "うわん"
+      ],
+      "translation": "驚聲怪",
+      "alternateLabel": "驚聲怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 215,
+      "originalHex": "92bbbd",
+      "sourceOcr": [
+        "うわん"
+      ],
+      "sourceReadingOcr": [
+        "うわん"
+      ],
+      "translation": "驚聲怪",
+      "alternateLabel": "驚聲怪",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 216,
+      "originalHex": "188c18dc18db",
+      "sourceOcr": [
+        "天刚鬼"
+      ],
+      "sourceReadingOcr": [
+        "てんごうき"
+      ],
+      "translation": "天剛鬼",
+      "alternateLabel": "天剛鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 217,
+      "originalHex": "188c190018db",
+      "sourceOcr": [
+        "天賊鬼"
+      ],
+      "sourceReadingOcr": [
+        "てんぞくき"
+      ],
+      "verifiedSource": "天賊鬼",
+      "translation": "天賊鬼",
+      "alternateLabel": "天賊鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 218,
+      "originalHex": "188c18ab18db",
+      "sourceOcr": [
+        "天赤鬼"
+      ],
+      "sourceReadingOcr": [
+        "てんせきぎ"
+      ],
+      "translation": "天赤鬼",
+      "alternateLabel": "天赤鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 219,
+      "originalHex": "19251abb18db",
+      "sourceOcr": [
+        "石魂鬼"
+      ],
+      "sourceReadingOcr": [
+        "うこんき"
+      ],
+      "translation": "右魂鬼",
+      "alternateLabel": "右魂鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 220,
+      "originalHex": "19f01abb18db",
+      "sourceOcr": [
+        "左魂鬼"
+      ],
+      "sourceReadingOcr": [
+        "さこんき"
+      ],
+      "translation": "左魂鬼",
+      "alternateLabel": "左魂鬼",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 221,
+      "originalHex": "0495b8b603",
+      "sourceOcr": [
+        "カルラ"
+      ],
+      "sourceReadingOcr": [
+        "かるら"
+      ],
+      "translation": "迦樓羅",
+      "alternateLabel": "迦樓羅",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 222,
+      "originalHex": "0495b8b603",
+      "sourceOcr": [
+        "カルラ"
+      ],
+      "sourceReadingOcr": [
+        "かるら"
+      ],
+      "translation": "迦樓羅",
+      "alternateLabel": "迦樓羅",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 223,
+      "originalHex": "1a871a6a19141841",
+      "sourceOcr": [
+        "伐折羅王"
+      ],
+      "sourceReadingOcr": [
+        "ばさらおう"
+      ],
+      "translation": "伐折羅王",
+      "alternateLabel": "伐折羅王",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 224,
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "sourceReadingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "alternateLabel": "達伊達王子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 225,
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "sourceReadingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "alternateLabel": "達伊達王子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 226,
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "sourceReadingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "alternateLabel": "達伊達王子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 227,
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "sourceReadingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "alternateLabel": "達伊達王子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 228,
+      "originalHex": "04da91da0318411888",
+      "sourceOcr": [
+        "ダイダ王子"
+      ],
+      "sourceReadingOcr": [
+        "だいだおうじ"
+      ],
+      "translation": "達伊達王子",
+      "alternateLabel": "達伊達王子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 229,
+      "originalHex": "0490d6f69d0318411888",
+      "sourceOcr": [],
+      "sourceReadingOcr": [
+        "あじゃせおうじ"
+      ],
+      "translation": "阿闍世王子",
+      "alternateLabel": "阿闍世王子",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 230,
+      "originalHex": "18081809180a",
+      "sourceOcr": [
+        "夜叉姬"
+      ],
+      "sourceReadingOcr": [
+        "やしゃひめ"
+      ],
+      "translation": "夜叉姬",
+      "alternateLabel": "夜叉姬",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 231,
+      "originalHex": "02ce",
+      "sourceOcr": [
+        "あしゅら"
+      ],
+      "sourceReadingOcr": [
+        "あしゅら"
+      ],
+      "translation": "阿修羅",
+      "alternateLabel": "阿修羅",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 232,
+      "originalHex": "1af318b2",
+      "sourceOcr": [
+        "分身"
+      ],
+      "sourceReadingOcr": [
+        "ふんしん"
+      ],
+      "translation": "分身",
+      "alternateLabel": "分身",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 233,
+      "originalHex": "180c180d",
+      "sourceOcr": [
+        "風神"
+      ],
+      "sourceReadingOcr": [
+        "ふうじん"
+      ],
+      "translation": "風神",
+      "alternateLabel": "風神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 234,
+      "originalHex": "180c180d",
+      "sourceOcr": [
+        "風神"
+      ],
+      "sourceReadingOcr": [
+        "ふうじん"
+      ],
+      "translation": "風神",
+      "alternateLabel": "風神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 235,
+      "originalHex": "180c180d",
+      "sourceOcr": [
+        "風神"
+      ],
+      "sourceReadingOcr": [
+        "ふうじん"
+      ],
+      "translation": "風神",
+      "alternateLabel": "風神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 236,
+      "originalHex": "180b180d",
+      "sourceOcr": [
+        "雷神"
+      ],
+      "sourceReadingOcr": [
+        "ふいじん"
+      ],
+      "translation": "雷神",
+      "alternateLabel": "雷神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 237,
+      "originalHex": "180b180d",
+      "sourceOcr": [
+        "雷神"
+      ],
+      "sourceReadingOcr": [
+        "ふいじん"
+      ],
+      "translation": "雷神",
+      "alternateLabel": "雷神",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 238,
+      "originalHex": "ae9bb6",
+      "sourceOcr": [
+        "ましら"
+      ],
+      "sourceReadingOcr": [
+        "ましら"
+      ],
+      "translation": "猿樂師",
+      "alternateLabel": "猿樂師",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 239,
+      "originalHex": "02b019881847",
+      "sourceOcr": [
+        "きんたん仙、"
+      ],
+      "sourceReadingOcr": [
+        "に片，"
+      ],
+      "verifiedSource": "きんたん仙人",
+      "translation": "金丹仙人",
+      "alternateLabel": "金丹仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 240,
+      "originalHex": "199d199e19881847",
+      "sourceOcr": [
+        "鹿角仙人"
+      ],
+      "sourceReadingOcr": [
+        "ろっかくせんにん"
+      ],
+      "translation": "鹿角仙人",
+      "alternateLabel": "鹿角仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 241,
+      "originalHex": "199d199e19881847",
+      "sourceOcr": [
+        "鹿角仙人"
+      ],
+      "sourceReadingOcr": [
+        "ろっかくせんにん"
+      ],
+      "translation": "鹿角仙人",
+      "alternateLabel": "鹿角仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 242,
+      "originalHex": "abb49219881847",
+      "sourceOcr": [
+        "ふゆう仙大"
+      ],
+      "sourceReadingOcr": [
+        "ふゆうせんにん"
+      ],
+      "translation": "浮游仙人",
+      "alternateLabel": "浮游仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 243,
+      "originalHex": "abb49219881847",
+      "sourceOcr": [
+        "ふゆう仙大"
+      ],
+      "sourceReadingOcr": [
+        "ふゆうせんにん"
+      ],
+      "translation": "浮游仙人",
+      "alternateLabel": "浮游仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 244,
+      "originalHex": "aebd96bd19881847",
+      "sourceOcr": [
+        "まんきん仙人"
+      ],
+      "sourceReadingOcr": [
+        "まんきんせんにん"
+      ],
+      "translation": "萬金仙人",
+      "alternateLabel": "萬金仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 245,
+      "originalHex": "aebd96bd19881847",
+      "sourceOcr": [
+        "まんきん仙人"
+      ],
+      "sourceReadingOcr": [
+        "まんきんせんにん"
+      ],
+      "translation": "萬金仙人",
+      "alternateLabel": "萬金仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 246,
+      "originalHex": "96bd9e9219881847",
+      "sourceOcr": [
+        "きんそう仙人"
+      ],
+      "sourceReadingOcr": [
+        "きんそうせんにん"
+      ],
+      "translation": "金瘡仙人",
+      "alternateLabel": "金瘡仙人",
+      "editorialTransliteration": false
+    },
+    {
+      "index": 247,
+      "originalHex": "1881184a1865",
+      "sourceOcr": [
+        "三上哲"
+      ],
+      "sourceReadingOcr": [
+        "うひょー"
+      ],
+      "translation": "三上哲",
+      "alternateLabel": "嗚喲",
+      "editorialTransliteration": false
+    }
+  ]
+}

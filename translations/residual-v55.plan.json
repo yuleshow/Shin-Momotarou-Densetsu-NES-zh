@@ -1,0 +1,19 @@
+{
+  "version": "v55",
+  "baseDirectory": "verification/formation-menu-v54",
+  "manifest": "translations/residual-v55.release.json",
+  "addedIndexedEntries": 2,
+  "status": "residual-text-in-progress-not-released",
+  "drafts": [
+    "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+    "translations/common-status-labels-remaining.draft.zh-Hant.json"
+  ],
+  "inlineMenuAdditions": [
+    {
+      "name": "ability-status",
+      "entries": [
+        { "offset": "0x5bfdb", "originalHex": "184098d0", "source": "大けが", "translation": "重傷" }
+      ]
+    }
+  ]
+}

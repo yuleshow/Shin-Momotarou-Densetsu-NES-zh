@@ -1,0 +1,13 @@
+{
+  "version": "v49",
+  "commandChart": true,
+  "defaultMonta": true,
+  "screenshotReview": "translations/screenshot-review-v49.json",
+  "baseDirectory": "opening-preview-v48",
+  "manifest": "translations/followup-v49.release.json",
+  "addedIndexedEntries": 1,
+  "status": "native-verified-ready-for-release",
+  "drafts": [
+    "translations/common-status-labels-remaining.draft.zh-Hant.json"
+  ]
+}

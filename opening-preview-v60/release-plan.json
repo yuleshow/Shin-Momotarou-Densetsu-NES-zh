@@ -1,0 +1,20 @@
+{
+  "version": "v60",
+  "baseDirectory": "verification/quiz-menus-v59",
+  "manifest": "verification/shop-followup-v60/resolved-translation-manifest.json",
+  "addedIndexedEntries": 0,
+  "nativeMenuFollowups": true,
+  "inlineMenuFiles": ["translations/recipient-menu.json"],
+  "inlineMenuAdditions": [
+    {
+      "name": "shop-services",
+      "entries": [
+        { "offset": "0x3bea6", "originalHex": "19d2b719cc9b19cd", "source": "掘り出し物", "translation": "珍寶", "padding": 5 }
+      ]
+    }
+  ],
+  "drafts": [
+    "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+    "translations/common-status-labels-remaining.draft.zh-Hant.json"
+  ]
+}

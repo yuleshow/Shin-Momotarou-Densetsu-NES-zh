@@ -1,0 +1,11 @@
+{
+  "pointerOffset": "0x70252",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "sanzen-sekai-warning",
+  "decodedBytes": 45,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「請小心！\n三千世界大人，\n就在這一層的某個地方！」"
+  }
+}

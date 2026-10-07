@@ -1,0 +1,14 @@
+{
+  "pointerOffset": "0x70243",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hell-rebel-front",
+  "decodedBytes": 304,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「鬼族的反抗軍，\n正不斷增加！」\n\n「這裡由我們守住，\n請你趕快往前走！」\n",
+    "1": "「事到如今，說也沒用了，\n但造就迦樓羅的，\n正是我們這些沒出息的傢伙！」\n「可不能因為這樣，\n就任由一切這麼結束！\n絕對不行！」",
+    "2": "「[02a0]先生！酒吞童子的，\n四天王之一，金童子在此！」\n\n「為了已故的酒吞童子大人，\n就算這副身軀腐朽，\n我也會揮刀到底！」",
+    "3": "「拜託了！鬼族的同胞啊！\n快清醒過來！\n鬼族的世界正面臨危機啊！」"
+  }
+}

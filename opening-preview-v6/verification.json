@@ -1,0 +1,249 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "55d483eefc5a918d05eb99e7344227ac810fe25d7c845dd3823ade47d46c8502",
+  "sourceUnchanged": true,
+  "checksumValid": true,
+  "titlePixelIdentical": true,
+  "menuImageChanged": true,
+  "openingFramesPixelIdentical": [
+    300,
+    600,
+    900
+  ],
+  "narrationImageChanged": true,
+  "untranslatedControlVerified": true,
+  "followingScriptByteIdentical": null,
+  "fieldMenuVerification": {
+    "commandWords": {
+      "交談": {
+        "x": 16,
+        "y": 144
+      },
+      "術": {
+        "x": 16,
+        "y": 160
+      },
+      "能力": {
+        "x": 16,
+        "y": 176
+      },
+      "調查": {
+        "x": 16,
+        "y": 192
+      },
+      "道具": {
+        "x": 64,
+        "y": 144
+      },
+      "裝備": {
+        "x": 64,
+        "y": 160
+      },
+      "特別": {
+        "x": 56,
+        "y": 192
+      }
+    },
+    "specialWords": {
+      "語速": {
+        "x": 208,
+        "y": 128
+      },
+      "隊列": {
+        "x": 208,
+        "y": 144
+      },
+      "步行": {
+        "x": 208,
+        "y": 160
+      },
+      "飛行": {
+        "x": 208,
+        "y": 176
+      },
+      "音樂": {
+        "x": 208,
+        "y": 192
+      }
+    },
+    "speedWords": {
+      "步行速度": {
+        "x": 52,
+        "y": 176
+      },
+      "快速": {
+        "x": 16,
+        "y": 192
+      },
+      "普通": {
+        "x": 48,
+        "y": 192
+      },
+      "慢速": {
+        "x": 80,
+        "y": 192
+      }
+    },
+    "walkingSpeedApplied": true,
+    "expandedLayoutRuntimeVerified": false,
+    "abilityWords": {
+      "心值": {
+        "x": 136,
+        "y": 48
+      },
+      "體力": {
+        "x": 136,
+        "y": 64
+      },
+      "技力": {
+        "x": 136,
+        "y": 80
+      },
+      "攻擊力": {
+        "x": 136,
+        "y": 96
+      },
+      "防禦力": {
+        "x": 136,
+        "y": 112
+      },
+      "速度": {
+        "x": 136,
+        "y": 128
+      },
+      "勇氣之劍": {
+        "x": 136,
+        "y": 144
+      },
+      "勇氣頭盔": {
+        "x": 136,
+        "y": 160
+      },
+      "勇氣鎧甲": {
+        "x": 136,
+        "y": 176
+      },
+      "勇氣長靴": {
+        "x": 136,
+        "y": 192
+      }
+    },
+    "abilityValuesUnchanged": true,
+    "itemWords": {
+      "月之水晶": {
+        "x": 48,
+        "y": 144
+      },
+      "黍糰": {
+        "x": 152,
+        "y": 144
+      }
+    },
+    "techniqueWords": {
+      "金丹": {
+        "x": 48,
+        "y": 160
+      },
+      "萬金丹": {
+        "x": 48,
+        "y": 192
+      },
+      "稻妻": {
+        "x": 48,
+        "y": 176
+      },
+      "鹿角": {
+        "x": 152,
+        "y": 160
+      },
+      "飛燕": {
+        "x": 152,
+        "y": 176
+      },
+      "浮游": {
+        "x": 152,
+        "y": 192
+      }
+    },
+    "itemActionWords": {
+      "使用": {
+        "x": 16,
+        "y": 144
+      },
+      "說明": {
+        "x": 16,
+        "y": 160
+      },
+      "交付": {
+        "x": 16,
+        "y": 176
+      },
+      "丟棄": {
+        "x": 16,
+        "y": 192
+      }
+    },
+    "speechWords": {
+      "訊息速度": {
+        "x": 68,
+        "y": 176
+      },
+      "極速": {
+        "x": 16,
+        "y": 192
+      },
+      "快速": {
+        "x": 48,
+        "y": 192
+      },
+      "普通": {
+        "x": 88,
+        "y": 192
+      },
+      "慢速": {
+        "x": 128,
+        "y": 192
+      }
+    },
+    "speechSpeedApplied": true,
+    "flightWords": {
+      "飛行速度": {
+        "x": 60,
+        "y": 176
+      },
+      "極速": {
+        "x": 16,
+        "y": 192
+      },
+      "快速": {
+        "x": 48,
+        "y": 192
+      },
+      "普通": {
+        "x": 88,
+        "y": 192
+      },
+      "慢速": {
+        "x": 128,
+        "y": 192
+      }
+    },
+    "audioWords": {
+      "立體聲": {
+        "x": 136,
+        "y": 176
+      },
+      "單聲道": {
+        "x": 136,
+        "y": 192
+      }
+    }
+  },
+  "typewriterTimingIdentical": false,
+  "notVerified": [
+    "Full playthrough",
+    "Battle",
+    "Saving and loading",
+    "Correctness and legibility of every translated glyph"
+  ]
+}

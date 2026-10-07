@@ -1,0 +1,87 @@
+{
+  "status": "deployed-rom-readback-and-protected-files-verified",
+  "scope": "battle-status-graphics-preview",
+  "targetSha256": "d963f67aaf196142ff517f52857b2f7acd57256296b38c9400f20504caa2ce85",
+  "baselineSha256": "12531ca2adcf913d37312d4c29e55f723d564dc76262b07d19c0531b0de24bda",
+  "indexedTextInheritedUnchanged": 7079,
+  "newIndexedRecords": 0,
+  "nativeConditionCases": 8,
+  "visuallyReviewed": true,
+  "largeTextAndBattleCodeByteIdenticalToV47": true,
+  "ordinaryBattle": {
+    "frames": 2400,
+    "samples": 20,
+    "exactGameStateAndScreensMatchV47": true,
+    "reusedBattleFixtureWithCachedStatusGraphics": true
+  },
+  "limitations": [
+    "Full natural playthrough",
+    "Every transient battle condition",
+    "Identical battle ordering timing",
+    "Physical device"
+  ],
+  "files": [
+    {
+      "filename": "opening-zh-Hant.sfc",
+      "sha256": "d963f67aaf196142ff517f52857b2f7acd57256296b38c9400f20504caa2ce85"
+    },
+    {
+      "filename": "opening-zh-Hant.ips",
+      "sha256": "3a3731d17f04ed3be5b4ceda3888853f126274c1d9d9913115e14648a37cb8a5"
+    },
+    {
+      "filename": "build.json",
+      "sha256": "407623d31362f12388863d5d011dc51146ef1318f7799c1dc0218183cb99f0b4"
+    },
+    {
+      "filename": "welcome-preview.png",
+      "sha256": "6f76f6db8926c8d8165a1562242da12b2812c065e87f9cb02273f23dca55465f"
+    },
+    {
+      "filename": "resolved-translation-manifest.json",
+      "sha256": "f10f38c9d33732adff51a0360eff44227d86dbe42dde828e37fe678e9006cc29"
+    },
+    {
+      "filename": "FONT-LICENSE.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "filename": "battle-status-verification.json",
+      "sha256": "0960f2cb2e3a43807ed360982249fe982c029915cfcc267bf2ffb071fa7d16d0"
+    },
+    {
+      "filename": "battle-statuses.png",
+      "sha256": "1bae29b9407ae872ec5e60b75492bcd52fbd356b6a22c4f81cd301a7f5384839"
+    },
+    {
+      "filename": "ordinary-battle.png",
+      "sha256": "7c9ca38c29628e0f2088d0c2d52ceadbe82839cc72c226d6e3280baa5c6e8db5"
+    },
+    {
+      "filename": "build-scope-verification.json",
+      "sha256": "e381c2518825fd3bc8c53e1bed23c94c6196065c0fcb9b830014622178365659"
+    },
+    {
+      "filename": "welcome-verification.json",
+      "sha256": "c80a933997479dca7ec79698595f00ea3861cd8b77c0756fc6ddb05bb4af1605"
+    },
+    {
+      "filename": "menu-verification.json",
+      "sha256": "c2e5d4889039e8bbe0b8135930740f6b40a9ab19d921de2f196866835b219f80"
+    },
+    {
+      "filename": "sumo-verification.json",
+      "sha256": "75f607307721f72a8530b9aaa0d52fb88f53028b417d82ac24e7db25cf64aee8"
+    }
+  ],
+  "device": {
+    "deployed": true,
+    "targetSha256": "d963f67aaf196142ff517f52857b2f7acd57256296b38c9400f20504caa2ce85",
+    "fullReadbackVerified": true,
+    "screenshotsDeleted": 0,
+    "savesWritten": false,
+    "cheatsWritten": false,
+    "deploymentReport": "deployment-verification.json",
+    "physicalDeviceBootVerified": false
+  }
+}

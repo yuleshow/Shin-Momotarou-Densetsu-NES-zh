@@ -1,0 +1,40 @@
+{
+  "pointerOffset": "0x7011a",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "taketori-island-refuge",
+  "decodedBytes": 1642,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 25 original glyph records reviewed. Keep separate catastrophe stages: cliffs rising, sea turning red, land sinking, Kaguya's capture/death and refugee arrivals.",
+    "Preserve the west-of-Taketori Yomi Tower/Rashomon clue and the meteorite falling at the lunar 豐饒村 that can breathe life into a sword; the latter source line was enlarged and checked.",
+    "Keep duplicate records 0/1, Urashima's rebuilding response, the floating festival drum and all original hero-name/newline positions. No event logic or quest state is changed."
+  ],
+  "records": {
+    "0": "「大地開始紊亂了！\n輝夜姬的身上，\n一定發生了什麼事！」",
+    "1": "「大地開始紊亂了！\n輝夜姬的身上，\n一定發生了什麼事！」",
+    "2": "「大地正在憤怒！\n失去了輝夜姬，\n大地正在發怒啊！」",
+    "3": "「啾啾！[02a0]先生！\n竹取島出大事了！」\n\n「沙灘突然之間，\n變成了，\n陡峭的懸崖！」\n「大家都在說，\n好可怕、好可怕呀！\n啾啾！」",
+    "4": "「啾啾！[02a0]先生！\n竹取村大家的勇氣，\n一定會流傳很久吧！」",
+    "5": "「啾啾！啾啾！\n大海竟然變得一片通紅！\n大地也不斷地沉下去！」",
+    "6": "「啾啾！[02a0]先生！\n我就知道你會來！」\n\n「快去竹取村看看吧！\n村裡的人，\n全都垂頭喪氣的！」",
+    "7": "「啾啾！這樣啊……\n輝夜姬還沒獲救嗎……\n不過，我們相信[02a0]先生！」",
+    "8": "「啾啾！\n輝夜姬死了？\n騙人的！這是騙人的吧？」",
+    "9": "「竹取村的人，\n失去了被擄走的輝夜姬，\n全都不知所措呢！」",
+    "10": "「最近到處都有，\n山崩和河川，\n氾濫的消息呢！」",
+    "11": "「這個世界，\n就要這樣毀滅了嗎！」\n",
+    "12": "「我搭船來到這座島，\n才發現地面隆起了，\n船就被沖走了！」\n「天氣也愈來愈，\n冷颼颼的了！\n我有種不好的預感啊！」",
+    "13": "「聽說海底的水流，\n近來，\n流得愈來愈快了！」\n「這片大地，\n到底發生了什麼事？」\n",
+    "14": "「世界末日，\n終於，\n還是來了嗎！」",
+    "15": "「啾啾！[02a0]先生！」\n\n\n「竹取村西邊的，\n黃泉之塔裡，\n聽說有個非常強的鬼呢！」\n「他名叫羅生門！\n光是聽這名字，\n就覺得很厲害呢！」",
+    "16": "「啾啾！[02a0]先生！\n你知道嗎？」\n\n「月上的豐饒村，\n有時會落下能為劍，\n注入生命的隕石呢！」",
+    "17": "「啾啾！如果能，\n再投胎一次，我還是，\n想出生在這間旅店！」",
+    "18": "「啾啾！輝夜姬，\n自從被擄走以後，\n到底已經過了幾天呢？」\n「竹取村的年輕人，\n都說要靠自己的力量，\n救出輝夜姬，充滿了幹勁！」",
+    "19": "「啾啾！輝夜姬，\n自從被擄走以後，\n到底已經過了幾天呢？」",
+    "20": "「啾啾！[02a0]先生！\n我們真的，\n什麼也做不了嗎？」\n「真的，什麼也做不了嗎？\n我好不甘心！\n啾啾！」",
+    "21": "「好不容易從浦島村，\n搭著船，\n來到了這裡！」",
+    "22": "「浦島！連你家，\n也沉下去了啊！」\n\n浦島\n「房子不管幾次，\n都可以重新蓋呀！」\n「比起這個，大叔，\n請和這裡的大家，\n好好地生活吧！」\n「等討伐鬼族結束，\n我們就一起，\n過著以海為生的日子吧！」",
+    "23": "「俺從金太郎村來的！\n爬到祭典的太鼓上，\n就這樣漂流到了這裡！」\n「金太郎還好嗎？」\n\n",
+    "24": "金太郎\n「喔！是老爹啊！」\n\n「連太鼓都帶來了，\n你想得真周到呀！」\n\n「等討伐鬼族結束後，\n就教大家，\n怎麼辦祭典吧！好啊！」"
+  }
+}

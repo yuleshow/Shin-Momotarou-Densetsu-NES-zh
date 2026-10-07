@@ -1,0 +1,52 @@
+{
+  "code": "7E1D6705",
+  "replacedCode": "7E155700",
+  "target": "Random encounter delay at 7E1D67, held at 5",
+  "sourceState": "/Volumes/share/saves/snes/Shin Momotarou Densetsu (Traditional Chinese).state18",
+  "sourceStateSha256": "3ee47fcbe35d3617f577cc9b83fb752efbb484d9d762f9deabd08f1f6152bed7",
+  "testedRoms": [
+    "Japanese Rev 1",
+    "v21"
+  ],
+  "framesPerInitialRun": 3600,
+  "normalCavePixelsAndVramIdenticalThroughFrame": 540,
+  "initialReplay": {
+    "noCheatSteps": 12,
+    "oldCheatSteps": 0,
+    "replacementSteps": 62,
+    "noCheatEnteredBattle": true,
+    "replacementStayedInCave": true
+  },
+  "continuedReplay": {
+    "replacementSteps": 126,
+    "disabledAgainSteps": 74,
+    "disabledAgainEnteredBattle": true,
+    "replacementStayedInCave": true
+  },
+  "interpretation": "Replacement preserves normal cave movement and graphics before the baseline encounter; old step freeze differs.",
+  "battleEvidence": "Local Vision OCR finds battle commands in baseline and disabled-again frames, not candidate frames.",
+  "deviceCopies": [
+    {
+      "filename": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "sha256": "77cf246ddad9c43b54201cf4ce6740defc26993841cbbfe3cbca854fe079e49d",
+      "backupFile": "/tmp/momotaro-encounter-delay-install-cjYtsy/Snes9x.cht",
+      "onlyEncounterCodeAndDescriptionChanged": true
+    },
+    {
+      "filename": "/Volumes/share/cheats/cht/0QuickLoad/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "sha256": "0e8bcdd209ee3be9ff684b426e2896f762574b1c751dd26fa5f0030b331d2259",
+      "backupFile": "/tmp/momotaro-encounter-delay-install-cjYtsy/0QuickLoad.cht",
+      "onlyEncounterCodeAndDescriptionChanged": true
+    }
+  ],
+  "existingEnableStatesPreserved": true,
+  "deviceRomUnchanged": true,
+  "deviceRomSha256": "413ed9d937a94a9783e31caa0efb33c0c818f723f5f673a011ba3b3d2eea504f",
+  "deviceSavesWrittenOrRestored": false,
+  "physicalDeviceActivationVerified": false,
+  "notVerified": [
+    "Full game",
+    "Scripted and boss battles",
+    "Every other step-based effect"
+  ]
+}

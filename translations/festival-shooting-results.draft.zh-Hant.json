@@ -1,0 +1,12 @@
+{
+  "pointerOffset": "0x70072",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "festival-shooting-results",
+  "decodedBytes": 63,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「好好瞄準再射擊吧。」[0b]",
+    "1": "「辛苦了。\n你的得分是[0a]分。\n歡迎再來玩喔。」[0b]"
+  }
+}

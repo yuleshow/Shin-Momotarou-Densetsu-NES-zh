@@ -1,0 +1,9 @@
+{
+  "version": "v52",
+  "baseDirectory": "verification/followup-v51",
+  "manifest": "translations/screenshots-v52.release.json",
+  "addedIndexedEntries": 0,
+  "status": "native-verified-scope-only-not-released",
+  "drafts": [],
+  "inlineMenuFiles": ["translations/screenshot-workshop-menus.json"]
+}

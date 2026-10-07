@@ -1,0 +1,51 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "status": "native-verified-scope-only-not-released",
+  "inlineMenus": [
+    {
+      "name": "bean-stall-services",
+      "start": "0x3c994",
+      "end": "0x3c9af",
+      "target": "0x23dd00",
+      "pointerOperand": "0x3c985",
+      "bankOperand": "0x3c98c",
+      "originalBank": "83",
+      "entries": [
+        { "offset": "0x3c99d", "originalHex": "19ca92", "source": "買う", "translation": "購買" },
+        { "offset": "0x3c9a3", "originalHex": "19d019d1", "source": "説明", "translation": "說明" },
+        { "offset": "0x3c9aa", "originalHex": "b3b1b8", "source": "やめる", "translation": "取消" }
+      ]
+    },
+    {
+      "name": "castle-workshop-upgrades",
+      "start": "0x3cff0",
+      "end": "0x3d05e",
+      "target": "0x23de40",
+      "pointerOperand": "0x3cfe1",
+      "bankOperand": "0x3cfe8",
+      "originalBank": "83",
+      "entries": [
+        { "offset": "0x3cffd", "originalHex": "1a80bc18d9de9db8", "source": "空を飛ばせる", "translation": "加裝飛行機關", "padding": 0 },
+        { "offset": "0x3d01f", "originalHex": "18d4bc197db69db8", "source": "海を潜らせる", "translation": "加裝潛水機關", "padding": 0 },
+        { "offset": "0x3d041", "originalHex": "18401a20bca198b8", "source": "大砲をつける", "translation": "加裝大砲", "padding": 3, "nativeGlyphs": { "砲": "1a20" } }
+      ]
+    },
+    {
+      "name": "castle-workshop-supplies",
+      "start": "0x3d09e",
+      "end": "0x3d116",
+      "trailerHex": "005118",
+      "target": "0x23df60",
+      "pointerOperand": "0x3d08f",
+      "bankOperand": "0x3d096",
+      "originalBank": "83",
+      "entries": [
+        { "offset": "0x3d0a7", "originalHex": "18401a20a81acc", "source": "大砲の玉", "translation": "砲彈", "padding": 3, "nativeGlyphs": { "砲": "1a20" } },
+        { "offset": "0x3d0c3", "originalHex": "18401a20a81acc5251197e", "source": "大砲の玉１０発", "translation": "砲彈１０發", "padding": 3, "nativeGlyphs": { "砲": "1a20", "１": "52", "０": "51" } },
+        { "offset": "0x3d0e0", "originalHex": "19a119be1a31181c181d", "source": "城修理道具", "translation": "修城工具", "padding": 2 },
+        { "offset": "0x3d0ff", "originalHex": "18401a20a81acc1924b7", "source": "大砲の玉残り", "translation": "現有砲彈", "padding": 3, "nativeGlyphs": { "砲": "1a20" } },
+        { "offset": "0x3d10e", "originalHex": "197e", "source": "発", "translation": "發" }
+      ]
+    }
+  ]
+}

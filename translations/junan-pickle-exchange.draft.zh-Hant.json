@@ -1,0 +1,34 @@
+{
+  "pointerOffset": "0x700c6",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "junan-pickle-exchange",
+  "decodedBytes": 859,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 19 original glyph records reviewed, including winter-only sales, deposit prompts, both exchange branches and full-inventory responses.",
+    "Use existing item names: white radish, pickled radish and senmaizuke. Preserve eight radishes per pickled radish, sixteen per senmaizuke, and the 64-radish storage limit.",
+    "Keep dynamic quantity and character fields, duplicate balance notices and every source newline; record 5 is an open quantity-entry prompt. No exchange mechanics are changed."
+  ],
+  "records": {
+    "0": "「冬天就快到了！\n得趕快把白蘿蔔，\n拿來醃漬才行！」",
+    "1": "「順安的醃菜，\n光是配飯就很好吃了！\n配茶泡飯更是一絕！」",
+    "2": "「順安的醃蘿蔔與千枚漬，\n只有冬天才有販售。」\n\n「現在正在，\n醃漬白蘿蔔呢。\n您有帶白蘿蔔來嗎？」",
+    "3": "「要把白蘿蔔，\n寄放在我們這裡嗎？」\n",
+    "4": "「不好意思，這裡無法，\n寄放超過６４根白蘿蔔，\n沒有足夠的空間了。」\n「差不多該拿來製作，\n醃蘿蔔或千枚漬了吧？」\n",
+    "5": "「您帶來的白蘿蔔，\n共有[0a]根，\n要寄放幾根呢？",
+    "6": "「好的，[0a]根，\n已經確實收下了！」\n",
+    "7": "「只要８根白蘿蔔，\n就能替您製作，\n順安的醃蘿蔔。」\n「只要１６根白蘿蔔，\n就能替您製作，\n順安的千枚漬。」\n「您帶來的白蘿蔔，\n最多可以在這裡，\n寄放６４根。」",
+    "8": "「只要帶來美味的白蘿蔔，\n就能替您製作，\n順安的醃菜。」",
+    "9": "「到目前為止，\n您寄放在這裡的白蘿蔔，\n共有[0a]根。」",
+    "10": "「想製作醃蘿蔔，\n還缺[0a]根白蘿蔔呢……\n",
+    "11": "「能做[0a]條醃蘿蔔，\n要現在製作嗎？」\n",
+    "12": "「謝謝您，\n已為您製作[0a]條。」\n",
+    "13": "「[11]！\n您的道具袋已經滿了喔！」\n",
+    "14": "「到目前為止，\n您寄放在這裡的白蘿蔔，\n共有[0a]根。」",
+    "15": "「想製作千枚漬，\n還缺[0a]根白蘿蔔呢……\n",
+    "16": "「能做[0a]份千枚漬，\n要現在製作嗎？」\n",
+    "17": "「謝謝您！」\n已為您製作[0a]份。\n",
+    "18": "「[11]！\n您的道具袋已經滿了喔！」\n"
+  }
+}

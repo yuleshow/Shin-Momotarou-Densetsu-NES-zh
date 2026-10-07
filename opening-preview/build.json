@@ -1,0 +1,131 @@
+{
+  "status": "partial-menu-and-opening-paragraph",
+  "romFilename": "opening-zh-Hant.sfc",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "fe14d7906beb66c3c34deac3f52feb480311c09c2c981a50d8fe6edd70081441",
+  "fontSha256": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4",
+  "font": "momotaro-NotoSansCJKtc-Regular.otf",
+  "glyphs": [
+    {
+      "character": "無",
+      "code": "1bc0"
+    },
+    {
+      "character": "存",
+      "code": "1bc1"
+    },
+    {
+      "character": "檔",
+      "code": "1bc2"
+    },
+    {
+      "character": "繼",
+      "code": "1bc3"
+    },
+    {
+      "character": "續",
+      "code": "1bc4"
+    },
+    {
+      "character": "開",
+      "code": "1bc5"
+    },
+    {
+      "character": "始",
+      "code": "1bc6"
+    },
+    {
+      "character": "複",
+      "code": "1bc7"
+    },
+    {
+      "character": "製",
+      "code": "1bc8"
+    },
+    {
+      "character": "刪",
+      "code": "1bc9"
+    },
+    {
+      "character": "除",
+      "code": "1bca"
+    },
+    {
+      "character": "在",
+      "code": "1bcb"
+    },
+    {
+      "character": "鬼",
+      "code": "1bcc"
+    },
+    {
+      "character": "島",
+      "code": "1bcd"
+    },
+    {
+      "character": "懲",
+      "code": "1bce"
+    },
+    {
+      "character": "治",
+      "code": "1bcf"
+    },
+    {
+      "character": "閻",
+      "code": "1bd0"
+    },
+    {
+      "character": "魔",
+      "code": "1bd1"
+    },
+    {
+      "character": "後",
+      "code": "1bd2"
+    },
+    {
+      "character": "，",
+      "code": "1bd3"
+    },
+    {
+      "character": "已",
+      "code": "1bd4"
+    },
+    {
+      "character": "經",
+      "code": "1bd5"
+    },
+    {
+      "character": "過",
+      "code": "1bd6"
+    },
+    {
+      "character": "了",
+      "code": "1bd7"
+    },
+    {
+      "character": "六",
+      "code": "1bd8"
+    },
+    {
+      "character": "年",
+      "code": "1bd9"
+    },
+    {
+      "character": "…",
+      "code": "1bda"
+    }
+  ],
+  "checksum": "d34c",
+  "newFontGroupOffset": "20cd98",
+  "opening": {
+    "translated": true,
+    "pointerOffset": "0x702c4",
+    "sourceStart": 682801,
+    "originalDecodedBytes": 1428,
+    "originalParagraphBytes": 55,
+    "replacementParagraphBytes": 42,
+    "suffixPreserved": true,
+    "relocatedOffset": "0x220000",
+    "compressedBytes": 1592
+  }
+}

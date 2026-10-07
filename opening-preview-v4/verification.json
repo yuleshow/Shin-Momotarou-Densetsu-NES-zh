@@ -1,0 +1,23 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "343ae58c99a120fad5114693d42abfcebdee044618d0a9cb4ccf8a3028aef522",
+  "sourceUnchanged": true,
+  "checksumValid": true,
+  "titlePixelIdentical": true,
+  "menuImageChanged": true,
+  "openingFramesPixelIdentical": [
+    300,
+    600,
+    900
+  ],
+  "narrationImageChanged": true,
+  "untranslatedControlVerified": true,
+  "followingScriptByteIdentical": true,
+  "typewriterTimingIdentical": false,
+  "notVerified": [
+    "Full playthrough",
+    "Battle",
+    "Saving and loading",
+    "Correctness and legibility of every translated glyph"
+  ]
+}

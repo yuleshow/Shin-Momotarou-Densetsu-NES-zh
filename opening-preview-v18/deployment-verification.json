@@ -1,0 +1,16 @@
+{
+  "targetSha256": "da5ad6269b0f022c655b308ed102b11ca4cc82d2901a93cc03715d50821f5fbd",
+  "previousDeviceSha256": "3195dee3f4676d40689b563f2d497727286332b9cdd57ee60a9fe0645a82332a",
+  "deviceReadbackVerified": true,
+  "relatedDeviceRomCount": 1,
+  "removedScreenshots": [],
+  "removedScreenshotCount": 0,
+  "remainingRelatedScreenshots": 0,
+  "unrelatedScreenshotEntriesPreserved": 200,
+  "protectedFilesUnchanged": 6,
+  "unrelatedScreenshotCheck": "Directory entries preserved; no unrelated screenshots written or deleted",
+  "screenshotBackupDirectory": null,
+  "saveFilesWrittenByDeployment": false,
+  "saveFilesRestored": false,
+  "physicalDeviceBootVerified": false
+}

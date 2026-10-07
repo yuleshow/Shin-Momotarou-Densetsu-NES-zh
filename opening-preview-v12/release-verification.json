@@ -1,0 +1,25 @@
+{
+  "targetSha256": "0304044532e1d40173d503bb2ad4f522a85aa217dc52c3d2af153e68a4986e49",
+  "previousDeviceSha256": "4f1652a1f2f54693eaa27ddc14f7549339d7eebb391c2ab5d9c83d8823d45d93",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "deviceReadbackVerified": true,
+  "protectedFilesUnchanged": 24,
+  "relatedDeviceRoms": [
+    "Shin Momotarou Densetsu (Traditional Chinese).sfc"
+  ],
+  "releaseStatus": "partial-translation",
+  "glyphs": 1049,
+  "addedVillageRecords": 99,
+  "dialogueScenes": 37,
+  "exactWords": 80,
+  "bankDepositGlyphDefectFixed": true,
+  "unverified": [
+    "Complete menu regression not rerun on this exact build",
+    "Full playthrough, actual service effects and physical-device launch",
+    "Not a complete Chinese translation"
+  ],
+  "notIncluded": [
+    "72 shrine/save/fortune records drafted after this build",
+    "Later expansion to 1600 glyphs"
+  ]
+}

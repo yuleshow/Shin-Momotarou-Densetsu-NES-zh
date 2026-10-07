@@ -1,0 +1,144 @@
+{
+  "targetSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "baselineSha256": "72bf0da16d95fecb8d5a48044e1494936d7466f4e030c2cc6843ee6f55cc0eaa",
+  "fixtureSha256": "686a94ffbe01cfbcf7e2b82a1585e9b1d66ccb9a9785c3e1d50e23419b926a20",
+  "conditions": "Native world-map state with only cash values set in copies; original layout, ROM code and normal controller input.",
+  "money": [
+    {
+      "cash": 0,
+      "heading": {
+        "x": 192,
+        "y": 176,
+        "width": 36,
+        "height": 16
+      },
+      "outsideHeadingPixelsIdentical": true,
+      "gameplayDataIdentical": true,
+      "image": "money-0-target.png"
+    },
+    {
+      "cash": 65535,
+      "heading": {
+        "x": 192,
+        "y": 176,
+        "width": 36,
+        "height": 16
+      },
+      "outsideHeadingPixelsIdentical": true,
+      "gameplayDataIdentical": true,
+      "image": "money-65535-target.png"
+    }
+  ],
+  "special": [
+    {
+      "labels": [
+        {
+          "word": "語速",
+          "x": 208,
+          "y": 176,
+          "width": 24,
+          "height": 16
+        },
+        {
+          "word": "隊列",
+          "x": 208,
+          "y": 192,
+          "width": 24,
+          "height": 16
+        }
+      ],
+      "changedLabelBounds": [
+        {
+          "word": "語速",
+          "x": 208,
+          "y": 176,
+          "width": 36,
+          "height": 16
+        },
+        {
+          "word": "隊列",
+          "x": 208,
+          "y": 192,
+          "width": 24,
+          "height": 16
+        }
+      ],
+      "outsideLabelPixelsIdentical": true,
+      "gameplayDataIdentical": true,
+      "image": "special-target.png",
+      "actions": [
+        {
+          "name": "speech",
+          "speedApplied": 2,
+          "speedMatchesBaseline": true,
+          "image": "speech-target.png"
+        },
+        {
+          "name": "order",
+          "gameDataMatchesBaseline": true,
+          "changedLabelBounds": [
+            {
+              "word": "語速",
+              "x": 208,
+              "y": 176,
+              "width": 36,
+              "height": 16
+            },
+            {
+              "word": "隊列",
+              "x": 208,
+              "y": 192,
+              "width": 24,
+              "height": 16
+            },
+            {
+              "x": 192,
+              "y": 176,
+              "width": 36,
+              "height": 16
+            },
+            {
+              "x": 108,
+              "y": 176,
+              "width": 24,
+              "height": 16
+            }
+          ],
+          "image": "order-target.png"
+        },
+        {
+          "name": "cancel",
+          "gameDataMatchesBaseline": true,
+          "changedLabelBounds": [
+            {
+              "word": "語速",
+              "x": 208,
+              "y": 176,
+              "width": 36,
+              "height": 16
+            },
+            {
+              "word": "隊列",
+              "x": 208,
+              "y": 192,
+              "width": 24,
+              "height": 16
+            },
+            {
+              "x": 192,
+              "y": 176,
+              "width": 36,
+              "height": 16
+            }
+          ],
+          "image": "cancel-target.png"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Not physical-device validation or a complete release regression."
+  ],
+  "cashAddress": "7E1621",
+  "cashDisplayChangesWithValue": true
+}

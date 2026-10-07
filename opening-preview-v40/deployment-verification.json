@@ -1,0 +1,465 @@
+{
+  "version": "v40",
+  "status": "deployed-readback-verified-checked-screenshots-removed",
+  "targetSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+  "previousSha256": "b4f7d64a740ea2906c2fda9c949563a8fcf6dd236c647e567ca02367538f820c",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "backupRom": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/opening-preview-v40/deployment-backup/previous-v37.sfc",
+  "screenshotBackupDirectory": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/opening-preview-v40/deployment-backup",
+  "backedUpScreenshots": [
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-233344.png",
+      "sha256": "ad7ee24589b1dc24361d253c795201f33c3dc88086a030bb75f00f97815d8582"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234315.png",
+      "sha256": "2fe1f2463a4c4bab43a7ed1d5ab9c9cca2687aa56d9fa90af457cfe412f5ad05"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234323.png",
+      "sha256": "0b5375578cc0a33aa445dd1c05ba691ee4071e5094d39156e57ddebe595c24e5"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234333.png",
+      "sha256": "b32ef650e10397f67d936320bd25c4c1f131db10e368cb4105c0c2dc5ed5479d"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234950.png",
+      "sha256": "dab6a19fe657214c0b2abdc334d65e39d6fca0f8c73279b7e932d59d1ccf9f13"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234342.png",
+      "sha256": "dccabf19d65479e0e558c3fa9cfccdfc53c53bf86cb397a0d610768ad170ebaa"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234349.png",
+      "sha256": "c468f87c621aef9d3b7e3f18839fa1be9e98c575f3158e2fec2edf3bd8179660"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234355.png",
+      "sha256": "323af20f4f262e9d517850c8778d5534918f2f50d70cab631e8fe257ed133401"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234402.png",
+      "sha256": "e9775d640e4d90574b8c8c403807795d5a75b9ce35ca05c3afa731c49675c37d"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234406.png",
+      "sha256": "5cac6f829815755082eb544b35f4fb7bbe86025437ca0d824d2ddf210acd6f03"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234718.png",
+      "sha256": "0c0bcbf67685d874b11fa3792d3855d0e5b01edf0c7d28280627fe75958c56fb"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234726.png",
+      "sha256": "93630ce5bb726f40a216d59258fc3ec7a4a6ff05bb93dd0152b3579c2923de43"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002142.png",
+      "sha256": "0e1cf832beb29f785f6d9abf56d6562e337a2924ca10a3268ca04d639ffa41ce"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002147.png",
+      "sha256": "9addfd8dee1946049b20aa8633a8b769892f04d892645ffa1b84aaaf71661799"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002153.png",
+      "sha256": "942b399516d7c65a648e21207d028a81947d2b5729e405a53690e4dc03fdf87d"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002210.png",
+      "sha256": "7145e5ff29bf9076b128105b8eb62653b0d8fe4d2d95d3c6c45d167c73de71a0"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002218.png",
+      "sha256": "d924adb14573262fd04dcee1edc8d26d58780078fb1b5895d51ff0062747107f"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002223.png",
+      "sha256": "3817c32fc40c9661dccb4dd844bf4ac67214ad259f3092fdc65acd23903a5310"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002229.png",
+      "sha256": "87921cdb1e7c5fcfb67117b442636e2b76b8836be43aa995e0172bf79af82ef0"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002235.png",
+      "sha256": "ba87aef861a9207731072b90adb06f8c9766e45598241cc7b3fb42bff33619ea"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002241.png",
+      "sha256": "ce90b2201afdebc7a66db29e304ccdc3558077c8409c934e9bf1fb72ca75544d"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002246.png",
+      "sha256": "69a7f67fe6c0a76c72dd98ef798e64a99ef5393a5fff45c0c208d43e1da29e3a"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002252.png",
+      "sha256": "9960974524a9b855654e00f5b5d1e866fa15f3c725e38160b2df9efc15242233"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002257.png",
+      "sha256": "b60ab6cbe85df2fff3c24dac9187d7766a801f0bcf24bc593abed0792b019af6"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002311.png",
+      "sha256": "5ef95fcff11fb3760a3e2027e07cd617658a508b51d15549fb0bcfd9fda7ac02"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002333.png",
+      "sha256": "25a9051673f4c0ad6ec5ca105119d6f5e16c28337f505376aca6898d10905e24"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002340.png",
+      "sha256": "7d24a6799277075f1736d43936d1b1ece9c12a505b0454002ebca5d9f132e257"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002343.png",
+      "sha256": "804b8e2018d5c20d5aa82bc1f3b1f28b2bb254de509d6a1205d46cfdf709b2f3"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002351.png",
+      "sha256": "cd8b75a5759438eb46b5679c42fca37909b897f0e93553e9a8cf24bc08fe4bc6"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002520.png",
+      "sha256": "f779349d19f0be2d669796db2980cbe2fc1d872e26fc69c58d85a9c63aa5da57"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-004144.png",
+      "sha256": "7cf3c2fff55bc32d6329cfcb3c96e496644fb51869009d521fb348a989b77311"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-004147.png",
+      "sha256": "895819d8297882ed95e3024ac2f151293ac0703b7dde57b2e0f164ca27b7fd82"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-004151.png",
+      "sha256": "69b34332f4c5994ab72fb0dfd725b540778dd5deadb2c93eb6c8ac5fa2bd157b"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-114943.png",
+      "sha256": "0d5794d87fa93cf79b54a6872c0d2e1e3b4b5ddbc8474b497feeb30475e8507a"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-115509.png",
+      "sha256": "96a444e3a85eac8aa53e6ed64f93cf0034ba7a09e85fd03a608ea0da7834e3dc"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-115659.png",
+      "sha256": "70e5b2e6b04a044ac7b9bb06313b9463eeaf12cf1d858aa70247a169548fc26e"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-123649.png",
+      "sha256": "4613e3d76671ec703d33c95805f2a0544d412246ddce4700c6f9fb7d18ff0265"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-125521.png",
+      "sha256": "184ee6e40a4ff9a531aa2e978452a848275b9229315e7b4759df65048585b49d"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-123717.png",
+      "sha256": "47357967fb8494ff567ed9bb449724a2d5a61e4325eef364d60ab75a25c3d836"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-125608.png",
+      "sha256": "f13c2c1b35e35e86d8e27f1b02ff988905bc5aa083331a4ec669fc3de4bcc1bd"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-125630.png",
+      "sha256": "7299672b22ec9ac1bdcddedd83e8cbbeeafb45313bf85d52c7b3642c5f9fa920"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130429.png",
+      "sha256": "703f5bf09a4be6c22a25efcd370d2807e3fdd221ba135187d6b7d451d8d8488a"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130438.png",
+      "sha256": "ca8c52f633a8a7455bf8a5fb9efb0da9279325bab868671b812176302acbfa4b"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130815.png",
+      "sha256": "f83867929df1b0a4f08b6feb7eae4986efdfa35cf1d03927e13d593bab72b1ac"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130820.png",
+      "sha256": "0cb42228a12a3aa1fd5bae9b9f5a80cfb71cdbe64a123606dba65a5dbb6f0642"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130824.png",
+      "sha256": "9310dcf7295967c8c3cd9b9868787003c0becc2bbc1ed712713fb2b784a27591"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130829.png",
+      "sha256": "998f8ff06d9938f2ca65638cf65c95e35e7271357927004172108892183c7b58"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130834.png",
+      "sha256": "3a27d0a7eb714efd74b3c178a14c8cf1109464e148c2efc130c60dc907e5a47c"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130839.png",
+      "sha256": "734a90ee09c72650fd1549f48cf62ba9c119950d77f910262ca618c634a4023c"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-133657.png",
+      "sha256": "b74b0203cf2de230ba1181f9ac58c6da49d4c6342e7674a73f61a311015687c2"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-133701.png",
+      "sha256": "2e168ffa001b39c6a592f4b4f79efb399d304b674c2a08c6dcb5ca0544a1a763"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134137.png",
+      "sha256": "940c4b86d6b26467e07904208989f937ab17dac72ea875f146e5cb1a852bdafd"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134359.png",
+      "sha256": "f14902f0c72b83076a867b3fe093028170e5e39e904777c66ccc6b0713f86f3e"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134424.png",
+      "sha256": "c0bdd2c05d2cd8f36fa6e8c3e5d14d45cabe494e2a3f0492569223ca959a75fd"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134431.png",
+      "sha256": "cadc8ef7034e527101e914911e809e51cb489bc9d41abf34214766c20827bb1e"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134530.png",
+      "sha256": "ae1fc0b43c80a1684f6aeb0cdcf5ce50e3de14804a603686e840d7756cf8a845"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134537.png",
+      "sha256": "d6d91d7120d3dca6f33d1a00eaaff254d85c921178d8c11dec5a673481361d86"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135301.png",
+      "sha256": "ae02eef1f609ea6a222d5030e6506c6215135ff2e2aa8a855cca143d27f21cdf"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135330.png",
+      "sha256": "0163984efd59be665b8f23fa97c686d35a329a2fb24a98da54ab362987a9f96f"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135611.png",
+      "sha256": "f77c6653d40d1c697b9661d583821611928ae89e01d4415dbd0dee739ddd0424"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135620.png",
+      "sha256": "9848b51d0a2d3cc0c7a2006e1b32798bf789ba15974afdf519d7de2da1e55e75"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135621.png",
+      "sha256": "718a8ac2b5487d12dc0e22073c9a35a92a973b53f37aa19796349e056cc45cef"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135941.png",
+      "sha256": "5a4292e0f6cbdc3dd38ee4d66bc2d33c6f48176a506f07c6cef8c0dfe1bdcb61"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-140011.png",
+      "sha256": "a65197751d382cb0da9f3d3c3cc6b7732d8b3f2f3fb9a3bee8521dbb7faed866"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142542.png",
+      "sha256": "1e74ae82991c436e625f5dc99ecbe5a9f3ac79d3e0c101c4c5284ce65defd915"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142659.png",
+      "sha256": "33513c5b62b0cb408de567889327112a4aeab4adb725da88e3d5974eef6659cf"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142822.png",
+      "sha256": "8bb13caa22a0eaa778fb1be8b94240cc2bc0108c22e1a71c7e9fc29de7619145"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142828.png",
+      "sha256": "0b09a2847ca9cfcd66f375e3b845cc664e12934751048f1a66ca6aeff20f01e8"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142906.png",
+      "sha256": "bad8dd6e77fdd5b64a19d05dcdf398d12f5ef0114936ed08d5e83166ebaa6fad"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142911.png",
+      "sha256": "b063f5c043e805ca68adf78822a7ae23870626ee348e570992e80860450f7d30"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143033.png",
+      "sha256": "259c6b5fb697f5c0ba4df39255b3c034c036a3ffd2abb5aa4f408a820c057509"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143318.png",
+      "sha256": "a70c07b5bc313e67fd5ba475fa8d904c2ee5c21e3903f63d93d54c5113bd5193"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143325.png",
+      "sha256": "21bf858f35770895a3fe4a9b59fade4fb2fc9cfd971dc38b9130e8d47ab99991"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143332.png",
+      "sha256": "47c32fe900ef9890c555fbfd2381204a1008c5c40f1d9383ac6ffb5896a5a098"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143339.png",
+      "sha256": "f3d2ee85f58e648fb3c8b7a9b2b2865438a168c55ddc4d96e306ea5654a25497"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143342.png",
+      "sha256": "9d3bd9b4b4bd4dee514c4b37b6e8904ffcf3716254f1a3f83e9240feefbc4042"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143403.png",
+      "sha256": "c11097ca87cbaf9a99e8d53489c3808a817cb9a38b179e58fbb8cbcefc831b9e"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143412.png",
+      "sha256": "6681233d058809c5bb2682dd690c597e9a6864e8f7255364f6d857a2f8112955"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143418.png",
+      "sha256": "d8bb2491702d1d81b7000fb3dc215acec93e8c462b13aa560b9c2c73fc9b3ceb"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143424.png",
+      "sha256": "82b68506d8164082f269d7e18c52ae6e65bce5e1200a28519fce46107a03b547"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143741.png",
+      "sha256": "eaf4b40d0a6460f6e9b5e450f1b655464b4b0838007a93d8365057849d956383"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143746.png",
+      "sha256": "6368f569104c4df6567d9128c5928e0edcd1fa8836aace740994f40b63da2f09"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144203.png",
+      "sha256": "21e8ee371a4d1baf64af42f84a9cdcc5ab28dd9f31ab674ddafa2aeb31cd8332"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144209.png",
+      "sha256": "a6b57b458528526b4ed7e89a65796779fdf5227780e96ad21717b422fce82b1e"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144538.png",
+      "sha256": "3de91f827b2920d34cc482c23b77dc2e0512904a2391eb2543f60506865e45f1"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144541.png",
+      "sha256": "709e15aeaf2c71443366159ece3be5178bca8d6324a7196ace29ebe75e23d027"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144547.png",
+      "sha256": "12aa840b1a8a51edbe6b7298ffd913c7809ed76a63c221838c4fd5552326e65c"
+    }
+  ],
+  "deletedScreenshots": [
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-233344.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234315.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234323.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234333.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234950.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234342.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234349.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234355.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234402.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234406.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234718.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261001-234726.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002142.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002147.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002153.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002210.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002218.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002223.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002229.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002235.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002241.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002246.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002252.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002257.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002311.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002333.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002340.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002343.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002351.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-002520.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-004144.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-004147.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-004151.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-114943.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-115509.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-115659.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-123649.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-125521.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-123717.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-125608.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-125630.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130429.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130438.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130815.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130820.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130824.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130829.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130834.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-130839.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-133657.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-133701.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-134137.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-134359.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-134424.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-134431.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-134530.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-134537.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-135301.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-135330.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-135611.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-135620.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-135621.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-135941.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-140011.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-142542.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-142659.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-142822.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-142828.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-142906.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-142911.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143033.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143318.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143325.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143332.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143339.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143342.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143403.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143412.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143418.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143424.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143741.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-143746.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-144203.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-144209.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-144538.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-144541.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-261002-144547.png"
+  ],
+  "screenshotsDeleted": 87,
+  "savesWrittenOrRestored": false,
+  "cheatsWritten": false,
+  "physicalDeviceBootVerified": false,
+  "installedAt": "2026-10-03T00:15:28.482Z",
+  "fullReadbackVerified": true,
+  "readbackBytes": 4194304,
+  "finalDeviceSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+  "completedAt": "2026-10-03T00:15:36.465Z",
+  "unchangedSaveFiles": 139,
+  "saveEntriesUnchanged": true,
+  "changedSaves": [],
+  "cheatsUnchanged": true,
+  "preservedScreenshotEntriesPresent": true,
+  "preservedScreenshotEntryCount": 200,
+  "remainingRelatedScreenshots": [],
+  "relatedRomCount": 1
+}

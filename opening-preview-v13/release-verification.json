@@ -1,0 +1,30 @@
+{
+  "targetSha256": "9b088eba66874ea3570611fb758aa64489ace2821c64cc986a084bc439cc0857",
+  "deployed": true,
+  "deviceVersion": "v13",
+  "previousDeviceSha256": "0304044532e1d40173d503bb2ad4f522a85aa217dc52c3d2af153e68a4986e49",
+  "deviceReadbackVerified": true,
+  "protectedFilesUnchanged": 24,
+  "relatedDeviceRomCount": 1,
+  "additionalRecordsSinceV12": 115,
+  "glyphs": 1260,
+  "glyphCapacity": 1600,
+  "dialogueScenes": 71,
+  "exactWords": 118,
+  "indexedCoverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 715,
+    "untranslatedRecords": 7073,
+    "emptyRecords": 82
+  },
+  "scope": "Known indexed text table only; inline menus, image text and undiscovered text are not included.",
+  "actualStoryRouteVerified": false,
+  "unverified": [
+    "Full playthrough and all service/minigame effects",
+    "Complete proofreading of proper names and contextual dialogue",
+    "Physical device boot of this build"
+  ]
+}

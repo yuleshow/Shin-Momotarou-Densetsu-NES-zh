@@ -1,0 +1,8695 @@
+{
+  "status": "partial-menu-and-complete-opening-text-block",
+  "romFilename": "opening-zh-Hant.sfc",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "89b125b1686987985782f673cca0ac20038eeb495bbbf3631060a6cba85f1852",
+  "fontSha256": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4",
+  "font": "momotaro-NotoSansCJKtc-Regular.otf",
+  "glyphs": [
+    {
+      "character": "無",
+      "code": "1bc0",
+      "offset": 2359297
+    },
+    {
+      "character": "存",
+      "code": "1bc1",
+      "offset": 2359343
+    },
+    {
+      "character": "檔",
+      "code": "1bc2",
+      "offset": 2359389
+    },
+    {
+      "character": "發",
+      "code": "1bc3",
+      "offset": 2359435
+    },
+    {
+      "character": "現",
+      "code": "1bc4",
+      "offset": 2359481
+    },
+    {
+      "character": "了",
+      "code": "1bc5",
+      "offset": 2359527
+    },
+    {
+      "character": "！",
+      "code": "1bc6",
+      "offset": 2359573
+    },
+    {
+      "character": "竟",
+      "code": "1bc7",
+      "offset": 2359619
+    },
+    {
+      "character": "然",
+      "code": "1bc8",
+      "offset": 2359665
+    },
+    {
+      "character": "寶",
+      "code": "1bc9",
+      "offset": 2359711
+    },
+    {
+      "character": "箱",
+      "code": "1bca",
+      "offset": 2359757
+    },
+    {
+      "character": "裡",
+      "code": "1bcb",
+      "offset": 2359803
+    },
+    {
+      "character": "藏",
+      "code": "1bcc",
+      "offset": 2359849
+    },
+    {
+      "character": "著",
+      "code": "1bcd",
+      "offset": 2359895
+    },
+    {
+      "character": "被",
+      "code": "1bce",
+      "offset": 2359941
+    },
+    {
+      "character": "拉",
+      "code": "1bcf",
+      "offset": 2359987
+    },
+    {
+      "character": "進",
+      "code": "1bd0",
+      "offset": 2360033
+    },
+    {
+      "character": "從",
+      "code": "1bd1",
+      "offset": 2360079
+    },
+    {
+      "character": "取",
+      "code": "1bd2",
+      "offset": 2360125
+    },
+    {
+      "character": "出",
+      "code": "1bd3",
+      "offset": 2360171
+    },
+    {
+      "character": "把",
+      "code": "1bd4",
+      "offset": 2360217
+    },
+    {
+      "character": "放",
+      "code": "1bd5",
+      "offset": 2360263
+    },
+    {
+      "character": "回",
+      "code": "1bd6",
+      "offset": 2360309
+    },
+    {
+      "character": "但",
+      "code": "1bd7",
+      "offset": 2360355
+    },
+    {
+      "character": "什",
+      "code": "1bd8",
+      "offset": 2360401
+    },
+    {
+      "character": "麼",
+      "code": "1bd9",
+      "offset": 2360447
+    },
+    {
+      "character": "也",
+      "code": "1bda",
+      "offset": 2360493
+    },
+    {
+      "character": "沒",
+      "code": "1bdb",
+      "offset": 2360539
+    },
+    {
+      "character": "找",
+      "code": "1bdc",
+      "offset": 2360585
+    },
+    {
+      "character": "到",
+      "code": "1bdd",
+      "offset": 2360631
+    },
+    {
+      "character": "是",
+      "code": "1bde",
+      "offset": 2360677
+    },
+    {
+      "character": "空",
+      "code": "1bdf",
+      "offset": 2360723
+    },
+    {
+      "character": "如",
+      "code": "1be0",
+      "offset": 2360769
+    },
+    {
+      "character": "繼",
+      "code": "1be1",
+      "offset": 2360815
+    },
+    {
+      "character": "續",
+      "code": "1be2",
+      "offset": 2360861
+    },
+    {
+      "character": "開",
+      "code": "1be3",
+      "offset": 2360907
+    },
+    {
+      "character": "始",
+      "code": "1be4",
+      "offset": 2360953
+    },
+    {
+      "character": "複",
+      "code": "1be5",
+      "offset": 2360999
+    },
+    {
+      "character": "製",
+      "code": "1be6",
+      "offset": 2361045
+    },
+    {
+      "character": "刪",
+      "code": "1be7",
+      "offset": 2361091
+    },
+    {
+      "character": "除",
+      "code": "1be8",
+      "offset": 2361137
+    },
+    {
+      "character": "在",
+      "code": "1be9",
+      "offset": 2361183
+    },
+    {
+      "character": "鬼",
+      "code": "1bea",
+      "offset": 2361229
+    },
+    {
+      "character": "島",
+      "code": "1beb",
+      "offset": 2361275
+    },
+    {
+      "character": "懲",
+      "code": "1bec",
+      "offset": 2361321
+    },
+    {
+      "character": "治",
+      "code": "1bed",
+      "offset": 2361367
+    },
+    {
+      "character": "閻",
+      "code": "1bee",
+      "offset": 2361413
+    },
+    {
+      "character": "魔",
+      "code": "1bef",
+      "offset": 2361459
+    },
+    {
+      "character": "後",
+      "code": "1bf0",
+      "offset": 2361505
+    },
+    {
+      "character": "，",
+      "code": "1bf1",
+      "offset": 2361551
+    },
+    {
+      "character": "已",
+      "code": "1bf2",
+      "offset": 2361597
+    },
+    {
+      "character": "經",
+      "code": "1bf3",
+      "offset": 2361643
+    },
+    {
+      "character": "過",
+      "code": "1bf4",
+      "offset": 2361689
+    },
+    {
+      "character": "六",
+      "code": "1bf5",
+      "offset": 2361735
+    },
+    {
+      "character": "年",
+      "code": "1bf6",
+      "offset": 2361781
+    },
+    {
+      "character": "…",
+      "code": "1bf7",
+      "offset": 2361827
+    },
+    {
+      "character": "迦",
+      "code": "1bf8",
+      "offset": 2361873
+    },
+    {
+      "character": "樓",
+      "code": "1bf9",
+      "offset": 2361919
+    },
+    {
+      "character": "羅",
+      "code": "1bfa",
+      "offset": 2361965
+    },
+    {
+      "character": "嘿",
+      "code": "1bfb",
+      "offset": 2362011
+    },
+    {
+      "character": "伐",
+      "code": "1bfc",
+      "offset": 2362057
+    },
+    {
+      "character": "折",
+      "code": "1bfd",
+      "offset": 2362103
+    },
+    {
+      "character": "王",
+      "code": "1bfe",
+      "offset": 2362149
+    },
+    {
+      "character": "大",
+      "code": "1bff",
+      "offset": 2362195
+    },
+    {
+      "character": "人",
+      "code": "1c00",
+      "offset": 2362242
+    },
+    {
+      "character": "請",
+      "code": "1c01",
+      "offset": 2362288
+    },
+    {
+      "character": "看",
+      "code": "1c02",
+      "offset": 2362334
+    },
+    {
+      "character": "我",
+      "code": "1c03",
+      "offset": 2362380
+    },
+    {
+      "character": "的",
+      "code": "1c04",
+      "offset": 2362426
+    },
+    {
+      "character": "面",
+      "code": "1c05",
+      "offset": 2362472
+    },
+    {
+      "character": "子",
+      "code": "1c06",
+      "offset": 2362518
+    },
+    {
+      "character": "上",
+      "code": "1c07",
+      "offset": 2362564
+    },
+    {
+      "character": "饒",
+      "code": "1c08",
+      "offset": 2362610
+    },
+    {
+      "character": "恕",
+      "code": "1c09",
+      "offset": 2362656
+    },
+    {
+      "character": "吧",
+      "code": "1c0a",
+      "offset": 2362702
+    },
+    {
+      "character": "說",
+      "code": "1c0b",
+      "offset": 2362748
+    },
+    {
+      "character": "愛",
+      "code": "1c0c",
+      "offset": 2362794
+    },
+    {
+      "character": "呀",
+      "code": "1c0d",
+      "offset": 2362840
+    },
+    {
+      "character": "友",
+      "code": "1c0e",
+      "offset": 2362886
+    },
+    {
+      "character": "情",
+      "code": "1c0f",
+      "offset": 2362932
+    },
+    {
+      "character": "雖",
+      "code": "1c10",
+      "offset": 2362978
+    },
+    {
+      "character": "他",
+      "code": "1c11",
+      "offset": 2363024
+    },
+    {
+      "character": "四",
+      "code": "1c12",
+      "offset": 2363070
+    },
+    {
+      "character": "處",
+      "code": "1c13",
+      "offset": 2363116
+    },
+    {
+      "character": "宣",
+      "code": "1c14",
+      "offset": 2363162
+    },
+    {
+      "character": "揚",
+      "code": "1c15",
+      "offset": 2363208
+    },
+    {
+      "character": "那",
+      "code": "1c16",
+      "offset": 2363254
+    },
+    {
+      "character": "些",
+      "code": "1c17",
+      "offset": 2363300
+    },
+    {
+      "character": "莫",
+      "code": "1c18",
+      "offset": 2363346
+    },
+    {
+      "character": "名",
+      "code": "1c19",
+      "offset": 2363392
+    },
+    {
+      "character": "其",
+      "code": "1c1a",
+      "offset": 2363438
+    },
+    {
+      "character": "妙",
+      "code": "1c1b",
+      "offset": 2363484
+    },
+    {
+      "character": "話",
+      "code": "1c1c",
+      "offset": 2363530
+    },
+    {
+      "character": "可",
+      "code": "1c1d",
+      "offset": 2363576
+    },
+    {
+      "character": "創",
+      "code": "1c1e",
+      "offset": 2363622
+    },
+    {
+      "character": "造",
+      "code": "1c1f",
+      "offset": 2363668
+    },
+    {
+      "character": "族",
+      "code": "1c20",
+      "offset": 2363714
+    },
+    {
+      "character": "今",
+      "code": "1c21",
+      "offset": 2363760
+    },
+    {
+      "character": "日",
+      "code": "1c22",
+      "offset": 2363806
+    },
+    {
+      "character": "榮",
+      "code": "1c23",
+      "offset": 2363852
+    },
+    {
+      "character": "景",
+      "code": "1c24",
+      "offset": 2363898
+    },
+    {
+      "character": "啊",
+      "code": "1c25",
+      "offset": 2363944
+    },
+    {
+      "character": "懇",
+      "code": "1c26",
+      "offset": 2363990
+    },
+    {
+      "character": "您",
+      "code": "1c27",
+      "offset": 2364036
+    },
+    {
+      "character": "前",
+      "code": "1c28",
+      "offset": 2364082
+    },
+    {
+      "character": "並",
+      "code": "1c29",
+      "offset": 2364128
+    },
+    {
+      "character": "有",
+      "code": "1c2a",
+      "offset": 2364174
+    },
+    {
+      "character": "追",
+      "code": "1c2b",
+      "offset": 2364220
+    },
+    {
+      "character": "究",
+      "code": "1c2c",
+      "offset": 2364266
+    },
+    {
+      "character": "你",
+      "code": "1c2d",
+      "offset": 2364312
+    },
+    {
+      "character": "罪",
+      "code": "1c2e",
+      "offset": 2364358
+    },
+    {
+      "character": "責",
+      "code": "1c2f",
+      "offset": 2364404
+    },
+    {
+      "character": "因",
+      "code": "1c30",
+      "offset": 2364450
+    },
+    {
+      "character": "為",
+      "code": "1c31",
+      "offset": 2364496
+    },
+    {
+      "character": "曾",
+      "code": "1c32",
+      "offset": 2364542
+    },
+    {
+      "character": "堂",
+      "code": "1c33",
+      "offset": 2364588
+    },
+    {
+      "character": "正",
+      "code": "1c34",
+      "offset": 2364634
+    },
+    {
+      "character": "地",
+      "code": "1c35",
+      "offset": 2364680
+    },
+    {
+      "character": "與",
+      "code": "1c36",
+      "offset": 2364726
+    },
+    {
+      "character": "個",
+      "code": "1c37",
+      "offset": 2364772
+    },
+    {
+      "character": "一",
+      "code": "1c38",
+      "offset": 2364818
+    },
+    {
+      "character": "戰",
+      "code": "1c39",
+      "offset": 2364864
+    },
+    {
+      "character": "之",
+      "code": "1c3a",
+      "offset": 2364910
+    },
+    {
+      "character": "呢",
+      "code": "1c3b",
+      "offset": 2364956
+    },
+    {
+      "character": "又",
+      "code": "1c3c",
+      "offset": 2365002
+    },
+    {
+      "character": "做",
+      "code": "1c3d",
+      "offset": 2365048
+    },
+    {
+      "character": "夠",
+      "code": "1c3e",
+      "offset": 2365094
+    },
+    {
+      "character": "要",
+      "code": "1c3f",
+      "offset": 2365140
+    },
+    {
+      "character": "對",
+      "code": "1c40",
+      "offset": 2365187
+    },
+    {
+      "character": "嗎",
+      "code": "1c41",
+      "offset": 2365233
+    },
+    {
+      "character": "既",
+      "code": "1c42",
+      "offset": 2365279
+    },
+    {
+      "character": "命",
+      "code": "1c43",
+      "offset": 2365325
+    },
+    {
+      "character": "令",
+      "code": "1c44",
+      "offset": 2365371
+    },
+    {
+      "character": "任",
+      "code": "1c45",
+      "offset": 2365417
+    },
+    {
+      "character": "何",
+      "code": "1c46",
+      "offset": 2365463
+    },
+    {
+      "character": "罰",
+      "code": "1c47",
+      "offset": 2365509
+    },
+    {
+      "character": "都",
+      "code": "1c48",
+      "offset": 2365555
+    },
+    {
+      "character": "甘",
+      "code": "1c49",
+      "offset": 2365601
+    },
+    {
+      "character": "願",
+      "code": "1c4a",
+      "offset": 2365647
+    },
+    {
+      "character": "承",
+      "code": "1c4b",
+      "offset": 2365693
+    },
+    {
+      "character": "受",
+      "code": "1c4c",
+      "offset": 2365739
+    },
+    {
+      "character": "很",
+      "code": "1c4d",
+      "offset": 2365785
+    },
+    {
+      "character": "好",
+      "code": "1c4e",
+      "offset": 2365831
+    },
+    {
+      "character": "還",
+      "code": "1c4f",
+      "offset": 2365877
+    },
+    {
+      "character": "樣",
+      "code": "1c50",
+      "offset": 2365923
+    },
+    {
+      "character": "乾",
+      "code": "1c51",
+      "offset": 2365969
+    },
+    {
+      "character": "脆",
+      "code": "1c52",
+      "offset": 2366015
+    },
+    {
+      "character": "來",
+      "code": "1c53",
+      "offset": 2366061
+    },
+    {
+      "character": "月",
+      "code": "1c54",
+      "offset": 2366107
+    },
+    {
+      "character": "亮",
+      "code": "1c55",
+      "offset": 2366153
+    },
+    {
+      "character": "輝",
+      "code": "1c56",
+      "offset": 2366199
+    },
+    {
+      "character": "夜",
+      "code": "1c57",
+      "offset": 2366245
+    },
+    {
+      "character": "姬",
+      "code": "1c58",
+      "offset": 2366291
+    },
+    {
+      "character": "差",
+      "code": "1c59",
+      "offset": 2366337
+    },
+    {
+      "character": "不",
+      "code": "1c5a",
+      "offset": 2366383
+    },
+    {
+      "character": "多",
+      "code": "1c5b",
+      "offset": 2366429
+    },
+    {
+      "character": "該",
+      "code": "1c5c",
+      "offset": 2366475
+    },
+    {
+      "character": "理",
+      "code": "1c5d",
+      "offset": 2366521
+    },
+    {
+      "character": "若",
+      "code": "1c5e",
+      "offset": 2366567
+    },
+    {
+      "character": "宮",
+      "code": "1c5f",
+      "offset": 2366613
+    },
+    {
+      "character": "管",
+      "code": "1c60",
+      "offset": 2366659
+    },
+    {
+      "character": "豈",
+      "code": "1c61",
+      "offset": 2366705
+    },
+    {
+      "character": "非",
+      "code": "1c62",
+      "offset": 2366751
+    },
+    {
+      "character": "心",
+      "code": "1c63",
+      "offset": 2366797
+    },
+    {
+      "character": "腹",
+      "code": "1c64",
+      "offset": 2366843
+    },
+    {
+      "character": "患",
+      "code": "1c65",
+      "offset": 2366889
+    },
+    {
+      "character": "必",
+      "code": "1c66",
+      "offset": 2366935
+    },
+    {
+      "character": "須",
+      "code": "1c67",
+      "offset": 2366981
+    },
+    {
+      "character": "採",
+      "code": "1c68",
+      "offset": 2367027
+    },
+    {
+      "character": "行",
+      "code": "1c69",
+      "offset": 2367073
+    },
+    {
+      "character": "動",
+      "code": "1c6a",
+      "offset": 2367119
+    },
+    {
+      "character": "去",
+      "code": "1c6b",
+      "offset": 2367165
+    },
+    {
+      "character": "兒",
+      "code": "1c6c",
+      "offset": 2367211
+    },
+    {
+      "character": "達",
+      "code": "1c6d",
+      "offset": 2367257
+    },
+    {
+      "character": "伊",
+      "code": "1c6e",
+      "offset": 2367303
+    },
+    {
+      "character": "同",
+      "code": "1c6f",
+      "offset": 2367349
+    },
+    {
+      "character": "帶",
+      "code": "1c70",
+      "offset": 2367395
+    },
+    {
+      "character": "遵",
+      "code": "1c71",
+      "offset": 2367441
+    },
+    {
+      "character": "就",
+      "code": "1c72",
+      "offset": 2367487
+    },
+    {
+      "character": "這",
+      "code": "1c73",
+      "offset": 2367533
+    },
+    {
+      "character": "居",
+      "code": "1c74",
+      "offset": 2367579
+    },
+    {
+      "character": "住",
+      "code": "1c75",
+      "offset": 2367625
+    },
+    {
+      "character": "遭",
+      "code": "1c76",
+      "offset": 2367671
+    },
+    {
+      "character": "掌",
+      "code": "1c77",
+      "offset": 2367717
+    },
+    {
+      "character": "威",
+      "code": "1c78",
+      "offset": 2367763
+    },
+    {
+      "character": "脅",
+      "code": "1c79",
+      "offset": 2367809
+    },
+    {
+      "character": "接",
+      "code": "1c7a",
+      "offset": 2367855
+    },
+    {
+      "character": "消",
+      "code": "1c7b",
+      "offset": 2367901
+    },
+    {
+      "character": "息",
+      "code": "1c7c",
+      "offset": 2367947
+    },
+    {
+      "character": "跳",
+      "code": "1c7d",
+      "offset": 2367993
+    },
+    {
+      "character": "自",
+      "code": "1c7e",
+      "offset": 2368039
+    },
+    {
+      "character": "牛",
+      "code": "1c7f",
+      "offset": 2368085
+    },
+    {
+      "character": "車",
+      "code": "1c80",
+      "offset": 2368132
+    },
+    {
+      "character": "朝",
+      "code": "1c81",
+      "offset": 2368178
+    },
+    {
+      "character": "趕",
+      "code": "1c82",
+      "offset": 2368224
+    },
+    {
+      "character": "全",
+      "code": "1c83",
+      "offset": 2368270
+    },
+    {
+      "character": "新",
+      "code": "1c84",
+      "offset": 2368316
+    },
+    {
+      "character": "傳",
+      "code": "1c85",
+      "offset": 2368362
+    },
+    {
+      "character": "此",
+      "code": "1c86",
+      "offset": 2368408
+    },
+    {
+      "character": "展",
+      "code": "1c87",
+      "offset": 2368454
+    },
+    {
+      "character": "村",
+      "code": "1c88",
+      "offset": 2368500
+    },
+    {
+      "character": "喂",
+      "code": "1c89",
+      "offset": 2368546
+    },
+    {
+      "character": "倒",
+      "code": "1c8a",
+      "offset": 2368592
+    },
+    {
+      "character": "怎",
+      "code": "1c8b",
+      "offset": 2368638
+    },
+    {
+      "character": "傷",
+      "code": "1c8c",
+      "offset": 2368684
+    },
+    {
+      "character": "痕",
+      "code": "1c8d",
+      "offset": 2368730
+    },
+    {
+      "character": "累",
+      "code": "1c8e",
+      "offset": 2368776
+    },
+    {
+      "character": "得",
+      "code": "1c8f",
+      "offset": 2368822
+    },
+    {
+      "character": "啦",
+      "code": "1c90",
+      "offset": 2368868
+    },
+    {
+      "character": "緊",
+      "code": "1c91",
+      "offset": 2368914
+    },
+    {
+      "character": "抬",
+      "code": "1c92",
+      "offset": 2368960
+    },
+    {
+      "character": "身",
+      "code": "1c93",
+      "offset": 2369006
+    },
+    {
+      "character": "手",
+      "code": "1c94",
+      "offset": 2369052
+    },
+    {
+      "character": "更",
+      "code": "1c95",
+      "offset": 2369098
+    },
+    {
+      "character": "層",
+      "code": "1c96",
+      "offset": 2369144
+    },
+    {
+      "character": "真",
+      "code": "1c97",
+      "offset": 2369190
+    },
+    {
+      "character": "想",
+      "code": "1c98",
+      "offset": 2369236
+    },
+    {
+      "character": "會",
+      "code": "1c99",
+      "offset": 2369282
+    },
+    {
+      "character": "敗",
+      "code": "1c9a",
+      "offset": 2369328
+    },
+    {
+      "character": "給",
+      "code": "1c9b",
+      "offset": 2369374
+    },
+    {
+      "character": "小",
+      "code": "1c9c",
+      "offset": 2369420
+    },
+    {
+      "character": "孩",
+      "code": "1c9d",
+      "offset": 2369466
+    },
+    {
+      "character": "哪",
+      "code": "1c9e",
+      "offset": 2369512
+    },
+    {
+      "character": "股",
+      "code": "1c9f",
+      "offset": 2369558
+    },
+    {
+      "character": "力",
+      "code": "1ca0",
+      "offset": 2369604
+    },
+    {
+      "character": "量",
+      "code": "1ca1",
+      "offset": 2369650
+    },
+    {
+      "character": "罷",
+      "code": "1ca2",
+      "offset": 2369696
+    },
+    {
+      "character": "公",
+      "code": "1ca3",
+      "offset": 2369742
+    },
+    {
+      "character": "主",
+      "code": "1ca4",
+      "offset": 2369788
+    },
+    {
+      "character": "聽",
+      "code": "1ca5",
+      "offset": 2369834
+    },
+    {
+      "character": "們",
+      "code": "1ca6",
+      "offset": 2369880
+    },
+    {
+      "character": "當",
+      "code": "1ca7",
+      "offset": 2369926
+    },
+    {
+      "character": "成",
+      "code": "1ca8",
+      "offset": 2369972
+    },
+    {
+      "character": "神",
+      "code": "1ca9",
+      "offset": 2370018
+    },
+    {
+      "character": "深",
+      "code": "1caa",
+      "offset": 2370064
+    },
+    {
+      "character": "信",
+      "code": "1cab",
+      "offset": 2370110
+    },
+    {
+      "character": "疑",
+      "code": "1cac",
+      "offset": 2370156
+    },
+    {
+      "character": "所",
+      "code": "1cad",
+      "offset": 2370202
+    },
+    {
+      "character": "用",
+      "code": "1cae",
+      "offset": 2370248
+    },
+    {
+      "character": "以",
+      "code": "1caf",
+      "offset": 2370294
+    },
+    {
+      "character": "慢",
+      "code": "1cb0",
+      "offset": 2370340
+    },
+    {
+      "character": "使",
+      "code": "1cb1",
+      "offset": 2370386
+    },
+    {
+      "character": "明",
+      "code": "1cb2",
+      "offset": 2370432
+    },
+    {
+      "character": "場",
+      "code": "1cb3",
+      "offset": 2370478
+    },
+    {
+      "character": "藤",
+      "code": "1cb4",
+      "offset": 2370524
+    },
+    {
+      "character": "購",
+      "code": "1cb5",
+      "offset": 2370570
+    },
+    {
+      "character": "買",
+      "code": "1cb6",
+      "offset": 2370616
+    },
+    {
+      "character": "售",
+      "code": "1cb7",
+      "offset": 2370662
+    },
+    {
+      "character": "價",
+      "code": "1cb8",
+      "offset": 2370708
+    },
+    {
+      "character": "換",
+      "code": "1cb9",
+      "offset": 2370754
+    },
+    {
+      "character": "解",
+      "code": "1cba",
+      "offset": 2370800
+    },
+    {
+      "character": "毒",
+      "code": "1cbb",
+      "offset": 2370846
+    },
+    {
+      "character": "麻",
+      "code": "1cbc",
+      "offset": 2370892
+    },
+    {
+      "character": "痺",
+      "code": "1cbd",
+      "offset": 2370938
+    },
+    {
+      "character": "療",
+      "code": "1cbe",
+      "offset": 2370984
+    },
+    {
+      "character": "重",
+      "code": "1cbf",
+      "offset": 2371030
+    },
+    {
+      "character": "部",
+      "code": "1cc0",
+      "offset": 2371077
+    },
+    {
+      "character": "附",
+      "code": "1cc1",
+      "offset": 2371123
+    },
+    {
+      "character": "近",
+      "code": "1cc2",
+      "offset": 2371169
+    },
+    {
+      "character": "敵",
+      "code": "1cc3",
+      "offset": 2371215
+    },
+    {
+      "character": "氣",
+      "code": "1cc4",
+      "offset": 2371261
+    },
+    {
+      "character": "記",
+      "code": "1cc5",
+      "offset": 2371307
+    },
+    {
+      "character": "錄",
+      "code": "1cc6",
+      "offset": 2371353
+    },
+    {
+      "character": "旅",
+      "code": "1cc7",
+      "offset": 2371399
+    },
+    {
+      "character": "程",
+      "code": "1cc8",
+      "offset": 2371445
+    },
+    {
+      "character": "祓",
+      "code": "1cc9",
+      "offset": 2371491
+    },
+    {
+      "character": "詛",
+      "code": "1cca",
+      "offset": 2371537
+    },
+    {
+      "character": "咒",
+      "code": "1ccb",
+      "offset": 2371583
+    },
+    {
+      "character": "否",
+      "code": "1ccc",
+      "offset": 2371629
+    },
+    {
+      "character": "交",
+      "code": "1ccd",
+      "offset": 2371675
+    },
+    {
+      "character": "談",
+      "code": "1cce",
+      "offset": 2371721
+    },
+    {
+      "character": "道",
+      "code": "1ccf",
+      "offset": 2371767
+    },
+    {
+      "character": "具",
+      "code": "1cd0",
+      "offset": 2371813
+    },
+    {
+      "character": "術",
+      "code": "1cd1",
+      "offset": 2371859
+    },
+    {
+      "character": "裝",
+      "code": "1cd2",
+      "offset": 2371905
+    },
+    {
+      "character": "備",
+      "code": "1cd3",
+      "offset": 2371951
+    },
+    {
+      "character": "能",
+      "code": "1cd4",
+      "offset": 2371997
+    },
+    {
+      "character": "調",
+      "code": "1cd5",
+      "offset": 2372043
+    },
+    {
+      "character": "查",
+      "code": "1cd6",
+      "offset": 2372089
+    },
+    {
+      "character": "特",
+      "code": "1cd7",
+      "offset": 2372135
+    },
+    {
+      "character": "別",
+      "code": "1cd8",
+      "offset": 2372181
+    },
+    {
+      "character": "語",
+      "code": "1cd9",
+      "offset": 2372227
+    },
+    {
+      "character": "速",
+      "code": "1cda",
+      "offset": 2372273
+    },
+    {
+      "character": "隊",
+      "code": "1cdb",
+      "offset": 2372319
+    },
+    {
+      "character": "列",
+      "code": "1cdc",
+      "offset": 2372365
+    },
+    {
+      "character": "步",
+      "code": "1cdd",
+      "offset": 2372411
+    },
+    {
+      "character": "飛",
+      "code": "1cde",
+      "offset": 2372457
+    },
+    {
+      "character": "音",
+      "code": "1cdf",
+      "offset": 2372503
+    },
+    {
+      "character": "樂",
+      "code": "1ce0",
+      "offset": 2372549
+    },
+    {
+      "character": "度",
+      "code": "1ce1",
+      "offset": 2372595
+    },
+    {
+      "character": "快",
+      "code": "1ce2",
+      "offset": 2372641
+    },
+    {
+      "character": "普",
+      "code": "1ce3",
+      "offset": 2372687
+    },
+    {
+      "character": "通",
+      "code": "1ce4",
+      "offset": 2372733
+    },
+    {
+      "character": "極",
+      "code": "1ce5",
+      "offset": 2372779
+    },
+    {
+      "character": "訊",
+      "code": "1ce6",
+      "offset": 2372825
+    },
+    {
+      "character": "立",
+      "code": "1ce7",
+      "offset": 2372871
+    },
+    {
+      "character": "體",
+      "code": "1ce8",
+      "offset": 2372917
+    },
+    {
+      "character": "聲",
+      "code": "1ce9",
+      "offset": 2372963
+    },
+    {
+      "character": "單",
+      "code": "1cea",
+      "offset": 2373009
+    },
+    {
+      "character": "值",
+      "code": "1ceb",
+      "offset": 2373055
+    },
+    {
+      "character": "技",
+      "code": "1cec",
+      "offset": 2373101
+    },
+    {
+      "character": "攻",
+      "code": "1ced",
+      "offset": 2373147
+    },
+    {
+      "character": "擊",
+      "code": "1cee",
+      "offset": 2373193
+    },
+    {
+      "character": "防",
+      "code": "1cef",
+      "offset": 2373239
+    },
+    {
+      "character": "禦",
+      "code": "1cf0",
+      "offset": 2373285
+    },
+    {
+      "character": "付",
+      "code": "1cf1",
+      "offset": 2373331
+    },
+    {
+      "character": "丟",
+      "code": "1cf2",
+      "offset": 2373377
+    },
+    {
+      "character": "棄",
+      "code": "1cf3",
+      "offset": 2373423
+    },
+    {
+      "character": "掩",
+      "code": "1cf4",
+      "offset": 2373469
+    },
+    {
+      "character": "護",
+      "code": "1cf5",
+      "offset": 2373515
+    },
+    {
+      "character": "逃",
+      "code": "1cf6",
+      "offset": 2373561
+    },
+    {
+      "character": "跑",
+      "code": "1cf7",
+      "offset": 2373607
+    },
+    {
+      "character": "雷",
+      "code": "1cf8",
+      "offset": 2373653
+    },
+    {
+      "character": "火",
+      "code": "1cf9",
+      "offset": 2373699
+    },
+    {
+      "character": "渦",
+      "code": "1cfa",
+      "offset": 2373745
+    },
+    {
+      "character": "蜘",
+      "code": "1cfb",
+      "offset": 2373791
+    },
+    {
+      "character": "蛛",
+      "code": "1cfc",
+      "offset": 2373837
+    },
+    {
+      "character": "土",
+      "code": "1cfd",
+      "offset": 2373883
+    },
+    {
+      "character": "蟲",
+      "code": "1cfe",
+      "offset": 2373929
+    },
+    {
+      "character": "巴",
+      "code": "1cff",
+      "offset": 2373975
+    },
+    {
+      "character": "坎",
+      "code": "1d00",
+      "offset": 2374022
+    },
+    {
+      "character": "兩",
+      "code": "1d01",
+      "offset": 2374068
+    },
+    {
+      "character": "鐵",
+      "code": "1d02",
+      "offset": 2374114
+    },
+    {
+      "character": "天",
+      "code": "1d03",
+      "offset": 2374160
+    },
+    {
+      "character": "賊",
+      "code": "1d04",
+      "offset": 2374206
+    },
+    {
+      "character": "金",
+      "code": "1d05",
+      "offset": 2374252
+    },
+    {
+      "character": "丹",
+      "code": "1d06",
+      "offset": 2374298
+    },
+    {
+      "character": "仙",
+      "code": "1d07",
+      "offset": 2374344
+    },
+    {
+      "character": "饅",
+      "code": "1d08",
+      "offset": 2374390
+    },
+    {
+      "character": "頭",
+      "code": "1d09",
+      "offset": 2374436
+    },
+    {
+      "character": "藷",
+      "code": "1d0a",
+      "offset": 2374482
+    },
+    {
+      "character": "飯",
+      "code": "1d0b",
+      "offset": 2374528
+    },
+    {
+      "character": "糰",
+      "code": "1d0c",
+      "offset": 2374574
+    },
+    {
+      "character": "黍",
+      "code": "1d0d",
+      "offset": 2374620
+    },
+    {
+      "character": "雪",
+      "code": "1d0e",
+      "offset": 2374666
+    },
+    {
+      "character": "竹",
+      "code": "1d0f",
+      "offset": 2374712
+    },
+    {
+      "character": "水",
+      "code": "1d10",
+      "offset": 2374758
+    },
+    {
+      "character": "筒",
+      "code": "1d11",
+      "offset": 2374804
+    },
+    {
+      "character": "霞",
+      "code": "1d12",
+      "offset": 2374850
+    },
+    {
+      "character": "桃",
+      "code": "1d13",
+      "offset": 2374896
+    },
+    {
+      "character": "意",
+      "code": "1d14",
+      "offset": 2374942
+    },
+    {
+      "character": "槌",
+      "code": "1d15",
+      "offset": 2374988
+    },
+    {
+      "character": "烤",
+      "code": "1d16",
+      "offset": 2375034
+    },
+    {
+      "character": "菓",
+      "code": "1d17",
+      "offset": 2375080
+    },
+    {
+      "character": "白",
+      "code": "1d18",
+      "offset": 2375126
+    },
+    {
+      "character": "蘿",
+      "code": "1d19",
+      "offset": 2375172
+    },
+    {
+      "character": "蔔",
+      "code": "1d1a",
+      "offset": 2375218
+    },
+    {
+      "character": "醃",
+      "code": "1d1b",
+      "offset": 2375264
+    },
+    {
+      "character": "千",
+      "code": "1d1c",
+      "offset": 2375310
+    },
+    {
+      "character": "枚",
+      "code": "1d1d",
+      "offset": 2375356
+    },
+    {
+      "character": "漬",
+      "code": "1d1e",
+      "offset": 2375402
+    },
+    {
+      "character": "半",
+      "code": "1d1f",
+      "offset": 2375448
+    },
+    {
+      "character": "河",
+      "code": "1d20",
+      "offset": 2375494
+    },
+    {
+      "character": "沙",
+      "code": "1d21",
+      "offset": 2375540
+    },
+    {
+      "character": "玉",
+      "code": "1d22",
+      "offset": 2375586
+    },
+    {
+      "character": "元",
+      "code": "1d23",
+      "offset": 2375632
+    },
+    {
+      "character": "恆",
+      "code": "1d24",
+      "offset": 2375678
+    },
+    {
+      "character": "強",
+      "code": "1d25",
+      "offset": 2375724
+    },
+    {
+      "character": "藥",
+      "code": "1d26",
+      "offset": 2375770
+    },
+    {
+      "character": "奇",
+      "code": "1d27",
+      "offset": 2375816
+    },
+    {
+      "character": "效",
+      "code": "1d28",
+      "offset": 2375862
+    },
+    {
+      "character": "丸",
+      "code": "1d29",
+      "offset": 2375908
+    },
+    {
+      "character": "瘡",
+      "code": "1d2a",
+      "offset": 2375954
+    },
+    {
+      "character": "萬",
+      "code": "1d2b",
+      "offset": 2376000
+    },
+    {
+      "character": "黃",
+      "code": "1d2c",
+      "offset": 2376046
+    },
+    {
+      "character": "瓜",
+      "code": "1d2d",
+      "offset": 2376092
+    },
+    {
+      "character": "丁",
+      "code": "1d2e",
+      "offset": 2376138
+    },
+    {
+      "character": "魚",
+      "code": "1d2f",
+      "offset": 2376184
+    },
+    {
+      "character": "鯖",
+      "code": "1d30",
+      "offset": 2376230
+    },
+    {
+      "character": "鰤",
+      "code": "1d31",
+      "offset": 2376276
+    },
+    {
+      "character": "鮪",
+      "code": "1d32",
+      "offset": 2376322
+    },
+    {
+      "character": "鯛",
+      "code": "1d33",
+      "offset": 2376368
+    },
+    {
+      "character": "腐",
+      "code": "1d34",
+      "offset": 2376414
+    },
+    {
+      "character": "麥",
+      "code": "1d35",
+      "offset": 2376460
+    },
+    {
+      "character": "芽",
+      "code": "1d36",
+      "offset": 2376506
+    },
+    {
+      "character": "糖",
+      "code": "1d37",
+      "offset": 2376552
+    },
+    {
+      "character": "塑",
+      "code": "1d38",
+      "offset": 2376598
+    },
+    {
+      "character": "替",
+      "code": "1d39",
+      "offset": 2376644
+    },
+    {
+      "character": "珊",
+      "code": "1d3a",
+      "offset": 2376690
+    },
+    {
+      "character": "瑚",
+      "code": "1d3b",
+      "offset": 2376736
+    },
+    {
+      "character": "符",
+      "code": "1d3c",
+      "offset": 2376782
+    },
+    {
+      "character": "搖",
+      "code": "1d3d",
+      "offset": 2376828
+    },
+    {
+      "character": "錢",
+      "code": "1d3e",
+      "offset": 2376874
+    },
+    {
+      "character": "樹",
+      "code": "1d3f",
+      "offset": 2376920
+    },
+    {
+      "character": "隱",
+      "code": "1d40",
+      "offset": 2376967
+    },
+    {
+      "character": "蓑",
+      "code": "1d41",
+      "offset": 2377013
+    },
+    {
+      "character": "衣",
+      "code": "1d42",
+      "offset": 2377059
+    },
+    {
+      "character": "物",
+      "code": "1d43",
+      "offset": 2377105
+    },
+    {
+      "character": "狗",
+      "code": "1d44",
+      "offset": 2377151
+    },
+    {
+      "character": "最",
+      "code": "1d45",
+      "offset": 2377197
+    },
+    {
+      "character": "雉",
+      "code": "1d46",
+      "offset": 2377243
+    },
+    {
+      "character": "雞",
+      "code": "1d47",
+      "offset": 2377289
+    },
+    {
+      "character": "豆",
+      "code": "1d48",
+      "offset": 2377335
+    },
+    {
+      "character": "猴",
+      "code": "1d49",
+      "offset": 2377381
+    },
+    {
+      "character": "薤",
+      "code": "1d4a",
+      "offset": 2377427
+    },
+    {
+      "character": "羽",
+      "code": "1d4b",
+      "offset": 2377473
+    },
+    {
+      "character": "女",
+      "code": "1d4c",
+      "offset": 2377519
+    },
+    {
+      "character": "絲",
+      "code": "1d4d",
+      "offset": 2377565
+    },
+    {
+      "character": "耙",
+      "code": "1d4e",
+      "offset": 2377611
+    },
+    {
+      "character": "鋤",
+      "code": "1d4f",
+      "offset": 2377657
+    },
+    {
+      "character": "晶",
+      "code": "1d50",
+      "offset": 2377703
+    },
+    {
+      "character": "木",
+      "code": "1d51",
+      "offset": 2377749
+    },
+    {
+      "character": "刀",
+      "code": "1d52",
+      "offset": 2377795
+    },
+    {
+      "character": "勇",
+      "code": "1d53",
+      "offset": 2377841
+    },
+    {
+      "character": "劍",
+      "code": "1d54",
+      "offset": 2377887
+    },
+    {
+      "character": "皮",
+      "code": "1d55",
+      "offset": 2377933
+    },
+    {
+      "character": "甲",
+      "code": "1d56",
+      "offset": 2377979
+    },
+    {
+      "character": "鎧",
+      "code": "1d57",
+      "offset": 2378025
+    },
+    {
+      "character": "便",
+      "code": "1d58",
+      "offset": 2378071
+    },
+    {
+      "character": "服",
+      "code": "1d59",
+      "offset": 2378117
+    },
+    {
+      "character": "巾",
+      "code": "1d5a",
+      "offset": 2378163
+    },
+    {
+      "character": "盔",
+      "code": "1d5b",
+      "offset": 2378209
+    },
+    {
+      "character": "草",
+      "code": "1d5c",
+      "offset": 2378255
+    },
+    {
+      "character": "鞋",
+      "code": "1d5d",
+      "offset": 2378301
+    },
+    {
+      "character": "兔",
+      "code": "1d5e",
+      "offset": 2378347
+    },
+    {
+      "character": "足",
+      "code": "1d5f",
+      "offset": 2378393
+    },
+    {
+      "character": "袋",
+      "code": "1d60",
+      "offset": 2378439
+    },
+    {
+      "character": "長",
+      "code": "1d61",
+      "offset": 2378485
+    },
+    {
+      "character": "靴",
+      "code": "1d62",
+      "offset": 2378531
+    },
+    {
+      "character": "幌",
+      "code": "1d63",
+      "offset": 2378577
+    },
+    {
+      "character": "波",
+      "code": "1d64",
+      "offset": 2378623
+    },
+    {
+      "character": "海",
+      "code": "1d65",
+      "offset": 2378669
+    },
+    {
+      "character": "嘯",
+      "code": "1d66",
+      "offset": 2378715
+    },
+    {
+      "character": "稻",
+      "code": "1d67",
+      "offset": 2378761
+    },
+    {
+      "character": "妻",
+      "code": "1d68",
+      "offset": 2378807
+    },
+    {
+      "character": "鳴",
+      "code": "1d69",
+      "offset": 2378853
+    },
+    {
+      "character": "電",
+      "code": "1d6a",
+      "offset": 2378899
+    },
+    {
+      "character": "旋",
+      "code": "1d6b",
+      "offset": 2378945
+    },
+    {
+      "character": "風",
+      "code": "1d6c",
+      "offset": 2378991
+    },
+    {
+      "character": "突",
+      "code": "1d6d",
+      "offset": 2379037
+    },
+    {
+      "character": "烈",
+      "code": "1d6e",
+      "offset": 2379083
+    },
+    {
+      "character": "炎",
+      "code": "1d6f",
+      "offset": 2379129
+    },
+    {
+      "character": "焰",
+      "code": "1d70",
+      "offset": 2379175
+    },
+    {
+      "character": "走",
+      "code": "1d71",
+      "offset": 2379221
+    },
+    {
+      "character": "玫",
+      "code": "1d72",
+      "offset": 2379267
+    },
+    {
+      "character": "瑰",
+      "code": "1d73",
+      "offset": 2379313
+    },
+    {
+      "character": "吹",
+      "code": "1d74",
+      "offset": 2379359
+    },
+    {
+      "character": "忍",
+      "code": "1d75",
+      "offset": 2379405
+    },
+    {
+      "character": "冬",
+      "code": "1d76",
+      "offset": 2379451
+    },
+    {
+      "character": "流",
+      "code": "1d77",
+      "offset": 2379497
+    },
+    {
+      "character": "星",
+      "code": "1d78",
+      "offset": 2379543
+    },
+    {
+      "character": "鹿",
+      "code": "1d79",
+      "offset": 2379589
+    },
+    {
+      "character": "角",
+      "code": "1d7a",
+      "offset": 2379635
+    },
+    {
+      "character": "奪",
+      "code": "1d7b",
+      "offset": 2379681
+    },
+    {
+      "character": "搜",
+      "code": "1d7c",
+      "offset": 2379727
+    },
+    {
+      "character": "刮",
+      "code": "1d7d",
+      "offset": 2379773
+    },
+    {
+      "character": "露",
+      "code": "1d7e",
+      "offset": 2379819
+    },
+    {
+      "character": "臀",
+      "code": "1d7f",
+      "offset": 2379865
+    },
+    {
+      "character": "吉",
+      "code": "1d80",
+      "offset": 2379912
+    },
+    {
+      "character": "倍",
+      "code": "1d81",
+      "offset": 2379958
+    },
+    {
+      "character": "守",
+      "code": "1d82",
+      "offset": 2380004
+    },
+    {
+      "character": "疾",
+      "code": "1d83",
+      "offset": 2380050
+    },
+    {
+      "character": "喚",
+      "code": "1d84",
+      "offset": 2380096
+    },
+    {
+      "character": "醒",
+      "code": "1d85",
+      "offset": 2380142
+    },
+    {
+      "character": "封",
+      "code": "1d86",
+      "offset": 2380188
+    },
+    {
+      "character": "撥",
+      "code": "1d87",
+      "offset": 2380234
+    },
+    {
+      "character": "弦",
+      "code": "1d88",
+      "offset": 2380280
+    },
+    {
+      "character": "假",
+      "code": "1d89",
+      "offset": 2380326
+    },
+    {
+      "character": "象",
+      "code": "1d8a",
+      "offset": 2380372
+    },
+    {
+      "character": "屁",
+      "code": "1d8b",
+      "offset": 2380418
+    },
+    {
+      "character": "軟",
+      "code": "1d8c",
+      "offset": 2380464
+    },
+    {
+      "character": "化",
+      "code": "1d8d",
+      "offset": 2380510
+    },
+    {
+      "character": "迷",
+      "code": "1d8e",
+      "offset": 2380556
+    },
+    {
+      "character": "惘",
+      "code": "1d8f",
+      "offset": 2380602
+    },
+    {
+      "character": "印",
+      "code": "1d90",
+      "offset": 2380648
+    },
+    {
+      "character": "招",
+      "code": "1d91",
+      "offset": 2380694
+    },
+    {
+      "character": "微",
+      "code": "1d92",
+      "offset": 2380740
+    },
+    {
+      "character": "眠",
+      "code": "1d93",
+      "offset": 2380786
+    },
+    {
+      "character": "變",
+      "code": "1d94",
+      "offset": 2380832
+    },
+    {
+      "character": "幻",
+      "code": "1d95",
+      "offset": 2380878
+    },
+    {
+      "character": "縛",
+      "code": "1d96",
+      "offset": 2380924
+    },
+    {
+      "character": "影",
+      "code": "1d97",
+      "offset": 2380970
+    },
+    {
+      "character": "哈",
+      "code": "1d98",
+      "offset": 2381016
+    },
+    {
+      "character": "呵",
+      "code": "1d99",
+      "offset": 2381062
+    },
+    {
+      "character": "囉",
+      "code": "1d9a",
+      "offset": 2381108
+    },
+    {
+      "character": "燕",
+      "code": "1d9b",
+      "offset": 2381154
+    },
+    {
+      "character": "脫",
+      "code": "1d9c",
+      "offset": 2381200
+    },
+    {
+      "character": "避",
+      "code": "1d9d",
+      "offset": 2381246
+    },
+    {
+      "character": "料",
+      "code": "1d9e",
+      "offset": 2381292
+    },
+    {
+      "character": "浮",
+      "code": "1d9f",
+      "offset": 2381338
+    },
+    {
+      "character": "游",
+      "code": "1da0",
+      "offset": 2381384
+    },
+    {
+      "character": "泡",
+      "code": "1da1",
+      "offset": 2381430
+    },
+    {
+      "character": "妖",
+      "code": "1da2",
+      "offset": 2381476
+    },
+    {
+      "character": "異",
+      "code": "1da3",
+      "offset": 2381522
+    },
+    {
+      "character": "赤",
+      "code": "1da4",
+      "offset": 2381568
+    },
+    {
+      "character": "裸",
+      "code": "1da5",
+      "offset": 2381614
+    },
+    {
+      "character": "細",
+      "code": "1da6",
+      "offset": 2381660
+    },
+    {
+      "character": "崩",
+      "code": "1da7",
+      "offset": 2381706
+    },
+    {
+      "character": "切",
+      "code": "1da8",
+      "offset": 2381752
+    },
+    {
+      "character": "分",
+      "code": "1da9",
+      "offset": 2381798
+    },
+    {
+      "character": "打",
+      "code": "1daa",
+      "offset": 2381844
+    },
+    {
+      "character": "山",
+      "code": "1dab",
+      "offset": 2381890
+    },
+    {
+      "character": "彥",
+      "code": "1dac",
+      "offset": 2381936
+    },
+    {
+      "character": "夢",
+      "code": "1dad",
+      "offset": 2381982
+    },
+    {
+      "character": "見",
+      "code": "1dae",
+      "offset": 2382028
+    },
+    {
+      "character": "擾",
+      "code": "1daf",
+      "offset": 2382074
+    },
+    {
+      "character": "亂",
+      "code": "1db0",
+      "offset": 2382120
+    },
+    {
+      "character": "陽",
+      "code": "1db1",
+      "offset": 2382166
+    },
+    {
+      "character": "照",
+      "code": "1db2",
+      "offset": 2382212
+    },
+    {
+      "character": "狐",
+      "code": "1db3",
+      "offset": 2382258
+    },
+    {
+      "character": "？",
+      "code": "1db4",
+      "offset": 2382304
+    },
+    {
+      "character": "誰",
+      "code": "1db5",
+      "offset": 2382350
+    },
+    {
+      "character": "准",
+      "code": "1db6",
+      "offset": 2382396
+    },
+    {
+      "character": "弱",
+      "code": "1db7",
+      "offset": 2382442
+    },
+    {
+      "character": "勝",
+      "code": "1db8",
+      "offset": 2382488
+    },
+    {
+      "character": "生",
+      "code": "1db9",
+      "offset": 2382534
+    },
+    {
+      "character": "門",
+      "code": "1dba",
+      "offset": 2382580
+    },
+    {
+      "character": "傢",
+      "code": "1dbb",
+      "offset": 2382626
+    },
+    {
+      "character": "伙",
+      "code": "1dbc",
+      "offset": 2382672
+    },
+    {
+      "character": "家",
+      "code": "1dbd",
+      "offset": 2382718
+    },
+    {
+      "character": "隨",
+      "code": "1dbe",
+      "offset": 2382764
+    },
+    {
+      "character": "難",
+      "code": "1dbf",
+      "offset": 2382810
+    },
+    {
+      "character": "贏",
+      "code": "1dc0",
+      "offset": 2382857
+    },
+    {
+      "character": "中",
+      "code": "1dc1",
+      "offset": 2382903
+    },
+    {
+      "character": "才",
+      "code": "1dc2",
+      "offset": 2382949
+    },
+    {
+      "character": "互",
+      "code": "1dc3",
+      "offset": 2382995
+    },
+    {
+      "character": "相",
+      "code": "1dc4",
+      "offset": 2383041
+    },
+    {
+      "character": "扶",
+      "code": "1dc5",
+      "offset": 2383087
+    },
+    {
+      "character": "持",
+      "code": "1dc6",
+      "offset": 2383133
+    },
+    {
+      "character": "伴",
+      "code": "1dc7",
+      "offset": 2383179
+    },
+    {
+      "character": "凝",
+      "code": "1dc8",
+      "offset": 2383225
+    },
+    {
+      "character": "聚",
+      "code": "1dc9",
+      "offset": 2383271
+    },
+    {
+      "character": "起",
+      "code": "1dca",
+      "offset": 2383317
+    },
+    {
+      "character": "原",
+      "code": "1dcb",
+      "offset": 2383363
+    },
+    {
+      "character": "而",
+      "code": "1dcc",
+      "offset": 2383409
+    },
+    {
+      "character": "蘆",
+      "code": "1dcd",
+      "offset": 2383455
+    },
+    {
+      "character": "葦",
+      "code": "1dce",
+      "offset": 2383501
+    },
+    {
+      "character": "壯",
+      "code": "1dcf",
+      "offset": 2383547
+    },
+    {
+      "character": "卻",
+      "code": "1dd0",
+      "offset": 2383593
+    },
+    {
+      "character": "易",
+      "code": "1dd1",
+      "offset": 2383639
+    },
+    {
+      "character": "旦",
+      "code": "1dd2",
+      "offset": 2383685
+    },
+    {
+      "character": "下",
+      "code": "1dd3",
+      "offset": 2383731
+    },
+    {
+      "character": "再",
+      "code": "1dd4",
+      "offset": 2383777
+    },
+    {
+      "character": "站",
+      "code": "1dd5",
+      "offset": 2383823
+    },
+    {
+      "character": "種",
+      "code": "1dd6",
+      "offset": 2383869
+    },
+    {
+      "character": "遍",
+      "code": "1dd7",
+      "offset": 2383915
+    },
+    {
+      "character": "布",
+      "code": "1dd8",
+      "offset": 2383961
+    },
+    {
+      "character": "方",
+      "code": "1dd9",
+      "offset": 2384007
+    },
+    {
+      "character": "、",
+      "code": "1dda",
+      "offset": 2384053
+    },
+    {
+      "character": "擺",
+      "code": "1ddb",
+      "offset": 2384099
+    },
+    {
+      "character": "迎",
+      "code": "1ddc",
+      "offset": 2384145
+    },
+    {
+      "character": "支",
+      "code": "1ddd",
+      "offset": 2384191
+    },
+    {
+      "character": "磨",
+      "code": "1dde",
+      "offset": 2384237
+    },
+    {
+      "character": "練",
+      "code": "1ddf",
+      "offset": 2384283
+    },
+    {
+      "character": "致",
+      "code": "1de0",
+      "offset": 2384329
+    },
+    {
+      "character": "讓",
+      "code": "1de1",
+      "offset": 2384375
+    },
+    {
+      "character": "終",
+      "code": "1de2",
+      "offset": 2384421
+    },
+    {
+      "character": "於",
+      "code": "1de3",
+      "offset": 2384467
+    },
+    {
+      "character": "討",
+      "code": "1de4",
+      "offset": 2384513
+    },
+    {
+      "character": "厭",
+      "code": "1de5",
+      "offset": 2384559
+    },
+    {
+      "character": "透",
+      "code": "1de6",
+      "offset": 2384605
+    },
+    {
+      "character": "和",
+      "code": "1de7",
+      "offset": 2384651
+    },
+    {
+      "character": "類",
+      "code": "1de8",
+      "offset": 2384697
+    },
+    {
+      "character": "東",
+      "code": "1de9",
+      "offset": 2384743
+    },
+    {
+      "character": "西",
+      "code": "1dea",
+      "offset": 2384789
+    },
+    {
+      "character": "鬥",
+      "code": "1deb",
+      "offset": 2384835
+    },
+    {
+      "character": "骯",
+      "code": "1dec",
+      "offset": 2384881
+    },
+    {
+      "character": "髒",
+      "code": "1ded",
+      "offset": 2384927
+    },
+    {
+      "character": "結",
+      "code": "1dee",
+      "offset": 2384973
+    },
+    {
+      "character": "束",
+      "code": "1def",
+      "offset": 2385019
+    },
+    {
+      "character": "喝",
+      "code": "1df0",
+      "offset": 2385065
+    },
+    {
+      "character": "點",
+      "code": "1df1",
+      "offset": 2385111
+    },
+    {
+      "character": "酒",
+      "code": "1df2",
+      "offset": 2385157
+    },
+    {
+      "character": "掉",
+      "code": "1df3",
+      "offset": 2385203
+    },
+    {
+      "character": "口",
+      "code": "1df4",
+      "offset": 2385249
+    },
+    {
+      "character": "悶",
+      "code": "1df5",
+      "offset": 2385295
+    },
+    {
+      "character": "右",
+      "code": "1df6",
+      "offset": 2385341
+    },
+    {
+      "character": "魂",
+      "code": "1df7",
+      "offset": 2385387
+    },
+    {
+      "character": "左",
+      "code": "1df8",
+      "offset": 2385433
+    },
+    {
+      "character": "狠",
+      "code": "1df9",
+      "offset": 2385479
+    },
+    {
+      "character": "收",
+      "code": "1dfa",
+      "offset": 2385525
+    },
+    {
+      "character": "拾",
+      "code": "1dfb",
+      "offset": 2385571
+    },
+    {
+      "character": "直",
+      "code": "1dfc",
+      "offset": 2385617
+    },
+    {
+      "character": "滿",
+      "code": "1dfd",
+      "offset": 2385663
+    },
+    {
+      "character": "止",
+      "code": "1dfe",
+      "offset": 2385709
+    },
+    {
+      "character": "螻",
+      "code": "1dff",
+      "offset": 2385755
+    },
+    {
+      "character": "蟻",
+      "code": "1e00",
+      "offset": 2385802
+    },
+    {
+      "character": "味",
+      "code": "1e01",
+      "offset": 2385848
+    },
+    {
+      "character": "臭",
+      "code": "1e02",
+      "offset": 2385894
+    },
+    {
+      "character": "沾",
+      "code": "1e03",
+      "offset": 2385940
+    },
+    {
+      "character": "輸",
+      "code": "1e04",
+      "offset": 2385986
+    },
+    {
+      "character": "嘎",
+      "code": "1e05",
+      "offset": 2386032
+    },
+    {
+      "character": "區",
+      "code": "1e06",
+      "offset": 2386078
+    },
+    {
+      "character": "事",
+      "code": "1e07",
+      "offset": 2386124
+    },
+    {
+      "character": "尊",
+      "code": "1e08",
+      "offset": 2386170
+    },
+    {
+      "character": "嚴",
+      "code": "1e09",
+      "offset": 2386216
+    },
+    {
+      "character": "絕",
+      "code": "1e0a",
+      "offset": 2386262
+    },
+    {
+      "character": "允",
+      "code": "1e0b",
+      "offset": 2386308
+    },
+    {
+      "character": "許",
+      "code": "1e0c",
+      "offset": 2386354
+    },
+    {
+      "character": "寧",
+      "code": "1e0d",
+      "offset": 2386400
+    },
+    {
+      "character": "選",
+      "code": "1e0e",
+      "offset": 2386446
+    },
+    {
+      "character": "擇",
+      "code": "1e0f",
+      "offset": 2386492
+    },
+    {
+      "character": "死",
+      "code": "1e10",
+      "offset": 2386538
+    },
+    {
+      "character": "亡",
+      "code": "1e11",
+      "offset": 2386584
+    },
+    {
+      "character": "永",
+      "code": "1e12",
+      "offset": 2386630
+    },
+    {
+      "character": "世",
+      "code": "1e13",
+      "offset": 2386676
+    },
+    {
+      "character": "本",
+      "code": "1e14",
+      "offset": 2386722
+    },
+    {
+      "character": "爺",
+      "code": "1e15",
+      "offset": 2386768
+    },
+    {
+      "character": "獄",
+      "code": "1e16",
+      "offset": 2386814
+    },
+    {
+      "character": "敢",
+      "code": "1e17",
+      "offset": 2386860
+    },
+    {
+      "character": "反",
+      "code": "1e18",
+      "offset": 2386906
+    },
+    {
+      "character": "抗",
+      "code": "1e19",
+      "offset": 2386952
+    },
+    {
+      "character": "鳥",
+      "code": "1e1a",
+      "offset": 2386998
+    },
+    {
+      "character": "統",
+      "code": "1e1b",
+      "offset": 2387044
+    },
+    {
+      "character": "眾",
+      "code": "1e1c",
+      "offset": 2387090
+    },
+    {
+      "character": "腦",
+      "code": "1e1d",
+      "offset": 2387136
+    },
+    {
+      "character": "乖",
+      "code": "1e1e",
+      "offset": 2387182
+    },
+    {
+      "character": "腳",
+      "code": "1e1f",
+      "offset": 2387228
+    },
+    {
+      "character": "越",
+      "code": "1e20",
+      "offset": 2387274
+    },
+    {
+      "character": "硬",
+      "code": "1e21",
+      "offset": 2387320
+    },
+    {
+      "character": "民",
+      "code": "1e22",
+      "offset": 2387366
+    },
+    {
+      "character": "怨",
+      "code": "1e23",
+      "offset": 2387412
+    },
+    {
+      "character": "恨",
+      "code": "1e24",
+      "offset": 2387458
+    },
+    {
+      "character": "叫",
+      "code": "1e25",
+      "offset": 2387504
+    },
+    {
+      "character": "呻",
+      "code": "1e26",
+      "offset": 2387550
+    },
+    {
+      "character": "吟",
+      "code": "1e27",
+      "offset": 2387596
+    },
+    {
+      "character": "哇",
+      "code": "1e28",
+      "offset": 2387642
+    },
+    {
+      "character": "活",
+      "code": "1e29",
+      "offset": 2387688
+    },
+    {
+      "character": "嘰",
+      "code": "1e2a",
+      "offset": 2387734
+    },
+    {
+      "character": "雜",
+      "code": "1e2b",
+      "offset": 2387780
+    },
+    {
+      "character": "兵",
+      "code": "1e2c",
+      "offset": 2387826
+    },
+    {
+      "character": "陰",
+      "code": "1e2d",
+      "offset": 2387872
+    },
+    {
+      "character": "散",
+      "code": "1e2e",
+      "offset": 2387918
+    },
+    {
+      "character": "失",
+      "code": "1e2f",
+      "offset": 2387964
+    },
+    {
+      "character": "腰",
+      "code": "1e30",
+      "offset": 2388010
+    },
+    {
+      "character": "勢",
+      "code": "1e31",
+      "offset": 2388056
+    },
+    {
+      "character": "揮",
+      "code": "1e32",
+      "offset": 2388102
+    },
+    {
+      "character": "蒼",
+      "code": "1e33",
+      "offset": 2388148
+    },
+    {
+      "character": "蠅",
+      "code": "1e34",
+      "offset": 2388194
+    },
+    {
+      "character": "停",
+      "code": "1e35",
+      "offset": 2388240
+    },
+    {
+      "character": "嘛",
+      "code": "1e36",
+      "offset": 2388286
+    },
+    {
+      "character": "吃",
+      "code": "1e37",
+      "offset": 2388332
+    },
+    {
+      "character": "惡",
+      "code": "1e38",
+      "offset": 2388378
+    },
+    {
+      "character": "臂",
+      "code": "1e39",
+      "offset": 2388424
+    },
+    {
+      "character": "哦",
+      "code": "1e3a",
+      "offset": 2388470
+    },
+    {
+      "character": "少",
+      "code": "1e3b",
+      "offset": 2388516
+    },
+    {
+      "character": "剛",
+      "code": "1e3c",
+      "offset": 2388562
+    },
+    {
+      "character": "勁",
+      "code": "1e3d",
+      "offset": 2388608
+    },
+    {
+      "character": "認",
+      "code": "1e3e",
+      "offset": 2388654
+    },
+    {
+      "character": "依",
+      "code": "1e3f",
+      "offset": 2388700
+    },
+    {
+      "character": "賴",
+      "code": "1e40",
+      "offset": 2388747
+    },
+    {
+      "character": "法",
+      "code": "1e41",
+      "offset": 2388793
+    },
+    {
+      "character": "滅",
+      "code": "1e42",
+      "offset": 2388839
+    },
+    {
+      "character": "牠",
+      "code": "1e43",
+      "offset": 2388885
+    },
+    {
+      "character": "懂",
+      "code": "1e44",
+      "offset": 2388931
+    },
+    {
+      "character": "先",
+      "code": "1e45",
+      "offset": 2388977
+    },
+    {
+      "character": "路",
+      "code": "1e46",
+      "offset": 2389023
+    },
+    {
+      "character": "冷",
+      "code": "1e47",
+      "offset": 2389069
+    },
+    {
+      "character": "靜",
+      "code": "1e48",
+      "offset": 2389115
+    },
+    {
+      "character": "慌",
+      "code": "1e49",
+      "offset": 2389161
+    },
+    {
+      "character": "辦",
+      "code": "1e4a",
+      "offset": 2389207
+    },
+    {
+      "character": "鋼",
+      "code": "1e4b",
+      "offset": 2389253
+    },
+    {
+      "character": "軀",
+      "code": "1e4c",
+      "offset": 2389299
+    },
+    {
+      "character": "將",
+      "code": "1e4d",
+      "offset": 2389345
+    },
+    {
+      "character": "加",
+      "code": "1e4e",
+      "offset": 2389391
+    },
+    {
+      "character": "彈",
+      "code": "1e4f",
+      "offset": 2389437
+    },
+    {
+      "character": "施",
+      "code": "1e50",
+      "offset": 2389483
+    },
+    {
+      "character": "吸",
+      "code": "1e51",
+      "offset": 2389529
+    },
+    {
+      "character": "縮",
+      "code": "1e52",
+      "offset": 2389575
+    },
+    {
+      "character": "恢",
+      "code": "1e53",
+      "offset": 2389621
+    },
+    {
+      "character": "復",
+      "code": "1e54",
+      "offset": 2389667
+    },
+    {
+      "character": "狀",
+      "code": "1e55",
+      "offset": 2389713
+    },
+    {
+      "character": "燃",
+      "code": "1e56",
+      "offset": 2389759
+    },
+    {
+      "character": "熊",
+      "code": "1e57",
+      "offset": 2389805
+    },
+    {
+      "character": "怒",
+      "code": "1e58",
+      "offset": 2389851
+    },
+    {
+      "character": "吐",
+      "code": "1e59",
+      "offset": 2389897
+    },
+    {
+      "character": "武",
+      "code": "1e5a",
+      "offset": 2389943
+    },
+    {
+      "character": "器",
+      "code": "1e5b",
+      "offset": 2389989
+    },
+    {
+      "character": "黏",
+      "code": "1e5c",
+      "offset": 2390035
+    },
+    {
+      "character": "稠",
+      "code": "1e5d",
+      "offset": 2390081
+    },
+    {
+      "character": "纏",
+      "code": "1e5e",
+      "offset": 2390127
+    },
+    {
+      "character": "眼",
+      "code": "1e5f",
+      "offset": 2390173
+    },
+    {
+      "character": "耀",
+      "code": "1e60",
+      "offset": 2390219
+    },
+    {
+      "character": "光",
+      "code": "1e61",
+      "offset": 2390265
+    },
+    {
+      "character": "芒",
+      "code": "1e62",
+      "offset": 2390311
+    },
+    {
+      "character": "詭",
+      "code": "1e63",
+      "offset": 2390357
+    },
+    {
+      "character": "團",
+      "code": "1e64",
+      "offset": 2390403
+    },
+    {
+      "character": "式",
+      "code": "1e65",
+      "offset": 2390449
+    },
+    {
+      "character": "清",
+      "code": "1e66",
+      "offset": 2390495
+    },
+    {
+      "character": "二",
+      "code": "1e67",
+      "offset": 2390541
+    },
+    {
+      "character": "楚",
+      "code": "1e68",
+      "offset": 2390587
+    },
+    {
+      "character": "未",
+      "code": "1e69",
+      "offset": 2390633
+    },
+    {
+      "character": "免",
+      "code": "1e6a",
+      "offset": 2390679
+    },
+    {
+      "character": "太",
+      "code": "1e6b",
+      "offset": 2390725
+    },
+    {
+      "character": "謂",
+      "code": "1e6c",
+      "offset": 2390771
+    },
+    {
+      "character": "碎",
+      "code": "1e6d",
+      "offset": 2390817
+    },
+    {
+      "character": "破",
+      "code": "1e6e",
+      "offset": 2390863
+    },
+    {
+      "character": "向",
+      "code": "1e6f",
+      "offset": 2390909
+    },
+    {
+      "character": "八",
+      "code": "1e70",
+      "offset": 2390955
+    },
+    {
+      "character": "哼",
+      "code": "1e71",
+      "offset": 2391001
+    },
+    {
+      "character": "聊",
+      "code": "1e72",
+      "offset": 2391047
+    },
+    {
+      "character": "根",
+      "code": "1e73",
+      "offset": 2391093
+    },
+    {
+      "character": "首",
+      "code": "1e74",
+      "offset": 2391139
+    },
+    {
+      "character": "且",
+      "code": "1e75",
+      "offset": 2391185
+    },
+    {
+      "character": "總",
+      "code": "1e76",
+      "offset": 2391231
+    },
+    {
+      "character": "保",
+      "code": "1e77",
+      "offset": 2391277
+    },
+    {
+      "character": "胖",
+      "code": "1e78",
+      "offset": 2391323
+    },
+    {
+      "character": "時",
+      "code": "1e79",
+      "offset": 2391369
+    },
+    {
+      "character": "機",
+      "code": "1e7a",
+      "offset": 2391415
+    },
+    {
+      "character": "判",
+      "code": "1e7b",
+      "offset": 2391461
+    },
+    {
+      "character": "斷",
+      "code": "1e7c",
+      "offset": 2391507
+    },
+    {
+      "character": "嫩",
+      "code": "1e7d",
+      "offset": 2391553
+    },
+    {
+      "character": "毫",
+      "code": "1e7e",
+      "offset": 2391599
+    },
+    {
+      "character": "章",
+      "code": "1e7f",
+      "offset": 2391645
+    },
+    {
+      "character": "擋",
+      "code": "1e80",
+      "offset": 2391692
+    },
+    {
+      "character": "阿",
+      "code": "1e81",
+      "offset": 2391738
+    },
+    {
+      "character": "闍",
+      "code": "1e82",
+      "offset": 2391784
+    },
+    {
+      "character": "紊",
+      "code": "1e83",
+      "offset": 2391830
+    },
+    {
+      "character": "。",
+      "code": "1e84",
+      "offset": 2391876
+    },
+    {
+      "character": "般",
+      "code": "1e85",
+      "offset": 2391922
+    },
+    {
+      "character": "純",
+      "code": "1e86",
+      "offset": 2391968
+    },
+    {
+      "character": "淨",
+      "code": "1e87",
+      "offset": 2392014
+    },
+    {
+      "character": "察",
+      "code": "1e88",
+      "offset": 2392060
+    },
+    {
+      "character": "叉",
+      "code": "1e89",
+      "offset": 2392106
+    },
+    {
+      "character": "高",
+      "code": "1e8a",
+      "offset": 2392152
+    },
+    {
+      "character": "興",
+      "code": "1e8b",
+      "offset": 2392198
+    },
+    {
+      "character": "久",
+      "code": "1e8c",
+      "offset": 2392244
+    },
+    {
+      "character": "痛",
+      "code": "1e8d",
+      "offset": 2392290
+    },
+    {
+      "character": "呼",
+      "code": "1e8e",
+      "offset": 2392336
+    },
+    {
+      "character": "嚕",
+      "code": "1e8f",
+      "offset": 2392382
+    },
+    {
+      "character": "抱",
+      "code": "1e90",
+      "offset": 2392428
+    },
+    {
+      "character": "歉",
+      "code": "1e91",
+      "offset": 2392474
+    },
+    {
+      "character": "碰",
+      "code": "1e92",
+      "offset": 2392520
+    },
+    {
+      "character": "規",
+      "code": "1e93",
+      "offset": 2392566
+    },
+    {
+      "character": "矩",
+      "code": "1e94",
+      "offset": 2392612
+    },
+    {
+      "character": "論",
+      "code": "1e95",
+      "offset": 2392658
+    },
+    {
+      "character": "間",
+      "code": "1e96",
+      "offset": 2392704
+    },
+    {
+      "character": "關",
+      "code": "1e97",
+      "offset": 2392750
+    },
+    {
+      "character": "係",
+      "code": "1e98",
+      "offset": 2392796
+    },
+    {
+      "character": "親",
+      "code": "1e99",
+      "offset": 2392842
+    },
+    {
+      "character": "確",
+      "code": "1e9a",
+      "offset": 2392888
+    },
+    {
+      "character": "果",
+      "code": "1e9b",
+      "offset": 2392934
+    },
+    {
+      "character": "感",
+      "code": "1e9c",
+      "offset": 2392980
+    },
+    {
+      "character": "激",
+      "code": "1e9d",
+      "offset": 2393026
+    },
+    {
+      "character": "第",
+      "code": "1e9e",
+      "offset": 2393072
+    },
+    {
+      "character": "稱",
+      "code": "1e9f",
+      "offset": 2393118
+    },
+    {
+      "character": "執",
+      "code": "1ea0",
+      "offset": 2393164
+    },
+    {
+      "character": "平",
+      "code": "1ea1",
+      "offset": 2393210
+    },
+    {
+      "character": "常",
+      "code": "1ea2",
+      "offset": 2393256
+    },
+    {
+      "character": "位",
+      "code": "1ea3",
+      "offset": 2393302
+    },
+    {
+      "character": "渴",
+      "code": "1ea4",
+      "offset": 2393348
+    },
+    {
+      "character": "望",
+      "code": "1ea5",
+      "offset": 2393394
+    },
+    {
+      "character": "者",
+      "code": "1ea6",
+      "offset": 2393440
+    },
+    {
+      "character": "只",
+      "code": "1ea7",
+      "offset": 2393486
+    },
+    {
+      "character": "馬",
+      "code": "1ea8",
+      "offset": 2393532
+    },
+    {
+      "character": "倌",
+      "code": "1ea9",
+      "offset": 2393578
+    },
+    {
+      "character": "職",
+      "code": "1eaa",
+      "offset": 2393624
+    },
+    {
+      "character": "賞",
+      "code": "1eab",
+      "offset": 2393670
+    },
+    {
+      "character": "準",
+      "code": "1eac",
+      "offset": 2393716
+    },
+    {
+      "character": "妥",
+      "code": "1ead",
+      "offset": 2393762
+    },
+    {
+      "character": "她",
+      "code": "1eae",
+      "offset": 2393808
+    },
+    {
+      "character": "定",
+      "code": "1eaf",
+      "offset": 2393854
+    },
+    {
+      "character": "安",
+      "code": "1eb0",
+      "offset": 2393900
+    },
+    {
+      "character": "整",
+      "code": "1eb1",
+      "offset": 2393946
+    },
+    {
+      "character": "猛",
+      "code": "1eb2",
+      "offset": 2393992
+    },
+    {
+      "character": "晃",
+      "code": "1eb3",
+      "offset": 2394038
+    },
+    {
+      "character": "座",
+      "code": "1eb4",
+      "offset": 2394084
+    },
+    {
+      "character": "殿",
+      "code": "1eb5",
+      "offset": 2394130
+    },
+    {
+      "character": "勉",
+      "code": "1eb6",
+      "offset": 2394176
+    },
+    {
+      "character": "注",
+      "code": "1eb7",
+      "offset": 2394222
+    },
+    {
+      "character": "入",
+      "code": "1eb8",
+      "offset": 2394268
+    },
+    {
+      "character": "試",
+      "code": "1eb9",
+      "offset": 2394314
+    },
+    {
+      "character": "落",
+      "code": "1eba",
+      "offset": 2394360
+    },
+    {
+      "character": "豐",
+      "code": "1ebb",
+      "offset": 2394406
+    },
+    {
+      "character": "藍",
+      "code": "1ebc",
+      "offset": 2394452
+    },
+    {
+      "character": "鍛",
+      "code": "1ebd",
+      "offset": 2394498
+    },
+    {
+      "character": "鍊",
+      "code": "1ebe",
+      "offset": 2394544
+    },
+    {
+      "character": "它",
+      "code": "1ebf",
+      "offset": 2394590
+    },
+    {
+      "character": "希",
+      "code": "1ec0",
+      "offset": 2394637
+    },
+    {
+      "character": "託",
+      "code": "1ec1",
+      "offset": 2394683
+    },
+    {
+      "character": "蹦",
+      "code": "1ec2",
+      "offset": 2394729
+    },
+    {
+      "character": "據",
+      "code": "1ec3",
+      "offset": 2394775
+    },
+    {
+      "character": "偶",
+      "code": "1ec4",
+      "offset": 2394821
+    },
+    {
+      "character": "爾",
+      "code": "1ec5",
+      "offset": 2394867
+    },
+    {
+      "character": "墜",
+      "code": "1ec6",
+      "offset": 2394913
+    },
+    {
+      "character": "恩",
+      "code": "1ec7",
+      "offset": 2394959
+    },
+    {
+      "character": "惠",
+      "code": "1ec8",
+      "offset": 2395005
+    },
+    {
+      "character": "剩",
+      "code": "1ec9",
+      "offset": 2395051
+    },
+    {
+      "character": "倖",
+      "code": "1eca",
+      "offset": 2395097
+    },
+    {
+      "character": "慘",
+      "code": "1ecb",
+      "offset": 2395143
+    },
+    {
+      "character": "像",
+      "code": "1ecc",
+      "offset": 2395189
+    },
+    {
+      "character": "弄",
+      "code": "1ecd",
+      "offset": 2395235
+    },
+    {
+      "character": "肆",
+      "code": "1ece",
+      "offset": 2395281
+    },
+    {
+      "character": "壞",
+      "code": "1ecf",
+      "offset": 2395327
+    },
+    {
+      "character": "往",
+      "code": "1ed0",
+      "offset": 2395373
+    },
+    {
+      "character": "泉",
+      "code": "1ed1",
+      "offset": 2395419
+    },
+    {
+      "character": "塔",
+      "code": "1ed2",
+      "offset": 2395465
+    },
+    {
+      "character": "嵐",
+      "code": "1ed3",
+      "offset": 2395511
+    },
+    {
+      "character": "粉",
+      "code": "1ed4",
+      "offset": 2395557
+    },
+    {
+      "character": "燒",
+      "code": "1ed5",
+      "offset": 2395603
+    },
+    {
+      "character": "片",
+      "code": "1ed6",
+      "offset": 2395649
+    },
+    {
+      "character": "灑",
+      "code": "1ed7",
+      "offset": 2395695
+    },
+    {
+      "character": "界",
+      "code": "1ed8",
+      "offset": 2395741
+    },
+    {
+      "character": "模",
+      "code": "1ed9",
+      "offset": 2395787
+    },
+    {
+      "character": "鳳",
+      "code": "1eda",
+      "offset": 2395833
+    },
+    {
+      "character": "凰",
+      "code": "1edb",
+      "offset": 2395879
+    },
+    {
+      "character": "岩",
+      "code": "1edc",
+      "offset": 2395925
+    },
+    {
+      "character": "石",
+      "code": "1edd",
+      "offset": 2395971
+    },
+    {
+      "character": "包",
+      "code": "1ede",
+      "offset": 2396017
+    },
+    {
+      "character": "圍",
+      "code": "1edf",
+      "offset": 2396063
+    },
+    {
+      "character": "嗚",
+      "code": "1ee0",
+      "offset": 2396109
+    },
+    {
+      "character": "品",
+      "code": "1ee1",
+      "offset": 2396155
+    },
+    {
+      "character": "容",
+      "code": "1ee2",
+      "offset": 2396201
+    },
+    {
+      "character": "盡",
+      "code": "1ee3",
+      "offset": 2396247
+    },
+    {
+      "character": "份",
+      "code": "1ee4",
+      "offset": 2396293
+    },
+    {
+      "character": "淚",
+      "code": "1ee5",
+      "offset": 2396339
+    },
+    {
+      "character": "妳",
+      "code": "1ee6",
+      "offset": 2396385
+    },
+    {
+      "character": "底",
+      "code": "1ee7",
+      "offset": 2396431
+    },
+    {
+      "character": "偷",
+      "code": "1ee8",
+      "offset": 2396477
+    },
+    {
+      "character": "珍",
+      "code": "1ee9",
+      "offset": 2396523
+    },
+    {
+      "character": "龍",
+      "code": "1eea",
+      "offset": 2396569
+    },
+    {
+      "character": "城",
+      "code": "1eeb",
+      "offset": 2396615
+    },
+    {
+      "character": "乙",
+      "code": "1eec",
+      "offset": 2396661
+    },
+    {
+      "character": "紅",
+      "code": "1eed",
+      "offset": 2396707
+    },
+    {
+      "character": "害",
+      "code": "1eee",
+      "offset": 2396753
+    },
+    {
+      "character": "減",
+      "code": "1eef",
+      "offset": 2396799
+    },
+    {
+      "character": "輕",
+      "code": "1ef0",
+      "offset": 2396845
+    },
+    {
+      "character": "巧",
+      "code": "1ef1",
+      "offset": 2396891
+    },
+    {
+      "character": "閃",
+      "code": "1ef2",
+      "offset": 2396937
+    },
+    {
+      "character": "竭",
+      "code": "1ef3",
+      "offset": 2396983
+    },
+    {
+      "character": "襲",
+      "code": "1ef4",
+      "offset": 2397029
+    },
+    {
+      "character": "埋",
+      "code": "1ef5",
+      "offset": 2397075
+    },
+    {
+      "character": "伏",
+      "code": "1ef6",
+      "offset": 2397121
+    },
+    {
+      "character": "仍",
+      "code": "1ef7",
+      "offset": 2397167
+    },
+    {
+      "character": "睡",
+      "code": "1ef8",
+      "offset": 2397213
+    },
+    {
+      "character": "沉",
+      "code": "1ef9",
+      "offset": 2397259
+    },
+    {
+      "character": "甩",
+      "code": "1efa",
+      "offset": 2397305
+    },
+    {
+      "character": "奶",
+      "code": "1efb",
+      "offset": 2397351
+    },
+    {
+      "character": "振",
+      "code": "1efc",
+      "offset": 2397397
+    },
+    {
+      "character": "作",
+      "code": "1efd",
+      "offset": 2397443
+    },
+    {
+      "character": "噩",
+      "code": "1efe",
+      "offset": 2397489
+    },
+    {
+      "character": "苦",
+      "code": "1eff",
+      "offset": 2397535
+    },
+    {
+      "character": "表",
+      "code": "1f00",
+      "offset": 2397582
+    },
+    {
+      "character": "唉",
+      "code": "1f01",
+      "offset": 2397628
+    },
+    {
+      "character": "咦",
+      "code": "1f02",
+      "offset": 2397674
+    },
+    {
+      "character": "扒",
+      "code": "1f03",
+      "offset": 2397720
+    },
+    {
+      "character": "銀",
+      "code": "1f04",
+      "offset": 2397766
+    },
+    {
+      "character": "次",
+      "code": "1f05",
+      "offset": 2397812
+    },
+    {
+      "character": "泥",
+      "code": "1f06",
+      "offset": 2397858
+    },
+    {
+      "character": "休",
+      "code": "1f07",
+      "offset": 2397904
+    },
+    {
+      "character": "己",
+      "code": "1f08",
+      "offset": 2397950
+    },
+    {
+      "character": "忘",
+      "code": "1f09",
+      "offset": 2397996
+    },
+    {
+      "character": "應",
+      "code": "1f0a",
+      "offset": 2398042
+    },
+    {
+      "character": "精",
+      "code": "1f0b",
+      "offset": 2398088
+    },
+    {
+      "character": "拿",
+      "code": "1f0c",
+      "offset": 2398134
+    },
+    {
+      "character": "１",
+      "code": "1f0d",
+      "offset": 2398180
+    },
+    {
+      "character": "０",
+      "code": "1f0e",
+      "offset": 2398226
+    },
+    {
+      "character": "留",
+      "code": "1f0f",
+      "offset": 2398272
+    },
+    {
+      "character": "途",
+      "code": "1f10",
+      "offset": 2398318
+    },
+    {
+      "character": "咱",
+      "code": "1f11",
+      "offset": 2398364
+    },
+    {
+      "character": "陣",
+      "code": "1f12",
+      "offset": 2398410
+    },
+    {
+      "character": "陪",
+      "code": "1f13",
+      "offset": 2398456
+    },
+    {
+      "character": "伍",
+      "code": "1f14",
+      "offset": 2398502
+    },
+    {
+      "character": "館",
+      "code": "1f15",
+      "offset": 2398548
+    },
+    {
+      "character": "晚",
+      "code": "1f16",
+      "offset": 2398594
+    },
+    {
+      "character": "喔",
+      "code": "1f17",
+      "offset": 2398640
+    },
+    {
+      "character": "三",
+      "code": "1f18",
+      "offset": 2398686
+    },
+    {
+      "character": "祈",
+      "code": "1f19",
+      "offset": 2398732
+    },
+    {
+      "character": "禱",
+      "code": "1f1a",
+      "offset": 2398778
+    },
+    {
+      "character": "佑",
+      "code": "1f1b",
+      "offset": 2398824
+    },
+    {
+      "character": "菜",
+      "code": "1f1c",
+      "offset": 2398870
+    },
+    {
+      "character": "降",
+      "code": "1f1d",
+      "offset": 2398916
+    },
+    {
+      "character": "轟",
+      "code": "1f1e",
+      "offset": 2398962
+    },
+    {
+      "character": "隆",
+      "code": "1f1f",
+      "offset": 2399008
+    },
+    {
+      "character": "耗",
+      "code": "1f20",
+      "offset": 2399054
+    },
+    {
+      "character": "夥",
+      "code": "1f21",
+      "offset": 2399100
+    },
+    {
+      "character": "完",
+      "code": "1f22",
+      "offset": 2399146
+    },
+    {
+      "character": "逐",
+      "code": "1f23",
+      "offset": 2399192
+    },
+    {
+      "character": "漸",
+      "code": "1f24",
+      "offset": 2399238
+    },
+    {
+      "character": "柔",
+      "code": "1f25",
+      "offset": 2399284
+    },
+    {
+      "character": "香",
+      "code": "1f26",
+      "offset": 2399330
+    },
+    {
+      "character": "至",
+      "code": "1f27",
+      "offset": 2399376
+    },
+    {
+      "character": "限",
+      "code": "1f28",
+      "offset": 2399422
+    },
+    {
+      "character": "識",
+      "code": "1f29",
+      "offset": 2399468
+    },
+    {
+      "character": "：",
+      "code": "1f2a",
+      "offset": 2399514
+    },
+    {
+      "character": "忙",
+      "code": "1f2b",
+      "offset": 2399560
+    },
+    {
+      "character": "食",
+      "code": "1f2c",
+      "offset": 2399606
+    },
+    {
+      "character": "飲",
+      "code": "1f2d",
+      "offset": 2399652
+    },
+    {
+      "character": "敲",
+      "code": "1f2e",
+      "offset": 2399698
+    },
+    {
+      "character": "員",
+      "code": "1f2f",
+      "offset": 2399744
+    },
+    {
+      "character": "超",
+      "code": "1f30",
+      "offset": 2399790
+    },
+    {
+      "character": "背",
+      "code": "1f31",
+      "offset": 2399836
+    },
+    {
+      "character": "崑",
+      "code": "1f32",
+      "offset": 2399882
+    },
+    {
+      "character": "崙",
+      "code": "1f33",
+      "offset": 2399928
+    },
+    {
+      "character": "混",
+      "code": "1f34",
+      "offset": 2399974
+    },
+    {
+      "character": "刻",
+      "code": "1f35",
+      "offset": 2400020
+    },
+    {
+      "character": "痊",
+      "code": "1f36",
+      "offset": 2400066
+    },
+    {
+      "character": "癒",
+      "code": "1f37",
+      "offset": 2400112
+    },
+    {
+      "character": "稍",
+      "code": "1f38",
+      "offset": 2400158
+    },
+    {
+      "character": "肚",
+      "code": "1f39",
+      "offset": 2400204
+    },
+    {
+      "character": "修",
+      "code": "1f3a",
+      "offset": 2400250
+    },
+    {
+      "character": "工",
+      "code": "1f3b",
+      "offset": 2400296
+    },
+    {
+      "character": "堡",
+      "code": "1f3c",
+      "offset": 2400342
+    },
+    {
+      "character": "匠",
+      "code": "1f3d",
+      "offset": 2400388
+    },
+    {
+      "character": "耐",
+      "code": "1f3e",
+      "offset": 2400434
+    },
+    {
+      "character": "或",
+      "code": "1f3f",
+      "offset": 2400480
+    },
+    {
+      "character": "代",
+      "code": "1f40",
+      "offset": 2400527
+    },
+    {
+      "character": "溫",
+      "code": "1f41",
+      "offset": 2400573
+    },
+    {
+      "character": "油",
+      "code": "1f42",
+      "offset": 2400619
+    },
+    {
+      "character": "裂",
+      "code": "1f43",
+      "offset": 2400665
+    },
+    {
+      "character": "獲",
+      "code": "1f44",
+      "offset": 2400711
+    },
+    {
+      "character": "挖",
+      "code": "1f45",
+      "offset": 2400757
+    },
+    {
+      "character": "贈",
+      "code": "1f46",
+      "offset": 2400803
+    },
+    {
+      "character": "予",
+      "code": "1f47",
+      "offset": 2400849
+    },
+    {
+      "character": "歡",
+      "code": "1f48",
+      "offset": 2400895
+    },
+    {
+      "character": "臨",
+      "code": "1f49",
+      "offset": 2400941
+    },
+    {
+      "character": "宜",
+      "code": "1f4a",
+      "offset": 2400987
+    },
+    {
+      "character": "舊",
+      "code": "1f4b",
+      "offset": 2401033
+    },
+    {
+      "character": "商",
+      "code": "1f4c",
+      "offset": 2401079
+    },
+    {
+      "character": "勞",
+      "code": "1f4d",
+      "offset": 2401125
+    },
+    {
+      "character": "需",
+      "code": "1f4e",
+      "offset": 2401171
+    },
+    {
+      "character": "務",
+      "code": "1f4f",
+      "offset": 2401217
+    },
+    {
+      "character": "啾",
+      "code": "1f50",
+      "offset": 2401263
+    },
+    {
+      "character": "店",
+      "code": "1f51",
+      "offset": 2401309
+    },
+    {
+      "character": "呦",
+      "code": "1f52",
+      "offset": 2401355
+    },
+    {
+      "character": "吱",
+      "code": "1f53",
+      "offset": 2401401
+    },
+    {
+      "character": "似",
+      "code": "1f54",
+      "offset": 2401447
+    },
+    {
+      "character": "乎",
+      "code": "1f55",
+      "offset": 2401493
+    },
+    {
+      "character": "思",
+      "code": "1f56",
+      "offset": 2401539
+    },
+    {
+      "character": "賣",
+      "code": "1f57",
+      "offset": 2401585
+    },
+    {
+      "character": "問",
+      "code": "1f58",
+      "offset": 2401631
+    },
+    {
+      "character": "飼",
+      "code": "1f59",
+      "offset": 2401677
+    },
+    {
+      "character": "茶",
+      "code": "1f5a",
+      "offset": 2401723
+    },
+    {
+      "character": "券",
+      "code": "1f5b",
+      "offset": 2401769
+    },
+    {
+      "character": "格",
+      "code": "1f5c",
+      "offset": 2401815
+    },
+    {
+      "character": "五",
+      "code": "1f5d",
+      "offset": 2401861
+    },
+    {
+      "character": "十",
+      "code": "1f5e",
+      "offset": 2401907
+    },
+    {
+      "character": "比",
+      "code": "1f5f",
+      "offset": 2401953
+    },
+    {
+      "character": "老",
+      "code": "1f60",
+      "offset": 2401999
+    },
+    {
+      "character": "怪",
+      "code": "1f61",
+      "offset": 2402045
+    },
+    {
+      "character": "顧",
+      "code": "1f62",
+      "offset": 2402091
+    },
+    {
+      "character": "低",
+      "code": "1f63",
+      "offset": 2402137
+    },
+    {
+      "character": "花",
+      "code": "1f64",
+      "offset": 2402183
+    },
+    {
+      "character": "努",
+      "code": "1f65",
+      "offset": 2402229
+    },
+    {
+      "character": "由",
+      "code": "1f66",
+      "offset": 2402275
+    },
+    {
+      "character": "攜",
+      "code": "1f67",
+      "offset": 2402321
+    },
+    {
+      "character": "謝",
+      "code": "1f68",
+      "offset": 2402367
+    },
+    {
+      "character": "提",
+      "code": "1f69",
+      "offset": 2402413
+    },
+    {
+      "character": "供",
+      "code": "1f6a",
+      "offset": 2402459
+    },
+    {
+      "character": "客",
+      "code": "1f6b",
+      "offset": 2402505
+    },
+    {
+      "character": "實",
+      "code": "1f6c",
+      "offset": 2402551
+    },
+    {
+      "character": "件",
+      "code": "1f6d",
+      "offset": 2402597
+    },
+    {
+      "character": "估",
+      "code": "1f6e",
+      "offset": 2402643
+    },
+    {
+      "character": "蜥",
+      "code": "1f6f",
+      "offset": 2402689
+    },
+    {
+      "character": "蜴",
+      "code": "1f70",
+      "offset": 2402735
+    },
+    {
+      "character": "尾",
+      "code": "1f71",
+      "offset": 2402781
+    },
+    {
+      "character": "候",
+      "code": "1f72",
+      "offset": 2402827
+    },
+    {
+      "character": "等",
+      "code": "1f73",
+      "offset": 2402873
+    },
+    {
+      "character": "補",
+      "code": "1f74",
+      "offset": 2402919
+    },
+    {
+      "character": "額",
+      "code": "1f75",
+      "offset": 2402965
+    },
+    {
+      "character": "屬",
+      "code": "1f76",
+      "offset": 2403011
+    },
+    {
+      "character": "抵",
+      "code": "1f77",
+      "offset": 2403057
+    },
+    {
+      "character": "虧",
+      "code": "1f78",
+      "offset": 2403103
+    },
+    {
+      "character": "惜",
+      "code": "1f79",
+      "offset": 2403149
+    },
+    {
+      "character": "貨",
+      "code": "1f7a",
+      "offset": 2403195
+    },
+    {
+      "character": "項",
+      "code": "1f7b",
+      "offset": 2403241
+    },
+    {
+      "character": "熟",
+      "code": "1f7c",
+      "offset": 2403287
+    },
+    {
+      "character": "知",
+      "code": "1f7d",
+      "offset": 2403333
+    },
+    {
+      "character": "販",
+      "code": "1f7e",
+      "offset": 2403379
+    },
+    {
+      "character": "貴",
+      "code": "1f7f",
+      "offset": 2403425
+    },
+    {
+      "character": "另",
+      "code": "1f80",
+      "offset": 2403472
+    },
+    {
+      "character": "挑",
+      "code": "1f81",
+      "offset": 2403518
+    },
+    {
+      "character": "抽",
+      "code": "1f82",
+      "offset": 2403564
+    },
+    {
+      "character": "各",
+      "code": "1f83",
+      "offset": 2403610
+    },
+    {
+      "character": "玩",
+      "code": "1f84",
+      "offset": 2403656
+    },
+    {
+      "character": "獎",
+      "code": "1f85",
+      "offset": 2403702
+    },
+    {
+      "character": "兌",
+      "code": "1f86",
+      "offset": 2403748
+    },
+    {
+      "character": "屋",
+      "code": "1f87",
+      "offset": 2403794
+    },
+    {
+      "character": "號",
+      "code": "1f88",
+      "offset": 2403840
+    },
+    {
+      "character": "寄",
+      "code": "1f89",
+      "offset": 2403886
+    },
+    {
+      "character": "財",
+      "code": "1f8a",
+      "offset": 2403932
+    },
+    {
+      "character": "厲",
+      "code": "1f8b",
+      "offset": 2403978
+    },
+    {
+      "character": "賺",
+      "code": "1f8c",
+      "offset": 2404024
+    },
+    {
+      "character": "羨",
+      "code": "1f8d",
+      "offset": 2404070
+    },
+    {
+      "character": "慕",
+      "code": "1f8e",
+      "offset": 2404116
+    },
+    {
+      "character": "僱",
+      "code": "1f8f",
+      "offset": 2404162
+    },
+    {
+      "character": "豪",
+      "code": "1f90",
+      "offset": 2404208
+    },
+    {
+      "character": "爽",
+      "code": "1f91",
+      "offset": 2404254
+    },
+    {
+      "character": "拜",
+      "code": "1f92",
+      "offset": 2404300
+    },
+    {
+      "character": "考",
+      "code": "1f93",
+      "offset": 2404346
+    },
+    {
+      "character": "慮",
+      "code": "1f94",
+      "offset": 2404392
+    },
+    {
+      "character": "款",
+      "code": "1f95",
+      "offset": 2404438
+    },
+    {
+      "character": "領",
+      "code": "1f96",
+      "offset": 2404484
+    },
+    {
+      "character": "傻",
+      "code": "1f97",
+      "offset": 2404530
+    },
+    {
+      "character": "耍",
+      "code": "1f98",
+      "offset": 2404576
+    },
+    {
+      "character": "每",
+      "code": "1f99",
+      "offset": 2404622
+    },
+    {
+      "character": "範",
+      "code": "1f9a",
+      "offset": 2404668
+    },
+    {
+      "character": "內",
+      "code": "1f9b",
+      "offset": 2404714
+    },
+    {
+      "character": "聯",
+      "code": "1f9c",
+      "offset": 2404760
+    },
+    {
+      "character": "絡",
+      "code": "1f9d",
+      "offset": 2404806
+    },
+    {
+      "character": "網",
+      "code": "1f9e",
+      "offset": 2404852
+    },
+    {
+      "character": "故",
+      "code": "1f9f",
+      "offset": 2404898
+    },
+    {
+      "character": "朋",
+      "code": "1fa0",
+      "offset": 2404944
+    },
+    {
+      "character": "費",
+      "code": "1fa1",
+      "offset": 2404990
+    },
+    {
+      "character": "醫",
+      "code": "1fa2",
+      "offset": 2405036
+    },
+    {
+      "character": "幫",
+      "code": "1fa3",
+      "offset": 2405082
+    },
+    {
+      "character": "況",
+      "code": "1fa4",
+      "offset": 2405128
+    },
+    {
+      "character": "早",
+      "code": "1fa5",
+      "offset": 2405174
+    },
+    {
+      "character": "拖",
+      "code": "1fa6",
+      "offset": 2405220
+    },
+    {
+      "character": "及",
+      "code": "1fa7",
+      "offset": 2405266
+    },
+    {
+      "character": "靈",
+      "code": "1fa8",
+      "offset": 2405312
+    },
+    {
+      "character": "逞",
+      "code": "1fa9",
+      "offset": 2405358
+    },
+    {
+      "character": "適",
+      "code": "1faa",
+      "offset": 2405404
+    },
+    {
+      "character": "房",
+      "code": "1fab",
+      "offset": 2405450
+    },
+    {
+      "character": "哎",
+      "code": "1fac",
+      "offset": 2405496
+    },
+    {
+      "character": "禮",
+      "code": "1fad",
+      "offset": 2405542
+    },
+    {
+      "character": "宿",
+      "code": "1fae",
+      "offset": 2405588
+    },
+    {
+      "character": "野",
+      "code": "1faf",
+      "offset": 2405634
+    },
+    {
+      "character": "外",
+      "code": "1fb0",
+      "offset": 2405680
+    },
+    {
+      "character": "辛",
+      "code": "1fb1",
+      "offset": 2405726
+    },
+    {
+      "character": "掛",
+      "code": "1fb2",
+      "offset": 2405772
+    },
+    {
+      "character": "軸",
+      "code": "1fb3",
+      "offset": 2405818
+    },
+    {
+      "character": "借",
+      "code": "1fb4",
+      "offset": 2405864
+    },
+    {
+      "character": "性",
+      "code": "1fb5",
+      "offset": 2405910
+    },
+    {
+      "character": "妄",
+      "code": "1fb6",
+      "offset": 2405956
+    },
+    {
+      "character": "幸",
+      "code": "1fb7",
+      "offset": 2406002
+    },
+    {
+      "character": "悍",
+      "code": "1fb8",
+      "offset": 2406048
+    },
+    {
+      "character": "壺",
+      "code": "1fb9",
+      "offset": 2406094
+    },
+    {
+      "character": "架",
+      "code": "1fba",
+      "offset": 2406140
+    },
+    {
+      "character": "鍋",
+      "code": "1fbb",
+      "offset": 2406186
+    },
+    {
+      "character": "井",
+      "code": "1fbc",
+      "offset": 2406232
+    },
+    {
+      "character": "篝",
+      "code": "1fbd",
+      "offset": 2406278
+    },
+    {
+      "character": "暖",
+      "code": "1fbe",
+      "offset": 2406324
+    },
+    {
+      "character": "焦",
+      "code": "1fbf",
+      "offset": 2406370
+    },
+    {
+      "character": "黑",
+      "code": "1fc0",
+      "offset": 2406417
+    },
+    {
+      "character": "籤",
+      "code": "1fc1",
+      "offset": 2406463
+    },
+    {
+      "character": "百",
+      "code": "1fc2",
+      "offset": 2406509
+    },
+    {
+      "character": "末",
+      "code": "1fc3",
+      "offset": 2406555
+    },
+    {
+      "character": "嗯",
+      "code": "1fc4",
+      "offset": 2406601
+    },
+    {
+      "character": "共",
+      "code": "1fc5",
+      "offset": 2406647
+    },
+    {
+      "character": "凶",
+      "code": "1fc6",
+      "offset": 2406693
+    },
+    {
+      "character": "投",
+      "code": "1fc7",
+      "offset": 2406739
+    },
+    {
+      "character": "獨",
+      "code": "1fc8",
+      "offset": 2406785
+    },
+    {
+      "character": "憎",
+      "code": "1fc9",
+      "offset": 2406831
+    },
+    {
+      "character": "愚",
+      "code": "1fca",
+      "offset": 2406877
+    },
+    {
+      "character": "蠢",
+      "code": "1fcb",
+      "offset": 2406923
+    },
+    {
+      "character": "懷",
+      "code": "1fcc",
+      "offset": 2406969
+    },
+    {
+      "character": "軌",
+      "code": "1fcd",
+      "offset": 2407015
+    },
+    {
+      "character": "蒙",
+      "code": "1fce",
+      "offset": 2407061
+    },
+    {
+      "character": "騙",
+      "code": "1fcf",
+      "offset": 2407107
+    },
+    {
+      "character": "欲",
+      "code": "1fd0",
+      "offset": 2407153
+    },
+    {
+      "character": "操",
+      "code": "1fd1",
+      "offset": 2407199
+    },
+    {
+      "character": "縱",
+      "code": "1fd2",
+      "offset": 2407245
+    },
+    {
+      "character": "臣",
+      "code": "1fd3",
+      "offset": 2407291
+    },
+    {
+      "character": "堅",
+      "code": "1fd4",
+      "offset": 2407337
+    },
+    {
+      "character": "懈",
+      "code": "1fd5",
+      "offset": 2407383
+    },
+    {
+      "character": "爐",
+      "code": "1fd6",
+      "offset": 2407429
+    },
+    {
+      "character": "炭",
+      "code": "1fd7",
+      "offset": 2407475
+    },
+    {
+      "character": "熄",
+      "code": "1fd8",
+      "offset": 2407521
+    },
+    {
+      "character": "決",
+      "code": "1fd9",
+      "offset": 2407567
+    },
+    {
+      "character": "拔",
+      "code": "1fda",
+      "offset": 2407613
+    },
+    {
+      "character": "池",
+      "code": "1fdb",
+      "offset": 2407659
+    },
+    {
+      "character": "塘",
+      "code": "1fdc",
+      "offset": 2407705
+    },
+    {
+      "character": "鯉",
+      "code": "1fdd",
+      "offset": 2407751
+    },
+    {
+      "character": "青",
+      "code": "1fde",
+      "offset": 2407797
+    },
+    {
+      "character": "蛙",
+      "code": "1fdf",
+      "offset": 2407843
+    },
+    {
+      "character": "釣",
+      "code": "1fe0",
+      "offset": 2407889
+    },
+    {
+      "character": "竿",
+      "code": "1fe1",
+      "offset": 2407935
+    },
+    {
+      "character": "浦",
+      "code": "1fe2",
+      "offset": 2407981
+    },
+    {
+      "character": "線",
+      "code": "1fe3",
+      "offset": 2408027
+    },
+    {
+      "character": "拋",
+      "code": "1fe4",
+      "offset": 2408073
+    },
+    {
+      "character": "鉤",
+      "code": "1fe5",
+      "offset": 2408119
+    },
+    {
+      "character": "攤",
+      "code": "1fe6",
+      "offset": 2408165
+    },
+    {
+      "character": "郎",
+      "code": "1fe7",
+      "offset": 2408211
+    },
+    {
+      "character": "拼",
+      "code": "1fe8",
+      "offset": 2408257
+    },
+    {
+      "character": "官",
+      "code": "1fe9",
+      "offset": 2408303
+    },
+    {
+      "character": "答",
+      "code": "1fea",
+      "offset": 2408349
+    },
+    {
+      "character": "射",
+      "code": "1feb",
+      "offset": 2408395
+    },
+    {
+      "character": "靶",
+      "code": "1fec",
+      "offset": 2408441
+    },
+    {
+      "character": "猜",
+      "code": "1fed",
+      "offset": 2408487
+    },
+    {
+      "character": "拳",
+      "code": "1fee",
+      "offset": 2408533
+    },
+    {
+      "character": "撈",
+      "code": "1fef",
+      "offset": 2408579
+    },
+    {
+      "character": "夾",
+      "code": "1ff0",
+      "offset": 2408625
+    },
+    {
+      "character": "娃",
+      "code": "1ff1",
+      "offset": 2408671
+    },
+    {
+      "character": "鼠",
+      "code": "1ff2",
+      "offset": 2408717
+    },
+    {
+      "character": "圖",
+      "code": "1ff3",
+      "offset": 2408763
+    },
+    {
+      "character": "美",
+      "code": "1ff4",
+      "offset": 2408809
+    },
+    {
+      "character": "祭",
+      "code": "1ff5",
+      "offset": 2408855
+    },
+    {
+      "character": "典",
+      "code": "1ff6",
+      "offset": 2408901
+    },
+    {
+      "character": "憶",
+      "code": "1ff7",
+      "offset": 2408947
+    },
+    {
+      "character": "享",
+      "code": "1ff8",
+      "offset": 2408993
+    },
+    {
+      "character": "市",
+      "code": "1ff9",
+      "offset": 2409039
+    },
+    {
+      "character": "專",
+      "code": "1ffa",
+      "offset": 2409085
+    },
+    {
+      "character": "耳",
+      "code": "1ffb",
+      "offset": 2409131
+    },
+    {
+      "character": "朵",
+      "code": "1ffc",
+      "offset": 2409177
+    },
+    {
+      "character": "豎",
+      "code": "1ffd",
+      "offset": 2409223
+    },
+    {
+      "character": "仔",
+      "code": "1ffe",
+      "offset": 2409269
+    },
+    {
+      "character": "題",
+      "code": "1fff",
+      "offset": 2409315
+    },
+    {
+      "character": "目",
+      "code": "2400",
+      "offset": 3145729
+    },
+    {
+      "character": "版",
+      "code": "2401",
+      "offset": 3145775
+    },
+    {
+      "character": "《",
+      "code": "2402",
+      "offset": 3145821
+    },
+    {
+      "character": "》",
+      "code": "2403",
+      "offset": 3145867
+    },
+    {
+      "character": "合",
+      "code": "2404",
+      "offset": 3145913
+    },
+    {
+      "character": "計",
+      "code": "2405",
+      "offset": 3145959
+    },
+    {
+      "character": "燈",
+      "code": "2406",
+      "offset": 3146005
+    },
+    {
+      "character": "按",
+      "code": "2407",
+      "offset": 3146051
+    },
+    {
+      "character": "Ａ",
+      "code": "2408",
+      "offset": 3146097
+    },
+    {
+      "character": "鈕",
+      "code": "2409",
+      "offset": 3146143
+    },
+    {
+      "character": "箭",
+      "code": "240a",
+      "offset": 3146189
+    },
+    {
+      "character": "央",
+      "code": "240b",
+      "offset": 3146235
+    },
+    {
+      "character": "菩",
+      "code": "240c",
+      "offset": 3146281
+    },
+    {
+      "character": "薩",
+      "code": "240d",
+      "offset": 3146327
+    },
+    {
+      "character": "扣",
+      "code": "240e",
+      "offset": 3146373
+    },
+    {
+      "character": "負",
+      "code": "240f",
+      "offset": 3146419
+    },
+    {
+      "character": "盆",
+      "code": "2410",
+      "offset": 3146465
+    },
+    {
+      "character": "鍵",
+      "code": "2411",
+      "offset": 3146511
+    },
+    {
+      "character": "瞬",
+      "code": "2412",
+      "offset": 3146557
+    },
+    {
+      "character": "紙",
+      "code": "2413",
+      "offset": 3146603
+    },
+    {
+      "character": "歸",
+      "code": "2414",
+      "offset": 3146649
+    },
+    {
+      "character": "零",
+      "code": "2415",
+      "offset": 3146695
+    },
+    {
+      "character": "條",
+      "code": "2416",
+      "offset": 3146741
+    },
+    {
+      "character": "數",
+      "code": "2417",
+      "offset": 3146787
+    },
+    {
+      "character": "移",
+      "code": "2418",
+      "offset": 3146833
+    },
+    {
+      "character": "Ｂ",
+      "code": "2419",
+      "offset": 3146879
+    },
+    {
+      "character": "離",
+      "code": "241a",
+      "offset": 3146925
+    },
+    {
+      "character": "爪",
+      "code": "241b",
+      "offset": 3146971
+    },
+    {
+      "character": "抓",
+      "code": "241c",
+      "offset": 3147017
+    },
+    {
+      "character": "運",
+      "code": "241d",
+      "offset": 3147063
+    },
+    {
+      "character": "控",
+      "code": "241e",
+      "offset": 3147109
+    },
+    {
+      "character": "制",
+      "code": "241f",
+      "offset": 3147155
+    },
+    {
+      "character": "教",
+      "code": "2420",
+      "offset": 3147201
+    },
+    {
+      "character": "訓",
+      "code": "2421",
+      "offset": 3147247
+    },
+    {
+      "character": "田",
+      "code": "2422",
+      "offset": 3147293
+    },
+    {
+      "character": "洞",
+      "code": "2423",
+      "offset": 3147339
+    },
+    {
+      "character": "Ｘ",
+      "code": "2424",
+      "offset": 3147385
+    },
+    {
+      "character": "Ｙ",
+      "code": "2425",
+      "offset": 3147431
+    },
+    {
+      "character": "遊",
+      "code": "2426",
+      "offset": 3147477
+    },
+    {
+      "character": "戲",
+      "code": "2427",
+      "offset": 3147523
+    },
+    {
+      "character": "塊",
+      "code": "2428",
+      "offset": 3147569
+    },
+    {
+      "character": "板",
+      "code": "2429",
+      "offset": 3147615
+    },
+    {
+      "character": "排",
+      "code": "242a",
+      "offset": 3147661
+    },
+    {
+      "character": "置",
+      "code": "242b",
+      "offset": 3147707
+    },
+    {
+      "character": "利",
+      "code": "242c",
+      "offset": 3147753
+    },
+    {
+      "character": "即",
+      "code": "242d",
+      "offset": 3147799
+    },
+    {
+      "character": "鐘",
+      "code": "242e",
+      "offset": 3147845
+    },
+    {
+      "character": "釋",
+      "code": "242f",
+      "offset": 3147891
+    },
+    {
+      "character": "諭",
+      "code": "2430",
+      "offset": 3147937
+    },
+    {
+      "character": "社",
+      "code": "2431",
+      "offset": 3147983
+    },
+    {
+      "character": "錯",
+      "code": "2432",
+      "offset": 3148029
+    },
+    {
+      "character": "告",
+      "code": "2433",
+      "offset": 3148075
+    },
+    {
+      "character": "訴",
+      "code": "2434",
+      "offset": 3148121
+    },
+    {
+      "character": "改",
+      "code": "2435",
+      "offset": 3148167
+    },
+    {
+      "character": "歷",
+      "code": "2436",
+      "offset": 3148213
+    },
+    {
+      "character": "算",
+      "code": "2437",
+      "offset": 3148259
+    },
+    {
+      "character": "銘",
+      "code": "2438",
+      "offset": 3148305
+    },
+    {
+      "character": "奔",
+      "code": "2439",
+      "offset": 3148351
+    },
+    {
+      "character": "暫",
+      "code": "243a",
+      "offset": 3148397
+    },
+    {
+      "character": "升",
+      "code": "243b",
+      "offset": 3148443
+    },
+    {
+      "character": "段",
+      "code": "243c",
+      "offset": 3148489
+    },
+    {
+      "character": "巢",
+      "code": "243d",
+      "offset": 3148535
+    },
+    {
+      "character": "雛",
+      "code": "243e",
+      "offset": 3148581
+    },
+    {
+      "character": "急",
+      "code": "243f",
+      "offset": 3148627
+    },
+    {
+      "character": "學",
+      "code": "2440",
+      "offset": 3148674
+    },
+    {
+      "character": "培",
+      "code": "2441",
+      "offset": 3148720
+    },
+    {
+      "character": "養",
+      "code": "2442",
+      "offset": 3148766
+    },
+    {
+      "character": "貼",
+      "code": "2443",
+      "offset": 3148812
+    },
+    {
+      "character": "擔",
+      "code": "2444",
+      "offset": 3148858
+    },
+    {
+      "character": "悲",
+      "code": "2445",
+      "offset": 3148904
+    },
+    {
+      "character": "萌",
+      "code": "2446",
+      "offset": 3148950
+    },
+    {
+      "character": "志",
+      "code": "2447",
+      "offset": 3148996
+    },
+    {
+      "character": "悟",
+      "code": "2448",
+      "offset": 3149042
+    },
+    {
+      "character": "諦",
+      "code": "2449",
+      "offset": 3149088
+    },
+    {
+      "character": "扉",
+      "code": "244a",
+      "offset": 3149134
+    },
+    {
+      "character": "憑",
+      "code": "244b",
+      "offset": 3149180
+    },
+    {
+      "character": "敞",
+      "code": "244c",
+      "offset": 3149226
+    },
+    {
+      "character": "九",
+      "code": "244d",
+      "offset": 3149272
+    },
+    {
+      "character": "義",
+      "code": "244e",
+      "offset": 3149318
+    },
+    {
+      "character": "占",
+      "code": "244f",
+      "offset": 3149364
+    },
+    {
+      "character": "卜",
+      "code": "2450",
+      "offset": 3149410
+    },
+    {
+      "character": "謹",
+      "code": "2451",
+      "offset": 3149456
+    },
+    {
+      "character": "慎",
+      "code": "2452",
+      "offset": 3149502
+    },
+    {
+      "character": "糟",
+      "code": "2453",
+      "offset": 3149548
+    },
+    {
+      "character": "跌",
+      "code": "2454",
+      "offset": 3149594
+    },
+    {
+      "character": "谷",
+      "code": "2455",
+      "offset": 3149640
+    },
+    {
+      "character": "怕",
+      "code": "2456",
+      "offset": 3149686
+    },
+    {
+      "character": "祥",
+      "code": "2457",
+      "offset": 3149732
+    },
+    {
+      "character": "預",
+      "code": "2458",
+      "offset": 3149778
+    },
+    {
+      "character": "言",
+      "code": "2459",
+      "offset": 3149824
+    },
+    {
+      "character": "湯",
+      "code": "245a",
+      "offset": 3149870
+    },
+    {
+      "character": "男",
+      "code": "245b",
+      "offset": 3149916
+    },
+    {
+      "character": "漢",
+      "code": "245c",
+      "offset": 3149962
+    },
+    {
+      "character": "凡",
+      "code": "245d",
+      "offset": 3150008
+    },
+    {
+      "character": "莊",
+      "code": "245e",
+      "offset": 3150054
+    },
+    {
+      "character": "期",
+      "code": "245f",
+      "offset": 3150100
+    },
+    {
+      "character": "優",
+      "code": "2460",
+      "offset": 3150146
+    },
+    {
+      "character": "童",
+      "code": "2461",
+      "offset": 3150192
+    },
+    {
+      "character": "則",
+      "code": "2462",
+      "offset": 3150238
+    },
+    {
+      "character": "煩",
+      "code": "2463",
+      "offset": 3150284
+    },
+    {
+      "character": "雨",
+      "code": "2464",
+      "offset": 3150330
+    },
+    {
+      "character": "遇",
+      "code": "2465",
+      "offset": 3150376
+    },
+    {
+      "character": "齊",
+      "code": "2466",
+      "offset": 3150422
+    },
+    {
+      "character": "刺",
+      "code": "2467",
+      "offset": 3150468
+    },
+    {
+      "character": "蝟",
+      "code": "2468",
+      "offset": 3150514
+    },
+    {
+      "character": "尖",
+      "code": "2469",
+      "offset": 3150560
+    },
+    {
+      "character": "貿",
+      "code": "246a",
+      "offset": 3150606
+    },
+    {
+      "character": "賀",
+      "code": "246b",
+      "offset": 3150652
+    },
+    {
+      "character": "擅",
+      "code": "246c",
+      "offset": 3150698
+    },
+    {
+      "character": "卒",
+      "code": "246d",
+      "offset": 3150744
+    },
+    {
+      "character": "蜈",
+      "code": "246e",
+      "offset": 3150790
+    },
+    {
+      "character": "蚣",
+      "code": "246f",
+      "offset": 3150836
+    },
+    {
+      "character": "虎",
+      "code": "2470",
+      "offset": 3150882
+    },
+    {
+      "character": "陷",
+      "code": "2471",
+      "offset": 3150928
+    },
+    {
+      "character": "奈",
+      "code": "2472",
+      "offset": 3150974
+    },
+    {
+      "character": "貘",
+      "code": "2473",
+      "offset": 3151020
+    },
+    {
+      "character": "烏",
+      "code": "2474",
+      "offset": 3151066
+    },
+    {
+      "character": "鴉",
+      "code": "2475",
+      "offset": 3151112
+    },
+    {
+      "character": "狸",
+      "code": "2476",
+      "offset": 3151158
+    },
+    {
+      "character": "惑",
+      "code": "2477",
+      "offset": 3151204
+    },
+    {
+      "character": "陌",
+      "code": "2478",
+      "offset": 3151250
+    },
+    {
+      "character": "核",
+      "code": "2479",
+      "offset": 3151296
+    },
+    {
+      "character": "群",
+      "code": "247a",
+      "offset": 3151342
+    },
+    {
+      "character": "周",
+      "code": "247b",
+      "offset": 3151388
+    },
+    {
+      "character": "奧",
+      "code": "247c",
+      "offset": 3151434
+    },
+    {
+      "character": "柯",
+      "code": "247d",
+      "offset": 3151480
+    },
+    {
+      "character": "充",
+      "code": "247e",
+      "offset": 3151526
+    },
+    {
+      "character": "飄",
+      "code": "247f",
+      "offset": 3151572
+    },
+    {
+      "character": "趁",
+      "code": "2480",
+      "offset": 3151619
+    },
+    {
+      "character": "盯",
+      "code": "2481",
+      "offset": 3151665
+    },
+    {
+      "character": "倚",
+      "code": "2482",
+      "offset": 3151711
+    },
+    {
+      "character": "靠",
+      "code": "2483",
+      "offset": 3151757
+    },
+    {
+      "character": "剝",
+      "code": "2484",
+      "offset": 3151803
+    },
+    {
+      "character": "擄",
+      "code": "2485",
+      "offset": 3151849
+    },
+    {
+      "character": "蚤",
+      "code": "2486",
+      "offset": 3151895
+    },
+    {
+      "character": "文",
+      "code": "2487",
+      "offset": 3151941
+    },
+    {
+      "character": "貧",
+      "code": "2488",
+      "offset": 3151987
+    },
+    {
+      "character": "窮",
+      "code": "2489",
+      "offset": 3152033
+    },
+    {
+      "character": "憐",
+      "code": "248a",
+      "offset": 3152079
+    },
+    {
+      "character": "盾",
+      "code": "248b",
+      "offset": 3152125
+    },
+    {
+      "character": "牌",
+      "code": "248c",
+      "offset": 3152171
+    },
+    {
+      "character": "卡",
+      "code": "248d",
+      "offset": 3152217
+    },
+    {
+      "character": "筋",
+      "code": "248e",
+      "offset": 3152263
+    },
+    {
+      "character": "索",
+      "code": "248f",
+      "offset": 3152309
+    },
+    {
+      "character": "茲",
+      "code": "2490",
+      "offset": 3152355
+    },
+    {
+      "character": "諾",
+      "code": "2491",
+      "offset": 3152401
+    },
+    {
+      "character": "舞",
+      "code": "2492",
+      "offset": 3152447
+    },
+    {
+      "character": "滑",
+      "code": "2493",
+      "offset": 3152493
+    },
+    {
+      "character": "血",
+      "code": "2494",
+      "offset": 3152539
+    },
+    {
+      "character": "漂",
+      "code": "2495",
+      "offset": 3152585
+    },
+    {
+      "character": "蓄",
+      "code": "2496",
+      "offset": 3152631
+    },
+    {
+      "character": "邪",
+      "code": "2497",
+      "offset": 3152677
+    },
+    {
+      "character": "握",
+      "code": "2498",
+      "offset": 3152723
+    },
+    {
+      "character": "撤",
+      "code": "2499",
+      "offset": 3152769
+    },
+    {
+      "character": "退",
+      "code": "249a",
+      "offset": 3152815
+    },
+    {
+      "character": "台",
+      "code": "249b",
+      "offset": 3152861
+    },
+    {
+      "character": "窟",
+      "code": "249c",
+      "offset": 3152907
+    },
+    {
+      "character": "餘",
+      "code": "249d",
+      "offset": 3152953
+    },
+    {
+      "character": "協",
+      "code": "249e",
+      "offset": 3152999
+    },
+    {
+      "character": "鯨",
+      "code": "249f",
+      "offset": 3153045
+    },
+    {
+      "character": "撼",
+      "code": "24a0",
+      "offset": 3153091
+    },
+    {
+      "character": "豚",
+      "code": "24a1",
+      "offset": 3153137
+    },
+    {
+      "character": "膨",
+      "code": "24a2",
+      "offset": 3153183
+    },
+    {
+      "character": "脹",
+      "code": "24a3",
+      "offset": 3153229
+    },
+    {
+      "character": "鋸",
+      "code": "24a4",
+      "offset": 3153275
+    },
+    {
+      "character": "緣",
+      "code": "24a5",
+      "offset": 3153321
+    },
+    {
+      "character": "蟹",
+      "code": "24a6",
+      "offset": 3153367
+    },
+    {
+      "character": "雙",
+      "code": "24a7",
+      "offset": 3153413
+    },
+    {
+      "character": "螯",
+      "code": "24a8",
+      "offset": 3153459
+    },
+    {
+      "character": "隻",
+      "code": "24a9",
+      "offset": 3153505
+    },
+    {
+      "character": "船",
+      "code": "24aa",
+      "offset": 3153551
+    },
+    {
+      "character": "驚",
+      "code": "24ab",
+      "offset": 3153597
+    },
+    {
+      "character": "寒",
+      "code": "24ac",
+      "offset": 3153643
+    },
+    {
+      "character": "暴",
+      "code": "24ad",
+      "offset": 3153689
+    },
+    {
+      "character": "緒",
+      "code": "24ae",
+      "offset": 3153735
+    },
+    {
+      "character": "繫",
+      "code": "24af",
+      "offset": 3153781
+    },
+    {
+      "character": "張",
+      "code": "24b0",
+      "offset": 3153827
+    },
+    {
+      "character": "臉",
+      "code": "24b1",
+      "offset": 3153873
+    },
+    {
+      "character": "牢",
+      "code": "24b2",
+      "offset": 3153919
+    },
+    {
+      "character": "髮",
+      "code": "24b3",
+      "offset": 3153965
+    },
+    {
+      "character": "髻",
+      "code": "24b4",
+      "offset": 3154011
+    },
+    {
+      "character": "瀏",
+      "code": "24b5",
+      "offset": 3154057
+    },
+    {
+      "character": "帥",
+      "code": "24b6",
+      "offset": 3154103
+    },
+    {
+      "character": "哥",
+      "code": "24b7",
+      "offset": 3154149
+    },
+    {
+      "character": "綁",
+      "code": "24b8",
+      "offset": 3154195
+    },
+    {
+      "character": "俗",
+      "code": "24b9",
+      "offset": 3154241
+    },
+    {
+      "character": "睛",
+      "code": "24ba",
+      "offset": 3154287
+    },
+    {
+      "character": "隔",
+      "code": "24bb",
+      "offset": 3154333
+    },
+    {
+      "character": "牆",
+      "code": "24bc",
+      "offset": 3154379
+    },
+    {
+      "character": "輪",
+      "code": "24bd",
+      "offset": 3154425
+    },
+    {
+      "character": "節",
+      "code": "24be",
+      "offset": 3154471
+    },
+    {
+      "character": "嘴",
+      "code": "24bf",
+      "offset": 3154517
+    },
+    {
+      "character": "禍",
+      "code": "24c0",
+      "offset": 3154564
+    },
+    {
+      "character": "待",
+      "code": "24c1",
+      "offset": 3154610
+    },
+    {
+      "character": "傑",
+      "code": "24c2",
+      "offset": 3154656
+    },
+    {
+      "character": "喜",
+      "code": "24c3",
+      "offset": 3154702
+    },
+    {
+      "character": "密",
+      "code": "24c4",
+      "offset": 3154748
+    },
+    {
+      "character": "灰",
+      "code": "24c5",
+      "offset": 3154794
+    },
+    {
+      "character": "素",
+      "code": "24c6",
+      "offset": 3154840
+    },
+    {
+      "character": "描",
+      "code": "24c7",
+      "offset": 3154886
+    },
+    {
+      "character": "功",
+      "code": "24c8",
+      "offset": 3154932
+    },
+    {
+      "character": "色",
+      "code": "24c9",
+      "offset": 3154978
+    },
+    {
+      "character": "漫",
+      "code": "24ca",
+      "offset": 3155024
+    },
+    {
+      "character": "畫",
+      "code": "24cb",
+      "offset": 3155070
+    },
+    {
+      "character": "藝",
+      "code": "24cc",
+      "offset": 3155116
+    },
+    {
+      "character": "連",
+      "code": "24cd",
+      "offset": 3155162
+    },
+    {
+      "character": "棒",
+      "code": "24ce",
+      "offset": 3155208
+    },
+    {
+      "character": "熱",
+      "code": "24cf",
+      "offset": 3155254
+    },
+    {
+      "character": "撫",
+      "code": "24d0",
+      "offset": 3155300
+    },
+    {
+      "character": "插",
+      "code": "24d1",
+      "offset": 3155346
+    },
+    {
+      "character": "傾",
+      "code": "24d2",
+      "offset": 3155392
+    },
+    {
+      "character": "鏡",
+      "code": "24d3",
+      "offset": 3155438
+    },
+    {
+      "character": "穿",
+      "code": "24d4",
+      "offset": 3155484
+    },
+    {
+      "character": "狛",
+      "code": "24d5",
+      "offset": 3155530
+    },
+    {
+      "character": "犬",
+      "code": "24d6",
+      "offset": 3155576
+    },
+    {
+      "character": "頑",
+      "code": "24d7",
+      "offset": 3155622
+    },
+    {
+      "character": "幹",
+      "code": "24d8",
+      "offset": 3155668
+    },
+    {
+      "character": "北",
+      "code": "24d9",
+      "offset": 3155714
+    },
+    {
+      "character": "滾",
+      "code": "24da",
+      "offset": 3155760
+    },
+    {
+      "character": "邊",
+      "code": "24db",
+      "offset": 3155806
+    },
+    {
+      "character": "副",
+      "code": "24dc",
+      "offset": 3155852
+    },
+    {
+      "character": "勸",
+      "code": "24dd",
+      "offset": 3155898
+    },
+    {
+      "character": "林",
+      "code": "24de",
+      "offset": 3155944
+    },
+    {
+      "character": "幾",
+      "code": "24df",
+      "offset": 3155990
+    },
+    {
+      "character": "卷",
+      "code": "24e0",
+      "offset": 3156036
+    },
+    {
+      "character": "堵",
+      "code": "24e1",
+      "offset": 3156082
+    },
+    {
+      "character": "咻",
+      "code": "24e2",
+      "offset": 3156128
+    },
+    {
+      "character": "救",
+      "code": "24e3",
+      "offset": 3156174
+    },
+    {
+      "character": "頂",
+      "code": "24e4",
+      "offset": 3156220
+    },
+    {
+      "character": "搭",
+      "code": "24e5",
+      "offset": 3156266
+    },
+    {
+      "character": "建",
+      "code": "24e6",
+      "offset": 3156312
+    },
+    {
+      "character": "庵",
+      "code": "24e7",
+      "offset": 3156358
+    },
+    {
+      "character": "顯",
+      "code": "24e8",
+      "offset": 3156404
+    },
+    {
+      "character": "參",
+      "code": "24e9",
+      "offset": 3156450
+    },
+    {
+      "character": "善",
+      "code": "24ea",
+      "offset": 3156496
+    },
+    {
+      "character": "廚",
+      "code": "24eb",
+      "offset": 3156542
+    },
+    {
+      "character": "師",
+      "code": "24ec",
+      "offset": 3156588
+    },
+    {
+      "character": "召",
+      "code": "24ed",
+      "offset": 3156634
+    },
+    {
+      "character": "良",
+      "code": "24ee",
+      "offset": 3156680
+    },
+    {
+      "character": "胸",
+      "code": "24ef",
+      "offset": 3156726
+    },
+    {
+      "character": "襟",
+      "code": "24f0",
+      "offset": 3156772
+    },
+    {
+      "character": "寬",
+      "code": "24f1",
+      "offset": 3156818
+    },
+    {
+      "character": "廣",
+      "code": "24f2",
+      "offset": 3156864
+    },
+    {
+      "character": "瀑",
+      "code": "24f3",
+      "offset": 3156910
+    },
+    {
+      "character": "涸",
+      "code": "24f4",
+      "offset": 3156956
+    },
+    {
+      "character": "捕",
+      "code": "24f5",
+      "offset": 3157002
+    },
+    {
+      "character": "梅",
+      "code": "24f6",
+      "offset": 3157048
+    },
+    {
+      "character": "字",
+      "code": "24f7",
+      "offset": 3157094
+    },
+    {
+      "character": "寢",
+      "code": "24f8",
+      "offset": 3157140
+    },
+    {
+      "character": "冰",
+      "code": "24f9",
+      "offset": 3157186
+    },
+    {
+      "character": "醜",
+      "code": "24fa",
+      "offset": 3157232
+    },
+    {
+      "character": "室",
+      "code": "24fb",
+      "offset": 3157278
+    },
+    {
+      "character": "刨",
+      "code": "24fc",
+      "offset": 3157324
+    },
+    {
+      "character": "危",
+      "code": "24fd",
+      "offset": 3157370
+    },
+    {
+      "character": "險",
+      "code": "24fe",
+      "offset": 3157416
+    },
+    {
+      "character": "融",
+      "code": "24ff",
+      "offset": 3157462
+    },
+    {
+      "character": "積",
+      "code": "2500",
+      "offset": 3157509
+    },
+    {
+      "character": "笑",
+      "code": "2501",
+      "offset": 3157555
+    },
+    {
+      "character": "窩",
+      "code": "2502",
+      "offset": 3157601
+    },
+    {
+      "character": "季",
+      "code": "2503",
+      "offset": 3157647
+    },
+    {
+      "character": "坡",
+      "code": "2504",
+      "offset": 3157693
+    },
+    {
+      "character": "遠",
+      "code": "2505",
+      "offset": 3157739
+    },
+    {
+      "character": "南",
+      "code": "2506",
+      "offset": 3157785
+    },
+    {
+      "character": "逛",
+      "code": "2507",
+      "offset": 3157831
+    },
+    {
+      "character": "稀",
+      "code": "2508",
+      "offset": 3157877
+    },
+    {
+      "character": "吵",
+      "code": "2509",
+      "offset": 3157923
+    },
+    {
+      "character": "歌",
+      "code": "250a",
+      "offset": 3157969
+    },
+    {
+      "character": "疼",
+      "code": "250b",
+      "offset": 3158015
+    },
+    {
+      "character": "猿",
+      "code": "250c",
+      "offset": 3158061
+    },
+    {
+      "character": "唱",
+      "code": "250d",
+      "offset": 3158107
+    },
+    {
+      "character": "屐",
+      "code": "250e",
+      "offset": 3158153
+    },
+    {
+      "character": "送",
+      "code": "250f",
+      "offset": 3158199
+    },
+    {
+      "character": "膚",
+      "code": "2510",
+      "offset": 3158245
+    },
+    {
+      "character": "「",
+      "code": "2511",
+      "offset": 3158291
+    },
+    {
+      "character": "」",
+      "code": "2512",
+      "offset": 3158337
+    },
+    {
+      "character": "錘",
+      "code": "2513",
+      "offset": 3158383
+    },
+    {
+      "character": "亭",
+      "code": "2514",
+      "offset": 3158429
+    },
+    {
+      "character": "頓",
+      "code": "2515",
+      "offset": 3158475
+    },
+    {
+      "character": "報",
+      "code": "2516",
+      "offset": 3158521
+    },
+    {
+      "character": "琪",
+      "code": "2517",
+      "offset": 3158567
+    },
+    {
+      "character": "昆",
+      "code": "2518",
+      "offset": 3158613
+    },
+    {
+      "character": "堆",
+      "code": "2519",
+      "offset": 3158659
+    },
+    {
+      "character": "春",
+      "code": "251a",
+      "offset": 3158705
+    },
+    {
+      "character": "哭",
+      "code": "251b",
+      "offset": 3158751
+    },
+    {
+      "character": "冒",
+      "code": "251c",
+      "offset": 3158797
+    },
+    {
+      "character": "健",
+      "code": "251d",
+      "offset": 3158843
+    },
+    {
+      "character": "肯",
+      "code": "251e",
+      "offset": 3158889
+    },
+    {
+      "character": "鬧",
+      "code": "251f",
+      "offset": 3158935
+    },
+    {
+      "character": "耶",
+      "code": "2520",
+      "offset": 3158981
+    },
+    {
+      "character": "裁",
+      "code": "2521",
+      "offset": 3159027
+    },
+    {
+      "character": "挨",
+      "code": "2522",
+      "offset": 3159073
+    },
+    {
+      "character": "戶",
+      "code": "2523",
+      "offset": 3159119
+    },
+    {
+      "character": "巡",
+      "code": "2524",
+      "offset": 3159165
+    },
+    {
+      "character": "迴",
+      "code": "2525",
+      "offset": 3159211
+    },
+    {
+      "character": "助",
+      "code": "2526",
+      "offset": 3159257
+    },
+    {
+      "character": "覺",
+      "code": "2527",
+      "offset": 3159303
+    },
+    {
+      "character": "寂",
+      "code": "2528",
+      "offset": 3159349
+    },
+    {
+      "character": "寞",
+      "code": "2529",
+      "offset": 3159395
+    },
+    {
+      "character": "紀",
+      "code": "252a",
+      "offset": 3159441
+    },
+    {
+      "character": "福",
+      "code": "252b",
+      "offset": 3159487
+    },
+    {
+      "character": "浪",
+      "code": "252c",
+      "offset": 3159533
+    },
+    {
+      "character": "米",
+      "code": "252d",
+      "offset": 3159579
+    },
+    {
+      "character": "鄉",
+      "code": "252e",
+      "offset": 3159625
+    },
+    {
+      "character": "雀",
+      "code": "252f",
+      "offset": 3159671
+    },
+    {
+      "character": "咚",
+      "code": "2530",
+      "offset": 3159717
+    },
+    {
+      "character": "甚",
+      "code": "2531",
+      "offset": 3159763
+    },
+    {
+      "character": "蓋",
+      "code": "2532",
+      "offset": 3159809
+    },
+    {
+      "character": "悠",
+      "code": "2533",
+      "offset": 3159855
+    },
+    {
+      "character": "閒",
+      "code": "2534",
+      "offset": 3159901
+    },
+    {
+      "character": "挽",
+      "code": "2535",
+      "offset": 3159947
+    },
+    {
+      "character": "局",
+      "code": "2536",
+      "offset": 3159993
+    },
+    {
+      "character": "橋",
+      "code": "2537",
+      "offset": 3160039
+    },
+    {
+      "character": "尋",
+      "code": "2538",
+      "offset": 3160085
+    },
+    {
+      "character": "歇",
+      "code": "2539",
+      "offset": 3160131
+    },
+    {
+      "character": "疲",
+      "code": "253a",
+      "offset": 3160177
+    },
+    {
+      "character": "嚐",
+      "code": "253b",
+      "offset": 3160223
+    },
+    {
+      "character": "產",
+      "code": "253c",
+      "offset": 3160269
+    },
+    {
+      "character": "滋",
+      "code": "253d",
+      "offset": 3160315
+    },
+    {
+      "character": "固",
+      "code": "253e",
+      "offset": 3160361
+    },
+    {
+      "character": "佳",
+      "code": "253f",
+      "offset": 3160407
+    },
+    {
+      "character": "餚",
+      "code": "2540",
+      "offset": 3160454
+    },
+    {
+      "character": "啟",
+      "code": "2541",
+      "offset": 3160500
+    },
+    {
+      "character": "祝",
+      "code": "2542",
+      "offset": 3160546
+    },
+    {
+      "character": "嚇",
+      "code": "2543",
+      "offset": 3160592
+    },
+    {
+      "character": "夫",
+      "code": "2544",
+      "offset": 3160638
+    },
+    {
+      "character": "棵",
+      "code": "2545",
+      "offset": 3160684
+    },
+    {
+      "character": "簡",
+      "code": "2546",
+      "offset": 3160730
+    },
+    {
+      "character": "嘔",
+      "code": "2547",
+      "offset": 3160776
+    },
+    {
+      "character": "噗",
+      "code": "2548",
+      "offset": 3160822
+    },
+    {
+      "character": "佛",
+      "code": "2549",
+      "offset": 3160868
+    },
+    {
+      "character": "唔",
+      "code": "254a",
+      "offset": 3160914
+    },
+    {
+      "character": "伯",
+      "code": "254b",
+      "offset": 3160960
+    },
+    {
+      "character": "授",
+      "code": "254c",
+      "offset": 3161006
+    },
+    {
+      "character": "跟",
+      "code": "254d",
+      "offset": 3161052
+    },
+    {
+      "character": "瞭",
+      "code": "254e",
+      "offset": 3161098
+    },
+    {
+      "character": "指",
+      "code": "254f",
+      "offset": 3161144
+    },
+    {
+      "character": "約",
+      "code": "2550",
+      "offset": 3161190
+    },
+    {
+      "character": "審",
+      "code": "2551",
+      "offset": 3161236
+    },
+    {
+      "character": "詞",
+      "code": "2552",
+      "offset": 3161282
+    },
+    {
+      "character": "艱",
+      "code": "2553",
+      "offset": 3161328
+    },
+    {
+      "character": "奏",
+      "code": "2554",
+      "offset": 3161374
+    },
+    {
+      "character": "律",
+      "code": "2555",
+      "offset": 3161420
+    },
+    {
+      "character": "笨",
+      "code": "2556",
+      "offset": 3161466
+    },
+    {
+      "character": "蛋",
+      "code": "2557",
+      "offset": 3161512
+    },
+    {
+      "character": "叮",
+      "code": "2558",
+      "offset": 3161558
+    },
+    {
+      "character": "鈴",
+      "code": "2559",
+      "offset": 3161604
+    },
+    {
+      "character": "顏",
+      "code": "255a",
+      "offset": 3161650
+    },
+    {
+      "character": "示",
+      "code": "255b",
+      "offset": 3161696
+    },
+    {
+      "character": "載",
+      "code": "255c",
+      "offset": 3161742
+    },
+    {
+      "character": "讀",
+      "code": "255d",
+      "offset": 3161788
+    },
+    {
+      "character": "松",
+      "code": "255e",
+      "offset": 3161834
+    },
+    {
+      "character": "葉",
+      "code": "255f",
+      "offset": 3161880
+    },
+    {
+      "character": "櫻",
+      "code": "2560",
+      "offset": 3161926
+    },
+    {
+      "character": "賽",
+      "code": "2561",
+      "offset": 3161972
+    },
+    {
+      "character": "冠",
+      "code": "2562",
+      "offset": 3162018
+    },
+    {
+      "character": "軍",
+      "code": "2563",
+      "offset": 3162064
+    },
+    {
+      "character": "順",
+      "code": "2564",
+      "offset": 3162110
+    },
+    {
+      "character": "噌",
+      "code": "2565",
+      "offset": 3162156
+    },
+    {
+      "character": "圓",
+      "code": "2566",
+      "offset": 3162202
+    },
+    {
+      "character": "講",
+      "code": "2567",
+      "offset": 3162248
+    },
+    {
+      "character": "歐",
+      "code": "2568",
+      "offset": 3162294
+    },
+    {
+      "character": "洲",
+      "code": "2569",
+      "offset": 3162340
+    },
+    {
+      "character": "域",
+      "code": "256a",
+      "offset": 3162386
+    },
+    {
+      "character": "陸",
+      "code": "256b",
+      "offset": 3162432
+    },
+    {
+      "character": "衛",
+      "code": "256c",
+      "offset": 3162478
+    },
+    {
+      "character": "轉",
+      "code": "256d",
+      "offset": 3162524
+    },
+    {
+      "character": "恐",
+      "code": "256e",
+      "offset": 3162570
+    },
+    {
+      "character": "添",
+      "code": "256f",
+      "offset": 3162616
+    },
+    {
+      "character": "球",
+      "code": "2570",
+      "offset": 3162662
+    },
+    {
+      "character": "暢",
+      "code": "2571",
+      "offset": 3162708
+    },
+    {
+      "character": "銷",
+      "code": "2572",
+      "offset": 3162754
+    },
+    {
+      "character": "曲",
+      "code": "2573",
+      "offset": 3162800
+    },
+    {
+      "character": "椰",
+      "code": "2574",
+      "offset": 3162846
+    },
+    {
+      "character": "級",
+      "code": "2575",
+      "offset": 3162892
+    },
+    {
+      "character": "校",
+      "code": "2576",
+      "offset": 3162938
+    },
+    {
+      "character": "狼",
+      "code": "2577",
+      "offset": 3162984
+    },
+    {
+      "character": "碼",
+      "code": "2578",
+      "offset": 3163030
+    },
+    {
+      "character": "鏘",
+      "code": "2579",
+      "offset": 3163076
+    },
+    {
+      "character": "磁",
+      "code": "257a",
+      "offset": 3163122
+    },
+    {
+      "character": "派",
+      "code": "257b",
+      "offset": 3163168
+    },
+    {
+      "character": "里",
+      "code": "257c",
+      "offset": 3163214
+    },
+    {
+      "character": "湛",
+      "code": "257d",
+      "offset": 3163260
+    },
+    {
+      "character": "沼",
+      "code": "257e",
+      "offset": 3163306
+    },
+    {
+      "character": "澤",
+      "code": "257f",
+      "offset": 3163352
+    },
+    {
+      "character": "阱",
+      "code": "2580",
+      "offset": 3163399
+    },
+    {
+      "character": "鬆",
+      "code": "2581",
+      "offset": 3163445
+    },
+    {
+      "character": "駕",
+      "code": "2582",
+      "offset": 3163491
+    },
+    {
+      "character": "馭",
+      "code": "2583",
+      "offset": 3163537
+    },
+    {
+      "character": "撐",
+      "code": "2584",
+      "offset": 3163583
+    },
+    {
+      "character": "喊",
+      "code": "2585",
+      "offset": 3163629
+    },
+    {
+      "character": "響",
+      "code": "2586",
+      "offset": 3163675
+    },
+    {
+      "character": "旱",
+      "code": "2587",
+      "offset": 3163721
+    },
+    {
+      "character": "寫",
+      "code": "2588",
+      "offset": 3163767
+    },
+    {
+      "character": "劇",
+      "code": "2589",
+      "offset": 3163813
+    },
+    {
+      "character": "省",
+      "code": "258a",
+      "offset": 3163859
+    },
+    {
+      "character": "返",
+      "code": "258b",
+      "offset": 3163905
+    },
+    {
+      "character": "尿",
+      "code": "258c",
+      "offset": 3163951
+    },
+    {
+      "character": "褲",
+      "code": "258d",
+      "offset": 3163997
+    },
+    {
+      "character": "嘶",
+      "code": "258e",
+      "offset": 3164043
+    },
+    {
+      "character": "嗶",
+      "code": "258f",
+      "offset": 3164089
+    },
+    {
+      "character": "沖",
+      "code": "2590",
+      "offset": 3164135
+    },
+    {
+      "character": "吞",
+      "code": "2591",
+      "offset": 3164181
+    },
+    {
+      "character": "悅",
+      "code": "2592",
+      "offset": 3164227
+    },
+    {
+      "character": "阻",
+      "code": "2593",
+      "offset": 3164273
+    },
+    {
+      "character": "撓",
+      "code": "2594",
+      "offset": 3164319
+    },
+    {
+      "character": "餓",
+      "code": "2595",
+      "offset": 3164365
+    },
+    {
+      "character": "捷",
+      "code": "2596",
+      "offset": 3164411
+    },
+    {
+      "character": "徑",
+      "code": "2597",
+      "offset": 3164457
+    },
+    {
+      "character": "俺",
+      "code": "2598",
+      "offset": 3164503
+    },
+    {
+      "character": "噴",
+      "code": "2599",
+      "offset": 3164549
+    },
+    {
+      "character": "敬",
+      "code": "259a",
+      "offset": 3164595
+    },
+    {
+      "character": "譴",
+      "code": "259b",
+      "offset": 3164641
+    },
+    {
+      "character": "七",
+      "code": "259c",
+      "offset": 3164687
+    },
+    {
+      "character": "咲",
+      "code": "259d",
+      "offset": 3164733
+    },
+    {
+      "character": "態",
+      "code": "259e",
+      "offset": 3164779
+    },
+    {
+      "character": "恭",
+      "code": "259f",
+      "offset": 3164825
+    },
+    {
+      "character": "念",
+      "code": "25a0",
+      "offset": 3164871
+    },
+    {
+      "character": "諒",
+      "code": "25a1",
+      "offset": 3164917
+    },
+    {
+      "character": "邀",
+      "code": "25a2",
+      "offset": 3164963
+    },
+    {
+      "character": "翅",
+      "code": "25a3",
+      "offset": 3165009
+    },
+    {
+      "character": "膀",
+      "code": "25a4",
+      "offset": 3165055
+    },
+    {
+      "character": "咕",
+      "code": "25a5",
+      "offset": 3165101
+    },
+    {
+      "character": "舉",
+      "code": "25a6",
+      "offset": 3165147
+    },
+    {
+      "character": "例",
+      "code": "25a7",
+      "offset": 3165193
+    },
+    {
+      "character": "系",
+      "code": "25a8",
+      "offset": 3165239
+    },
+    {
+      "character": "較",
+      "code": "25a9",
+      "offset": 3165285
+    },
+    {
+      "character": "餵",
+      "code": "25aa",
+      "offset": 3165331
+    },
+    {
+      "character": "踏",
+      "code": "25ab",
+      "offset": 3165377
+    },
+    {
+      "character": "蠻",
+      "code": "25ac",
+      "offset": 3165423
+    },
+    {
+      "character": "闖",
+      "code": "25ad",
+      "offset": 3165469
+    },
+    {
+      "character": "儘",
+      "code": "25ae",
+      "offset": 3165515
+    },
+    {
+      "character": "鮮",
+      "code": "25af",
+      "offset": 3165561
+    },
+    {
+      "character": "嘻",
+      "code": "25b0",
+      "offset": 3165607
+    },
+    {
+      "character": "咯",
+      "code": "25b1",
+      "offset": 3165653
+    },
+    {
+      "character": "佔",
+      "code": "25b2",
+      "offset": 3165699
+    },
+    {
+      "character": "策",
+      "code": "25b3",
+      "offset": 3165745
+    },
+    {
+      "character": "劃",
+      "code": "25b4",
+      "offset": 3165791
+    },
+    {
+      "character": "愧",
+      "code": "25b5",
+      "offset": 3165837
+    },
+    {
+      "character": "秧",
+      "code": "25b6",
+      "offset": 3165883
+    },
+    {
+      "character": "漲",
+      "code": "25b7",
+      "offset": 3165929
+    },
+    {
+      "character": "淹",
+      "code": "25b8",
+      "offset": 3165975
+    },
+    {
+      "character": "柄",
+      "code": "25b9",
+      "offset": 3166021
+    },
+    {
+      "character": "餅",
+      "code": "25ba",
+      "offset": 3166067
+    },
+    {
+      "character": "巨",
+      "code": "25bb",
+      "offset": 3166113
+    },
+    {
+      "character": "咳",
+      "code": "25bc",
+      "offset": 3166159
+    },
+    {
+      "character": "娘",
+      "code": "25bd",
+      "offset": 3166205
+    },
+    {
+      "character": "嗽",
+      "code": "25be",
+      "offset": 3166251
+    },
+    {
+      "character": "求",
+      "code": "25bf",
+      "offset": 3166297
+    },
+    {
+      "character": "憂",
+      "code": "25c0",
+      "offset": 3166344
+    },
+    {
+      "character": "抄",
+      "code": "25c1",
+      "offset": 3166390
+    },
+    {
+      "character": "古",
+      "code": "25c2",
+      "offset": 3166436
+    },
+    {
+      "character": "集",
+      "code": "25c3",
+      "offset": 3166482
+    },
+    {
+      "character": "業",
+      "code": "25c4",
+      "offset": 3166528
+    },
+    {
+      "character": "欣",
+      "code": "25c5",
+      "offset": 3166574
+    },
+    {
+      "character": "堪",
+      "code": "25c6",
+      "offset": 3166620
+    },
+    {
+      "character": "忽",
+      "code": "25c7",
+      "offset": 3166666
+    },
+    {
+      "character": "納",
+      "code": "25c8",
+      "offset": 3166712
+    },
+    {
+      "character": "枯",
+      "code": "25c9",
+      "offset": 3166758
+    },
+    {
+      "character": "麗",
+      "code": "25ca",
+      "offset": 3166804
+    },
+    {
+      "character": "綻",
+      "code": "25cb",
+      "offset": 3166850
+    },
+    {
+      "character": "京",
+      "code": "25cc",
+      "offset": 3166896
+    },
+    {
+      "character": "骨",
+      "code": "25cd",
+      "offset": 3166942
+    },
+    {
+      "character": "萎",
+      "code": "25ce",
+      "offset": 3166988
+    },
+    {
+      "character": "汪",
+      "code": "25cf",
+      "offset": 3167034
+    },
+    {
+      "character": "拯",
+      "code": "25d0",
+      "offset": 3167080
+    },
+    {
+      "character": "智",
+      "code": "25d1",
+      "offset": 3167126
+    },
+    {
+      "character": "慧",
+      "code": "25d2",
+      "offset": 3167172
+    },
+    {
+      "character": "灌",
+      "code": "25d3",
+      "offset": 3167218
+    },
+    {
+      "character": "資",
+      "code": "25d4",
+      "offset": 3167264
+    },
+    {
+      "character": "羞",
+      "code": "25d5",
+      "offset": 3167310
+    },
+    {
+      "character": "稟",
+      "code": "25d6",
+      "offset": 3167356
+    },
+    {
+      "character": "櫃",
+      "code": "25d7",
+      "offset": 3167402
+    },
+    {
+      "character": "評",
+      "code": "25d8",
+      "offset": 3167448
+    },
+    {
+      "character": "株",
+      "code": "25d9",
+      "offset": 3167494
+    },
+    {
+      "character": "苗",
+      "code": "25da",
+      "offset": 3167540
+    },
+    {
+      "character": "搶",
+      "code": "25db",
+      "offset": 3167586
+    },
+    {
+      "character": "祕",
+      "code": "25dc",
+      "offset": 3167632
+    },
+    {
+      "character": "議",
+      "code": "25dd",
+      "offset": 3167678
+    },
+    {
+      "character": "母",
+      "code": "25de",
+      "offset": 3167724
+    },
+    {
+      "character": "壁",
+      "code": "25df",
+      "offset": 3167770
+    },
+    {
+      "character": "訪",
+      "code": "25e0",
+      "offset": 3167816
+    }
+  ],
+  "checksum": "3157",
+  "newFontGroupOffset": "240000",
+  "newFontGroupCount": 25,
+  "nameBlocks": [
+    {
+      "name": "battle-commands",
+      "kind": "names",
+      "sourceStart": 462431,
+      "sourceEnd": 462982,
+      "relocatedOffset": "0x254000",
+      "strings": 95,
+      "translatedNames": 6,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 553,
+      "storedBytes": 554
+    },
+    {
+      "name": "enemies",
+      "kind": "names",
+      "sourceStart": 462982,
+      "sourceEnd": 464621,
+      "relocatedOffset": "0x253000",
+      "strings": 248,
+      "translatedNames": 14,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 1646,
+      "storedBytes": 1647
+    },
+    {
+      "name": "items",
+      "kind": "names",
+      "sourceStart": 465801,
+      "sourceEnd": 467152,
+      "relocatedOffset": "0x250000",
+      "strings": 165,
+      "translatedNames": 50,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 1335,
+      "storedBytes": 1336
+    },
+    {
+      "name": "equipment",
+      "kind": "names",
+      "sourceStart": 467152,
+      "sourceEnd": 469191,
+      "relocatedOffset": "0x251000",
+      "strings": 234,
+      "translatedNames": 13,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 2041,
+      "storedBytes": 2042
+    },
+    {
+      "name": "techniques",
+      "kind": "names",
+      "sourceStart": 469191,
+      "sourceEnd": 469665,
+      "relocatedOffset": "0x252000",
+      "strings": 94,
+      "translatedNames": 93,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 508,
+      "storedBytes": 509
+    }
+  ],
+  "textBlocks": [
+    {
+      "name": "moon-palace-guard",
+      "kind": "text",
+      "sourceStart": 667726,
+      "sourceEnd": 667763,
+      "relocatedOffset": "0x2c0000",
+      "strings": 1,
+      "translatedNames": 1,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 49,
+      "storedBytes": 60
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "kind": "text",
+      "sourceStart": 521581,
+      "sourceEnd": 533452,
+      "relocatedOffset": "0x2b0000",
+      "strings": 231,
+      "translatedNames": 46,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 12385,
+      "storedBytes": 12386
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "kind": "text",
+      "sourceStart": 499364,
+      "sourceEnd": 509943,
+      "relocatedOffset": "0x2a0000",
+      "strings": 254,
+      "translatedNames": 26,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 10692,
+      "storedBytes": 10693
+    },
+    {
+      "name": "moon-challenge-dialogue",
+      "kind": "text",
+      "sourceStart": 667763,
+      "sourceEnd": 669096,
+      "relocatedOffset": "0x280000",
+      "strings": 19,
+      "translatedNames": 19,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 1936,
+      "storedBytes": 2365
+    },
+    {
+      "name": "battle-messages",
+      "kind": "text",
+      "sourceStart": 509943,
+      "sourceEnd": 514442,
+      "relocatedOffset": "0x290000",
+      "strings": 181,
+      "translatedNames": 27,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 4573,
+      "storedBytes": 4574
+    },
+    {
+      "name": "awakening-dialogue",
+      "kind": "text",
+      "sourceStart": 566207,
+      "sourceEnd": 567063,
+      "relocatedOffset": "0x270000",
+      "strings": 24,
+      "translatedNames": 24,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 1432,
+      "storedBytes": 1612
+    },
+    {
+      "name": "equipment-effects",
+      "kind": "text",
+      "sourceStart": 493745,
+      "sourceEnd": 494867,
+      "relocatedOffset": "0x3da400",
+      "strings": 37,
+      "translatedNames": 1,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 1120,
+      "storedBytes": 1121
+    },
+    {
+      "name": "battle-effects",
+      "kind": "text",
+      "sourceStart": 514442,
+      "sourceEnd": 520890,
+      "relocatedOffset": "0x3dc000",
+      "strings": 169,
+      "translatedNames": 1,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 6450,
+      "storedBytes": 6451
+    },
+    {
+      "name": "spell-chants",
+      "kind": "text",
+      "sourceStart": 471804,
+      "sourceEnd": 472364,
+      "relocatedOffset": "0x3da000",
+      "strings": 94,
+      "translatedNames": 8,
+      "complete": false,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 708,
+      "storedBytes": 671
+    },
+    {
+      "name": "spell-messages",
+      "kind": "text",
+      "sourceStart": 494867,
+      "sourceEnd": 499364,
+      "relocatedOffset": "0x3d8000",
+      "strings": 129,
+      "translatedNames": 19,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 4538,
+      "storedBytes": 4539
+    },
+    {
+      "name": "item-descriptions",
+      "kind": "text",
+      "sourceStart": 487463,
+      "sourceEnd": 493745,
+      "relocatedOffset": "0x260000",
+      "strings": 204,
+      "translatedNames": 58,
+      "complete": false,
+      "compressed": false,
+      "sourceType": 0,
+      "decodedBytes": 6510,
+      "storedBytes": 6511
+    },
+    {
+      "name": "shared-village-services",
+      "kind": "text",
+      "sourceStart": 533452,
+      "sourceEnd": 537806,
+      "relocatedOffset": "0x2d0000",
+      "strings": 203,
+      "translatedNames": 203,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 7341,
+      "storedBytes": 8260
+    },
+    {
+      "name": "village-interactions",
+      "kind": "text",
+      "sourceStart": 537806,
+      "sourceEnd": 540717,
+      "relocatedOffset": "0x2e0000",
+      "strings": 99,
+      "translatedNames": 99,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 4225,
+      "storedBytes": 4755
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "kind": "text",
+      "sourceStart": 540717,
+      "sourceEnd": 544564,
+      "relocatedOffset": "0x2f0000",
+      "strings": 72,
+      "translatedNames": 72,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 5101,
+      "storedBytes": 5740
+    },
+    {
+      "name": "festival-face-puzzle",
+      "kind": "text",
+      "sourceStart": 544564,
+      "sourceEnd": 545195,
+      "relocatedOffset": "0x310000",
+      "strings": 18,
+      "translatedNames": 18,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 950,
+      "storedBytes": 1206
+    },
+    {
+      "name": "prince-and-mirror-hints",
+      "kind": "text",
+      "sourceStart": 567063,
+      "sourceEnd": 567260,
+      "relocatedOffset": "0x320000",
+      "strings": 2,
+      "translatedNames": 2,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 280,
+      "storedBytes": 355
+    },
+    {
+      "name": "starting-village-residents",
+      "kind": "text",
+      "sourceStart": 567260,
+      "sourceEnd": 568260,
+      "relocatedOffset": "0x330000",
+      "strings": 23,
+      "translatedNames": 23,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 1381,
+      "storedBytes": 1729
+    },
+    {
+      "name": "regional-village-residents",
+      "kind": "text",
+      "sourceStart": 568260,
+      "sourceEnd": 569813,
+      "relocatedOffset": "0x340000",
+      "strings": 26,
+      "translatedNames": 26,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 2245,
+      "storedBytes": 2818
+    },
+    {
+      "name": "companions-and-villagers",
+      "kind": "text",
+      "sourceStart": 569813,
+      "sourceEnd": 571267,
+      "relocatedOffset": "0x350000",
+      "strings": 30,
+      "translatedNames": 30,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 2205,
+      "storedBytes": 2482
+    },
+    {
+      "name": "rice-ball-village",
+      "kind": "text",
+      "sourceStart": 571267,
+      "sourceEnd": 572374,
+      "relocatedOffset": "0x360000",
+      "strings": 24,
+      "translatedNames": 24,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 1688,
+      "storedBytes": 1900
+    },
+    {
+      "name": "hidden-passage-training",
+      "kind": "text",
+      "sourceStart": 572375,
+      "sourceEnd": 572604,
+      "relocatedOffset": "0x370000",
+      "strings": 5,
+      "translatedNames": 5,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 400,
+      "storedBytes": 507
+    },
+    {
+      "name": "avoid-encounters-training",
+      "kind": "text",
+      "sourceStart": 572604,
+      "sourceEnd": 572684,
+      "relocatedOffset": "0x380000",
+      "strings": 3,
+      "translatedNames": 3,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 138,
+      "storedBytes": 178
+    },
+    {
+      "name": "poison-escort-training",
+      "kind": "text",
+      "sourceStart": 572684,
+      "sourceEnd": 573002,
+      "relocatedOffset": "0x390000",
+      "strings": 6,
+      "translatedNames": 6,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 497,
+      "storedBytes": 561
+    },
+    {
+      "name": "golden-buddha",
+      "kind": "text",
+      "sourceStart": 573002,
+      "sourceEnd": 573202,
+      "relocatedOffset": "0x3a0000",
+      "strings": 5,
+      "translatedNames": 5,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 334,
+      "storedBytes": 429
+    },
+    {
+      "name": "spell-teachers",
+      "kind": "text",
+      "sourceStart": 573202,
+      "sourceEnd": 577952,
+      "relocatedOffset": "0x3b0000",
+      "strings": 106,
+      "translatedNames": 106,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 7710,
+      "storedBytes": 8675
+    },
+    {
+      "name": "rice-ball-cave",
+      "kind": "text",
+      "sourceStart": 626995,
+      "sourceEnd": 627660,
+      "relocatedOffset": "0x3d0000",
+      "strings": 14,
+      "translatedNames": 14,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 1064,
+      "storedBytes": 1375
+    },
+    {
+      "name": "rice-ball-entrance",
+      "kind": "text",
+      "sourceStart": 626823,
+      "sourceEnd": 626995,
+      "relocatedOffset": "0x3d0800",
+      "strings": 4,
+      "translatedNames": 4,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 249,
+      "storedBytes": 320
+    },
+    {
+      "name": "rice-ball-offering",
+      "kind": "text",
+      "sourceStart": 562860,
+      "sourceEnd": 566206,
+      "relocatedOffset": "0x3d1000",
+      "strings": 74,
+      "translatedNames": 6,
+      "complete": false,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 4406,
+      "storedBytes": 3556
+    },
+    {
+      "name": "screenshot-locations",
+      "kind": "text",
+      "sourceStart": 461322,
+      "sourceEnd": 461993,
+      "relocatedOffset": "0x3d3000",
+      "strings": 87,
+      "translatedNames": 15,
+      "complete": false,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 836,
+      "storedBytes": 771
+    },
+    {
+      "name": "field-messages",
+      "kind": "text",
+      "sourceStart": 481826,
+      "sourceEnd": 487463,
+      "relocatedOffset": "0x3d4000",
+      "strings": 192,
+      "translatedNames": 28,
+      "complete": false,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 7519,
+      "storedBytes": 6053
+    },
+    {
+      "name": "rice-ball-cave-depths",
+      "kind": "text",
+      "sourceStart": 627660,
+      "sourceEnd": 627933,
+      "relocatedOffset": "0x3d6000",
+      "strings": 6,
+      "translatedNames": 6,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 468,
+      "storedBytes": 528
+    },
+    {
+      "name": "ryotetsu-encounter",
+      "kind": "text",
+      "sourceStart": 627934,
+      "sourceEnd": 628246,
+      "relocatedOffset": "0x3de000",
+      "strings": 6,
+      "translatedNames": 6,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 491,
+      "storedBytes": 625
+    },
+    {
+      "name": "sparrow-inn-one",
+      "kind": "text",
+      "sourceStart": 577952,
+      "sourceEnd": 578325,
+      "relocatedOffset": "0x3de800",
+      "strings": 6,
+      "translatedNames": 6,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 568,
+      "storedBytes": 733
+    },
+    {
+      "name": "matsuba-gate",
+      "kind": "text",
+      "sourceStart": 610179,
+      "sourceEnd": 610414,
+      "relocatedOffset": "0x3df000",
+      "strings": 7,
+      "translatedNames": 7,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 370,
+      "storedBytes": 463
+    },
+    {
+      "name": "lightning-hermit",
+      "kind": "text",
+      "sourceStart": 610672,
+      "sourceEnd": 610859,
+      "relocatedOffset": "0x3df400",
+      "strings": 5,
+      "translatedNames": 5,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 334,
+      "storedBytes": 441
+    },
+    {
+      "name": "lightning-rock-trial",
+      "kind": "text",
+      "sourceStart": 610859,
+      "sourceEnd": 611032,
+      "relocatedOffset": "0x3df800",
+      "strings": 3,
+      "translatedNames": 3,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 269,
+      "storedBytes": 351
+    },
+    {
+      "name": "pheasant-rescue",
+      "kind": "text",
+      "sourceStart": 610414,
+      "sourceEnd": 610672,
+      "relocatedOffset": "0x3d2000",
+      "strings": 5,
+      "translatedNames": 5,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 426,
+      "storedBytes": 533
+    },
+    {
+      "name": "hanasaka-village",
+      "kind": "text",
+      "sourceStart": 582083,
+      "sourceEnd": 583839,
+      "relocatedOffset": "0x3d6400",
+      "strings": 36,
+      "translatedNames": 36,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 2599,
+      "storedBytes": 3385
+    },
+    {
+      "name": "hanasaka-prison-entrance",
+      "kind": "text",
+      "sourceStart": 583839,
+      "sourceEnd": 584139,
+      "relocatedOffset": "0x3d2600",
+      "strings": 5,
+      "translatedNames": 5,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 493,
+      "storedBytes": 556
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "kind": "text",
+      "sourceStart": 628711,
+      "sourceEnd": 629185,
+      "relocatedOffset": "0x3d9400",
+      "strings": 11,
+      "translatedNames": 11,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 812,
+      "storedBytes": 1013
+    },
+    {
+      "name": "hanasaka-visitors",
+      "kind": "text",
+      "sourceStart": 547992,
+      "sourceEnd": 549904,
+      "relocatedOffset": "0x3dac00",
+      "strings": 42,
+      "translatedNames": 4,
+      "complete": false,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 2584,
+      "storedBytes": 2149
+    },
+    {
+      "name": "soundless-cave",
+      "kind": "text",
+      "sourceStart": 628247,
+      "sourceEnd": 628710,
+      "relocatedOffset": "0x3dda00",
+      "strings": 9,
+      "translatedNames": 9,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 1,
+      "decodedBytes": 807,
+      "storedBytes": 909
+    },
+    {
+      "name": "cave-route-hints",
+      "kind": "text",
+      "sourceStart": 585987,
+      "sourceEnd": 586131,
+      "relocatedOffset": "0x3de300",
+      "strings": 3,
+      "translatedNames": 3,
+      "complete": true,
+      "compressed": true,
+      "sourceType": 2,
+      "decodedBytes": 224,
+      "storedBytes": 290
+    }
+  ],
+  "inlineMenus": [
+    {
+      "name": "spell-actions",
+      "sourceStart": "0x1dbb9",
+      "sourceEnd": "0x1dbda",
+      "target": "0x23d300",
+      "translatedLabels": 3
+    },
+    {
+      "name": "battle-spell-actions",
+      "sourceStart": "0x2eb90",
+      "sourceEnd": "0x2eba5",
+      "target": "0x23d400",
+      "translatedLabels": 2
+    },
+    {
+      "name": "chest-sizes",
+      "sourceStart": "0x3c51b",
+      "sourceEnd": "0x3c537",
+      "target": "0x23d500",
+      "translatedLabels": 2
+    },
+    {
+      "name": "battle-enemy-count",
+      "sourceStart": "0x2e3ed",
+      "sourceEnd": "0x2e4ea",
+      "target": "0x23d100",
+      "translatedLabels": 4
+    },
+    {
+      "name": "shop-services",
+      "sourceStart": "0x3be78",
+      "sourceEnd": "0x3beca",
+      "target": "0x239000",
+      "translatedLabels": 5
+    },
+    {
+      "name": "doctor-services",
+      "sourceStart": "0x3c39c",
+      "sourceEnd": "0x3c3cb",
+      "target": "0x23a000",
+      "translatedLabels": 5
+    },
+    {
+      "name": "fortune-services",
+      "sourceStart": "0x3cb94",
+      "sourceEnd": "0x3cbb0",
+      "target": "0x23b000",
+      "translatedLabels": 2
+    },
+    {
+      "name": "shrine-services",
+      "sourceStart": "0x3cbcc",
+      "sourceEnd": "0x3cbeb",
+      "target": "0x23c000",
+      "translatedLabels": 3
+    },
+    {
+      "name": "yes-no",
+      "sourceStart": "0x5bb17",
+      "sourceEnd": "0x5bb2a",
+      "target": "0x23d000",
+      "translatedLabels": 2
+    },
+    {
+      "name": "field-menu-compact",
+      "sourceStart": "0x1ef1e",
+      "sourceEnd": "0x1ef76",
+      "target": "0x230000",
+      "translatedLabels": 8
+    },
+    {
+      "name": "field-menu-expanded",
+      "sourceStart": "0x1ef76",
+      "sourceEnd": "0x1effc",
+      "target": "0x231000",
+      "translatedLabels": 8
+    },
+    {
+      "name": "special-menu",
+      "sourceStart": "0x1f096",
+      "sourceEnd": "0x1f0cf",
+      "target": "0x232000",
+      "translatedLabels": 5
+    },
+    {
+      "name": "walking-speed",
+      "sourceStart": "0x1f0eb",
+      "sourceEnd": "0x1f115",
+      "target": "0x233000",
+      "translatedLabels": 4
+    },
+    {
+      "name": "flight-speed",
+      "sourceStart": "0x1f157",
+      "sourceEnd": "0x1f188",
+      "target": "0x234000",
+      "translatedLabels": 5
+    },
+    {
+      "name": "speech-speed",
+      "sourceStart": "0x1f1aa",
+      "sourceEnd": "0x1f1de",
+      "target": "0x235000",
+      "translatedLabels": 6
+    },
+    {
+      "name": "audio-mode",
+      "sourceStart": "0x1f201",
+      "sourceEnd": "0x1f21e",
+      "target": "0x236000",
+      "translatedLabels": 2
+    },
+    {
+      "name": "ability-status",
+      "sourceStart": "0x5bfc2",
+      "sourceEnd": "0x5c0ea",
+      "target": "0x237000",
+      "translatedLabels": 6
+    },
+    {
+      "name": "item-actions",
+      "sourceStart": "0x3a4b5",
+      "sourceEnd": "0x3a4db",
+      "target": "0x238000",
+      "translatedLabels": 4
+    }
+  ],
+  "opening": {
+    "translated": true,
+    "pointerOffset": "0x702c4",
+    "sourceStart": 682801,
+    "originalDecodedBytes": 1428,
+    "originalParagraphBytes": 1428,
+    "replacementParagraphBytes": 1657,
+    "suffixPreserved": true,
+    "relocatedOffset": "0x220000",
+    "compressedBytes": 1865
+  },
+  "welcome": {
+    "offset": 4063232,
+    "codeBytes": 388,
+    "version": "v25",
+    "sourceImageSha256": "e6c535aeb4839209c577775be2f5ca723258db1d3b670e4ee68f3b931234ea04",
+    "width": 256,
+    "height": 224,
+    "colors": 221,
+    "previewFilename": "welcome-preview.png",
+    "continueButton": "Start",
+    "waitsForRelease": true
+  },
+  "compactHpFont": {
+    "label": "血",
+    "meaning": "體力",
+    "sourceStart": 2096230,
+    "sourceBytes": 716,
+    "target": 3932160,
+    "storedBytes": 1728,
+    "decodedBytes": 1536,
+    "rows": "00001010107e5a525252525252527eff"
+  }
+}

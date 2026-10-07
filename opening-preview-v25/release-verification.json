@@ -1,0 +1,58 @@
+{
+  "version": "v25",
+  "status": "locally-verified-not-deployed",
+  "targetSha256": "89b125b1686987985782f673cca0ac20038eeb495bbbf3631060a6cba85f1852",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV24": 14,
+  "glyphs": 1569,
+  "glyphCapacity": 1600,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 1232,
+    "untranslatedRecords": 6556,
+    "emptyRecords": 82
+  },
+  "completeEventBlocks": [
+    "soundless-cave",
+    "cave-route-hints"
+  ],
+  "enemyNameIndex": 217,
+  "locationIndex": 15,
+  "verification": {
+    "dialogueScenes": 27,
+    "exactDialogueWords": 41,
+    "dialogueSuitePartial": true,
+    "selectedBlocks": [
+      "soundless-cave",
+      "cave-route-hints",
+      "screenshot-locations"
+    ],
+    "newDialogueLocationCases": 13,
+    "sourceControlFramesIdentical": true,
+    "fullMenuSuitePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "inheritedContent": "Includes v24 translations; v24-only dialogue cases were not rerun for this exact v25 hash.",
+  "device": {
+    "deployed": false,
+    "lastObservedVersion": "v23",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "remainingJapanese": [
+    "Enemy phonetic readings",
+    "Battle condition banners",
+    "Other untranslated indexed records and undiscovered text"
+  ],
+  "notVerified": [
+    "Full playthrough",
+    "Physical device boot",
+    "Natural cave boss completion and companion recruitment",
+    "Every glyph visually inspected"
+  ]
+}

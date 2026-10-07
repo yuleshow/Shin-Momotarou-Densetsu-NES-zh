@@ -1,0 +1,25 @@
+{
+  "pointerOffset": "0x702d6",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "postwar-rebuilding",
+  "decodedBytes": 939,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "terminologyNotes": [
+    "Merchant name corrected to 蜂乃屋 after matching original glyph bytes 1962 1963 1983 in the Hope Capital resident and negotiation scenes; the earlier provisional 蟬乃屋 reading was incorrect."
+  ],
+  "records": {
+    "0": "「[02a0]！做得好！\n不過接下來才是，\n真正的戰鬥啊！」\n「對抗大自然，\n光是揮舞力量，\n可行不通啊！」",
+    "1": "「[02a0]！做得好！\n不過接下來才是，\n真正的戰鬥啊！」\n「對抗大自然，\n光是揮舞力量，\n可行不通啊！」",
+    "2": "「[02a0]！做得好！\n不過接下來才是，\n真正的戰鬥啊！」\n「對抗大自然，\n光是揮舞力量，\n可行不通啊！」",
+    "3": "「要建立新的國家嗎？\n真好啊！請一定也讓我，\n幫上一點忙！」",
+    "4": "「戰爭結束了！真高興！\n終於能安心種稻米了！\n[02a0]先生，一起努力吧！」",
+    "5": "「多虧有很多人逃到這個村，\n我也因此交到了，\n好多好多朋友！」",
+    "6": "「猿蟹村的人們，\n好像搭船去尋找，\n重新浮出海面的陸地了！」\n「我們也得學學，\n猿蟹村的人們那種，\n堅韌的生命力呢！」",
+    "7": "「請大家吃竹筍之後，\n人人都說好吃，\n還傳出了好口碑呢！」\n「若是能再建起，\n希望之都那樣的大城市，\n我也想開一間店。」",
+    "8": "「我是蜂乃屋！我們建起，\n希望之都這麼大的城市，\n也許因此得意忘形了。」\n「若希望之都一直，\n那樣擴張下去，我覺得，\n自己也會變成迦樓羅。」",
+    "9": "「在新的大地建造新家，\n大家一起，\n生活下去吧！」\n「為此所需的機關，\n不管什麼，我都會做出來！」\n",
+    "10": "「聽說伐折羅王大人，\n又找回了，\n昔日眼中的光芒！」\n「大家一起夢想新時代吧！\n也要連同逝去的人們那份，\n一起實現！」",
+    "11": "「果然，鬼族的世界，\n還是得由伐折羅王大人掌舵，\n才稱得上鬼族的世界啊。」"
+  }
+}

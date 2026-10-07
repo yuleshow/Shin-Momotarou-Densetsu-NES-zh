@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "targetSha256": "cdd864a94f3e058d4ff775e94f8aa76b311794e778221b2312376a762434bcf4",
+  "fullReadbackBytes": 4194304,
+  "releaseArtifactsVerified": 149,
+  "previousRomBackupVerified": true,
+  "saveFilesAndBackupsVerified": 317,
+  "cheatFilesAndBackupsVerified": 2,
+  "screenshotsDeleted": 0,
+  "relatedScreenshotsPreserved": 1,
+  "allScreenshotDirectoryEntriesPreserved": 201,
+  "physicalDeviceBootVerified": false,
+  "verifiedAt": "2026-10-06T00:55:38.564Z"
+}

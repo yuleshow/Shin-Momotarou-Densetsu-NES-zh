@@ -1,0 +1,28 @@
+{
+  "pointerOffset": "0x700bd",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "toranobu-wagashi-shop",
+  "decodedBytes": 599,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 14 original glyph records reviewed; 虎信 and 辰巳 match tatsumi-wagashi.",
+    "Width checks allow eight characters for custom wagashi names, five for recipient names, and five digits for prices; actual runtime maxima remain unverified."
+  ],
+  "records": {
+    "0": "「這裡的和菓子，\n雖然很好吃，可是，\n價格太貴，真讓人傷腦筋！」",
+    "1": "「這次的[09]，\n又便宜又好吃呢！」\n",
+    "2": "「茶會上要是沒有，\n這家店的和菓子，\n就一點也熱鬧不起來呢！」",
+    "3": "「每次來，[09]，\n都缺貨！茶會可少不了它，\n真是傷腦筋呀！」",
+    "4": "「這裡是和菓子虎信。\n請問您要哪一種？」\n",
+    "5": "「很抱歉，那樣商品，\n現在剛好賣完了，\n請您下次再來吧。」",
+    "6": "「[09]是吧！\n一共是[0a]兩！」\n",
+    "7": "「客人，\n您的錢好像不夠呢……」\n",
+    "8": "「要由誰拿呢？」\n\n",
+    "9": "「[09]先生！\n您的道具袋已經滿了！」\n",
+    "10": "[09]，\n得到了[09]！\n",
+    "11": "「還有其他，\n想買的商品嗎？」\n",
+    "12": "「在下是和菓子虎信的，\n店主。」\n\n「剛才有位自稱認識[02a0]，\n的年輕人，\n來店裡拜訪呢。」\n「名字叫[09]，\n做得非常出色，\n我打算近期在店裡販售。」",
+    "13": "「在下是和菓子虎信的，\n店主。」\n\n「[02a0]先生！自從那以後，\n[09]，\n就大受好評呢！」\n「辰巳那邊的供貨，\n都快趕不上了。」\n\n「我擔心他們太忙，\n辰巳的母親，\n又會累倒啊！」"
+  }
+}

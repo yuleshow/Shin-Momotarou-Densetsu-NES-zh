@@ -1,0 +1,31 @@
+{
+  "pointerOffset": "0x70168",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "castle-extension-kiichi-workshop",
+  "decodedBytes": 621,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 16 source glyph records visually reviewed. Original name 嘉市 (きいち) verified directly in record 1.",
+    "Mechanism Village castle-upgrade workshop, not Hope Capital proper. Retained as city-related castle extension; includes upgrades, supplies and 牛吉's apprenticeship ambitions.",
+    "Preserve exact source controls and dynamic item/name fields. Draft only; no ROM build or native verification."
+  ],
+  "records": {
+    "0": "「我還在構思，\n能幫忙討伐鬼族的，\n新機關呢！」\n「不過，[02a0]大人，\n恐怕會比我更早，\n完成討伐鬼族吧！」",
+    "1": "「我是機關工匠，\n名叫嘉市！\n你想讓城堡變得更堅固吧！」",
+    "2": "「雖然要花點錢，\n但保證能讓城堡更堅固！」\n",
+    "3": "「你得再多付一點錢，\n我才能製作機關呀！」\n",
+    "4": "「那麼，我先，\n到城堡去囉！」\n",
+    "5": "「城堡有什麼問題，\n儘管來找我！店裡的商品，\n也許能派上用場喔！」",
+    "6": "「隨時歡迎再來喔！」\n\n",
+    "7": "「您要買砲彈是吧！\n多謝惠顧！」\n",
+    "8": "「還有其他，\n想買的東西嗎？」\n",
+    "9": "「砲彈已經，\n不能再增加了，\n實在沒辦法呀……」",
+    "10": "「您的錢不夠喔！\n請冷靜些，好好討伐鬼族，\n[02a0]先生！」",
+    "11": "「要讓哪一位攜帶呢？」\n\n",
+    "12": "「[09]先生！\n道具袋已經滿了喔！」\n",
+    "13": "「是[09]吧！\n多謝惠顧──！」\n",
+    "14": "「您要十發砲彈是吧！\n多謝惠顧──！」\n",
+    "15": "「呀！[02a0]先生！\n俺叫牛吉，可是，\n製作機關的手藝很差呀！」\n「真希望能成為，\n像左源內先生那樣，\n出色的機關工匠呀！」"
+  }
+}

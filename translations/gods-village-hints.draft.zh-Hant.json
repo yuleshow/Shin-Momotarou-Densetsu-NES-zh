@@ -1,0 +1,19 @@
+{
+  "pointerOffset": "0x70198",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "gods-village-hints",
+  "decodedBytes": 252,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All five source records reviewed. Preserve the Biron forest moon-crystal fragment hint and popularity-gated recruitment without inventing a numeric threshold.",
+    "Record 4 deliberately claims politician eligibility at 10 and voting at 60; retain Amanojaku's joke rather than correcting it into real election rules."
+  ],
+  "records": {
+    "0": "「嗚嘻嘻！比隆森林裡，\n有月之水晶的碎片喔！」\n",
+    "1": "「嗚嘻嘻！我可不會，\n加入人氣不高的人，\n所帶領的隊伍！」\n「你現在的，\n人氣是[0a]嗎……」\n",
+    "2": "「我不樂意！\n等人氣，\n再高一點才來吧！」",
+    "3": "「嗚嘻嘻！我也要，\n踏上討伐鬼族的旅程嗎？\n雖然幫不了什麼大忙！」",
+    "4": "「嘿！嘿！要好好做人啊！\n當政治人物，１０歲就可以！\n投票權要６０歲才有呀！」"
+  }
+}

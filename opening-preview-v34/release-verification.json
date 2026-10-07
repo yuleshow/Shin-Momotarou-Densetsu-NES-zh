@@ -1,0 +1,55 @@
+{
+  "version": "v34",
+  "status": "locally-verified-not-deployed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "55a39e644e75011beeb66548a6e58c9ed6b958305a48e0904ed65886a77c75e6",
+  "addedIndexedRecordsSinceV33": 55,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2548,
+    "untranslatedRecords": 5240,
+    "emptyRecords": 82
+  },
+  "glyphs": 1867,
+  "glyphCapacity": 2112,
+  "completedGroups": {
+    "urashimaAging": 55
+  },
+  "relocatedRegressionRecords": 6,
+  "previousTranslationsPreserved": true,
+  "verification": {
+    "nativeDialogueScenes": 61,
+    "exactWords": 125,
+    "originalRelocationFramesIdentical": true,
+    "slot47LocalSaveLoadPassed": true,
+    "previewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNameRegressionsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "device": {
+    "deployed": false,
+    "lastVerifiedVersion": "v33",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "All prior dialogue suites on this exact hash",
+    "Natural aging-event progression and restoration"
+  ],
+  "remainingJapanese": [
+    "Other untranslated dialogue",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph",
+    "Companion default names",
+    "Other untranslated interface text"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "status": "locally-verified-not-deployed",
+  "cheatSha256": "cc90f966ac0ba6daef1d64784d2d5e27405cd221cc5fb80e99de870467181572",
+  "code": "82D09C40+82D09DFE+82FE4020+82FE41DE+82FE42D0+82FE43B0+82FE4412+82FE45BD+82FE46E5+82FE4719+82FE48F0+82FE490C+82FE4AA5+82FE4B0F+82FE4C05+82FE4D10+82FE4EF0+82FE4F06+82FE50A9+82FE51FF+82FE5285+82FE530F+82FE5485+82FE5510+82FE5618+82FE5760",
+  "defaultEnabled": false,
+  "previousTenEntriesPreserved": true,
+  "romHashes": {
+    "original": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+    "v46": "bafeb819522b92aa1de9505329a9cbf319357cfe1b7057c4eeb83c2daedd12a2"
+  },
+  "hook": {
+    "address": "82D09B",
+    "original": "20DED0",
+    "replacement": "2040FE",
+    "routineAddress": "82FE40",
+    "routineHex": "20ded0b012bde519f00ca50f0510f006a9ff850f85101860",
+    "targetSide": "7E19E5 + X: zero is ally; nonzero is enemy group",
+    "behavior": "Preserve original special immunity check; raise nonzero damage to enemy targets to 65535 before normal HP subtraction",
+    "directSaveOrRamCheatWrites": false
+  },
+  "checks": [
+    {
+      "version": "original",
+      "firstHitBaselineHp": 5,
+      "firstHitEnabledHp": 0,
+      "allyDamageIdenticalThroughFirstHit": true,
+      "enemiesUnchangedUntilHit": true,
+      "idleWramIdentical": true
+    },
+    {
+      "version": "v46",
+      "firstHitBaselineHp": 5,
+      "firstHitEnabledHp": 0,
+      "allyDamageIdenticalThroughFirstHit": true,
+      "enemiesUnchangedUntilHit": true,
+      "idleWramIdentical": true
+    }
+  ],
+  "highHp": {
+    "original": 10000,
+    "baselineAfterHit": 9987,
+    "enabledAfterHit": 0
+  },
+  "allThreeEnemiesDefeatedAndInactive": true,
+  "runs": [
+    {
+      "name": "original-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        947,
+        35,
+        5,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/original-baseline"
+    },
+    {
+      "name": "original-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        947,
+        35,
+        0,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/original-enabled"
+    },
+    {
+      "name": "original-idle-baseline",
+      "enabled": false,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/original-idle-baseline"
+    },
+    {
+      "name": "original-idle-enabled",
+      "enabled": true,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/original-idle-enabled"
+    },
+    {
+      "name": "v46-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        947,
+        35,
+        5,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/v46-baseline"
+    },
+    {
+      "name": "v46-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        947,
+        35,
+        0,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/v46-enabled"
+    },
+    {
+      "name": "v46-idle-baseline",
+      "enabled": false,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/v46-idle-baseline"
+    },
+    {
+      "name": "v46-idle-enabled",
+      "enabled": true,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/v46-idle-enabled"
+    },
+    {
+      "name": "v46-high-hp-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        947,
+        35,
+        9987,
+        10000,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/v46-high-hp-baseline"
+    },
+    {
+      "name": "v46-high-hp-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        947,
+        35,
+        0,
+        10000,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/v46-high-hp-enabled"
+    },
+    {
+      "name": "v46-finish",
+      "enabled": true,
+      "frames": 18000,
+      "finalHp": [
+        945,
+        40,
+        0,
+        0,
+        0
+      ],
+      "directory": "/tmp/momotaro-one-hit-final-20261004-r2/v46-finish"
+    }
+  ],
+  "statePath": "/tmp/momotaro-sumo-direct-fixture-v2/battle.bin",
+  "stateSha256": "757b5f933c1f407580f0a4ebd8680fd5c4bc7c34d0fe883c491cc1154fa5140f",
+  "sourceStateAndRomFilesUnchanged": true,
+  "deviceFilesAccessed": false,
+  "limitations": [
+    "Synthetic local battle fixture, not the current Fukuryuu Cave encounter",
+    "Not location-restricted; disable for scripted fights",
+    "Misses, zero damage and original special immunity checks are not bypassed",
+    "Not every skill, boss, reflected attack, or natural story route tested",
+    "Physical device activation not tested"
+  ]
+}

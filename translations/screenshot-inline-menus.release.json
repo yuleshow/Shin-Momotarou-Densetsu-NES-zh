@@ -1,0 +1,55 @@
+{
+  "name": "screenshot-inline-menus",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "sourceReference": "screenshot-inline-animal-references.draft.zh-Hant.json",
+  "integration": "Append only inlineMenus to the build manifest before font collection. This file is not a compileTextDraft input.",
+  "validationNotes": [
+    "The source-reference draft begins after the eight-byte menu header. Relocate the complete header as well as the labels; its 38 control stores a three-byte native callback address.",
+    "The original wrappers at 0x84e768 and 0x84e7a2 load the full menu addresses into direct-page b9..bb, then call 0x84afb8. No alternate full-menu loader was found in the original ROM.",
+    "Keep the long callback addresses 98e784 and f9e784 unchanged. Their code remains in bank 84, outside the relocated data spans; there is no trailing per-choice callback table in these two menus.",
+    "Karura callback 0x84e798 copies one-based selection 0x12e4 to 0x1957 (1, 2, 3). Shuten callback 0x84e7f9 uses one-based selection 0x12e4 as an index into 0x84e817, writes opponent ID 04/86/8b/88 to 0x195f + slot 0x1964, and sets the corresponding bit in 0x1986.",
+    "Preserve the Shuten 25 86 19 mask controls, 21 3e selector markers, 01 2c separators and final 00 exactly. No indexedNames are included.",
+    "With two-byte Chinese glyph encoding the allocations are [0x23de00,0x23de24) (36 bytes) and [0x23df00,0x23df45) (69 bytes). Existing travel-destinations ends at 0x23dce4. The builder must still enforce collision checks against the final manifest.",
+    "Both native headers contain 37, which sets 0x1380 bit 80 and disables cancellation. B must leave the menu active without executing the outcome callback; subsequent A must still select normally.",
+    "Run tools/verify-screenshot-inline-menus.mjs RUNNER CORE PREVIEW NEW_OUTPUT [FIELD_STATE] against the exact final build. It uses isolated synthetic ROM copies and native event wrappers, checks rendered labels, every selector and outcome, Shuten excluded-row mask 05, ignored cancellation and callback timing against the Japanese ROM. It does not certify subsequent story dialogue or opponent battle events. Successful runs retain verification.json and open/cancel screenshots only; set MOMOTARO_KEEP_INLINE_CAPTURES=1 to retain all ROM copies, states and snapshots."
+  ],
+  "inlineMenus": [
+    {
+      "name": "karura-three-stories",
+      "screenshotIds": [16, 17],
+      "start": "0x4e77a",
+      "end": "0x4e798",
+      "target": "0x23de00",
+      "pointerOperand": "0x4e76b",
+      "bankOperand": "0x4e772",
+      "originalBank": "84",
+      "alternatePointers": [],
+      "originalHex": "320108373898e784213e52a8181a01213e53a8181a01213e54a8181a0100",
+      "complete": true,
+      "entries": [
+        { "offset": "0x4e784", "originalHex": "52a8181a", "source": "１の話", "translation": "故事一" },
+        { "offset": "0x4e78b", "originalHex": "53a8181a", "source": "２の話", "translation": "故事二" },
+        { "offset": "0x4e792", "originalHex": "54a8181a", "source": "３の話", "translation": "故事三" }
+      ]
+    },
+    {
+      "name": "shuten-four-opponents",
+      "screenshotIds": [49],
+      "start": "0x4e7b4",
+      "end": "0x4e7f9",
+      "target": "0x23df00",
+      "pointerOperand": "0x4e7a5",
+      "bankOperand": "0x4e7ac",
+      "originalBank": "84",
+      "alternatePointers": [],
+      "originalHex": "3201083738f9e78425861901213e95a718f31888012c25861902213e97ae18f31888012c25861904213ea3b697ae18f31888012c25861908213ead9b97ae18f31888012c00",
+      "complete": true,
+      "entries": [
+        { "offset": "0x4e7c2", "originalHex": "95a718f31888", "source": "かね童子", "translation": "金童子" },
+        { "offset": "0x4e7d0", "originalHex": "97ae18f31888", "source": "くま童子", "translation": "熊童子" },
+        { "offset": "0x4e7de", "originalHex": "a3b697ae18f31888", "source": "とらくま童子", "translation": "虎熊童子" },
+        { "offset": "0x4e7ee", "originalHex": "ad9b97ae18f31888", "source": "ほしくま童子", "translation": "星熊童子" }
+      ]
+    }
+  ]
+}

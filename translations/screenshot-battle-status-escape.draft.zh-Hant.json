@@ -1,0 +1,63 @@
+{
+  "pointerOffset": "0x70048",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "screenshot-battle-status-escape",
+  "sourceType": 0,
+  "sourceStart": "0x7c7f7",
+  "sourceEnd": "0x7d98a",
+  "decodedBytes": 4498,
+  "complete": false,
+  "status": "source-reviewed-draft-only-not-integrated",
+  "dynamicWidthEvidence": {
+    "publishedEnemyNameMaximumGlyphs": 6,
+    "publishedEnemyNameMaximumExamples": [
+      { "offset": "0x711c7", "translation": "多夫莫科夫莫" },
+      { "offset": "0x71457", "translation": "大哈奇托庫瑪" }
+    ],
+    "originalEnemyNameMaximumGlyphs": 8,
+    "originalEnemyNameMaximumExample": {
+      "pointerOffset": "0x7000f",
+      "recordIndex": 126,
+      "offset": "0x713b2",
+      "originalHex": "04e0b8038004b2bd96038004d703"
+    },
+    "screenshotStatLabelGlyphs": 3,
+    "statSourceExamples": [
+      { "pointerOffset": "0x70003", "recordIndex": 12, "originalHex": "1a181a191816", "source": "攻撃力" },
+      { "pointerOffset": "0x70003", "recordIndex": 13, "originalHex": "1a1b18201816", "source": "守備力" }
+    ],
+    "runtimeActorNameMaximumGlyphs": null,
+    "runtimeSuffixMaximumGlyphs": null,
+    "runtimeQuantityMaximumDigits": null,
+    "limitation": "Exact static-table maxima were measured from all 247 published enemy translations and the dictionary-expanded original enemy table. They are not proof of every runtime 09 producer, customizable party name, suffix or numeric bound. Width tests use name 6 + suffix 2 + 的 1 + stat 3 = 12; the original-table name maximum 8 also fits at 14. Quantity tests additionally allow five digits (65535), fitting at ten glyphs, without asserting a runtime 16-bit bound."
+  },
+  "validationNotes": [
+    "Only the two untranslated screenshot-related records are selected from the 181-record uncompressed block. No ROM, patch, target allocation or deployment is produced.",
+    "compileTextDraft does not support sourceType 0. Source SHA, indexed offsets, original bytes and ordered controls are checked directly; future integration must retain every dynamic 09 and quantity 0a.",
+    "For the 14-glyph check, consecutive 09 markers budget six glyphs for a name and two for its suffix; the third 09 budgets three for the stat label. These dynamic allocations are assumptions, not native-runtime verification.",
+    "Screenshot 18 is already translated at 0x7004b:48 and is not duplicated here. Screenshot 90 cannot distinguish this generic stat message from already-translated attack-drop record 0x7004b:86."
+  ],
+  "records": {
+    "17": "[09][09]的[09]\n下降了[0a]點！\n[0f]",
+    "153": "[09][09]\n一溜煙地逃走了！[0f]"
+  },
+  "sourceRecords": {
+    "17": {
+      "screenshotIds": [20, 87, 88],
+      "possibleScreenshotIds": [90],
+      "decodedOffset": "0x12c",
+      "offset": "0x7c924",
+      "originalHex": "0909a85009a9010a184bd0f59f5c010f",
+      "source": "[09][09]の [09]は\n[0a]下がった！\n[0f]",
+      "coverageBefore": "untranslated"
+    },
+    "153": {
+      "screenshotIds": [21],
+      "decodedOffset": "0xee6",
+      "offset": "0x7d6de",
+      "originalHex": "0909a90191a0b2979abda5501a1dd319cc9b9f5c0f",
+      "source": "[09][09]は\nいちもくさんに 逃げ出した！[0f]",
+      "coverageBefore": "untranslated"
+    }
+  }
+}

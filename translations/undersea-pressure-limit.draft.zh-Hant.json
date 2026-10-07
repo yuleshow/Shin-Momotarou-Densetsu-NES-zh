@@ -1,0 +1,11 @@
+{
+  "pointerOffset": "0x702a6",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "undersea-pressure-limit",
+  "decodedBytes": 47,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "猛烈的水壓，\n使城堡開始嘎吱作響！\n\n不能再往更深處潛了！\n\n"
+  }
+}

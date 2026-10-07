@@ -1,0 +1,1691 @@
+{
+  "status": "locally-verified-not-deployed",
+  "targetSha256": "1adb065eab4c8782817c59177316eae3f7442a61efbefc5fc9e9e9535bff0762",
+  "baselineSha256": "12531ca2adcf913d37312d4c29e55f723d564dc76262b07d19c0531b0de24bda",
+  "fixture": "/tmp/momotaro-v60-release-fixtures/slot18.bin",
+  "fixtureSha256": "f02d98fbd60d067f2a0bc6cf4253322ccc07af51bb51d061a3bb623cd7c05ed7",
+  "syntheticConditions": true,
+  "scope": "standard-battle-status-graphics",
+  "matchedDialogueBaseline": true,
+  "comparisonSha256": "d0afbeadc2a58d394bbd1f91d2beb76996714acfbdf86996c0eb7c2c4691ed36",
+  "legacyCompactVramRestored": true,
+  "sourceFixturesAndRomsUnchanged": true,
+  "unrelatedBattleFontBytesUnchanged": true,
+  "results": [
+    {
+      "name": "normal",
+      "status": 0,
+      "labels": [],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 240,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 360,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 480,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 600,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 720,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 840,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 960,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1080,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1200,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1320,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1440,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1560,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1680,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1800,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1920,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2040,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2160,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2280,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2400,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2520,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2640,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2760,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2880,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3000,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3120,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3240,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3360,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3480,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3600,
+          "baseline": 0,
+          "candidate": 0
+        }
+      ],
+      "orderingKeyDifferences": [],
+      "otherGameplayBytesUnchanged": true,
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    },
+    {
+      "name": "poison",
+      "status": 1,
+      "labels": [
+        "中毒"
+      ],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 240,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 360,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 480,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 600,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 720,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 840,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 960,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1080,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1200,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1320,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1440,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1560,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1680,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1800,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 1920,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2040,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2160,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2280,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2400,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2520,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2640,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2760,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 2880,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 3000,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 3120,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 3240,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 3360,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 3480,
+          "baseline": 1,
+          "candidate": 1
+        },
+        {
+          "frame": 3600,
+          "baseline": 1,
+          "candidate": 1
+        }
+      ],
+      "orderingKeyDifferences": [],
+      "otherGameplayBytesUnchanged": true,
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        },
+        "中毒": {
+          "x": 88,
+          "y": 183,
+          "colour": 16777215
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    },
+    {
+      "name": "curse",
+      "status": 16,
+      "labels": [
+        "詛咒"
+      ],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 240,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 360,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 480,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 600,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 720,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 840,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 960,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1080,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1200,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1320,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1440,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1560,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1680,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1800,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 1920,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2040,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2160,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2280,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2400,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2520,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2640,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2760,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 2880,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 3000,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 3120,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 3240,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 3360,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 3480,
+          "baseline": 16,
+          "candidate": 16
+        },
+        {
+          "frame": 3600,
+          "baseline": 16,
+          "candidate": 16
+        }
+      ],
+      "orderingKeyDifferences": [],
+      "otherGameplayBytesUnchanged": true,
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        },
+        "詛咒": {
+          "x": 104,
+          "y": 183,
+          "colour": 14548992
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    },
+    {
+      "name": "paralysis",
+      "status": 32,
+      "labels": [
+        "麻痺"
+      ],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 240,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 360,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 480,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 600,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 720,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 840,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 960,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1080,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1200,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1320,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1440,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1560,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1680,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1800,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 1920,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2040,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2160,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2280,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2400,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2520,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2640,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2760,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 2880,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 3000,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 3120,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 3240,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 3360,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 3480,
+          "baseline": 32,
+          "candidate": 32
+        },
+        {
+          "frame": 3600,
+          "baseline": 32,
+          "candidate": 32
+        }
+      ],
+      "orderingKeyDifferences": [
+        {
+          "frame": 1200,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 1320,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 1440,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 1560,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 1680,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 1800,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 1920,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2040,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2160,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2280,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2400,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2520,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2640,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2760,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 2880,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 3000,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 3120,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 3240,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 3360,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 3480,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        },
+        {
+          "frame": 3600,
+          "address": "7E1D06",
+          "baseline": 9,
+          "candidate": 12
+        }
+      ],
+      "otherGameplayBytesUnchanged": true,
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        },
+        "麻痺": {
+          "x": 72,
+          "y": 183,
+          "colour": 11316908
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    },
+    {
+      "name": "combined",
+      "status": 49,
+      "labels": [
+        "麻痺",
+        "中毒",
+        "詛咒"
+      ],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 240,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 360,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 480,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 600,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 720,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 840,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 960,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1080,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1200,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1320,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1440,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1560,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1680,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1800,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 1920,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2040,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2160,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2280,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2400,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2520,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2640,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2760,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 2880,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 3000,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 3120,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 3240,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 3360,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 3480,
+          "baseline": 49,
+          "candidate": 49
+        },
+        {
+          "frame": 3600,
+          "baseline": 49,
+          "candidate": 49
+        }
+      ],
+      "orderingKeyDifferences": [
+        {
+          "frame": 1200,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 1320,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 1440,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 1560,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 1680,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 1800,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 1920,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2040,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2160,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2280,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2400,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2520,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2640,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2760,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 2880,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 3000,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 3120,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 3240,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 3360,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 3480,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        },
+        {
+          "frame": 3600,
+          "address": "7E1D06",
+          "baseline": 10,
+          "candidate": 14
+        }
+      ],
+      "otherGameplayBytesUnchanged": true,
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        },
+        "麻痺": {
+          "x": 72,
+          "y": 183,
+          "colour": 11316908
+        },
+        "中毒": {
+          "x": 88,
+          "y": 183,
+          "colour": 16777215
+        },
+        "詛咒": {
+          "x": 104,
+          "y": 183,
+          "colour": 14548992
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    },
+    {
+      "name": "injury",
+      "status": 128,
+      "labels": [],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 240,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 360,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 480,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 600,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 720,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 840,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 960,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1080,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1200,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1320,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1440,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1560,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1680,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1800,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 1920,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2040,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2160,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2280,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2400,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2520,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2640,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2760,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 2880,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 3000,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 3120,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 3240,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 3360,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 3480,
+          "baseline": 128,
+          "candidate": 128
+        },
+        {
+          "frame": 3600,
+          "baseline": 128,
+          "candidate": 128
+        }
+      ],
+      "orderingKeyDifferences": [],
+      "otherGameplayBytesUnchanged": true,
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    },
+    {
+      "name": "excellent",
+      "status": 0,
+      "excellent": 1,
+      "labels": [
+        "絕好調"
+      ],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 240,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 360,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 480,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 600,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 720,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 840,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 960,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1080,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1200,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1320,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1440,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1560,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1680,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1800,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1920,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2040,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2160,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2280,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2400,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2520,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2640,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2760,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2880,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3000,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3120,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3240,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3360,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3480,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3600,
+          "baseline": 0,
+          "candidate": 0
+        }
+      ],
+      "orderingKeyDifferences": [],
+      "otherGameplayBytesUnchanged": true,
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        },
+        "絕好調": {
+          "x": 72,
+          "y": 183,
+          "colour": 0
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    },
+    {
+      "name": "invincible",
+      "status": 0,
+      "invincible": 255,
+      "labels": [
+        "無敵"
+      ],
+      "comparedGameplaySamples": 30,
+      "observedStatusSamples": [
+        {
+          "frame": 120,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 240,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 360,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 480,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 600,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 720,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 840,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 960,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1080,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1200,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1320,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1440,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1560,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1680,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1800,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 1920,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2040,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2160,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2280,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2400,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2520,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2640,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2760,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 2880,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3000,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3120,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3240,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3360,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3480,
+          "baseline": 0,
+          "candidate": 0
+        },
+        {
+          "frame": 3600,
+          "baseline": 0,
+          "candidate": 0
+        }
+      ],
+      "orderingKeyDifferences": [],
+      "otherGameplayBytesUnchanged": true,
+      "ignoredBlinkingDialogueCursor": {
+        "x": 120,
+        "y": 64,
+        "width": 8,
+        "height": 8
+      },
+      "exactNativeBattleFont": true,
+      "pixels": {
+        "血": {
+          "x": 88,
+          "y": 191,
+          "colour": 8642048
+        },
+        "無敵": {
+          "x": 80,
+          "y": 183,
+          "colour": 16777215
+        }
+      },
+      "oldGlyphNegativeControlsPassed": true
+    }
+  ],
+  "notVerified": [
+    "Full natural playthrough",
+    "Every transient battle condition",
+    "Semantic identity or natural acquisition of unexplained status bits",
+    "Identical battle ordering timing",
+    "Physical device"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "targetSha256": "8430627185a7bebf8cf369e5c663a70498a26c2cc02f210d93f3a5d89edb74a3",
+  "baselineSha256": "43b4ec17a8db4eacb78876ff9d04f8314bba85b06a70833997b829743002b2ee",
+  "punctuationCount": 20,
+  "checkedCharacters": [
+    "！",
+    "，",
+    "…",
+    "？",
+    "「",
+    "」",
+    "─",
+    "、",
+    "：",
+    "。",
+    "—",
+    "〈",
+    "〉",
+    "《",
+    "》",
+    "・",
+    "『",
+    "』",
+    "～",
+    "＋",
+    "＝",
+    "；",
+    "（",
+    "）",
+    "一"
+  ],
+  "cases": [
+    {
+      "text": "桃！，…？「」─、桃",
+      "rendered": {
+        "x": 32,
+        "y": 80,
+        "frame": "frame-1080.ppm"
+      },
+      "oldPositionRejected": true,
+      "image": "punctuation-0.png",
+      "sha256": "59f6ffb7dba208e45564d1ca8213131f006a3e89d359a0297043288e1debea56"
+    },
+    {
+      "text": "桃：。—〈〉《》・桃",
+      "rendered": {
+        "x": 32,
+        "y": 80,
+        "frame": "frame-1080.ppm"
+      },
+      "oldPositionRejected": true,
+      "image": "punctuation-1.png",
+      "sha256": "1ea8f89a246edc16232fcccb1b9497a31f9087894d07309cb952d08e73e85e05"
+    },
+    {
+      "text": "桃『』～＋＝；（）桃",
+      "rendered": {
+        "x": 32,
+        "y": 80,
+        "frame": "frame-1080.ppm"
+      },
+      "oldPositionRejected": true,
+      "image": "punctuation-2.png",
+      "sha256": "a50cb87cd0b072a427f758e00436732838372028549eb2bbbbb55cbc569794ec"
+    },
+    {
+      "text": "桃一桃",
+      "rendered": {
+        "x": 32,
+        "y": 80,
+        "frame": "frame-1020.ppm"
+      },
+      "oldPositionRejected": true,
+      "image": "punctuation-3.png",
+      "sha256": "dfb4fba6b9e70a22abf47c2da27120d02b3a98b3c9dd68a68d8ca09ba7aa5e0b"
+    }
+  ],
+  "nonFontGameDataUnchanged": true,
+  "limitations": [
+    "Synthetic native dialogue, not a natural battle or physical-device boot"
+  ]
+}

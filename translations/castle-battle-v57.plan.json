@@ -1,0 +1,9 @@
+{
+  "version": "v57",
+  "baseDirectory": "opening-preview-v56",
+  "manifest": "translations/castle-battle-v57.release.json",
+  "addedIndexedEntries": 0,
+  "status": "native-verified-scope-only-not-released",
+  "drafts": [],
+  "inlineMenuFiles": ["translations/castle-battle-menu.json"]
+}

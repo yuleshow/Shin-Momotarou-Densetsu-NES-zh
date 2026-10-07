@@ -1,0 +1,81 @@
+{
+  "version": "v20",
+  "status": "deployed-readback-verified",
+  "targetSha256": "7d4ec0ad7ae3ab3071c9e0424e48cc118b52e96276e3c2a06d9f327dcb4c3158",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV19": 33,
+  "glyphs": 1485,
+  "glyphCapacity": 1600,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 1004,
+    "untranslatedRecords": 6784,
+    "emptyRecords": 82
+  },
+  "translatedScope": {
+    "caveResidents": 6,
+    "levelUpMessages": 6,
+    "combatMessages": 19,
+    "enemyNames": 2
+  },
+  "screenshots": [
+    {
+      "suffix": "260930-181843.png",
+      "source": "0x701b6:1",
+      "subject": "Winged oni arrival"
+    },
+    {
+      "suffix": "260930-182621.png",
+      "source": "0x701b6:1",
+      "subject": "Oni fearing the winged oni"
+    },
+    {
+      "suffix": "260930-183434.png",
+      "source": "0x70039:0,1,2",
+      "subject": "Level, HP and technique-point results"
+    },
+    {
+      "suffix": "260930-183442.png",
+      "source": "0x70039:4,6,8",
+      "subject": "Attack, defense and speed gains"
+    },
+    {
+      "suffix": "260930-183755.png",
+      "source": "0x70045:8,9,10",
+      "subject": "Spitting webs and tangled weapons"
+    }
+  ],
+  "verification": {
+    "dialogueScenes": 36,
+    "exactDialogueWords": 60,
+    "dialogueSuitePartial": true,
+    "newlyAddedMessageCases": 31,
+    "sourceControlFramesIdentical": true,
+    "dynamicNameAndNumberControlsPreserved": true,
+    "fullMenuSuitePassed": true,
+    "nativeSearchPassed": true,
+    "localSlot15ConversationPassed": true,
+    "actorDataMatchesOriginal": true,
+    "newEnemyNameIndexesAndSyntheticLayoutsPassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "device": {
+    "deployed": true,
+    "lastVerifiedVersion": "v20",
+    "fullReadbackVerified": true,
+    "deploymentReport": "deployment-verification.json",
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Full playthrough",
+    "Physical device boot",
+    "Actual level-up stat calculation and progression",
+    "Actual spider battle and combat effects",
+    "Every new cave conversation through natural gameplay"
+  ]
+}

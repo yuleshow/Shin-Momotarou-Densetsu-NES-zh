@@ -1,0 +1,76 @@
+{
+  "targetSha256": "d963f67aaf196142ff517f52857b2f7acd57256296b38c9400f20504caa2ce85",
+  "status": "passed",
+  "completed": [
+    "baseline",
+    "tests",
+    "codecs",
+    "welcome",
+    "sumo",
+    "menu"
+  ],
+  "allowedRomRanges": [
+    [
+      65500,
+      65504
+    ],
+    [
+      196620,
+      196623
+    ],
+    [
+      196684,
+      196687
+    ],
+    [
+      3932160,
+      3933888
+    ],
+    [
+      3934208,
+      3938600
+    ],
+    [
+      4063232,
+      4128768
+    ]
+  ],
+  "allOtherRomBytesEqualV47": true,
+  "largeGlyphsUnchanged": true,
+  "protectedFiles": [
+    {
+      "filename": "assets/Shin Momotarou Densetsu (Japan) (Rev 1).sfc",
+      "sha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c"
+    },
+    {
+      "filename": "opening-preview-v47/opening-zh-Hant.sfc",
+      "sha256": "12531ca2adcf913d37312d4c29e55f723d564dc76262b07d19c0531b0de24bda"
+    },
+    {
+      "filename": "/tmp/momotaro-encounter-delay-check/slot18-core.bin",
+      "sha256": "f02d98fbd60d067f2a0bc6cf4253322ccc07af51bb51d061a3bb623cd7c05ed7"
+    },
+    {
+      "filename": "/tmp/momotaro-sumo-direct-fixture-v2/battle.bin",
+      "sha256": "757b5f933c1f407580f0a4ebd8680fd5c4bc7c34d0fe883c491cc1154fa5140f"
+    },
+    {
+      "filename": "/tmp/momotaro-sumo-direct-fixture-v2/sumo-command/state.bin",
+      "sha256": "8ef009ba8941711351a13480de676ed7a8dd573c4fa3287d5c64cbb44929dfe6"
+    },
+    {
+      "filename": "/tmp/momotaro-v46-final-shop-state.bin",
+      "sha256": "89b1cf115d9a2a4d732b3af83e68c6d357a80e564313da06e67aa87a940650a7"
+    },
+    {
+      "filename": "/tmp/momotaro-screenshot-slot15-core.bin",
+      "sha256": "050c9ca178db51737d3d55e5eff51e6333177c02aeb3685693f09713e128a2cd"
+    }
+  ],
+  "ordinaryBattle": {
+    "frames": 2400,
+    "samples": 20,
+    "exactGameStateAndScreensMatchV47": true,
+    "reusedBattleFixtureWithCachedStatusGraphics": true
+  }
+}

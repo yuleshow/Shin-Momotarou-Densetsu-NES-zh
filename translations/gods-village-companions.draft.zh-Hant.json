@@ -1,0 +1,36 @@
+{
+  "pointerOffset": "0x70195",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "gods-village-companions",
+  "decodedBytes": 1475,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 21 source records reviewed. Preserve the poverty god's naming branches and Amanojaku's deliberately false western sunrise and reversed RIGHT/LEFT claims.",
+    "Recruitment demands retain the sequence 饅頭, 黍糰, 甘藷, 烤甘藷, 萬能丹. Records 16/20 use item-name fields, tested with eight-cell samples.",
+    "ガウンバッチョ / ガンボリッチ provisionally transcribed 高恩巴喬 / 甘波里奇. Sound jokes and proper names still require editorial review."
+  ],
+  "records": {
+    "0": "「窮窮！[02a0]先生！\n我也想幫忙，\n一起討伐鬼族啦！」",
+    "1": "「哪天再找我一起去喔！」\n\n",
+    "2": "「耶諾皮啾！好高興啊！\n既然這麼高興，\n也請替我取個名字吧！」",
+    "3": "「高恩巴喬！\n真是難聽的名字啦！\n嗚嗚！嗚嗚！」",
+    "4": "「噗哇！甘波里奇！\n我要把貧窮，\n灑遍全世界啦！」",
+    "5": "「嗚嘻嘻……！\n去過比隆森林了嗎？」\n\n「比隆的話，\n除了露肚怪村的人，\n誰都聽不懂喔！嗚嘻嘻！」",
+    "6": "「嗚嘻嘻！露肚怪就在，\n從這裡一直往南，\n人煙罕至的半島盡頭！」",
+    "7": "「嘿！嘿！要好好做人啊！\n太陽可是從西邊升起的！」\n",
+    "8": "「嘿！嘿！要好好做人啊！\n英語ＲＩＧＨＴ是左邊！\nＬＥＦＴ是右邊！嘿嘿！」",
+    "9": "「嘿！嘿！要好好做人啊！\n想請本大爺，\n加入隊伍嗎！嘿嘿！」",
+    "10": "「真開心！嘿！嘿！\n隨時都可以再來拒絕我！」\n",
+    "11": "「嘿！嘿！那麼想要，\n本大爺加入的話，\n就買饅頭來！」\n「嘿！嘿！嘿！嘿！\n饅頭買來了嗎？」\n",
+    "12": "「嘿！嘿！本大爺，\n不是叫你買黍糰嗎！\n嘿！嘿！」\n「去買黍糰來！」\n\n\n「嘿！嘿！嘿！嘿！\n黍糰買來了嗎？」\n",
+    "13": "「嘿！嘿！本大爺，\n現在不想吃黍糰啦！\n還是甘藷比較好！」\n「去買甘藷來！」\n\n\n「嘿！嘿！嘿！嘿！\n甘藷買來了嗎？」\n",
+    "14": "「你叫本大爺，\n生吃甘藷嗎！\n烤好了再拿來！」\n「嘿！嘿！嘿！嘿！\n烤甘藷買來了嗎？」\n",
+    "15": "「就是嘛！一開始，\n就應該乖乖，\n買烤甘藷來啊！」\n「嚼嚼嚼！好吃！\n這烤甘藷……嗚！\n肚子好痛！嗚！」\n「混蛋！你讓我吃了什麼！\n快去買萬能丹！\n嗚！痛痛痛痛痛！」\n「嘿！嘿！嘿！嘿！\n萬能丹買來了嗎？」\n",
+    "16": "「嘿！嘿！嘿！嘿！\n這不是[09]嘛！\n謝啦！嘿！嘿！」\n「那我就加入你的隊伍吧！\n嘿！嘿！嘿！嘿！」\n",
+    "17": "[02a0]，\n有那麼一點，\n後悔了……！",
+    "18": "「嘿！嘿！光是萬能丹，\n根本治不好本大爺啊！\n嘿！嘿！嘿！嘿！」",
+    "19": "「嘿！嘿！\n你是不是瞧不起本大爺啊？」\n",
+    "20": "「嘿！嘿！你這混蛋！\n[09]到底在哪裡！\n嘿！嘿！」\n「少在那裡耍我！\n我會讓你做個好夢的！」\n"
+  }
+}

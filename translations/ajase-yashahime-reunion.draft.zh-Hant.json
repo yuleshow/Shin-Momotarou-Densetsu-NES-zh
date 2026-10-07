@@ -1,0 +1,17 @@
+{
+  "pointerOffset": "0x70144",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ajase-yashahime-reunion",
+  "decodedBytes": 637,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "Next full untranslated story block after the screenshot-priority village work. Original glyphs and all three source records reviewed.",
+    "Preserve 夜叉姬's refusal to return, 阿闍世's request for an unaided duel, and the distinction between sorrow in victory and pain in defeat."
+  ],
+  "records": {
+    "0": "夜叉姬\n「哥哥！」\n\n「阿闍世哥哥！」\n\n\n「你是來帶我，\n回去的吧？」\n\n「我不要！」\n\n\n「我才不要，\n就這樣回地獄去！」\n\n「現在的地獄，\n絕對有問題！」\n\n「大家都被迦樓羅騙了！\n親自來到人類的世界，\n我才終於明白！」\n\n『勝利！打倒！擊潰敵人！』\n\n「迦樓羅說的話，\n的確能讓大家，\n振奮起來！可是！」\n「勝利之後能留下什麼？\n落敗一方的心情，\n又該怎麼辦呢？」\n「[02a0]先生明白，\n勝利帶來的悲傷！\n也知道落敗的痛苦！」\n「父王、達伊達哥哥，\n還有阿闍世哥哥，\n都該早點察覺呀！」\n「[02a0]一行人的做法裡，\n就藏著真正的答案啊！」\n",
+    "1": "阿闍世王子\n「夜叉竟然如此稱許，\n那位[02a0]……！」\n「雖然失禮，但可否，\n在交戰之中，\n讓我明白其中的道理？」\n「旁邊的各位，\n請不要出手干預！\n我想親自了解[02a0]！」\n「出招吧！[02a0]！」\n\n",
+    "2": "阿闍世王子\n「你的決心，\n我已經確實見識到了。」\n「[02a0]啊……」\n\n\n「我妹妹雖然任性，\n夜叉就拜託你了！」\n"
+  }
+}

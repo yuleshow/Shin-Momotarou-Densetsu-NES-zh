@@ -1,0 +1,61 @@
+{
+  "version": "v42",
+  "status": "deployed-rom-and-cheats-readback-verified",
+  "targetSha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+  "previousSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "backupDirectory": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/opening-preview-v42/deployment-backup",
+  "installedFiles": [
+    {
+      "filename": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+      "sha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+      "bytes": 4194304,
+      "fullReadbackVerified": true
+    },
+    {
+      "filename": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "sha256": "b05af660d18d65b7a0fe373d836f0cb0563a3e654080648bd8d751b1ef4c2dbd",
+      "bytes": 4254,
+      "fullReadbackVerified": true
+    },
+    {
+      "filename": "/Volumes/share/cheats/cht/0QuickLoad/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "sha256": "6ced06173dc407187c19f2c3d68e374beacf8a04e8ce4320533d0cc7b6724a7e",
+      "bytes": 1356,
+      "fullReadbackVerified": true
+    }
+  ],
+  "newCheatsDefaultOff": true,
+  "existingCheatSettingsPreserved": true,
+  "screenshotsDeleted": 0,
+  "savesWrittenOrRestored": false,
+  "physicalDeviceBootVerified": false,
+  "physicalCheatActivationVerified": false,
+  "companionCheatsRuntime": {
+    "targetSha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+    "directory": "/tmp/momotaro-v42-companion-cheats-7PXAkR",
+    "frames": 360,
+    "checkedEvery": 60,
+    "otherActorBytesAndNaturalLimitsUnchanged": true
+  },
+  "completedAt": "2026-10-03T06:17:29.901Z",
+  "fullReadbackVerified": true,
+  "finalDeviceSha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+  "unchangedSaveFiles": 203,
+  "saveEntriesUnchanged": true,
+  "unchangedScreenshots": 51,
+  "screenshotEntriesUnchanged": true,
+  "relatedRomCount": 1,
+  "cheatsWritten": true,
+  "postInstallObservation": {
+    "romSha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+    "snes9xCheatSha256": "24da9008fd058c9395dd61b2a7a2e6489c238fad2f10e39a7aba272b61c6288f",
+    "quickLoadCheatSha256": "6ced06173dc407187c19f2c3d68e374beacf8a04e8ce4320533d0cc7b6724a7e",
+    "allTenCodesMatchLocal": true,
+    "newlyEnabledIndexes": [0, 1, 6, 7, 8, 9],
+    "newDefaultFieldsAddedForIndexes": [6, 7, 8, 9],
+    "removedFields": [],
+    "subsequentDeviceChangesPreserved": true,
+    "deviceFilesRewrittenAfterObservation": false
+  }
+}

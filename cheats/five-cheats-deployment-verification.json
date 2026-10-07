@@ -1,0 +1,84 @@
+{
+  "mode": "install",
+  "romSha256": "bafeb819522b92aa1de9505329a9cbf319357cfe1b7057c4eeb83c2daedd12a2",
+  "targets": [
+    {
+      "folder": "Snes9x",
+      "previousSha256": "fb1841c673b3f9f7348ff54cd02bc3b907def0464d1daf7a7c58007408d41875",
+      "expectedSha256": "96937c5eb4c77ff3d5bbb4aa5191512e2161c2519b5217ef284b17d5a20e6269",
+      "existingEnabled": [
+        "true",
+        "true",
+        "true",
+        "true",
+        "false",
+        "false",
+        "true",
+        "true",
+        "true",
+        "true"
+      ]
+    },
+    {
+      "folder": "0QuickLoad",
+      "previousSha256": "6ced06173dc407187c19f2c3d68e374beacf8a04e8ce4320533d0cc7b6724a7e",
+      "expectedSha256": "1c69705f79de2f532d0558b566cf6dc03c5cee0db51a61ef53dabd7406e578f8",
+      "existingEnabled": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false"
+      ]
+    }
+  ],
+  "protectedFiles": {
+    "/Volumes/share/saves/snes": 271,
+    "/Volumes/share/screenshots": 43,
+    "/Volumes/share/cheats/cht/Snes9x": 1,
+    "/Volumes/share/cheats/cht/0QuickLoad": 10
+  },
+  "addedIndexes": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "newCheatsDefaultOff": true,
+  "status": "deployed-readback-and-protected-files-verified",
+  "startedAt": "2026-10-05T00:14:38.668Z",
+  "localCheatSha256": "af5c9fc3250bad8e0353dca47b9d085a30181a49c069705425d2e17e40a81061",
+  "backupDirectory": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/cheats/deployment-backup-20261004-five-cheats",
+  "installed": [
+    {
+      "folder": "Snes9x",
+      "devicePath": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "backup": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/cheats/deployment-backup-20261004-five-cheats/Snes9x.cht",
+      "sha256": "96937c5eb4c77ff3d5bbb4aa5191512e2161c2519b5217ef284b17d5a20e6269",
+      "previousSha256": "fb1841c673b3f9f7348ff54cd02bc3b907def0464d1daf7a7c58007408d41875",
+      "existingFieldsPreserved": true,
+      "newCheatsDefaultOff": true
+    },
+    {
+      "folder": "0QuickLoad",
+      "devicePath": "/Volumes/share/cheats/cht/0QuickLoad/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "backup": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/cheats/deployment-backup-20261004-five-cheats/0QuickLoad.cht",
+      "sha256": "1c69705f79de2f532d0558b566cf6dc03c5cee0db51a61ef53dabd7406e578f8",
+      "previousSha256": "6ced06173dc407187c19f2c3d68e374beacf8a04e8ce4320533d0cc7b6724a7e",
+      "existingFieldsPreserved": true,
+      "newCheatsDefaultOff": true
+    }
+  ],
+  "romWritten": false,
+  "savesWrittenOrRestored": false,
+  "screenshotsDeleted": 0,
+  "physicalDeviceActivationVerified": false,
+  "completedAt": "2026-10-05T00:14:52.967Z",
+  "protectedFilesAndEntriesUnchanged": true
+}

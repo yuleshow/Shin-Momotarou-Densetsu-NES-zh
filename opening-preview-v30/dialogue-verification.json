@@ -1,0 +1,1286 @@
+{
+  "targetSha256": "09516b5fbc974d676db69c4aa861eacac5b3b835e0b38867bb409779737654a5",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "enemy-readings",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "赤鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "enemy-readings",
+      "firstIndex": 43,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "殺殺餓鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "enemy-readings",
+      "firstIndex": 94,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "烏魯曼托": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "enemy-readings",
+      "firstIndex": 147,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大哈奇托庫瑪": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "enemy-readings",
+      "firstIndex": 221,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "enemy-readings",
+      "firstIndex": 230,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "enemy-readings",
+      "firstIndex": 239,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹仙人": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "enemy-readings",
+      "firstIndex": 247,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚喲": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "足柄山": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "無聲洞窟": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "話裡隱藏的意思": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沿山邊": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 80
+        },
+        "避鬼仙人庵": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "麻雀旅館二號店": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 2,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "見過鹿角仙人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "盡頭的半島": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "更鋒利": {
+          "frame": "frame-1440.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "今天天氣真好": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一起來跳舞": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "閃到腰": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "秋刀魚": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "買菜": {
+          "frame": "frame-1200.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 6,
+      "frames": 4200,
+      "changedFrames": 53,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鹿角之里": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "全體鬼族奏效": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "忙死了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "沒空聊天": {
+          "frame": "frame-1200.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿呀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "好呀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "田裡耕作": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "請讓個路": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "射靶遊戲": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "頭暈": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "天氣真好": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "洗衣服": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "祭典攤位": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "祭後一場空": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "曬太陽": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "你還在這裡": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜市攤位": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "打鬼的疲勞": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 15,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "真擔心那些孩子": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "今天要吃什麼飯": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 16,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要去浦島村": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "沿森林往南走": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "實力練好": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這麼見外": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "待人親切": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "開心享受祭典": {
+          "frame": "frame-1200.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 19,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有什麼鬼": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "別的村子": {
+          "frame": "frame-1200.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 20,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "喝呀": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "嘿咻": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 21,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿啦啦": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "來咻": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一邊打鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "夥伴們培養": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "站穩腳步": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 24,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "可以前往龍宮城": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "還能上月亮": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 25,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "唷嘿呀": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿唷呀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拿過來": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 28,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "來吧": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "嘿唷嘿唷": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 29,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "祭典的吆喝聲": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 30,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要不要看煙火": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "慶祝您打鬼": {
+          "frame": "frame-1320.ppm",
+          "x": 68,
+          "y": 104
+        },
+        "大煙火上天": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 31,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這裡危險": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請退後一點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 32,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想看煙火時": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "再叫我一聲": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 33,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "祭典真好玩": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "餘興節目": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "一起算進去": {
+          "frame": "frame-1440.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-village",
+      "firstIndex": 34,
+      "frames": 7800,
+      "changedFrames": 114,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "西來咪嗦": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "一起來跳舞": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要不要一起跳舞": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "原來還在打鬼途中": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "雖然捨不得": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "花咲村洞窟": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "花咲村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滾飯糰洞": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飯糰村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館一號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館二號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館三號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館四號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館五號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館六號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻雀旅館七號店": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "松葉山": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 65,
+      "frames": 1620,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "稻妻仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啟程村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 7,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "微笑村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "希望之都": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 36,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猴蟹村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 38,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竹取村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 41,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寧靜村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 42,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "豐饒村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 43,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之宮殿": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 44,
+      "frames": 1620,
+      "changedFrames": 6,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風暴村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 45,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼島": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 57,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "七夕村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 58,
+      "frames": 1620,
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夢之村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 61,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "新村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 83,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "機關村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "moon-palace-guard",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你是誰": {
+          "frame": "frame-1080.ppm",
+          "x": 74,
+          "y": 80
+        },
+        "不准通行": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "迦樓羅": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "大人的命令": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "festival-village",
+    "moon-palace-guard",
+    "screenshot-locations",
+    "enemy-readings"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pointerOffset": "0x7015f",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hope-capital-castle-construction",
+  "decodedBytes": 934,
+  "complete": true,
+  "status": "native-verified-v45",
+  "reviewNotes": [
+    "All 14 original glyph records visually reviewed. Covers Hope Capital's castle construction gift, 左源內's work, naming and companion recruitment at the resulting castle.",
+    "This is the city-related castle extension; the resulting portable castle and recruited companions are not confined to Hope Capital.",
+    "Merchant name 蜂乃屋 confirmed against enlarged source glyphs and the Hope Capital negotiation block; the earlier provisional 蟬乃屋 reading is not used.",
+    "Adjacent pointer 0x70162 is an empty raw block: source span 0x94b5d..0x94b5e contains only type byte 00, decodedBytes 0, zero records. There is no empty/control record to translate or compile.",
+    "Exact source controls retained. Draft only; no ROM build or native verification."
+  ],
+  "records": {
+    "0": "「不愧是阿留蓋的城！\n堅固又氣派，\n真是一座好城呀！」[0b]",
+    "1": "「這麼大的城，說送就送！\n蜂乃屋先生果然是都城裡，\n最有男子氣概的人呀！」",
+    "2": "左源內，\n「來吧！風神！\n颳起風來！」[0b]",
+    "3": "「來吧！雷神！\n劈下雷電吧！」\n[0b]",
+    "4": "左源內，\n「好！很好！很好！\n再加把勁吧！」",
+    "5": "左源內，\n「完成了！完成了！好！」\n「風神！雷神！辛苦啦！」",
+    "6": "「喔！叫[09]呀！\n可愛又帥氣，\n真像[02a0]會取的名字！」",
+    "7": "「喔！這可真是，\n一座氣派的城呀，\n[02a0]先生！」\n「俗話說，萬物有靈！\n何不替這座城，\n取個名字呢？」",
+    "8": "「如果想替這座城，\n增添各種設施，\n就到都城我家來找我吧！」\n「連浴池也能替你做喔！\n不過，這回可要，\n好好收你一筆錢囉！」",
+    "9": "猿樂師，\n「發咪嗦嗦！嗦嗦哆西！\n[02a0]先生！恭喜您！」\n「聽說您的城完成啦！」\n\n\n「也請讓我住進[09]，\n讓我猿樂師，\n在這裡安身吧！」\n猿樂師加入了隊伍！\n\n",
+    "10": "大太郎，\n「啊啵！[02a0]先生！\n俺也想幫上忙呀！」\n「所以，請務必，\n讓俺住進[09]，\n在這裡安身呀！」\n大太郎加入了隊伍！\n\n",
+    "11": "寢太郎，\n「唔唔……哇──！\n好──大──的城──！」\n「拿──來──睡──覺，\n大──小──剛──好，\n真──舒──服──！」\n「俺──要──在──這，\n睡──上──，\n一──大──覺──啦！」\n寢太郎加入了隊伍！\n\n",
+    "12": "阿修羅，\n「[02a0]先生！看來，\n您的道路才是正確的！」\n「我也決定，\n與鬼族為敵，\n加入這場戰鬥！」\n阿修羅加入了隊伍！\n\n",
+    "13": "阿修羅，\n「我會在城裡等候！\n隨時都可以來找我！」"
+  }
+}

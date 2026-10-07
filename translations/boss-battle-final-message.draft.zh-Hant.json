@@ -1,0 +1,18 @@
+{
+  "pointerOffset": "0x70045",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "boss-battle-final-message",
+  "sourceType": 0,
+  "decodedBytes": 10578,
+  "complete": false,
+  "status": "source-reviewed-pending-terminology-and-native-verification",
+  "reviewNotes": [
+    "Original record 50 reads kidou tourou. No established translation was found in the current menu manifest; the Chinese spell name is a provisional phonetic rendering, not a claim about its mechanics or kanji spelling.",
+    "Record 1 is a developer placeholder: yarareta toki no / tokushu shori nado (special processing, etc., when defeated). Its Chinese translation preserves the source newline and terminator; natural caller visibility is unverified. All other records in this block are already present in frozen v45.",
+    "Width sample uses an eight-cell actor plus two-cell suffix. No ROM integration or runtime behavior changes."
+  ],
+  "records": {
+    "1": "被打倒時的\n特殊處理等[0f]",
+    "50": "[09][09]，\n施展了鬼道托羅術！[0f]"
+  }
+}

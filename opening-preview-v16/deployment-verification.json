@@ -1,0 +1,40 @@
+{
+  "targetSha256": "7ce51506d0b0fa9582842c500324a3f3f35dda5c5a0106336e8eb6beefd8c574",
+  "previousDeviceSha256": "fc00b3c71c11ddb2dcbcfe122b6ce2c94bc42d197cc7642b5966e18cc04f0765",
+  "deviceReadbackVerified": true,
+  "relatedDeviceRomCount": 1,
+  "preservedRelatedScreenshots": 1,
+  "protectedFilesUnchanged": 7,
+  "changedProtectedFiles": [],
+  "saveFilesWrittenByDeployment": false,
+  "saveFilesRestored": false,
+  "changedOffsets": [
+    "ffdc",
+    "ffdd",
+    "ffde",
+    "ffdf",
+    "4bb81",
+    "4bb82",
+    "4bb83",
+    "4bb84",
+    "4bb85",
+    "4bb86",
+    "4bb87",
+    "4bb88",
+    "23d00c",
+    "23d00d",
+    "23d00e",
+    "23d00f",
+    "23d010",
+    "23d011"
+  ],
+  "confirmationSelectionsVerified": [
+    "yes",
+    "no",
+    "cancel"
+  ],
+  "brokenBuildRejected": true,
+  "dialogueScenes": 101,
+  "exactWords": 168,
+  "physicalDeviceBootVerified": false
+}

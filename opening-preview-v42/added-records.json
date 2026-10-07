@@ -1,0 +1,2678 @@
+[
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 13,
+    "offset": "0xa0",
+    "originalHex": "90aea8d6f697a90118449992d396bc0194e2939f5c0f",
+    "segments": [
+      {
+        "text": "天邪鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "學會了"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竹攻擊！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 14,
+    "offset": "0xb7",
+    "originalHex": "90aea8d6f697a90118439992d396bc0194e2939f5c0f",
+    "segments": [
+      {
+        "text": "天邪鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "學會了"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "松攻擊！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 15,
+    "offset": "0xce",
+    "originalHex": "90aea8d6f697a901186d9992d396bc0194e2939f5c0f",
+    "segments": [
+      {
+        "text": "天邪鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "學會了"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "特攻擊！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 16,
+    "offset": "0xe5",
+    "originalHex": "18501851a9501a541a55a8509fb1a501ab9f9fdf501aeeafa8501842bc0102b399a3a59b9f5c0f",
+    "segments": [
+      {
+        "text": "銀次為了正義，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "決定再次"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "使用偷竊之術！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 17,
+    "offset": "0x10d",
+    "originalHex": "180318011802a9509cb292184201a1f5e3b7bc5094e2939f5c010f",
+    "segments": [
+      {
+        "text": "金太郎學會了相撲技"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "推掌！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 18,
+    "offset": "0x129",
+    "originalHex": "180318011802a9509cb292184201192c1ac396bc5094e2939f5c010f",
+    "segments": [
+      {
+        "text": "金太郎學會了相撲技"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "頭槌！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 19,
+    "offset": "0x146",
+    "originalHex": "09a90102cd50a196a9a29f5c01",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "力竭倒下了！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 20,
+    "offset": "0x154",
+    "originalHex": "09a8501821b20190a30a1a1101",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "text": "的生命，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "只剩"
+      },
+      {
+        "hex": "0a"
+      },
+      {
+        "text": "步"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 21,
+    "offset": "0x162",
+    "originalHex": "09a80104aeaa03d050a494f59f5c01",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "text": "的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "麻痺恢復了！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 22,
+    "offset": "0x172",
+    "originalHex": "1109a95019b01983a55019daaef5a2b20119e31848a550a4f59f5c01",
+    "segments": [
+      {
+        "hex": "11"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "就算住旅館，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也不會有事了！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 23,
+    "offset": "0x18f",
+    "originalHex": "1109a950049291bddd0380d00118b093b8b592a550a4f59f5c01",
+    "segments": [
+      {
+        "hex": "11"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "已經"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "看得見視窗了！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 46,
+    "offset": "0x4a8",
+    "originalHex": "07acf55b",
+    "segments": [
+      {
+        "hex": "07"
+      },
+      {
+        "text": "咦？"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 47,
+    "offset": "0x4ad",
+    "originalHex": "09a950184098d0bc509ba291b8a8be01181c181dbc501a3593a4915c",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "text": "傷得太重，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "無法使用道具！"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 48,
+    "offset": "0x4ca",
+    "originalHex": "02a009a95094e2b9a29baef59f5c0101",
+    "segments": [
+      {
+        "hex": "02a0"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "溺水了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 49,
+    "offset": "0x4db",
+    "originalHex": "02a0a950198a1acbbc50adf5a2af9f5c0101",
+    "segments": [
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "挖了挖腳下！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 50,
+    "offset": "0x4ee",
+    "originalHex": "a4bda35c010a18195092aef5a2919f5c010102a009a9010a18195019c3a519d7b99f5c01",
+    "segments": [
+      {
+        "text": "沒想到！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然埋著"
+      },
+      {
+        "hex": "0a"
+      },
+      {
+        "text": "兩！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "得到了"
+      },
+      {
+        "hex": "0a"
+      },
+      {
+        "text": "兩！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 51,
+    "offset": "0x513",
+    "originalHex": "a4bda35c0109d050aa9ebdbe919f5c01",
+    "segments": [
+      {
+        "text": "沒想到！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然躲著"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 52,
+    "offset": "0x524",
+    "originalHex": "a4bda35c0109d05092aef5a2919f5c01",
+    "segments": [
+      {
+        "text": "沒想到！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然埋著"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 54,
+    "offset": "0x546",
+    "originalHex": "abb492a8501ad11b2cd096b99f5c011109a901189c1884a55094b79ff59f5c",
+    "segments": [
+      {
+        "text": "漂浮的效果消失了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "11"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "降落到了地面！"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 55,
+    "offset": "0x566",
+    "originalHex": "1109a9011acba8509cd09fa550b2ddf59f5c01",
+    "segments": [
+      {
+        "hex": "11"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "恢復了原本的模樣！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 57,
+    "offset": "0x58b",
+    "originalHex": "11a95019a1a81a8395b601184ba850b5929cbc509295d0f59f5c0b",
+    "segments": [
+      {
+        "hex": "11"
+      },
+      {
+        "text": "從城堡裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "觀察下方的情況！"
+      },
+      {
+        "hex": "0b"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 58,
+    "offset": "0x5a7",
+    "originalHex": "11a95018ef95b65018901a83bc50181ee19f5c0b",
+    "segments": [
+      {
+        "hex": "11"
+      },
+      {
+        "text": "從船上查看水中！"
+      },
+      {
+        "hex": "0b"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 59,
+    "offset": "0x5bc",
+    "originalHex": "7d0498bd03500498bd035c5002a09abd5c01500a1819a550a4b7ae9b9f5c7e01",
+    "segments": [
+      {
+        "text": "「啾啾！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "賺到了"
+      },
+      {
+        "hex": "0a"
+      },
+      {
+        "text": "兩！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 60,
+    "offset": "0x5dd",
+    "originalHex": "94b35b01010118e91894180da85019071888d001a4bd9550acbddad95b5b5b5b5b0101ae5f50ae9a955c01010118e91894180dd0501ae019d0a8010496bdd2e2bddf0380a501acbd9bbd509bb592a3509ba2b8a8bea95c",
+    "segments": [
+      {
+        "text": "咦？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "貧窮神的樣子，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "怎麼怪怪的？？？？？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "該……該不會！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "貧窮神難道正要變成"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "傳說中的貧窮大王"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "嗎！"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 75,
+    "offset": "0x7df",
+    "originalHex": "18e91894180da85009d00119b519b6a55097bbbbf59f5c01",
+    "segments": [
+      {
+        "text": "貧窮神"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "加入了隊伍！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 79,
+    "offset": "0x83a",
+    "originalHex": "09d05019b519b6a5501a92bbf59f5c01010f",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "text": "加入了隊伍！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 80,
+    "offset": "0x84d",
+    "originalHex": "199bbc1a9a98b8a8a55099a818471947bea901aea3aeb7d050a195a4915c011a94bc5019a1ac50b2dd9bae9c955b",
+    "segments": [
+      {
+        "text": "這麼多人一起旅行，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "隊伍實在難以管理！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "要讓誰回城呢？"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 81,
+    "offset": "0x87c",
+    "originalHex": "7d9eb9d6f6905002c9a9015002a09abda819a1bc015018db95b650aeb2f5a291ae9c5c7e0f",
+    "segments": [
+      {
+        "text": "「那麼，我會"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "守護"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生的城堡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不讓惡鬼入侵！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 82,
+    "offset": "0x8a2",
+    "originalHex": "7d9e92be9c9550bea95002c9a90150aaa3909b9a96a5500919a1a50150b2ddf5a291b85099a3a59bae9ca75c7e0118041805a95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「這樣啊，那我就"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "先一步回到"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "城"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "等著大家吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "浦島回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 83,
+    "offset": "0x8e6",
+    "originalHex": "7d0494b603bc509491a297a8955b5002a05c015096f5a3500494b603a85018c91816d0a491a3015018db9f91d6d050a1b697a4b8dd5c7e0f",
+    "segments": [
+      {
+        "text": "「要把俺留下嗎？"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "少了俺這身怪力，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "討伐惡鬼會很辛苦喔！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 84,
+    "offset": "0x91f",
+    "originalHex": "7daef59f97509bf892d0a793a45c01500494b603d091a497a2b250d0bddef5a2015018db9f91d6509cb8bddad95c509191a45c7e01180318011802a95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「真拿你沒辦法！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就算俺不在，也要努力"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "討伐惡鬼啊！知道嗎！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "金太郎回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 85,
+    "offset": "0x96c",
+    "originalHex": "7dbea950a0f8f5e4b7509aaf9b9198dd015002a09abda80150b89cbc50aeb2f5a291ae9c5c7e0f",
+    "segments": [
+      {
+        "text": "「那麼，雖然有點寂寞，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我會替"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好好看家的！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 86,
+    "offset": "0x994",
+    "originalHex": "7dd6f69050bb95b7ae9b9f5c015002c9a9509419a1a5b2ddb7ae9c0150afa49abd50d0bddef5a25002c55c7e017dbeb250a0f8f5e4b7509aaf9b91a47e01010118081809180aa95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「好，我知道了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就先回城囉。"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "大家要加油喔！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「不過，還是有點寂寞呢。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "夜叉姬回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 87,
+    "offset": "0x9ec",
+    "originalHex": "7d04ababababf5035f50919f9b959fa4915c0150bea95099a85018669b9619a1bc01501a1bf5a291b8a3509bae9bf8925c7e0f",
+    "segments": [
+      {
+        "text": "「呵呵呵呵……沒辦法！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那麼，就讓我來"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "守護這座美麗的城堡吧！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 88,
+    "offset": "0xa20",
+    "originalHex": "7d04ababababf5035f5c509191be9bf8925c0150bea95019a1be50919118c7b69dbc0150aef5a291ae9cb55c7e0102cea95090b39b9196b7a350a3b2a50119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「呵呵呵呵！好吧！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那我就在城裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "等著好消息囉！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "阿修羅伴隨著神祕的霧氣，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 89,
+    "offset": "0xa6d",
+    "originalHex": "7d049eabf09bb9dd035c5004b6abf0b9af9b035c015002c9a85095a49bafa8501932be9c5c7e010f",
+    "segments": [
+      {
+        "text": "「嗦發西雷哆！拉發雷咪西！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這是我的悲傷之歌！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 90,
+    "offset": "0xa96",
+    "originalHex": "7dbb95f59f5c50bea95019a1be01501932a850b9bd9bf7929cb8b55c015004b6b6b6035004b69eabf0035004afafaf035c7e01ae9bb6a950193291a4d0b60119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「知道了！那我就在城裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "練習唱歌吧！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "啦啦啦！啦嗦發！咪咪咪！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "猿樂師一邊唱歌，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一邊回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 91,
+    "offset": "0xae4",
+    "originalHex": "7d9eb9d6f690509419a1be5019cc195fbc0150aef5a2b8bddaa45c500490f5e703805c7e010f",
+    "segments": [
+      {
+        "text": "「那我就在城裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "等著上場啦！啊啵！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 92,
+    "offset": "0xb0b",
+    "originalHex": "7dbd80500490f5e703805c01509e509ebdd6f6500494b603509419a1be0150aef5a2b899a3a5509cb8bddaa45c7e01be9518011802a95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「嗯！啊啵！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那、那俺就在城裡"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "等著你們啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "大太郎回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 93,
+    "offset": "0xb52",
+    "originalHex": "7dd6f6809050b292509c99809b0150180680a280b880da805004b0a5f6b0a5f6035f7e010f",
+    "segments": [
+      {
+        "text": "「那──我就再──"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "睡──一──會──唔喵唔喵」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 94,
+    "offset": "0xb78",
+    "originalHex": "7d04d2038050049c03805004e403805c01509280bd50b0a5f6b0a5f60150948019a18050dd80f580a0805b7e01180618011802a950a7e298a4d0b60119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「呼──嚕──嚕──！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「嗯──唔喵唔喵……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "城──堡──在──哪──？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "寢太郎睡眼惺忪地"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 95,
+    "offset": "0xbc3",
+    "originalHex": "7d9eb9d6f65090f59ba50150be96b899a3d05090b9de50ae9f015019d5bc509598a29497bda49d935c7e0f",
+    "segments": [
+      {
+        "text": "「那麼，要是還有"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "小的能幫忙的地方，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "儘管再叫小的一聲吧！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 96,
+    "offset": "0xbef",
+    "originalHex": "7dbb95b7b39b9f5002a09abd5c0150bea95090f59ba9509419a1bc0150aeb2f5a291b899a3a5509bb39cd85c7e0118501851a950a9b3a2a8b592a50119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「明白了，"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那小的就去"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好好守著城堡啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "銀次像一陣疾風，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 97,
+    "offset": "0xc3a",
+    "originalHex": "7d93805c50dab1805b01509999a550d7f5a35091b8a8805b5c01509ebda4a850a1aebda4808080915c7e0f",
+    "segments": [
+      {
+        "text": "「咦──！不行嗎──？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "要一直待在這裡嗎──？！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那樣好──無──聊──！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 98,
+    "offset": "0xc66",
+    "originalHex": "7d93938080805c5b01509419a1a5501b47b8a88080805c5b01509ebda4a850a1aebda48080915c7e01017da78080805c01509593b6a497a2509191be9bf8f55b7e010f",
+    "segments": [
+      {
+        "text": "「咦────！？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "要回城────！？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那樣好──無──聊──！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「拜託──！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我不回去也可以吧？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 99,
+    "offset": "0xcaa",
+    "originalHex": "7dbb808080915c5092b99b915c015002a09abd50da919c965c015092b99b9195b6509593f5a290d3b85c7e0f",
+    "segments": [
+      {
+        "text": "「哇──！好開心！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "最喜歡"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "看我這麼開心，就回去吧！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 100,
+    "offset": "0xcd7",
+    "originalHex": "7d93805c50aaf5dd80915c01509a91f5f5f5a280805c015091dbbbb8805c50e58091f55c7e011807dab8aea95004e5bde5bd039ba4d0b60119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「咦──！好過分──！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "爛──透──了──！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "壞心眼──！哼──！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "雪人氣呼呼地"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 101,
+    "offset": "0xd1e",
+    "originalHex": "7d9e92bef5955c509bf690a491a45c01509eb398dd50959d91da50941803a90150a391a01983a55090d798a397bda4a9b95c7e0f",
+    "segments": [
+      {
+        "text": "「這樣啊！沒辦法啦！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不過，賺到的錢"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "可要存進十一屋喔！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 102,
+    "offset": "0xd53",
+    "originalHex": "7d9e92bef5958050ada4b601509419a1be50941803a8015095bdd6f892beb2509ba2aef59a5c7e01a391a0b3a95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「這樣啊──那麼，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就在城裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一邊數錢一邊等吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "十一屋回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 103,
+    "offset": "0xd91",
+    "originalHex": "7d9e92955c50bea950bb9ba9015019a1a5501902bc50b5bdbe949795a85c015018179ba25018db9f91d6a550a9d3b1b55c7e0f",
+    "segments": [
+      {
+        "text": "「這樣啊！那老夫就"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "替城裡招來福氣吧！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "你要用心努力討伐惡鬼啊！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 104,
+    "offset": "0xdc5",
+    "originalHex": "7d02a85f5c50bea90150bb9ba9509419a1a5501902bc0150b5bdbe9497a3509cb895a85c7e011902a8180da95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「嗚嘻嘻……！那麼，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "老夫就替城裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "招來福氣吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "福神回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 105,
+    "offset": "0xe02",
+    "originalHex": "7d9a5f509aaf9b91a8a7bd5f5c0150a9b39750b2ddf5a296a20150ad9b91a8a7bd5c7e0f",
+    "segments": [
+      {
+        "text": "「好……好寂寞啊……！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "希望你們"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "早點回來啦！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 106,
+    "offset": "0xe27",
+    "originalHex": "7d04e29703a9509419a1be5091a1aebeb2015091a1aebeb250afa49abda801509593b7bc50aef5a291b8a8a7bd5c7e0118e91894180da950a496a4d0b60119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「我會一直待在城裡，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一直、一直"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "等著大家回來啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "貧窮神一邊哭泣，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一邊回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 107,
+    "offset": "0xe74",
+    "originalHex": "7d02d001509e91a1a9509fda9b91d85c7e010f",
+    "segments": [
+      {
+        "text": "「嘿！嘿！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "你這樣做就對啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 108,
+    "offset": "0xe88",
+    "originalHex": "7d04ac91ac91035c509ebdd6f601500494b9039aaea95019a1be509c9695f5a2a501509a9da250b2b69295b6a45c7e01188ca818ac18dba95004e2a1e2a1035ca3019a98dfa4d0b65019a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「嘿嘿！那麼，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "本大爺就在城裡"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "隨心所欲地過日子啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "天邪鬼大喊著「波滋波滋」，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 109,
+    "offset": "0xee0",
+    "originalHex": "7d0495e3f5e3035c509bf892d0a7935c01509eb9d6f690509999be0150b4f597b79a9da250b2b692d85c7e0f",
+    "segments": [
+      {
+        "text": "「喀啪啪！沒辦法啦！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那我就在這裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好好休息一番吧！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 110,
+    "offset": "0xf0d",
+    "originalHex": "7d0495e3f5e3035c509eb9d6f601500494b903a95019a1be50a8bddfb7015097a1bad09da250b2b6949295a45c7e0118e818cc18f3a95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「喀啪啪！那麼，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就在城裡"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "悠閒地休息吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "黑河童回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 111,
+    "offset": "0xf54",
+    "originalHex": "7d9e92be9c955f0150bea9509999be5002a09abda80150949593b7bc50aef5a2ae9c5c7e0f",
+    "segments": [
+      {
+        "text": "「這樣啊……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那我就在這裡等"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回來囉！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 112,
+    "offset": "0xf7a",
+    "originalHex": "7d04a9b6adbaaab9a9b903805c015004e29703a9509419a1be01501816bc509f97bb93a2509496ae9c5c7e01a9b6da9ba95019a1a550b2ddf5a291f59f5c01010f",
+    "segments": [
+      {
+        "text": "「哈啦呵囉嘻咧哈咧──！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我會在城裡"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "養精蓄銳的！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "露肚怪回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 113,
+    "offset": "0xfbc",
+    "originalHex": "7d9e92955f50bea9509999be01501816bc509f97bb93a250949992d95c7e010f",
+    "segments": [
+      {
+        "text": "「這樣啊……那就在這裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好好養精蓄銳吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 114,
+    "offset": "0xfdd",
+    "originalHex": "7de4f7b8b8b8b8f25c50b595ba925c015090b69fa4501a1c91a89fb101501816bc509f97bb93a250949992d95c7e01180c180da9509fa1ae96a350a3b2a50119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「咻嚕嚕嚕嚕！好吧！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "為了下一場戰鬥，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就先養精蓄銳吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "風神伴隨著龍捲風，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 115,
+    "offset": "0x102b",
+    "originalHex": "7d9e92955f50a4b6de0150bb9ba9509999be015019be19bfa550919e9bb2925c7e0f",
+    "segments": [
+      {
+        "text": "「這樣啊……那麼，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "老夫就在這裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "專心修行吧！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 116,
+    "offset": "0x104e",
+    "originalHex": "7dd2f9b6b750d2f9b6b75c0150a1d1a4b8501a1c91a89fb101509bf7d1f892a550919e9bb292d95c7e01180b180da95091a4d7aea350a3b2a50119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「轟隆隆！轟隆隆！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "為了下一場戰鬥，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就專心修行吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "雷神伴隨著閃電，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 117,
+    "offset": "0x1097",
+    "originalHex": "7d92b05f509e92955c0150a4b6de50bb9ba9509999be015019a1a8501a1bb7bc50959fb1b8a39bb5925c7e0f",
+    "segments": [
+      {
+        "text": "「嗯……這樣啊！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那老夫就在這裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "鞏固城堡的防禦吧！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 118,
+    "offset": "0x10c4",
+    "originalHex": "7d92b05c50bb95f59f5c7e01010193bdaea950d6aadf96a350a3b2a50119a1a550b2ddf5a291f59f5c010f",
+    "segments": [
+      {
+        "text": "「嗯！知道了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "閻魔伴隨著撼地巨響，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 119,
+    "offset": "0x10f0",
+    "originalHex": "7d04d2f3f5acf5acf5035c509191daba925c0150bea95099a819a1be5004e2bddfb69c03a80150189518d7a85019eebc50afb5925c7e017d049603808080808004bdd2035004e2bddf03805c7e01010f",
+    "segments": [
+      {
+        "text": "「咕嘿嘿嘿！好吧！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那我就在這座城裡"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "夢見邦比拉斯的世界吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「貧────窮──大王！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 120,
+    "offset": "0x1141",
+    "originalHex": "7d04d2f3f5acf5acf5035c01509191daba925c50bea95002c9a9015019a1a550b2ddf5a250b3b8a39bb5925c7e017d049603808080808004bdd2035004e2bddf03805c7e0101010496bdd2e2bddf0380a901e096afa450abbd9196a350a3b2a50119a1a550b2ddf5a291f59f5c0f",
+    "segments": [
+      {
+        "text": "「咕嘿嘿嘿！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好吧！那麼，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就回城去吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「貧────窮──大王！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "貧窮大王帶著"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一股詭異的氣氛，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回城去了！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 121,
+    "offset": "0x11b0",
+    "originalHex": "09a950aaa3aed70119a1be50b39cb099a3a5a4f59f5c010f",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "text": "決定暫時"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "留在城裡休息！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "ooeyama-rock-puzzle",
+    "pointerOffset": "0x701e0",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "0495b8b601037d049803800498f598f5035c01505519b4aebe5018b99f955c7e017dad92dfa55092b99b97a4b850181abc0150949b93a2b3ba925c50a4d9a396a90150aeda561af790b85c5092b99b95ba925b7e017d99a819b4a850a4d9a396a9015018c0bc5092d4959ba20150181cbc5019cfb899a3da5c7e017ddd92da509fa89b9e92daba925b7e0101",
+    "segments": [
+      {
+        "text": "迦樓羅"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「嘿嘿嘿！"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "來到四樓了啊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「獎勵你一個好消息！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "謎題還剩下"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "五題呢！很開心吧？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「這一層的謎題，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就是移動岩石，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "造出一條路！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「怎麼樣，看起來很有趣吧？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "ooeyama-rock-puzzle",
+    "pointerOffset": "0x701e0",
+    "index": 1,
+    "offset": "0x8d",
+    "originalHex": "7d0498038004f598f598f5035c01509e92da5c509e92dab55c01500494b9031907a9509fa89b91bddab55c7e",
+    "segments": [
+      {
+        "text": "「嘿嘿嘿！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "沒錯！就是這樣！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "本大爺可開心得很呢！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      }
+    ]
+  },
+  {
+    "name": "ooeyama-rock-puzzle",
+    "pointerOffset": "0x701e0",
+    "index": 2,
+    "offset": "0xba",
+    "originalHex": "7d9e929550bea901509fa89b97509ba2b3ba92955c7e01",
+    "segments": [
+      {
+        "text": "「這樣啊，那麼，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就讓你好好享受吧！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "ooeyama-rock-puzzle",
+    "pointerOffset": "0x701e0",
+    "index": 3,
+    "offset": "0xd2",
+    "originalHex": "0495b8b601037d0498038004f598f598f5035c0150aedaaedadad95c50949fa89bafa95c7e",
+    "segments": [
+      {
+        "text": "迦樓羅"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「嘿嘿嘿！"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好玩的還在後頭呢！」"
+      }
+    ]
+  },
+  {
+    "name": "ooeyama-rock-puzzle",
+    "pointerOffset": "0x701e0",
+    "index": 4,
+    "offset": "0xf8",
+    "originalHex": "02a0a9501ad9191bbc50181ee19f5c01010102a0a9501ad9191bbc50b5bdda5c01010118c29618c0bc5019f01925a59ce1b69d011a0fb6a850196cb0181cbc501899b7aab6985c01",
+    "segments": [
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "調查了石板！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "讀起石板！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "將青色岩石左右滑動，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "開闢自己前進的道路！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "pointerOffset": "0x702e8",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ending-system-prompts",
+  "decodedBytes": 150,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "受到詛咒了！",
+    "1": "要觀看結局嗎？",
+    "2": "一邊打上馬賽克，\n一邊淡出畫面喔！\n",
+    "3": "如何？[0b]",
+    "4": "是這樣嗎？\n\n",
+    "5": "前往月亮吧！\n\n[0b]",
+    "6": "前往海裡吧！\n\n[0b]",
+    "7": "目前平均體重是，\n[0a]公斤！",
+    "8": "要調整顏色嗎？",
+    "9": "「視覺效果」\n\n"
+  }
+}

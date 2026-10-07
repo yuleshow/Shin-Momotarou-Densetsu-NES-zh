@@ -1,0 +1,14 @@
+{
+  "pointerOffset": "0x7023d",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hell-rebel-supplies",
+  "decodedBytes": 259,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「[02a0]先生！請快走！」\n\n\n「發狂的迦樓羅，\n正在四處隨意，\n殺害反抗他的鬼族！」",
+    "1": "「[02a0]先生！像我這樣，\n沒有力量的鬼，只能送米，\n到黃泉塔去！」\n「還請保重！\n我們實在無法對抗，\n迦樓羅大人指揮的鬼！」",
+    "2": "「[02a0]先生！我是銀鬼！\n雖然獻醜了，\n我也正在此參戰！」",
+    "3": "「好久不見！我是金鬼！\n至少，我也要助上一臂之力，\n所以特地趕來了！」"
+  }
+}

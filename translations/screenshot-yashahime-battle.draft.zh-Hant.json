@@ -1,0 +1,92 @@
+{
+  "pointerOffset": "0x70051",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "screenshot-yashahime-battle",
+  "sourceType": 0,
+  "sourceStart": "0x7f56d",
+  "sourceEnd": "0x823cc",
+  "decodedBytes": 11870,
+  "complete": false,
+  "status": "source-reviewed-draft-only-not-integrated",
+  "section": {
+    "firstRecord": 0,
+    "lastRecord": 19,
+    "complete": true,
+    "nextRecord": 20,
+    "nextRecordOffset": "0x7faee",
+    "nextRecordOriginalHex": "7d9e80b95c7e",
+    "boundaryEvidence": "Records 0–16 are Yashahime's battle responses; 17 is her postbattle realization and recruitment request; 18 repeats the request after refusal; 19 is acceptance thanks. Records 20–25 switch to the separate money-reward sequence: そーれ！, まだまだ あげるぞー！, ウヒャヒャ…！ まだまだ！, いつもより 多めに！, ほんじゃまか ホイホイ！, then 合計 [0a]両 手に入れた！ and the ３２回の ごほうび dialogue. No records from that next sequence are included."
+  },
+  "validationNotes": [
+    "Complete the tightly coupled 20-record Yashahime section, records 0–19 only. The containing 231-record block remains partial. Existing draft records 3 and 16 are unchanged; this follow-up adds 18 previously uncovered source records.",
+    "Screenshots 91, 92 and 93 are successive portions of the same source record 16, not three separate records.",
+    "Screenshots 94, 95 and 96 are successive portions of live postbattle record 17 at 0x7f8ae, not the related regional record 0x701f8:19.",
+    "Reuse wording from ice-tower-yashahime records 19–22 for shared postbattle prose, but not their control streams: live records 17–19 have different line/pause controls, dynamic 11 name references, and additional paragraphs. The combat-realization paragraph and request to tell the other oni are translated here as well.",
+    "Original glyphs were rendered from the SHA-verified Japanese source and visually read. Static dictionary 02:c9 is わたし and is translated as 我; it is not a dynamic actor name. The original kana-mode 04/03 pairs remain recorded in originalHex and must be preserved during future integration.",
+    "Source SHA, bounds, offsets, original bytes, ordered meaningful controls and 14-glyph line widths are checked without building a ROM. Name marker 11 is tested with five glyphs; this is a test budget, not proof of the runtime naming limit. compileTextDraft does not support sourceType 0; no integration or runtime verification is claimed."
+  ],
+  "records": {
+    "0": "「嘴上倒是很厲害！\n鼓足了勇氣，\n也只有這點本事嗎？」[0f]",
+    "1": "「地獄裡還有很多，\n比你強得多的男人喔！」\n[0f]",
+    "2": "「連這種攻擊都躲不開，\n達伊達哥哥不把你當對手，\n也是理所當然的呢！」[0f]",
+    "3": "「搞什麼！以為我是女人，\n就故意手下留情嗎？」\n[0f]",
+    "4": "「哦！原來你也，\n使得出這種攻擊啊！」\n[0f]",
+    "5": "「剛才那一下，\n倒是有點痛呢！」\n[0f]",
+    "6": "「看來迦樓羅應付不了你，\n也不全是在說謊呢！」\n[0f]",
+    "7": "「真沒想到！\n人類居然，\n這麼能打！」[0f]",
+    "8": "「為什麼？為什麼，\n明明已經傷成這樣，\n還不肯停止戰鬥呢？」[0f]",
+    "9": "「為什麼？為什麼，\n不趁著還能逃跑，\n趕快逃走呢？」[0f]",
+    "10": "「為什麼？為什麼，\n不把礙手礙腳的同伴，\n丟下不管呢？」[0f]",
+    "11": "「為什麼？為什麼，\n不露出痛苦的表情！\n你早就筋疲力盡了吧！」[0f]",
+    "12": "「不懂！我不懂！\n這就是勇氣的力量嗎？」\n[0f]",
+    "13": "「不懂！我不懂！\n友情真的那麼重要嗎？」\n[0f]",
+    "14": "「不懂！我不懂！\n果然是迦樓羅，\n在說謊嗎？」[0f]",
+    "15": "「不懂！我不懂！\n鬼族以外的生物，\n竟也能絞盡腦汁！」[0f]",
+    "16": "「不懂！不懂！\n不懂！我不懂！\n難道父王錯了？」[0f]\n「達伊達哥哥錯了嗎？\n還是迦樓羅錯了？\n誰來告訴我真相啊！」\n「我已經\n不懂了！不懂了！\n不懂了！不懂了！」\n「不懂了！不懂了！\n不懂了！不懂了！\n我不懂啊────────！」[0f]",
+    "17": "夜叉姬\n「原來我真的，\n什麼都不知道啊！」[0f]\n「在地獄深處，\n被大家捧著叫公主，\n只顧著玩樂而已！」\n「我從來沒有想過，\n身為父親的伐折羅王，\n竟然也可能會做錯事！」\n「但與[11]先生戰鬥後，\n我明白了一件事！\n現在的鬼族天下錯了！」\n「父王和達伊達哥哥，\n全都被迦樓羅\n給欺騙了！」\n「我要擴張鬼族的天下！」[0f]\n「的確是很動聽的話！\n可是迦樓羅只是想藉此，\n讓自己爬到更高的位置！」\n「[11]！拜託你！\n請帶著我，\n一起踏上旅程！」\n「你對敗在手下的人，\n所展現的慈悲之心，\n改變了身為鬼族的我！」\n「[11]先生的想法，\n我想讓鬼族的大家明白！」\n\n「拜託你！\n帶我一起走吧！」\n",
+    "18": "「你不相信我嗎！\n因為我是鬼族的女兒？」\n\n「我是真心想把\n[11]先生的想法，\n告訴所有人啊！」\n「拜託你！\n帶我一起走吧！」\n",
+    "19": "「咦？」[0f]\n「[11]…[11]！\n啊……謝謝您！」\n[0f]"
+  },
+  "sourceRecords": {
+    "0": { "decodedOffset": "0x0", "offset": "0x7f56e", "originalHex": "7d1859addda5b2a4915c015018d01848bc50abb79be2f5a20150b3f5a3509ea8a291dda8501816a4a85b7e0f", "coverageBefore": "untranslated" },
+    "1": { "decodedOffset": "0x2d", "offset": "0x7f59b", "originalHex": "7d189c1904a5a950b2f5a350b2f5a30150a1b5911871d0509f979abd5091b8bbb55c7e010f", "coverageBefore": "untranslated" },
+    "2": { "decodedOffset": "0x53", "offset": "0x7f5c1", "originalHex": "7d99bda4501a181a19b250b598b6b9a491bdd6f6015004da91da0318bd9aaed0509091a2a50150a49ab6a491a8b250909fb7ae93a75c7e0f", "coverageBefore": "untranslated" },
+    "3": {
+      "screenshotIds": [89],
+      "decodedOffset": "0x8c",
+      "offset": "0x7f5fa",
+      "originalHex": "7da4a5b55c5002c9d050188aa394b2f5a20150a295d3bd509ba291b8a8d6f6a497a25b7e010f",
+      "source": "「なによ！ わたしが 女とおもって\n てかげん しているのじゃなくて？」\n[0f]",
+      "coverageBefore": "untranslated"
+    },
+    "4": { "decodedOffset": "0xb3", "offset": "0x7f621", "originalHex": "7dab92bd5c509ebda401501a181a19b250be96b8a8a75c7e010f", "coverageBefore": "untranslated" },
+    "5": { "decodedOffset": "0xce", "offset": "0x7f63c", "originalHex": "7d187ba8a950a0f8f5a3015096919fbbb55c7e010f", "coverageBefore": "untranslated" },
+    "6": { "decodedOffset": "0xe4", "offset": "0x7f652", "originalHex": "7d0495b8b603d050a299d7f5a291b8a8b20150aebdd5b65004929e03d6f6a491b592a75c7e010f", "coverageBefore": "untranslated" },
+    "7": { "decodedOffset": "0x10c", "offset": "0x7f67a", "originalHex": "7d9bb6a495f59fbb5c0150184719b6d05099bda4a501509f9f9593b8a4bda25c7e0f", "coverageBefore": "untranslated" },
+    "8": { "decodedOffset": "0x12f", "offset": "0x7f69d", "originalHex": "7da4d8a4a85b50a4d801509ebda4a5500496d703a191a2b8a8a501501a1c9299a3bc50b3b1a491a85b7e0f", "coverageBefore": "untranslated" },
+    "9": { "decodedOffset": "0x15b", "offset": "0x7f6c9", "originalHex": "7da4d8a4a85b50a4d80150a5d3b6b9b892a0a50150a5d3a29baebba491a85b7e0f", "coverageBefore": "untranslated" },
+    "10": { "decodedOffset": "0x17d", "offset": "0x7f6eb", "originalHex": "7da4d8a4a85b50a4d80150909bbeaea391a45019b519b6bc015018b09ca2a29baebba491a85b7e0f", "coverageBefore": "untranslated" },
+    "11": { "decodedOffset": "0x1a6", "offset": "0x7f714", "originalHex": "7da4d8a4a85b50a4d80150a1b6915018bfbc509ba491a85c0150b29250aca3aca350a4bdbe9bf85c7e0f", "coverageBefore": "untranslated" },
+    "12": { "decodedOffset": "0x1d1", "offset": "0x7f73f", "originalHex": "7dbb95b6a4915c50bb95b6a491bb5c015099b9d05018d01848a81816a4a85b7e010f", "coverageBefore": "untranslated" },
+    "13": { "decodedOffset": "0x1f4", "offset": "0x7f762", "originalHex": "7dbb95b6a4915c50bb95b6a491bb5c01501a2b187ed0509ebda4a550da91d6a4a85b7e010f", "coverageBefore": "untranslated" },
+    "14": { "decodedOffset": "0x21a", "offset": "0x7f788", "originalHex": "7dbb95b6a4915c50bb95b6a491bb5c0150b3f5e3b7500495b8b603d0015004929e03bc50a191a291b8a85b7e0f", "coverageBefore": "untranslated" },
+    "15": { "decodedOffset": "0x248", "offset": "0x7f7b6", "originalHex": "7dbb95b6a4915c50bb95b6a491bb5c015018db5091d091a8509196b2a8d0015018c71816bc50abb79be2b8a4bda25c7e0f", "coverageBefore": "untranslated" },
+    "16": {
+      "screenshotIds": [91, 92, 93],
+      "decodedOffset": "0x27a",
+      "offset": "0x7f7e8",
+      "originalHex": "7dbb95b6a4915c50bb95b6a4915c0150bb95b6a4915c50bb95b6a491bb5c01509418b69aaed050aea0d0f5a291b8a85b7e0f017d04da91da0318bd9aaed050aea0d0f5a2b8a85b01509eb9a3b2500495b8b603a4a85b0150dab995501a041a30a899a3bc50949b93a25c7e017db2925002c9a5a90150bb95b6a4915c50bb95b6a4915c0150bb95b6a4915c50bb95b6a4915c7e017dbb95b6a4915c50bb95b6a4915c0150bb95b6a4915c50bb95b6a4915c0150bb95b6a491808080808080808080f55c7e0f",
+      "source": "「わからない！ わからない！\n わからない！ わからないわ！\n お父さまが まちがっているの？」[0f]\n「ダイダ兄さまが まちがってるの？\n それとも カルラなの？\n だれか 本当のことを おしえて！」\n「もう わたしには\n わからない！ わからない！\n わからない！ わからない！」\n「わからない！ わからない！\n わからない！ わからない！\n わからないーーーーーーーーーっ！」[0f]",
+      "coverageBefore": "untranslated"
+    },
+    "17": {
+      "screenshotIds": [94, 95, 96],
+      "decodedOffset": "0x340",
+      "offset": "0x7f8ae",
+      "originalHex": "18081809180a017d02c9a950adbda392a501501854b2509bb6a495f59fa8a75c7e0f017d189c1904a85094979e99be0150180a9aae5c50180a9aaea350959bd795b9a201509fda501966bdbe919fda98a4a8a75c7e017d18b6be90b8501a871a6a19141841d00150aea0d0f5a291b895b29bb9a49150a4bda2015095bdd0939f99a3b250a495f59f5c7e017dbeb250119abda3501a1cf5a20150bb95f59f99a3d05090b8a85c0150187ba85018dba81895a950aea0d0f5a2b8bb5c7e017d18b6184ab25004da91da0318bd9aaeb20150afbda4500495b8b603a50150daae9ab9a291b8a8b55c7e017d18dba8189518d7bc50184096979b9f915c7e0f017d9f9b95a5509cdeb69b91501a1a18f0a75c0150beb2500495b8b603a95018dba8189518d7bc0150184096979ba250a89b184ad0b79f91da985c7e017d115c5094a7d0915c015090a49fa850199ba5015002c9bc50a1b9a291f5a25c7e017d90a49fd018b09db85099b69bb19f19e9aca8015091a1979bafa8501817a9015018dbbe90b85002c9bc509593ae9b9f5c7e017d119abda85095bdd093bc015018dba8afbda4a55018c7b69d9f91a85c7e01017d94a7d0915c015002c9bc50a1b9a291f5a25c7e01",
+      "coverageBefore": "untranslated"
+    },
+    "18": { "decodedOffset": "0x504", "offset": "0x7fa72", "originalHex": "7d1a08d6a250b2b693a491a8a75c015002c9d05018dba8b09cb1da95b65b7e01017d02c9a9501a041848be0150119abda85095bdd093bc0150afbda4a55018c7b69d9f91a85c7e017d94a7d0915c015002c9bc50a1b9a291f5a25c7e01", "coverageBefore": "untranslated" },
+    "19": { "decodedOffset": "0x562", "offset": "0x7fad0", "originalHex": "7d935b7e0f017d115c505f5f119abd5c0150905f5f5002bd9c5c7e010f", "coverageBefore": "untranslated" }
+  }
+}

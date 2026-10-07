@@ -1,0 +1,88 @@
+{
+  "version": "v29",
+  "status": "deployed-readback-verified-screenshots-removed",
+  "targetSha256": "52d10219f8c501b33d7841c363b79304932fd1fd33ab84fae9f28843afbd54cd",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV28": 479,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2209,
+    "untranslatedRecords": 5579,
+    "emptyRecords": 82
+  },
+  "glyphs": 1759,
+  "glyphCapacity": 2112,
+  "enemyNames": 247,
+  "alternateEnemyLabels": 247,
+  "preservedEmptySlots": {
+    "names": [
+      0
+    ],
+    "readings": [
+      0
+    ]
+  },
+  "existingEnemyTranslationsPreserved": true,
+  "duplicateEncounterNamesConsistent": true,
+  "editorialTransliterationIndexes": [
+    28,
+    46,
+    49,
+    78,
+    79,
+    94,
+    95,
+    96,
+    112,
+    113,
+    133,
+    135,
+    145,
+    146,
+    147,
+    154,
+    195,
+    196
+  ],
+  "maximumNamePixels": 72,
+  "extraLabels": [
+    "金錢",
+    "道具",
+    "說明",
+    "取消",
+    "製藥"
+  ],
+  "verification": {
+    "fullMenuSuitePassed": true,
+    "all247NamesAndAlternateLabelsEncodedExactly": true,
+    "allUniqueEnemyLabelsRenderedInSyntheticMenuLayouts": true,
+    "nativeHuffmanReadingCases": 8,
+    "originalRelocationFramesIdentical": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v29",
+    "sha256": "52d10219f8c501b33d7841c363b79304932fd1fd33ab84fae9f28843afbd54cd",
+    "deviceWrites": true,
+    "screenshotsDeleted": 3,
+    "savesWritten": false,
+    "deploymentReport": "deployment-verification.json"
+  },
+  "remainingJapanese": [
+    "Five pending village-dialogue screenshots in the v28 backup",
+    "Other untranslated game text"
+  ],
+  "notVerified": [
+    "Every enemy in a natural battle",
+    "Every alternate label through its natural caller",
+    "Full playthrough",
+    "Physical-device boot",
+    "All earlier dialogue suites on this exact hash"
+  ],
+  "namingNote": "Rare kana names include editorial transliterations, not claimed official Chinese names. All nonempty slots are covered, including possible internal/test entries."
+}

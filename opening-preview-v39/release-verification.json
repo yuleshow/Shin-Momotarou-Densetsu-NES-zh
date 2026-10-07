@@ -1,0 +1,56 @@
+{
+  "version": "v39",
+  "status": "locally-verified-not-deployed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "4f88b3bdef2863d084637ce1ad61c0735d484b9d74e4c7afef67aa189a8f9dad",
+  "addedRecordsSinceV38": 63,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2952,
+    "untranslatedRecords": 4836,
+    "emptyRecords": 82
+  },
+  "glyphs": 2013,
+  "glyphCapacity": 2112,
+  "previousTranslationsPreserved": true,
+  "reviewedScreenshots": 36,
+  "translatedScreenshotDialogue": 35,
+  "verification": {
+    "nativeDialogueScenes": 93,
+    "exactWords": 188,
+    "allAddedRecordsTested": true,
+    "originalRelocationFramesIdentical": true,
+    "previewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNamesAndReadingsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "ipsRoundtripPassed": true
+  },
+  "device": {
+    "deployed": false,
+    "verifiedVersion": "v37",
+    "verifiedSha256": "b4f7d64a740ea2906c2fda9c949563a8fcf6dd236c647e567ca02367538f820c",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false,
+    "cheatsWritten": false
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "All prior dialogue suites on this exact hash",
+    "Natural village/waterfall event branches and battle effects",
+    "All dynamic names and values in natural callers"
+  ],
+  "remainingJapanese": [
+    "4836 catalog records",
+    "Saved companion names",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph"
+  ]
+}

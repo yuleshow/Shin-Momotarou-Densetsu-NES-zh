@@ -1,0 +1,38 @@
+{
+  "pointerOffset": "0x701aa",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "tanabata-star-well",
+  "decodedBytes": 1579,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 23 source records reviewed. Preserve the shared origins of Tanabata/moon/dragon-palace peoples, Kaguya's world-support role and the distinct parentage of Vajra's three children.",
+    "The Star Well grants one wish per Four Gods sword, not one wish for the whole set. Keep cancel/reselect, impossible maximum-MP wish and already-capped stat branches separate.",
+    "Record 11 contains a character name followed by two weapon names; record 22 contains a character name, stat label and numeric gain. Test character/stat fields with five cells, weapons with eight and numbers with five digits."
+  ],
+  "records": {
+    "0": "「這裡是銀河上的七夕村，\n從天地分開之時，\n就存在的古老村落！」",
+    "1": "「七夕之民從銀河，\n一直注視著，\n下界的變遷……」\n「但願[02a0]先生，\n能在村裡聽到，\n有用的消息……」",
+    "2": "「七夕之民、月之民，\n以及龍宮之民，\n原本都是同一族人！」",
+    "3": "「月之公主輝夜姬，\n是掌管天道的，\n尊貴神明的後裔！」\n「如果輝夜姬逝去，\n大地就會失去支撐，\n徹底崩毀！」",
+    "4": "「[02a0]先生的活躍身影，\n我們一直都在，\n銀河上看著喔！」\n「對了！可以的話，\n請您收下這個！」\n",
+    "5": "「[02a0]先生的活躍身影，\n我們一直都在，\n銀河上看著喔！」",
+    "6": "「伐折羅王的野心，\n是讓鬼族，\n統治所有世界！」\n「伐折羅王的三個孩子，\n都繼承著，\n不同的血統！」\n「鬼與鬼所生的孩子！」\n\n\n「鬼與月之民所生的孩子！」\n\n\n「鬼與人類所生的孩子！」\n\n\n「讓孩子們擁有各界的血統，\n或許正是，\n他妄圖吞併所有世界的證明！」",
+    "7": "「達伊達王子，\n繼承了純粹的鬼族血統，\n是真正的鬼！」\n「阿闍世王子則繼承，\n遭鬼族擄走的，\n月之民的血統！」\n「至於夜叉姬，\n繼承的則是，\n人類的血統！」",
+    "8": "「鬼族也好，人類也好，\n世事總是變幻無常……」\n\n「七夕之民，\n將永遠在這裡，\n守望著下界。」",
+    "9": "「玄武、白虎、朱雀、青龍！\n每一把劍，\n只能實現一個願望！」",
+    "10": "「這是匯集星辰光輝的，\n星之井……」\n\n「關於這口井，\n有個不可思議的傳說！」\n\n「沉睡在世間某處的，\n四把四神之劍……」\n\n「玄武劍……白虎劍……\n朱雀劍……青龍劍……」\n\n「只要帶著其中，\n任何一把四神之劍，\n星辰就會為持劍者實現願望！」",
+    "11": "「哎呀！[09]先生，\n您手中拿的，\n不正是[09]嗎！」\n「在井前用[09]，\n揮動一下，\n試試看吧！」",
+    "12": "星之井湧出的，\n金黃色光芒，\n照亮了[09]！\n井底傳來了，\n美妙的聲音！\n",
+    "13": "「玄武、白虎、朱雀、青龍！\n每一把劍，\n只能實現一個願望！」",
+    "14": "「懷抱[09]之子！\n讓我為你，\n實現一個心願吧！」",
+    "15": "「懷抱[09]之子！\n你想讓[09]，\n提高[0a]點嗎？」",
+    "16": "「那麼，\n要再選一次嗎？」\n",
+    "17": "「那就等你決定，\n要實現哪個願望，\n再過來吧！」",
+    "18": "「懷抱[09]之子！\n你的最大技力，\n是無法提高的！」",
+    "19": "「懷抱[09]之子！\n想提高你的[09]，\n這個願望……」\n「已經，\n到達極限了。」\n",
+    "20": "「懷抱[09]之子！\n[09]的願望，\n就讓我來實現吧！」",
+    "21": "「懷抱[09]之子！\n[09]的願望，\n就讓我來實現吧！」",
+    "22": "[09]的，\n[09]上升[0a]點！\n"
+  }
+}

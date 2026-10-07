@@ -1,0 +1,45 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "status": "native-verified-scope-only-not-released",
+  "inlineMenus": [
+    {
+      "name": "quiz-early-answers",
+      "start": "0x5dc85",
+      "end": "0x5dcd3",
+      "target": "0x236300",
+      "pointerOperand": "0x5dc67",
+      "bankOperand": "0x5dc6e",
+      "originalBank": "85",
+      "trailerHex": "105603105703105803",
+      "entries": [
+        { "offset": "0x5dc92", "originalHex": "999f93", "source": "こたえ", "translation": "選擇" }
+      ]
+    },
+    {
+      "name": "quiz-middle-answers",
+      "start": "0x5dcd3",
+      "end": "0x5dd21",
+      "target": "0x236380",
+      "pointerOperand": "0x5dc76",
+      "bankOperand": "0x5dc7d",
+      "originalBank": "85",
+      "trailerHex": "115603115703115803",
+      "entries": [
+        { "offset": "0x5dce0", "originalHex": "1b8293", "source": "答え", "translation": "選擇" }
+      ]
+    },
+    {
+      "name": "quiz-score",
+      "start": "0x5dd3d",
+      "end": "0x5dd4e",
+      "target": "0x236400",
+      "pointerOperand": "0x5dd2e",
+      "bankOperand": "0x5dd35",
+      "originalBank": "85",
+      "trailerHex": "006803",
+      "entries": [
+        { "offset": "0x5dd40", "originalHex": "1af51947", "source": "点数", "translation": "分數" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pointerOffset": "0x7016e",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "daitaro-rope-hermitage",
+  "decodedBytes": 188,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "2026-10-03 screenshots: 大太郎 introduces himself and explains that the rope sank in the lake behind his hermitage. Both original records visually reviewed."
+  ],
+  "records": {
+    "0": "「[02a0]先生！快去冰之塔\n用這個去救醜女大人吧！\n抖抖抖！啊啵！」",
+    "1": "「俺叫大太郎，\n就是俺啦，啊啵！」\n\n「你想要鉤繩？\n它沉在這間庵後面，\n那座湖裡啦，啊啵！」\n「只要是為了[02a0]先生，\n俺就幫你撈上來啦！\n跟俺來吧，啊啵！」"
+  }
+}

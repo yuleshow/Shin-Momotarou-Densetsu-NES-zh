@@ -1,0 +1,2498 @@
+[
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 1,
+    "offset": "0x3d",
+    "originalHex": "7d02a09abd5c5091f59fbd0150189c184aa5509593f5a201509b9f97bc50a3a3a893ae9c955b7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！要不要先"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回到地上，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "重新準備一下呢？」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 2,
+    "offset": "0x65",
+    "originalHex": "7d9eb9bea950189c184aac0150ae91b7ae9bf8925c7e01",
+    "segments": [
+      {
+        "text": "「那麼，我們就"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回到地上吧！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 3,
+    "offset": "0x7d",
+    "originalHex": "7d18c1bc5097d2b9de015018de19a0a81b2b19b6be9c5c50dd9295015018b7180a9aaebc5094195b9802c55c7e",
+    "segments": [
+      {
+        "text": "「穿過這道門，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就是龍宮的大廳！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請務必救出乙姬大人！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 4,
+    "offset": "0xab",
+    "originalHex": "7d18db9fa0b15c5099a818de19a0bc0150194a198abe5098d09ca3a95c7e01",
+    "segments": [
+      {
+        "text": "「可惡的鬼族！竟敢"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "穿著髒鞋踐踏這座龍宮！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 5,
+    "offset": "0xcb",
+    "originalHex": "7d18b7180a9aaebc50195b98a2919fda96015002bd9b9f5c7e01",
+    "segments": [
+      {
+        "text": "「多謝您"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了乙姬大人！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 6,
+    "offset": "0xe6",
+    "originalHex": "7d02a09abd5c5018dba950dd99a50150aa9ebdbe91b89550bb95b7ae9dbd5c0150dd929550941848bca198a25c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！不知道鬼族"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "會躲在什麼地方！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請務必小心！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 7,
+    "offset": "0x115",
+    "originalHex": "7d02a09abd5c5018db9f91d6a8199b0150d0bddef5a202c5a75c7e01",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！打鬼的旅程，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請加油喔！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 8,
+    "offset": "0x132",
+    "originalHex": "7d18b7180a9aaea85019a318bfa9015002c99fa0a8509b90bb9dbe9c5c7e01017d18dbddb2a950bbb9bbb9a8509b90bb9dbc015092de9492a3509192a8be9bf892955c7e01",
+    "segments": [
+      {
+        "text": "「乙姬大人的笑容，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就是我們的幸福！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「鬼族難道想把"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我們的幸福奪走嗎！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 9,
+    "offset": "0x178",
+    "originalHex": "7d18d4a81998a5a95094b2bba6187dd001501a36bdbe91b899a3b25090b89e92be9c5c7e01017d02a09abdd050949ad09ba819c5b20150dd9995a5501a36bdbe015091b895b29bb9ae9dbda75c7e",
+    "segments": [
+      {
+        "text": "「聽說海底有時"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "會沉著意想不到的寶物！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生正在尋找的東西，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "說不定也沉在"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "某處的海底呢！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 11,
+    "offset": "0x1e1",
+    "originalHex": "7d18de19a0bc5094195b9897da9ab7015002bd9b9f5c0150dd92955099b9bc50941993a002c57e",
+    "segments": [
+      {
+        "text": "「多謝您"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了龍宮！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請收下這個吧。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 12,
+    "offset": "0x209",
+    "originalHex": "7d02a09abd9fa0a5a9015094b991a81a1a18f0b250d4d591ae9dbd7e01017d18eea950979ab7b39c91a8be0150a9b3b1a5509418d1e102c5a77e01",
+    "segments": [
+      {
+        "text": "「對於"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生各位的大恩，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "真是不知該如何感謝。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「魚很容易腐壞，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請趁早吃掉喔。」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 13,
+    "offset": "0x245",
+    "originalHex": "7d02a09abd5c0150afd4a3a4509419a1bc015019c3a519d7b9b6b9ae9b9fa75c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您得到了一座"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好氣派的城堡呢！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 14,
+    "offset": "0x267",
+    "originalHex": "7d905c5002a09abd5c0150180418059abdb250d491f59bf8be9c955c7e01017ddd92955018b7180a9aaebc015094195b9802c5ae9d5c7e01",
+    "segments": [
+      {
+        "text": "「啊！"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "浦島先生也一起來了嗎！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請您務必"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救出乙姬大人！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 15,
+    "offset": "0x2a0",
+    "originalHex": "7d18de19a0bc5094195b9897da9ab7015002bd9b9f5c0150dd92955099b9bc50941993a002c57e",
+    "segments": [
+      {
+        "text": "「多謝您"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了龍宮！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請收下這個吧。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 16,
+    "offset": "0x2c8",
+    "originalHex": "7d02a09abd9fa0a5a9015094b991a81a1a18f0b250d4d591ae9dbd7e01017d18eea950979ab7b39c91a8be0150a9b3b1a5509418d1e102c5a77e01",
+    "segments": [
+      {
+        "text": "「對於"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生各位的大恩，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "真是不知該如何感謝。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「魚很容易腐壞，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請趁早吃掉喔。」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 17,
+    "offset": "0x304",
+    "originalHex": "7dae9a955019a1a550a8f5a2015018de19a0bc509fd7a7b81a24d05090ba92a3a9015094b291b2b5b6a699a3be9b9f5c7e017d9b95b25002a09abda4a8be01501a4d184950dff597b7be9c5c7e01",
+    "segments": [
+      {
+        "text": "「真沒想到，竟然有人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "乘著城堡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "來拜訪龍宮！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「而且還是"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "真是讓人驚訝了兩次！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 18,
+    "offset": "0x353",
+    "originalHex": "7d18b7180a9aaed050a497a4b9de015018d4a8b1d2afa95090bba8b592a501509693a29bae92a8be9c5c7e",
+    "segments": [
+      {
+        "text": "「乙姬大人若有個萬一，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "大海的恩惠，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就會像泡沫一樣消失！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 19,
+    "offset": "0x37f",
+    "originalHex": "7d18de19a0bc5094195b9897da9ab7015002bd9b9f5c0150dd92955099b9bc50941993a002c57e",
+    "segments": [
+      {
+        "text": "「多謝您"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了龍宮！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請收下這個吧。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 20,
+    "offset": "0x3a7",
+    "originalHex": "7d02a09abd9fa0a5a9015094b991a81a1a18f0b250d4d591ae9dbd7e01017d18eea950979ab7b39c91a8be0150a9b3b1a5509418d1e102c5a77e01",
+    "segments": [
+      {
+        "text": "「對於"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生各位的大恩，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "真是不知該如何感謝。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「魚很容易腐壞，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請趁早吃掉喔。」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 21,
+    "offset": "0x3e3",
+    "originalHex": "7d18b7180a9aaea95091a1b2015002a09abd9fa0a850b4979c93bc015090bdd6a294b6b9ae9c5c7e017dd8aa5018b7180a9aaea50150949091a5a4f5a25002c5ae9d5c7e01",
+    "segments": [
+      {
+        "text": "「乙姬大人一直"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "掛念著"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生各位"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "往後的旅程！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請務必去"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "見見乙姬大人！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 22,
+    "offset": "0x429",
+    "originalHex": "7d18dba4dda55099a818669b915018de19a0bc015002c9a250a4b8b2a8be9c955c7e01",
+    "segments": [
+      {
+        "text": "「怎能把這座美麗的龍宮，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "交到鬼族手裡！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 23,
+    "offset": "0x44d",
+    "originalHex": "7d18de19a0bc5094195b9897da9ab7015002bd9b9f5c0150dd92955099b9bc50941993a002c57e",
+    "segments": [
+      {
+        "text": "「多謝您"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了龍宮！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請收下這個吧。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 24,
+    "offset": "0x475",
+    "originalHex": "7d02a09abd9fa0a5a9015094b991a81a1a18f0b250d4d591ae9dbd7e01017d18eea950979ab7b39c91a8be0150a9b3b1a5509418d1e102c5a77e01",
+    "segments": [
+      {
+        "text": "「對於"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生各位的大恩，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "真是不知該如何感謝。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「魚很容易腐壞，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請趁早吃掉喔。」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 25,
+    "offset": "0x4b1",
+    "originalHex": "7d18541849b25018dea81a89bc9b9f18efd0015018de19a019a1a550193bdc91a218b9a291ae9c5c7e01017d02c99fa0b25091d5a39192a396a901501a1c92509597d4be9c5c7e01",
+    "segments": [
+      {
+        "text": "「龍形的船隻，已經"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好幾次靠近龍宮城了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「萬一有事，我們也已"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "做好戰鬥的準備！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 26,
+    "offset": "0x4fa",
+    "originalHex": "7d0495b8b603a85019b8184b9fa0d0015018de19a0bc5090b69ba518b9ae9b9f5c015019db9fa0a950dd92a4b8a8be9bf8925c7e",
+    "segments": [
+      {
+        "text": "「迦樓羅的部下們，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "來龍宮搗亂了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我們究竟會怎麼樣啊！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 27,
+    "offset": "0x52f",
+    "originalHex": "7d18de19a0bc5094195b9897da9ab7015002bd9b9f5c0150dd92955099b9bc50941993a002c57e",
+    "segments": [
+      {
+        "text": "「多謝您"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了龍宮！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請收下這個吧。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 28,
+    "offset": "0x557",
+    "originalHex": "7d99bb95f59f5f5c0150195b95f59fa4bda20150aeda501a08d6b6b9ae9dbd5c7e017d18eea950979ab7b39c91a8be0150a9b3b1a5509418d1e102c5a77e01",
+    "segments": [
+      {
+        "text": "「好可怕……！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我到現在還不敢相信，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "自己竟然得救了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「魚很容易腐壞，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請趁早吃掉喔。」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 29,
+    "offset": "0x597",
+    "originalHex": "7d02a09abd5c5018d4a895a49fa50150180d198819aea391925019881847a81805d0015090b8a8a950d4d9bdd6be9c955b7e017d180d198819aea950591847a819881847d0509cb00150a399b5a81805da9e92be9c5c01509fd7a7a2afa2a9509195d0be9c955b7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！海的另一端，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "有座叫神仙鄉的仙人島，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您知道嗎？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「聽說神仙鄉是八位仙人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "居住的長生不老之島！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您要不要去拜訪看看？」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 30,
+    "offset": "0x600",
+    "originalHex": "7d18dba95018de19a0d050ad9b91a8bea49701509fda5018d4a8187dbc015092de91a518b99fa8be9c5c7e",
+    "segments": [
+      {
+        "text": "「鬼族並不想要龍宮，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "他們只是來"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "搶奪海中寶物而已！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 31,
+    "offset": "0x62c",
+    "originalHex": "7d18de19a0bc5094195b9897da9ab7015002bd9b9f5c0150dd92955099b9bc50941993a002c57e",
+    "segments": [
+      {
+        "text": "「多謝您"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了龍宮！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請收下這個吧。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 32,
+    "offset": "0x654",
+    "originalHex": "7d99bb95f59f5f5c0150195b95f59fa4bda20150aeda501a08d6b6b9ae9dbd5c7e017d18eea950979ab7b39c91a8be0150a9b3b1a5509418d1e102c5a77e01",
+    "segments": [
+      {
+        "text": "「好可怕……！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我到現在還不敢相信，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "自己竟然得救了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「魚很容易腐壞，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請趁早吃掉喔。」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 33,
+    "offset": "0x694",
+    "originalHex": "7d184718eea81814aca95019bf96ae9b9f955b01501847bc1814a55019d7b99fd0b7ae9dbdd0015019f019f119f29abdda98a9501840186a186ba4bdbe9c7e",
+    "segments": [
+      {
+        "text": "「您去過人魚村了嗎？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "她們不喜歡讓人類進村，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不過左源內先生就沒問題。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 34,
+    "offset": "0x6d4",
+    "originalHex": "7d18de19a019a1a850aebbb7a50150198296afdab9b850049abdd403d0015099bda4a55018669b91a4bda25c7e",
+    "segments": [
+      {
+        "text": "「龍宮城四周"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "盛開的珊瑚，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然如此美麗！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 35,
+    "offset": "0x702",
+    "originalHex": "7d0495b8b603d05018de19a0a55018b9a2b20150aeb2b7a696ae9c5c0150bbb9b6a5b25091d6d05090b7ae9c5c7e",
+    "segments": [
+      {
+        "text": "「就算迦樓羅來到龍宮，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我們也會守護到底！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我們也有自己的骨氣！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 36,
+    "offset": "0x731",
+    "originalHex": "7d9191955c5018031af4a819cdda985092de935c01500495b8b6031907d05094b5ba99dfa5a4b85c7e01017d945b7e0101017d02b6a95002a05c7e0101",
+    "segments": [
+      {
+        "text": "「聽好了！只搶值錢的東西！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "迦樓羅大人一定會高興！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「嗯？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「你是"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 37,
+    "offset": "0x76f",
+    "originalHex": "7d91aeaebe50049abdd403bc18669b91a3015095bdd69f99a3a4dd50a495f59f5c015002a09abda35090f5a295b6be9c7e",
+    "segments": [
+      {
+        "text": "「以前我從沒覺得"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "珊瑚有多美麗！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "直到遇見"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生之後。」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 38,
+    "offset": "0x7a1",
+    "originalHex": "7d184419adb7a81805d05019269bdca101509db790d0f5a2b850be9cf5a25b7e01017d9a9cd0a5509e99aebea8501816a901500495b8b603a5b25018dba5b2015090b7ae9dbdb55c50bea9a4d85f5b7e",
+    "segments": [
+      {
+        "text": "「您說竹取島，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "正在一點一點升起來？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「那麼強大的力量，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就連迦樓羅和鬼族"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "都沒有啊！那究竟為何……？」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 39,
+    "offset": "0x7f2",
+    "originalHex": "7d0495b8b6031907a950184019ea1889a5015090a8941a24bc501adbe0a550a0d091a4915c01501918180da3501adbdeb9b85090a8941a24bc5c7e",
+    "segments": [
+      {
+        "text": "「迦樓羅大人一定會把"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那位大人請到大江山！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那位被稱為軍神的大人！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 40,
+    "offset": "0x82e",
+    "originalHex": "7d18dba85018811918180da39193de015018e018a218f318889aae5c5018811883189518d79aae5c01501914189a18c17bb69bf892b2bd7c9aaeda5c7e017d18811883189518d79aaea950b292015019d81ab8a49af5a291b895b65091a0debd0150180f91a8a9501914189a18c19aaeda5c7e",
+    "segments": [
+      {
+        "text": "「說到鬼族的三軍神，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就是酒吞童子、三千世界，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "還有羅生門大人！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「三千世界大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "已經引退了，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "所以最強的是羅生門大人！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 41,
+    "offset": "0x8a2",
+    "originalHex": "7d02a09abd5c5099b9bc50dd92d95c015018dba550be90f5a2b25095a4b6d701501a1dd3b899a3d050be96ae9c5c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！請收下這個！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就算遇到鬼族，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也一定能夠逃走！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 42,
+    "offset": "0x8d2",
+    "originalHex": "7d0495b8b6031907a950184019ea1889bc015018dba8189518d7be5091a0debd50184096a401501980a5509cb8bddaa35091f5a2ae9b9f7e017d97b9d2b9b20150941848bca19802c55c7e01",
+    "segments": [
+      {
+        "text": "「迦樓羅大人說，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "要把大江山變成"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "鬼族世界最大的要塞！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請您千萬"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "務必小心！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 43,
+    "offset": "0x91f",
+    "originalHex": "7d18dba85018811918180db250180f91d0015004da91da0318411888a850180f9aa901501a871a6a191418419aae50b4d7b7da95b6a45c7e",
+    "segments": [
+      {
+        "text": "「鬼族的三軍神雖然很強，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "但達伊達王子的力量，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "可是繼承自伐折羅王大人啊！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 44,
+    "offset": "0x958",
+    "originalHex": "7d02a09abd5c5099a85018de19a0a899a3bc0150941848a59598a2919fda91a2015018b7180aa95092b99bf792d4d591ae9c5c7e017daaa3a396a850a4d29ab1a50150ae91bc50aaa39a9b0150d4b6bda502d87e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！您如此"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "掛念龍宮的事情，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "乙姬真的非常高興！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「讓您稍作消遣，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "要不要欣賞"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我的一支舞呢？」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 45,
+    "offset": "0x9ad",
+    "originalHex": "7dbea950d4b4b8b7a35c7e0101",
+    "segments": [
+      {
+        "text": "「那麼，請慢慢欣賞！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 46,
+    "offset": "0x9bb",
+    "originalHex": "7dbea95091a1beb2015094b5b702c55c509f919b9f0150b2a2a49bb250be96ae9dbdd07e",
+    "segments": [
+      {
+        "text": "「雖然沒有什麼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "能好好招待各位，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "但請隨時再來坐坐！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 47,
+    "offset": "0x9e0",
+    "originalHex": "7d94b35b5002a09abd5c015018db9f91d6be50919ed09b91a8a50150b597509fd7a7a202c5ae9b9f5c7e017d9e929e9250180418059abda80150941916a5199ca119c5d05018b0a195b7ae9b9fa85c0150d8aa50180418059abdbc509999ac5c7e",
+    "segments": [
+      {
+        "text": "「哎呀！"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "討伐鬼族這麼忙，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您還特地前來，真是多謝！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「對了，我找到一件"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "能幫上浦島先生的東西！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請務必帶浦島先生來這裡！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 48,
+    "offset": "0xa42",
+    "originalHex": "7d94b35b5002a09abd5c015018db9f91d6be50919ed09b91a8a50150b597509fd7a7a202c5ae9b9f5c7e017da0f892dd50b591a399babe9b9f5c0150180418059abda550ab9abb9b9119c5d0015018de19a019a1be5018b0a195f59fbdbe9ca85c7e017d189c184ba850187da819b6a50150197f183a9ba290b7ae9ca8be0150dd92d950941993a002c5ae9d5c7e017d18db9f91d6a850941916a50150199ca2a25002c5a75c7e01",
+    "segments": [
+      {
+        "text": "「哎呀！"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "討伐鬼族這麼忙，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您還特地前來，真是多謝！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「您來得正好！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "龍宮城裡發現了一件"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "很適合浦島先生的東西！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「已放在地下寶物殿，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "替您準備好了，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請儘管帶走吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「希望能在討伐鬼族時，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "助您一臂之力！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 49,
+    "offset": "0xaeb",
+    "originalHex": "7d18b7180aa9501a08d6a294b7ae9c5c7e0101017d02a09abd9fa0d05095a4b6d7b3015018db9f91d6bc50a49ba3d3b899a3bc5c7e01",
+    "segments": [
+      {
+        "text": "「乙姬深信不疑！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生各位，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一定能夠完成討伐鬼族之事！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 50,
+    "offset": "0xb22",
+    "originalHex": "18b7180a017db292aaa39a9b50ae91bc0150d4b6bda502d87e",
+    "segments": [
+      {
+        "text": "乙姬"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「還要再欣賞"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一支舞嗎？」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 51,
+    "offset": "0xb3c",
+    "originalHex": "7dbea950d4b4b8b7a35c7e0101",
+    "segments": [
+      {
+        "text": "「那麼，請慢慢欣賞！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "7ddd92beb2509191b2a8a9509ca294985c015018031af4a850b2a8da985092de935c01500495b8b6031907d05094b5ba99dfa5a4b85c7e017d945b7e0101017d02b6a95002a05c7e0101",
+    "segments": [
+      {
+        "text": "「沒用的東西就扔掉！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "只搶值錢的東西！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "迦樓羅大人一定會高興！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「咦？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「你是"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 1,
+    "offset": "0x4b",
+    "originalHex": "7d02a0dda85c5018dbd05c015018b7180a9aaea55c501892a8a4d9bc5c015094919ed15002c55c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "閣下！鬼族！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "正在逼問乙姬大人月之謎！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請快一點！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 2,
+    "offset": "0x74",
+    "originalHex": "7d90a8a396a95002bd9c5c015018b7180a9aaea950184ba5015091b6f59bf691ae9c5c7e",
+    "segments": [
+      {
+        "text": "「上次真是多謝您了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "乙姬大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就在下面！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 3,
+    "offset": "0x99",
+    "originalHex": "7d180d198819aeaca9501847184818495a51a491a3015019d7b9a491a3919299a3bc01501909919f99a3d05090b7ae9c7e017d02a09abda9501840186a186bbe9cb5a75c7e0101",
+    "segments": [
+      {
+        "text": "「我聽說要進入神仙鄉，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "人氣必須達到九十"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "才行呢！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生應該沒問題吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 5,
+    "offset": "0x136",
+    "originalHex": "7d90a8a396a95002bd9c5c015018b7180a9aaea950184ba5015091b6f59bf691ae9c5c7e",
+    "segments": [
+      {
+        "text": "「上次真是多謝您了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "乙姬大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就在下面！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 6,
+    "offset": "0x15b",
+    "originalHex": "7d180d198819aeaca9501847184818495a51a491a3015019d7b9a491a3919299a3bc01501909919f99a3d05090b7ae9c7e017d02a09abda9501840186a186bbe9cb5a75c7e0101",
+    "segments": [
+      {
+        "text": "「我聽說要進入神仙鄉，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "人氣必須達到九十"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "才行呢！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生應該沒問題吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 8,
+    "offset": "0x1de",
+    "originalHex": "7d90a8a396a95002bd9c5c015018b7180a9aaea950184ba5015091b6f59bf691ae9c5c7e",
+    "segments": [
+      {
+        "text": "「上次真是多謝您了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "乙姬大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就在下面！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 9,
+    "offset": "0x203",
+    "originalHex": "7d188ca8198818479aaea9501a041a30a5015091ba91baa419cdbc501993f5a2b8bdbe9cb5015018669b91501b8e1b8f5f50ab9bd1a4049fa7035f7e017dada3bdddd05004d0b6979f03a3a8015092bb9abe9c98dda75c50adadadf55c7e01",
+    "segments": [
+      {
+        "text": "「天之仙人大人真的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "擁有各式各樣的東西呢！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "美麗的佛像、神奇種子……」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「不過聽說大多"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "都是破爛呢！呵呵呵！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 10,
+    "offset": "0x263",
+    "originalHex": "7d18db9fa0a9509999bc50949ab1b8beb2a49701509fda5018d4a8187dbc015092de91a5969f50da98a4a8be9c5c7e",
+    "segments": [
+      {
+        "text": "「鬼族根本不打算統治這裡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "只是來搶奪"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "海中的寶物而已！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 11,
+    "offset": "0x293",
+    "originalHex": "7d90a8a396a95002bd9c5c015018b7180a9aaea950184ba5015091b6f59bf691ae9c5c7e",
+    "segments": [
+      {
+        "text": "「上次真是多謝您了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "乙姬大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就在下面！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 12,
+    "offset": "0x2b8",
+    "originalHex": "7d19f019f119f29abda8501989a901501896a81991a8501812909fb795b650197db9de01509cd2a850a9d7be9cbb5c7e",
+    "segments": [
+      {
+        "text": "「左源內先生的庵，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "從冰之塔南邊附近潛下去，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "應該一下子就到了！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 2,
+    "offset": "0xd3",
+    "originalHex": "18501851017d02a09abd5c509caea7935c7e01017d9418929abda5aebe0150d491f59bf89cb8a8a9015095bda5bd9ba2509497bda49a915c7e017dd6a1a95090f59ba901509f9893a399baa950a0f5a3de959b0150a5d0a2be50d4d591b39ba25c7e017d95bbb7a35091f5a0f650a4bdbe9cd00150189c184aa850d6f892ad9290a1b1a90150a695b7a49750b3f5a2af9dae9cd85c7e",
+    "segments": [
+      {
+        "text": "銀次"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！對不住啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「就連月亮也跟著去，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這可真的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "饒了我吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「其實我啊，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "對太高的地方，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "實在有點招架不住！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「就當作補償，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "地上的消息，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我一定會打聽得清清楚楚！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 3,
+    "offset": "0x16a",
+    "originalHex": "7d1803180118029abd5c7e0101",
+    "segments": [
+      {
+        "text": "「金太郎先生！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 4,
+    "offset": "0x178",
+    "originalHex": "7d180418059abd5c7e0101",
+    "segments": [
+      {
+        "text": "「浦島先生！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 5,
+    "offset": "0x184",
+    "originalHex": "7ddd92955002a09abda301501816bc90bb9da25095d2b3180a1907bc0150949f9c985097da9d935c7e017dbea950ae9f5091d7b95c7e0101",
+    "segments": [
+      {
+        "text": "「請和"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "同心協力，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救出輝夜姬大人吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「那麼，咱們後會有期！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 6,
+    "offset": "0x1bd",
+    "originalHex": "180318011802017d94ddba919fa4805c5018501851d001501a5291a3995096b691da50a4bda25c7e0118041805017da0d091ae9cb55c501803180118029abd5c0150185018519abda850a2b995979bbe9cb57e017d185018519abda95095d2b3180a1907a501509092a8d050a9d7959b91a8be9cb57e0101180318011802017dab7fbd5c501854da9550bb95bda7f598dd01501892ac5019bff5a2aff5e6f5955c7e",
+    "segments": [
+      {
+        "text": "金太郎"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「真沒想到啊！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "銀次竟然會怕高！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "浦島"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「不是啦！金太郎先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "銀次先生只是害羞罷了。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「銀次先生不好意思"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "去見輝夜姬大人呢。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "金太郎"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「唔，雖然搞不太懂，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "總之先去月亮看看吧！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 7,
+    "offset": "0x260",
+    "originalHex": "7d189c184abea95090969fb6d7015018d4a81998aebe50949e92a3a950dd99aebe015018db9fa0a95018bce09591a8955c7e",
+    "segments": [
+      {
+        "text": "「搶了地上還不滿足，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然連海底也不放過，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "鬼族到底有多貪心啊！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 8,
+    "offset": "0x293",
+    "originalHex": "7d9999a590b85018de19a0a8187da9015093bdb7f8a49750941993a002c550a3015018b7180a9aaea85094949da5d4d591ae9c5c7e",
+    "segments": [
+      {
+        "text": "「乙姬大人吩咐，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "龍宮這裡的寶物，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請各位儘管帶走！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 9,
+    "offset": "0x2c9",
+    "originalHex": "7d188ca8198818479aaea9501a041a30a5015091ba91baa419cdbc501993f5a2b8bdbe9cb5015018669b91501b8e1b8f5f50ab9bd1a4049fa7035f7e017dada3bdddd05004d0b6979f03a3a8015092bb9abe9c98dda75c50adadadf55c7e01",
+    "segments": [
+      {
+        "text": "「天之仙人大人真的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "擁有各式各樣的東西呢！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "美麗的佛像、神奇種子……」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「不過聽說大多"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "都是破爛呢！呵呵呵！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 11,
+    "offset": "0x343",
+    "originalHex": "7d1892ac5019bf95b9b8a8be9b9fb60150dd92d950941848bca198a25c7e01",
+    "segments": [
+      {
+        "text": "「若要前往月亮，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請務必小心！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 12,
+    "offset": "0x363",
+    "originalHex": "7d19f019f119f29abda8501989a901501896a81991a8501812909fb795b650197db9de01509cd2a850a9d7be9cbb5c7e",
+    "segments": [
+      {
+        "text": "「左源內先生的庵，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "從冰之塔南邊附近潛下去，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "應該一下子就到了！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 13,
+    "offset": "0x394",
+    "originalHex": "7d188aa9509ca294985c509eb9b5b7015018031af4a85019c519cdbc50a999dfda9d5c01500495b8b6031907a85094e293b1be9f91d95c7e017d945b7e0101017d02b6a95002a05c7e0101",
+    "segments": [
+      {
+        "text": "「女人先別管！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "先把值錢的東西搬出去！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一定能討迦樓羅大人歡心！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「咦？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「你是"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  }
+]

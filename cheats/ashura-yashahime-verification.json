@@ -1,0 +1,208 @@
+{
+  "status": "locally-verified-not-deployed",
+  "cheatSha256": "af5c9fc3250bad8e0353dca47b9d085a30181a49c069705425d2e17e40a81061",
+  "cheatCount": 15,
+  "cases": [
+    {
+      "name": "ashura-hp",
+      "cheat": 11,
+      "actorId": 5,
+      "index": 4,
+      "low": 5797,
+      "high": 5818,
+      "code": "7E16A5E7+7E16BA03"
+    },
+    {
+      "name": "ashura-mp",
+      "cheat": 12,
+      "actorId": 5,
+      "index": 4,
+      "low": 5881,
+      "high": 5902,
+      "code": "7E16F9E7+7E170E03"
+    },
+    {
+      "name": "yashahime-hp",
+      "cheat": 13,
+      "actorId": 4,
+      "index": 3,
+      "low": 5796,
+      "high": 5817,
+      "code": "7E16A4E7+7E16B903"
+    },
+    {
+      "name": "yashahime-mp",
+      "cheat": 14,
+      "actorId": 4,
+      "index": 3,
+      "low": 5880,
+      "high": 5901,
+      "code": "7E16F8E7+7E170D03"
+    }
+  ],
+  "runs": [
+    {
+      "version": "original",
+      "name": "baseline",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/original-baseline"
+    },
+    {
+      "version": "original",
+      "name": "ashura-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        11
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/original-ashura-hp"
+    },
+    {
+      "version": "original",
+      "name": "ashura-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        12
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/original-ashura-mp"
+    },
+    {
+      "version": "original",
+      "name": "yashahime-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        13
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/original-yashahime-hp"
+    },
+    {
+      "version": "original",
+      "name": "yashahime-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        14
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/original-yashahime-mp"
+    },
+    {
+      "version": "original",
+      "name": "all-four",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/original-all-four"
+    },
+    {
+      "version": "v46",
+      "name": "baseline",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/v46-baseline"
+    },
+    {
+      "version": "v46",
+      "name": "ashura-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        11
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/v46-ashura-hp"
+    },
+    {
+      "version": "v46",
+      "name": "ashura-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        12
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/v46-ashura-mp"
+    },
+    {
+      "version": "v46",
+      "name": "yashahime-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        13
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/v46-yashahime-hp"
+    },
+    {
+      "version": "v46",
+      "name": "yashahime-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        14
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/v46-yashahime-mp"
+    },
+    {
+      "version": "v46",
+      "name": "all-four",
+      "frames": 360,
+      "checkedEvery": 60,
+      "selected": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "onlySelectedCurrentStatsChanged": true,
+      "otherActorBytesAndNaturalLimitsUnchanged": true,
+      "directory": "/tmp/momotaro-ashura-yashahime-9HEAn5/v46-all-four"
+    }
+  ],
+  "previousElevenEntriesPreserved": true,
+  "defaultEnabled": false,
+  "scope": "Current HP/MP fixed at 999; natural maximum values and levels unchanged",
+  "characterSource": "https://wikiwiki.jp/snes007/新%20桃太郎伝説%E3%80%80各種リスト",
+  "statSource": "https://wikiwiki.jp/snes007/新%20桃太郎伝説",
+  "romHashes": {
+    "original": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+    "v46": "bafeb819522b92aa1de9505329a9cbf319357cfe1b7057c4eeb83c2daedd12a2"
+  },
+  "localStatePath": "/tmp/momotaro-encounter-delay-check/slot18-core.bin",
+  "localStateSha256": "f02d98fbd60d067f2a0bc6cf4253322ccc07af51bb51d061a3bb623cd7c05ed7",
+  "localStateAndRomFilesUnchanged": true,
+  "deviceFilesAccessed": false,
+  "actualBattleAndSpellUseVerified": false,
+  "bothCharactersInActivePartyVerified": false,
+  "physicalDeviceActivationVerified": false,
+  "outputDirectory": "/tmp/momotaro-ashura-yashahime-9HEAn5"
+}

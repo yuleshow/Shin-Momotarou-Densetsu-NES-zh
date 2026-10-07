@@ -1,0 +1,20 @@
+{
+  "pointerOffset": "0x7018f",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "karura-weight-gate",
+  "decodedBytes": 967,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All six source records reviewed. The gate tests a 48 kg average for one to four participants, not a 48 kg combined weight; preserve the dynamic average and success/failure branches.",
+    "Keep Ashura's response about compassion and Karura's attempt to separate the party with Fujin's wind."
+  ],
+  "records": {
+    "0": "迦樓羅\n「喀喀喀！[02a0]！」\n\n「沒想到你們，\n連阿修羅，\n都拉攏過去了！」\n「用了什麼手段？\n錢？女人？土地？\n你為什麼在笑？」",
+    "1": "阿修羅\n「呵呵呵……迦樓羅大人！」\n\n「光是提出交換條件，\n未必就能打動人心啊。」\n\n「人心會因關懷而動，\n這是我阿修羅，\n從[02a0]身上學到的。」",
+    "2": "迦樓羅\n「什……什麼？你說什麼？\n不、不可能！」\n「你們難道，\n完全不求回報，\n就採取行動嗎？」\n「別開玩笑！\n哪有這種傢伙！」\n\n「那我就來考驗你們！」\n\n\n「這扇門設計成，\n只要４８公斤的人類或鬼，\n站在前面就會打開！」\n「一個人也行，\n兩個人、三個人，\n四個人也會開！」\n「體重４８公斤！\n動動腦筋再來！\n我就替你們開門！」\n「要是你們不能，\n真正同心協力，\n就解不開這道謎題！」",
+    "3": "迦樓羅\n「喀喀喀！你們的，\n平均體重是[0a]公斤！」\n「瞧瞧！看看吧！\n你們連平均４８公斤，\n這個數字都湊不出來！」\n「看來你們的心，\n根本沒有合而為一啊！\n喀喀喀！」\n「就在這扇門前站個老半天，\n好好溫暖你們那，\n虛假的友情吧！喀喀喀！」",
+    "4": "迦樓羅\n「喀喀喀！真慢啊！」\n\n「確實是４８公斤！\n我就替你們開門！」\n\n「打開毀滅之門！」\n\n",
+    "5": "迦樓羅\n「喀喀喀！風神！」\n\n「用你的風力，\n把這群傢伙，\n吹到遠處去吧！」\n「這些人只是，\n總待在一起，\n才生出了感情！」\n「那不叫友情！\n真正的友情，是分開再久，\n仍然彼此掛念！」\n「現在就來考驗他們！\n風神！掀起暴風吧！」\n"
+  }
+}

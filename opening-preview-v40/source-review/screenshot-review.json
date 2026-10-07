@@ -1,0 +1,460 @@
+[
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-123649.png",
+    "sha256": "4613e3d76671ec703d33c95805f2a0544d412246ddce4700c6f9fb7d18ff0265",
+    "name": "battle-effects",
+    "index": 2,
+    "pointerOffset": "0x7004b",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-125521.png",
+    "sha256": "184ee6e40a4ff9a531aa2e978452a848275b9229315e7b4759df65048585b49d",
+    "name": "battle-effects",
+    "index": 2,
+    "pointerOffset": "0x7004b",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-123717.png",
+    "sha256": "47357967fb8494ff567ed9bb449724a2d5a61e4325eef364d60ab75a25c3d836",
+    "name": "field-messages",
+    "index": 12,
+    "pointerOffset": "0x70039",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-125608.png",
+    "sha256": "f13c2c1b35e35e86d8e27f1b02ff988905bc5aa083331a4ec669fc3de4bcc1bd",
+    "name": "battle-messages",
+    "index": 21,
+    "pointerOffset": "0x70048",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-125630.png",
+    "sha256": "7299672b22ec9ac1bdcddedd83e8cbbeeafb45313bf85d52c7b3642c5f9fa920",
+    "name": "spell-chants",
+    "index": 11,
+    "pointerOffset": "0x70027",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130429.png",
+    "sha256": "703f5bf09a4be6c22a25efcd370d2807e3fdd221ba135187d6b7d451d8d8488a",
+    "name": "sumo-techniques",
+    "index": null,
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130438.png",
+    "sha256": "ca8c52f633a8a7455bf8a5fb9efb0da9279325bab868671b812176302acbfa4b",
+    "name": "battle-effects",
+    "index": 6,
+    "pointerOffset": "0x7004b",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130815.png",
+    "sha256": "f83867929df1b0a4f08b6feb7eae4986efdfa35cf1d03927e13d593bab72b1ac",
+    "name": "kintarou-festival-farewell",
+    "index": 1,
+    "pointerOffset": "0x70138",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130820.png",
+    "sha256": "0cb42228a12a3aa1fd5bae9b9f5a80cfb71cdbe64a123606dba65a5dbb6f0642",
+    "name": "kintarou-festival-farewell",
+    "index": 1,
+    "pointerOffset": "0x70138",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130824.png",
+    "sha256": "9310dcf7295967c8c3cd9b9868787003c0becc2bbc1ed712713fb2b784a27591",
+    "name": "kintarou-festival-farewell",
+    "index": 1,
+    "pointerOffset": "0x70138",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130829.png",
+    "sha256": "998f8ff06d9938f2ca65638cf65c95e35e7271357927004172108892183c7b58",
+    "name": "kintarou-festival-farewell",
+    "index": 1,
+    "pointerOffset": "0x70138",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130834.png",
+    "sha256": "3a27d0a7eb714efd74b3c178a14c8cf1109464e148c2efc130c60dc907e5a47c",
+    "name": "kintarou-festival-farewell",
+    "index": 2,
+    "pointerOffset": "0x70138",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-130839.png",
+    "sha256": "734a90ee09c72650fd1549f48cf62ba9c119950d77f910262ca618c634a4023c",
+    "name": "kintarou-festival-farewell",
+    "index": 2,
+    "pointerOffset": "0x70138",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-133657.png",
+    "sha256": "b74b0203cf2de230ba1181f9ac58c6da49d4c6342e7674a73f61a311015687c2",
+    "name": "dragon-palace-entry",
+    "index": 0,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-133701.png",
+    "sha256": "2e168ffa001b39c6a592f4b4f79efb399d304b674c2a08c6dcb5ca0544a1a763",
+    "name": "dragon-palace-entry",
+    "index": 0,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134137.png",
+    "sha256": "940c4b86d6b26467e07904208989f937ab17dac72ea875f146e5cb1a852bdafd",
+    "name": "dragon-palace-rescue",
+    "index": 7,
+    "pointerOffset": "0x702a0",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134359.png",
+    "sha256": "f14902f0c72b83076a867b3fe093028170e5e39e904777c66ccc6b0713f86f3e",
+    "name": "dragon-palace-entry",
+    "index": 10,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134424.png",
+    "sha256": "c0bdd2c05d2cd8f36fa6e8c3e5d14d45cabe494e2a3f0492569223ca959a75fd",
+    "name": "dragon-palace-rescue",
+    "index": 4,
+    "pointerOffset": "0x702a0",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134431.png",
+    "sha256": "cadc8ef7034e527101e914911e809e51cb489bc9d41abf34214766c20827bb1e",
+    "name": "dragon-palace-rescue",
+    "index": 4,
+    "pointerOffset": "0x702a0",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134530.png",
+    "sha256": "ae1fc0b43c80a1684f6aeb0cdcf5ce50e3de14804a603686e840d7756cf8a845",
+    "name": "dragon-palace-rescue",
+    "index": 14,
+    "pointerOffset": "0x702a0",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-134537.png",
+    "sha256": "d6d91d7120d3dca6f33d1a00eaaff254d85c921178d8c11dec5a673481361d86",
+    "name": "dragon-palace-rescue",
+    "index": 14,
+    "pointerOffset": "0x702a0",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135301.png",
+    "sha256": "ae02eef1f609ea6a222d5030e6506c6215135ff2e2aa8a855cca143d27f21cdf",
+    "name": "dragon-palace-rescue",
+    "index": 13,
+    "pointerOffset": "0x702a0",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135330.png",
+    "sha256": "0163984efd59be665b8f23fa97c686d35a329a2fb24a98da54ab362987a9f96f",
+    "name": "dragon-palace-rescue",
+    "index": 13,
+    "pointerOffset": "0x702a0",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135611.png",
+    "sha256": "f77c6653d40d1c697b9661d583821611928ae89e01d4415dbd0dee739ddd0424",
+    "name": "dragon-palace-entry",
+    "index": 52,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135620.png",
+    "sha256": "9848b51d0a2d3cc0c7a2006e1b32798bf789ba15974afdf519d7de2da1e55e75",
+    "name": "dragon-palace-entry",
+    "index": 52,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135621.png",
+    "sha256": "718a8ac2b5487d12dc0e22073c9a35a92a973b53f37aa19796349e056cc45cef",
+    "name": "dragon-palace-entry",
+    "index": 52,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-135941.png",
+    "sha256": "5a4292e0f6cbdc3dd38ee4d66bc2d33c6f48176a506f07c6cef8c0dfe1bdcb61",
+    "name": "dragon-palace-entry",
+    "index": 52,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-140011.png",
+    "sha256": "a65197751d382cb0da9f3d3c3cc6b7732d8b3f2f3fb9a3bee8521dbb7faed866",
+    "name": "dragon-palace-moon",
+    "index": 0,
+    "pointerOffset": "0x702a3",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142542.png",
+    "sha256": "1e74ae82991c436e625f5dc99ecbe5a9f3ac79d3e0c101c4c5284ce65defd915",
+    "name": "dragon-palace-moon",
+    "index": 1,
+    "pointerOffset": "0x702a3",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142659.png",
+    "sha256": "33513c5b62b0cb408de567889327112a4aeab4adb725da88e3d5974eef6659cf",
+    "name": "quiet-village-residents",
+    "index": 4,
+    "pointerOffset": "0x7027c",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142822.png",
+    "sha256": "8bb13caa22a0eaa778fb1be8b94240cc2bc0108c22e1a71c7e9fc29de7619145",
+    "name": "quiet-village-residents",
+    "index": 3,
+    "pointerOffset": "0x7027c",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142828.png",
+    "sha256": "0b09a2847ca9cfcd66f375e3b845cc664e12934751048f1a66ca6aeff20f01e8",
+    "name": "quiet-village-residents",
+    "index": 3,
+    "pointerOffset": "0x7027c",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142906.png",
+    "sha256": "bad8dd6e77fdd5b64a19d05dcdf398d12f5ef0114936ed08d5e83166ebaa6fad",
+    "name": "moon-princess-history",
+    "index": 14,
+    "pointerOffset": "0x70270",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-142911.png",
+    "sha256": "b063f5c043e805ca68adf78822a7ae23870626ee348e570992e80860450f7d30",
+    "name": "moon-princess-history",
+    "index": 14,
+    "pointerOffset": "0x70270",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143033.png",
+    "sha256": "259c6b5fb697f5c0ba4df39255b3c034c036a3ffd2abb5aa4f408a820c057509",
+    "name": "quiet-village-residents",
+    "index": 5,
+    "pointerOffset": "0x7027c",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143318.png",
+    "sha256": "a70c07b5bc313e67fd5ba475fa8d904c2ee5c21e3903f63d93d54c5113bd5193",
+    "name": "moon-treasure-hall",
+    "index": 2,
+    "pointerOffset": "0x70279",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143325.png",
+    "sha256": "21bf858f35770895a3fe4a9b59fade4fb2fc9cfd971dc38b9130e8d47ab99991",
+    "name": "moon-treasure-hall",
+    "index": 2,
+    "pointerOffset": "0x70279",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143332.png",
+    "sha256": "47c32fe900ef9890c555fbfd2381204a1008c5c40f1d9383ac6ffb5896a5a098",
+    "name": "moon-treasure-hall",
+    "index": 3,
+    "pointerOffset": "0x70279",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143339.png",
+    "sha256": "f3d2ee85f58e648fb3c8b7a9b2b2865438a168c55ddc4d96e306ea5654a25497",
+    "name": "moon-treasure-hall",
+    "index": 6,
+    "pointerOffset": "0x70279",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143342.png",
+    "sha256": "9d3bd9b4b4bd4dee514c4b37b6e8904ffcf3716254f1a3f83e9240feefbc4042",
+    "name": "moon-treasure-hall",
+    "index": 6,
+    "pointerOffset": "0x70279",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143403.png",
+    "sha256": "c11097ca87cbaf9a99e8d53489c3808a817cb9a38b179e58fbb8cbcefc831b9e",
+    "name": "garyuu-trial",
+    "index": 0,
+    "pointerOffset": "0x7027f",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143412.png",
+    "sha256": "6681233d058809c5bb2682dd690c597e9a6864e8f7255364f6d857a2f8112955",
+    "name": "garyuu-trial",
+    "index": 2,
+    "pointerOffset": "0x7027f",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143418.png",
+    "sha256": "d8bb2491702d1d81b7000fb3dc215acec93e8c462b13aa560b9c2c73fc9b3ceb",
+    "name": "garyuu-trial",
+    "index": 2,
+    "pointerOffset": "0x7027f",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143424.png",
+    "sha256": "82b68506d8164082f269d7e18c52ae6e65bce5e1200a28519fce46107a03b547",
+    "name": "garyuu-trial",
+    "index": 2,
+    "pointerOffset": "0x7027f",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143741.png",
+    "sha256": "eaf4b40d0a6460f6e9b5e450f1b655464b4b0838007a93d8365057849d956383",
+    "name": "garyuu-trial",
+    "index": 3,
+    "pointerOffset": "0x7027f",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-143746.png",
+    "sha256": "6368f569104c4df6567d9128c5928e0edcd1fa8836aace740994f40b63da2f09",
+    "name": "garyuu-trial",
+    "index": 3,
+    "pointerOffset": "0x7027f",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144203.png",
+    "sha256": "21e8ee371a4d1baf64af42f84a9cdcc5ab28dd9f31ab674ddafa2aeb31cd8332",
+    "name": "moon-treasure-hall",
+    "index": 7,
+    "pointerOffset": "0x70279",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144209.png",
+    "sha256": "a6b57b458528526b4ed7e89a65796779fdf5227780e96ad21717b422fce82b1e",
+    "name": "moon-treasure-hall",
+    "index": 7,
+    "pointerOffset": "0x70279",
+    "status": "reviewed-translation-native-probe-verified",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144538.png",
+    "sha256": "3de91f827b2920d34cc482c23b77dc2e0512904a2391eb2543f60506865e45f1",
+    "name": "dragon-palace-entry",
+    "index": 44,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-source-identified-untranslated",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144541.png",
+    "sha256": "709e15aeaf2c71443366159ece3be5178bca8d6324a7196ace29ebe75e23d027",
+    "name": "dragon-palace-entry",
+    "index": 44,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-source-identified-untranslated",
+    "naturalSceneReplayed": false
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-144547.png",
+    "sha256": "12aa840b1a8a51edbe6b7298ffd913c7809ed76a63c221838c4fd5552326e65c",
+    "name": "dragon-palace-entry",
+    "index": 44,
+    "pointerOffset": "0x7029d",
+    "status": "reviewed-source-identified-untranslated",
+    "naturalSceneReplayed": false
+  }
+]

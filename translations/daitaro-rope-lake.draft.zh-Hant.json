@@ -1,0 +1,18 @@
+{
+  "pointerOffset": "0x7016b",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "daitaro-rope-lake",
+  "decodedBytes": 249,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "2026-10-03 screenshots: lake retrieval, freezing reaction and request to rescue 醜女. Original ROM glyphs checked for all four records; duplicate event branches remain distinct.",
+    "Use existing 大太郎, 鉤繩 and 啊啵 terminology. No event conditions or ROM data changed."
+  ],
+  "records": {
+    "0": "「就在這裡啦，啊啵！\n俺下去拿，\n你先等一下啊，啊啵！」",
+    "1": "「好……好冷啊！\n啊……啊……啊啵！」\n\n「[02a0]先生！鉤繩，\n拿……拿回來啦，抖抖抖！\n啊啵啵啵！好、好、冰！」",
+    "2": "「[02a0]先生！快去冰之塔\n用這個去救醜女大人吧！\n抖抖抖！啊啵！」",
+    "3": "「[02a0]先生！快去冰之塔\n用這個去救醜女大人吧！\n抖抖抖！啊啵！」"
+  }
+}

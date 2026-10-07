@@ -1,0 +1,11 @@
+{
+  "version": "v65",
+  "baseDirectory": "verification/moon-labels-v63",
+  "manifest": "translations/fixed-nicknames-v65.release.json",
+  "addedIndexedEntries": 27,
+  "drafts": [
+    "translations/character-labels-remaining.draft.zh-Hant.json"
+  ],
+  "status": "source-reviewed-pending-native-verification",
+  "scope": "Corrected replacement for v64, rebuilt from v63: fixed nickname records 29-55, with record 30 following source アオマヤ as 阿歐瑪亞. No keyboard, default-name or save-data changes."
+}

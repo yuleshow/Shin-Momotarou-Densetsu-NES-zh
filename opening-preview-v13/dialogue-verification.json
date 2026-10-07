@@ -1,0 +1,1236 @@
+{
+  "targetSha256": "9b088eba66874ea3570611fb758aa64489ace2821c64cc986a084bc439cc0857",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "裝備": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "狛犬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滾飯糰洞": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "井水": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飛燕卷軸": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "屋頂": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹仙人": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "庵堂": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "神社參拜": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "starting-village-residents",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎麼了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "prince-and-mirror-hints",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "撫養": {
+          "frame": "frame-1320.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-mirror-hints",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "勇氣之鏡": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "沉入海中": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "牢牢記住": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "髮髻": {
+          "frame": "frame-1020.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "瀏海": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "頭巾": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右眼": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右耳": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "禍從口出": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "傑作": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "漫畫家": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "藝術家": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "festival-face-puzzle",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "太厲害": {
+          "frame": "frame-1020.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "神諭": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "祓除": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "旅途日記": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 21,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "地藏菩薩": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 25,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銘記在心": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "心值": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 38,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "九十九段": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 53,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "童子鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 62,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "奧柯比奇": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 67,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "黑河童": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 69,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鯨魚": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shrines-and-fortune-tellers",
+      "firstIndex": 70,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鋸緣青蟹": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "篝火": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 30,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "抽個籤": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 34,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "末吉": {
+          "frame": "frame-1020.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 50,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "香油錢箱": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 57,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "迦樓羅": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 61,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "堅持不懈": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 71,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鯉魚": {
+          "frame": "frame-1020.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 73,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "釣竿": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 78,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "知識問答": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 81,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "撈金魚": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 87,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜市券": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 90,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "紅白機": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 95,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "地鼠": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "village-interactions",
+      "firstIndex": 96,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "十五塊": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 38,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想買些什麼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 42,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要由誰攜帶": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 46,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "謝謝惠顧": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 52,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想賣出什麼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 53,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "收購魚類": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 69,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "裝備": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 122,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寄存多少錢": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 124,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "領出多少錢": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 142,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我是醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 145,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要替誰解毒": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 175,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "客房全滿了": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "shared-village-services",
+      "firstIndex": 177,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "住宿券": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "moon-palace-guard",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你是誰": {
+          "frame": "frame-1080.ppm",
+          "x": 74,
+          "y": 80
+        },
+        "不准通行": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "迦樓羅": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "大人的命令": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 2,
+      "frames": 4200,
+      "changedFrames": 53,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "造成了": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "點傷害": {
+          "frame": "frame-1080.ppm",
+          "x": 42,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-challenge-dialogue",
+      "firstIndex": 0,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "鬼神": {
+          "frame": "frame-2040.ppm",
+          "x": 134,
+          "y": 96
+        },
+        "達伊達": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "輝夜姬": {
+          "frame": "frame-4620.ppm",
+          "x": 58,
+          "y": 152
+        },
+        "鳳凰": {
+          "frame": "frame-12120.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "awakening-dialogue",
+      "firstIndex": 0,
+      "frames": 12000,
+      "changedFrames": 184,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "奶奶": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "振作一點": {
+          "frame": "frame-1140.ppm",
+          "x": 98,
+          "y": 96
+        },
+        "爺爺": {
+          "frame": "frame-1680.ppm",
+          "x": 64,
+          "y": 152
+        },
+        "銀次": {
+          "frame": "frame-3540.ppm",
+          "x": 40,
+          "y": 152
+        },
+        "天之仙人": {
+          "frame": "frame-6420.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "愛與勇氣": {
+          "frame": "frame-8520.ppm",
+          "x": 134,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-challenge-dialogue",
+      "firstIndex": 13,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "靜村": {
+          "frame": "frame-3060.ppm",
+          "x": 16,
+          "y": 168
+        },
+        "夢村": {
+          "frame": "frame-3060.ppm",
+          "x": 76,
+          "y": 168
+        },
+        "珍寶": {
+          "frame": "frame-3660.ppm",
+          "x": 76,
+          "y": 184
+        },
+        "龍宮城": {
+          "frame": "frame-4440.ppm",
+          "x": 16,
+          "y": 168
+        },
+        "乙姬": {
+          "frame": "frame-4440.ppm",
+          "x": 64,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "awakening-dialogue",
+      "firstIndex": 12,
+      "frames": 14400,
+      "changedFrames": 223,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "愛與勇氣": {
+          "frame": "frame-1140.ppm",
+          "x": 110,
+          "y": 96
+        },
+        "旅途中": {
+          "frame": "frame-3180.ppm",
+          "x": 52,
+          "y": 184
+        },
+        "銀次加入了隊伍": {
+          "frame": "frame-4620.ppm",
+          "x": 16,
+          "y": 176
+        },
+        "三天": {
+          "frame": "frame-6480.ppm",
+          "x": 82,
+          "y": 168
+        },
+        "平安無事": {
+          "frame": "frame-7200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 225,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吸走了": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "達伊達": {
+          "frame": "frame-2520.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "擊飛了": {
+          "frame": "frame-3300.ppm",
+          "x": 28,
+          "y": 168
+        },
+        "阿闍世": {
+          "frame": "frame-6720.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "夜叉姬": {
+          "frame": "frame-7560.ppm",
+          "x": 16,
+          "y": 152
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 236,
+      "frames": 7800,
+      "changedFrames": 114,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "閻魔大人": {
+          "frame": "frame-1920.ppm",
+          "x": 38,
+          "y": 112
+        },
+        "同伴關係": {
+          "frame": "frame-2700.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 126,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "羅生門": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "同伴的力量": {
+          "frame": "frame-3240.ppm",
+          "x": 52,
+          "y": 184
+        },
+        "蘆葦": {
+          "frame": "frame-3840.ppm",
+          "x": 100,
+          "y": 184
+        },
+        "真正的強大": {
+          "frame": "frame-7380.ppm",
+          "x": 98,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 138,
+      "frames": 12000,
+      "changedFrames": 183,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "左魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "身為鬼的尊嚴": {
+          "frame": "frame-6300.ppm",
+          "x": 28,
+          "y": 184
+        },
+        "永世長存": {
+          "frame": "frame-6720.ppm",
+          "x": 40,
+          "y": 184
+        },
+        "月亮之王": {
+          "frame": "frame-6900.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "地獄之王": {
+          "frame": "frame-7260.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "大地之王": {
+          "frame": "frame-8340.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "天上之王": {
+          "frame": "frame-8580.ppm",
+          "x": 70,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 152,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腳越來越硬": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "村民的聲音": {
+          "frame": "frame-1740.ppm",
+          "x": 82,
+          "y": 168
+        },
+        "強烈的怨恨": {
+          "frame": "frame-1800.ppm",
+          "x": 64,
+          "y": 184
+        },
+        "達伊達": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 184
+        },
+        "別再叫了": {
+          "frame": "frame-2760.ppm",
+          "x": 16,
+          "y": 184
+        }
+      }
+    }
+  ]
+}

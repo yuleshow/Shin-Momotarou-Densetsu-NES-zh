@@ -1,0 +1,11 @@
+{
+  "pointerOffset": "0x70261",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "courage-helmet-discovery",
+  "decodedBytes": 19,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "找到了勇氣頭盔！\n\n"
+  }
+}

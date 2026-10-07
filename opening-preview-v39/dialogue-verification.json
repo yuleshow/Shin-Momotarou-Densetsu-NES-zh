@@ -1,0 +1,1876 @@
+{
+  "targetSha256": "4f88b3bdef2863d084637ce1ad61c0735d484b9d74e4c7afef67aa189a8f9dad",
+  "scenes": [
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 0,
+      "frames": 11400,
+      "changedFrames": 174,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "巴坎鬼的聲音": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "比比智慧": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "灌進你所在": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "天花板以前逃出來": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "才有資格": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我在這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我在這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我在這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 4,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "真是頑強": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "巴坎鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就照約定": {
+          "frame": "frame-1320.ppm",
+          "x": 104,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 6,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "巴坎鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "為迦樓羅大人而戰": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 7,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒用的東西": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 8,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你們都聽好了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "自行了斷": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "伐折羅王大人": {
+          "frame": "frame-1500.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 9,
+      "frames": 13800,
+      "changedFrames": 214,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "盡心效力": {
+          "frame": "frame-1140.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "到底算什麼": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "巴坎鬼斷氣了": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hanasaka-water-prison",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "悲傷的人究竟是誰": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "稻妻啊啊啊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "轟隆轟隆轟隆": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "轟隆轟隆閃光": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "轟隆閃光": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 86,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的攻擊力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹啊啊啊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "千金丹啊啊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "萬金丹啊啊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "全體金丹啊啊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hidden-passage-training",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "限時五分鐘": {
+          "frame": "frame-1380.ppm",
+          "x": 40,
+          "y": 96
+        },
+        "隱藏的通道": {
+          "frame": "frame-1740.ppm",
+          "x": 40,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hidden-passage-training",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不用著急": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 96
+        },
+        "時間好像不多": {
+          "frame": "frame-1140.ppm",
+          "x": 64,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "avoid-encounters-training",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最裡面": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 96
+        },
+        "大樹": {
+          "frame": "frame-1140.ppm",
+          "x": 40,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "avoid-encounters-training",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一路避開鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "prince-and-mirror-hints",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "撫養": {
+          "frame": "frame-1320.ppm",
+          "x": 56,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "prince-and-mirror-hints",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "勇氣之鏡": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "沉入海中": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 0,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚嗚": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "大鬼好可怕喔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚嗚": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那隻怪鳥朝著": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "足柄山飛走了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 2,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "長翅膀的鬼和可怕的鬼": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "好寂寞啊": {
+          "frame": "frame-2400.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 3,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "事到如今": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "鬼族威脅村裡的年輕人": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "救救我們吧": {
+          "frame": "frame-2160.ppm",
+          "x": 104,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就拜託你多多照顧了": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 5,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "就拜託你多多照顧了": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 6,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木材是大自然": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "送給我們的禮物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "木頭也很可憐": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 7,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "下這麼大的雨": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就得先乾燥好幾個月": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "才行啊": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 8,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚嗚": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "連房子都要被吹走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 9,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "爹爹還好嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 10,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啊": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "是爹爹": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "太好了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 11,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "爹爹回來囉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "浦島先生這位大人物的事": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "仔細聽好": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 12,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "砍好的木材在這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "一切都完了": {
+          "frame": "frame-1500.ppm",
+          "x": 68,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 13,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "洞窟裡的人們還好嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "儲存食物才對": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-rescue-rumors",
+      "firstIndex": 14,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大海裡一定有許多": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "不可思議的事等著你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "慢慢前進吧": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 0,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "就像你看到的這樣": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就替你澆水": {
+          "frame": "frame-1860.ppm",
+          "x": 92,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "逞強對身體不好喔": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那也沒辦法了": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 2,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "本大爺要提拔你": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "先交出一千兩來": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 3,
+      "frames": 1800,
+      "changedFrames": 12,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不貪財的傢伙": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "可沒辦法飛黃騰達喔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "三兄弟": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你根本沒有一千兩嘛": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "居然連謊話都說得出口": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你完蛋了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 5,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身上所有的錢": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "都被迦樓羅搶走了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 6,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘎哈哈哈": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "本大爺就不客氣地收下了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "三兄弟": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 7,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怪鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "魃鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 8,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "酒吞童子的四天王": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 9,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怪鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "竭盡全力戰鬥": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 10,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "我就把你當作真正的敵人": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "嘎哈哈哈": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 11,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怪鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "莫非是鬼族的名軍神": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "那位酒吞童子大人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 12,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "魅鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "每年從數千個鬼中選出的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "居然是那四天王": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 13,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "魃鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "夢想成為四天王至今": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 14,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "灑出了養老瀑布的水": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 15,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拜託": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "和你們一起戰鬥吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 16,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復年輕了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力提升了": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "防禦力提升了": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "waterfall-confrontation",
+      "firstIndex": 17,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哎呀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "一份好吃的伴手禮": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "使用了元氣玉": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-cough-remedy",
+      "firstIndex": 2,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咳": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "咳個不停啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "village-cough-remedy",
+      "firstIndex": 6,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "萬吉先生去花咲村": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "應該沒有聽見吧": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 36,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "撲向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 37,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "咬住了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 38,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "猛烈撞向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 39,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "擋開了攻擊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 40,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被打飛了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 41,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "發出了低吼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 42,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "舔呀舔": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 43,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "撲向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 44,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "抓傷了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 45,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "酒潑向了敵人": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 46,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "戳中了敵人的眼睛": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 47,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "把藥用的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "餵給了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 48,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "飛撲向了敵人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 49,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了守護之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 50,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了金丹之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 51,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了千金丹之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 52,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "用鳥喙啄中了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "穴位": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 53,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咯": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了解毒之術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 51,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飛呀飛燕——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 52,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "穿牆脫身——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 53,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "避鬼退散——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 54,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哩喲哩囉哩——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 55,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "避災避邪——": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "spell-chants",
+      "firstIndex": 56,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "海流——": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hidden-passage-training",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哇哈哈": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "時間還來得及嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 40,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hidden-passage-training",
+      "firstIndex": 2,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哇哈哈": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "你是不是覺得很煩啊": {
+          "frame": "frame-1200.ppm",
+          "x": 40,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "hidden-passage-training",
+      "firstIndex": 3,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哇哈哈": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那裡有隱藏的通道": {
+          "frame": "frame-1200.ppm",
+          "x": 40,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "avoid-encounters-training",
+      "firstIndex": 2,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎麼樣": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "這修行很簡單吧": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 96
+        },
+        "哇哈哈": {
+          "frame": "frame-1140.ppm",
+          "x": 136,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-dialogue"
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 12,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "學會了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "之術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-skill-check"
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 21,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "遭到了突襲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-ambush"
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 183,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "灑出了養老瀑布的水": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "directory": "/tmp/momotaro-v39-arrival"
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 184,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "和你們一起戰鬥吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "directory": "/tmp/momotaro-v39-join"
+    }
+  ],
+  "actualStoryRouteVerified": false
+}

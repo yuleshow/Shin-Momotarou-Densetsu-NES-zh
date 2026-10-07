@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x701e6",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ooeyama-crushing-rocks",
+  "target": "0x2cc800",
+  "decodedBytes": 212,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "迦樓羅\n「哦？人類的智慧，\n竟然已經進步到這種程度？」\n「沒想到竟能來到六樓啊！」\n\n\n「嘿嘿嘿！\n那麼，這一層就靠\n自己的力量闖過去吧！」\n「就連寫著線索的石板，\n也已經被本大爺拆掉了！」\n\n「最好趕快穿過去啊！\n要是被岩石夾住，\n等著你的就是死亡！」",
+    "1": "[02a0]一行人\n被岩石壓扁了！\n"
+  }
+}

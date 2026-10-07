@@ -1,0 +1,153 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "09516b5fbc974d676db69c4aa861eacac5b3b835e0b38867bb409779737654a5",
+  "sourceStart": "0x1dd43",
+  "sourceEnd": "0x1e111",
+  "target": "0x23d900",
+  "entries": [
+    {
+      "offset": "0x1dd52",
+      "originalHex": "199b199ca0a81814",
+      "translation": "啟程村",
+      "padding": 2
+    },
+    {
+      "offset": "0x1dd77",
+      "originalHex": "94b09cdf1814",
+      "translation": "飯糰村",
+      "padding": 2
+    },
+    {
+      "offset": "0x1dd9b",
+      "originalHex": "9c19feb1a89419b052",
+      "translation": "麻雀旅館一號店"
+    },
+    {
+      "offset": "0x1ddbe",
+      "originalHex": "1981198295a81814",
+      "translation": "花咲村",
+      "padding": 2
+    },
+    {
+      "offset": "0x1dde4",
+      "originalHex": "180318011802a81814",
+      "translation": "金太郎村",
+      "padding": 1
+    },
+    {
+      "offset": "0x1de0a",
+      "originalHex": "9c19feb1a89419b053",
+      "translation": "麻雀旅館二號店"
+    },
+    {
+      "offset": "0x1de2e",
+      "originalHex": "18041805a81814",
+      "translation": "浦島村",
+      "padding": 1
+    },
+    {
+      "offset": "0x1de54",
+      "originalHex": "19b195a81814",
+      "translation": "寧靜村",
+      "padding": 1
+    },
+    {
+      "offset": "0x1de7a",
+      "originalHex": "180618011802a8181419f0",
+      "translation": "寢太郎村左側"
+    },
+    {
+      "offset": "0x1dea1",
+      "originalHex": "9c19feb1a89419b054",
+      "translation": "麻雀旅館三號店"
+    },
+    {
+      "offset": "0x1dec5",
+      "originalHex": "19a219a3afa81814",
+      "translation": "微笑村",
+      "padding": 2
+    },
+    {
+      "offset": "0x1deea",
+      "originalHex": "19a419a5a819a6",
+      "translation": "希望之都"
+    },
+    {
+      "offset": "0x1df11",
+      "originalHex": "9c19feb1a89419b055",
+      "translation": "麻雀旅館四號店"
+    },
+    {
+      "offset": "0x1df34",
+      "originalHex": "9c19feb1a89419b056",
+      "translation": "麻雀旅館五號店"
+    },
+    {
+      "offset": "0x1df58",
+      "originalHex": "19c99b911814",
+      "translation": "新村",
+      "padding": 2
+    },
+    {
+      "offset": "0x1df7d",
+      "originalHex": "19eea81814",
+      "translation": "夢之村"
+    },
+    {
+      "offset": "0x1dfa3",
+      "originalHex": "049ab895a503a81814",
+      "translation": "猴蟹村",
+      "padding": 3
+    },
+    {
+      "offset": "0x1dfc8",
+      "originalHex": "9c19feb1a89419b057",
+      "translation": "麻雀旅館六號店"
+    },
+    {
+      "offset": "0x1dfec",
+      "originalHex": "95b697b7a81814",
+      "translation": "機關村",
+      "padding": 3
+    },
+    {
+      "offset": "0x1e00f",
+      "originalHex": "19a919aaa81814",
+      "translation": "七夕村",
+      "padding": 1
+    },
+    {
+      "offset": "0x1e036",
+      "originalHex": "9c19feb1a89419b058",
+      "translation": "麻雀旅館七號店"
+    },
+    {
+      "offset": "0x1e059",
+      "originalHex": "184419adb7a81814",
+      "translation": "竹取村",
+      "padding": 2
+    },
+    {
+      "offset": "0x1e07f",
+      "originalHex": "18f4a81814",
+      "translation": "風暴村"
+    },
+    {
+      "offset": "0x1e0a4",
+      "originalHex": "1892a819a019b3",
+      "translation": "月之宮殿"
+    },
+    {
+      "offset": "0x1e0cb",
+      "originalHex": "19b295a81814",
+      "translation": "豐饒村",
+      "padding": 1
+    },
+    {
+      "offset": "0x1e0f0",
+      "originalHex": "18dbd01805",
+      "translation": "鬼島",
+      "padding": 1
+    }
+  ]
+}

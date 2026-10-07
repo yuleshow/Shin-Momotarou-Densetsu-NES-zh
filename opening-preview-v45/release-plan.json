@@ -1,0 +1,15 @@
+{
+  "version": "v45",
+  "baseDirectory": "opening-preview-v44",
+  "manifest": "translations/hope-capital-v45.release.json",
+  "addedIndexedEntries": 112,
+  "drafts": [
+    "translations/hope-capital-siege.draft.zh-Hant.json",
+    "translations/hope-capital-residents.draft.zh-Hant.json",
+    "translations/hope-capital-temple.draft.zh-Hant.json",
+    "translations/hope-capital-city-life.draft.zh-Hant.json",
+    "translations/hope-capital-newspaper-windchime.draft.zh-Hant.json",
+    "translations/hope-capital-ashura-negotiation.draft.zh-Hant.json",
+    "translations/hope-capital-castle-construction.draft.zh-Hant.json"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": "v22",
+  "status": "deployed-readback-verified",
+  "targetSha256": "83095c7cc470cd1090d58943b71e184b8ee25c4678c9af853f2ea9461a946660",
+  "previousSha256": "413ed9d937a94a9783e31caa0efb33c0c818f723f5f673a011ba3b3d2eea504f",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "backupRom": "/var/folders/rc/016sqsys46q6f9p4mn0tp34c0000gn/T/momotaro-pre-v22-PaDh7l/v21.sfc",
+  "screenshotsDeleted": 0,
+  "savesWrittenOrRestored": false,
+  "physicalDeviceBootVerified": false,
+  "installedAt": "2026-10-01T06:56:40.230Z",
+  "fullReadbackVerified": true,
+  "readbackBytes": 4194304,
+  "finalDeviceSha256": "83095c7cc470cd1090d58943b71e184b8ee25c4678c9af853f2ea9461a946660",
+  "changedSaves": [],
+  "saveEntriesUnchanged": true,
+  "unchangedSaveFiles": 39,
+  "screenshotEntriesUnchanged": true,
+  "screenshotHashesUnchanged": true,
+  "preservedGameScreenshots": 19,
+  "cheatsUnchanged": true,
+  "relatedRomCount": 1
+}

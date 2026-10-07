@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x70246",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hell-rashomon-rearguard",
+  "decodedBytes": 251,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「[02a0]先生！小心，\n從地面噴出的火焰！」\n",
+    "1": "「不好了，[02a0]先生！」\n\n\n「傳來了消息！\n與酒吞童子、羅生門並列的，\n軍神三千世界大人終於出動！」\n「那位早已停止戰鬥的大人，\n為何偏偏在這時候？」\n",
+    "2": "「喔！[02a0]！我是羅生門！」\n\n\n「哈哈哈哈！\n不愧是迦樓羅大人的，\n直屬軍隊！很難纏啊！」\n「[02a0]！這裡交給我，\n你快往前去吧！」\n"
+  }
+}

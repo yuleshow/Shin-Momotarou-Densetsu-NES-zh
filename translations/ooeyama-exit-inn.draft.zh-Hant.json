@@ -1,0 +1,22 @@
+{
+  "pointerOffset": "0x70111",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ooeyama-exit-inn",
+  "decodedBytes": 584,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "Screenshots 2026-10-02 22:54:59, 22:55:10 and 22:55:15 match records 1 and 4. All eight original records visually reviewed.",
+    "Preserve the northeast route to 寢太郎村, four attendants, 軍神 title and warning about poison-pool floors."
+  ],
+  "records": {
+    "0": "「喔喔！終於，\n走到這裡了啊！[02a0]！\n金太郎、浦島也都辛苦了！」\n「穿過大江山，就是雪國！\n朝東北方，\n一直走就能到寢太郎村！」",
+    "1": "「啾啾！是[02a0]先生！\n旅人都不來，\n到處都是鬼，好可怕喔！」",
+    "2": "「啾啾！是[02a0]先生！\n我們哪裡都不能去求救，\n正傷腦筋呢──！」",
+    "3": "「[02a0]！在大江山腳下，\n有個大得不得了的鬼，\n帶著四個隨從走來走去！」\n「他和那個長翅膀的鬼不同！\n其他鬼每次經過他身旁，\n都會尊稱他為軍神！」",
+    "4": "「一直被困在這裡，\n哪裡都去不了！\n這下終於能繼續旅行了！」\n「這點東西，\n請你帶著上路吧！」\n",
+    "5": "「[02a0]先生！\n那位溫柔的閻魔大人，\n現在不知道怎麼樣了呢！」",
+    "6": "「啾啾！大江山裡，\n聽說有一層到處都是毒沼！\n一定要小心喔！」",
+    "7": "「啾啾！總是四個一起，\n走來走去的那些鬼，\n好像就是所謂的四天王！」\n「鬼族本來就很可怕了，\n沒想到還有，\n更厲害的鬼啊！」"
+  }
+}

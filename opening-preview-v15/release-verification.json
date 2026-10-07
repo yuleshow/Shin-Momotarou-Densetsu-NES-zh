@@ -1,0 +1,24 @@
+{
+  "targetSha256": "fc00b3c71c11ddb2dcbcfe122b6ce2c94bc42d197cc7642b5966e18cc04f0765",
+  "deployed": true,
+  "deviceVersion": "v15",
+  "deviceReadbackVerified": true,
+  "removedRelatedScreenshots": 11,
+  "remainingRelatedScreenshots": 0,
+  "additionalDialogueRecordsSinceV14": 24,
+  "additionalNameRecordsSinceV14": 8,
+  "translatedServiceLabels": 17,
+  "glyphs": 1365,
+  "glyphCapacity": 1600,
+  "fullMenuRegressionPassed": true,
+  "syntheticServiceTemplateCases": 4,
+  "savedShopConfirmationVerified": true,
+  "savedShopActorDataUnchanged": true,
+  "fullDialogueRegressionForExactBuild": false,
+  "unverified": [
+    "Full playthrough and physical device boot",
+    "Full dialogue replay for this exact build; the preceding rice-ball village build passed 101 scenes and 168 word checks",
+    "Remaining common status and currency labels, including Japanese forms of body and currency characters",
+    "All service effects beyond the tested saved-shop confirmation and unchanged actor data"
+  ]
+}

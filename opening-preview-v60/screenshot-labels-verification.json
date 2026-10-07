@@ -1,0 +1,664 @@
+{
+  "targetSha256": "1adb065eab4c8782817c59177316eae3f7442a61efbefc5fc9e9e9535bff0762",
+  "baselineSha256": "d963f67aaf196142ff517f52857b2f7acd57256296b38c9400f20504caa2ce85",
+  "fixtureSha256": "00d8a2c0e200e08d96ddf2804a3b20d31751a54e51ef00fe4e54a0c9ba957dc3",
+  "commandChartCells": [
+    {
+      "character": "伐",
+      "x": 14,
+      "y": 3,
+      "code": "1c09",
+      "rendered": true
+    },
+    {
+      "character": "折",
+      "x": 16,
+      "y": 3,
+      "code": "1c0a",
+      "rendered": true
+    },
+    {
+      "character": "羅",
+      "x": 18,
+      "y": 3,
+      "code": "1c07",
+      "rendered": true
+    },
+    {
+      "character": "王",
+      "x": 20,
+      "y": 3,
+      "code": "1c0b",
+      "rendered": true
+    },
+    {
+      "character": "迦",
+      "x": 4,
+      "y": 7,
+      "code": "1c05",
+      "rendered": true
+    },
+    {
+      "character": "樓",
+      "x": 4,
+      "y": 9,
+      "code": "1c06",
+      "rendered": true
+    },
+    {
+      "character": "羅",
+      "x": 4,
+      "y": 11,
+      "code": "1c07",
+      "rendered": true
+    },
+    {
+      "character": "達",
+      "x": 12,
+      "y": 7,
+      "code": "1c7a",
+      "rendered": true
+    },
+    {
+      "character": "伊",
+      "x": 12,
+      "y": 9,
+      "code": "1c7b",
+      "rendered": true
+    },
+    {
+      "character": "達",
+      "x": 12,
+      "y": 11,
+      "code": "1c7a",
+      "rendered": true
+    },
+    {
+      "character": "王",
+      "x": 12,
+      "y": 13,
+      "code": "1c0b",
+      "rendered": true
+    },
+    {
+      "character": "子",
+      "x": 12,
+      "y": 15,
+      "code": "1c13",
+      "rendered": true
+    },
+    {
+      "character": "閻",
+      "x": 22,
+      "y": 7,
+      "code": "1bfb",
+      "rendered": true
+    },
+    {
+      "character": "魔",
+      "x": 22,
+      "y": 9,
+      "code": "1bfc",
+      "rendered": true
+    },
+    {
+      "character": "王",
+      "x": 22,
+      "y": 11,
+      "code": "1c0b",
+      "rendered": true
+    },
+    {
+      "character": " ",
+      "x": 22,
+      "y": 13,
+      "code": "50",
+      "rendered": true
+    },
+    {
+      "character": "左",
+      "x": 2,
+      "y": 17,
+      "code": "1ccf",
+      "rendered": true
+    },
+    {
+      "character": "魂",
+      "x": 2,
+      "y": 19,
+      "code": "1e1d",
+      "rendered": true
+    },
+    {
+      "character": "鬼",
+      "x": 2,
+      "y": 21,
+      "code": "1bf7",
+      "rendered": true
+    },
+    {
+      "character": "右",
+      "x": 6,
+      "y": 17,
+      "code": "1e1c",
+      "rendered": true
+    },
+    {
+      "character": "魂",
+      "x": 6,
+      "y": 19,
+      "code": "1e1d",
+      "rendered": true
+    },
+    {
+      "character": "鬼",
+      "x": 6,
+      "y": 21,
+      "code": "1bf7",
+      "rendered": true
+    },
+    {
+      "character": "三",
+      "x": 9,
+      "y": 19,
+      "code": "1cd1",
+      "rendered": true
+    },
+    {
+      "character": "千",
+      "x": 9,
+      "y": 21,
+      "code": "1dd9",
+      "rendered": true
+    },
+    {
+      "character": "世",
+      "x": 9,
+      "y": 23,
+      "code": "1dda",
+      "rendered": true
+    },
+    {
+      "character": "界",
+      "x": 9,
+      "y": 25,
+      "code": "1ddb",
+      "rendered": true
+    },
+    {
+      "character": "酒",
+      "x": 12,
+      "y": 19,
+      "code": "1dd6",
+      "rendered": true
+    },
+    {
+      "character": "吞",
+      "x": 12,
+      "y": 21,
+      "code": "1dd7",
+      "rendered": true
+    },
+    {
+      "character": "童",
+      "x": 12,
+      "y": 23,
+      "code": "1d29",
+      "rendered": true
+    },
+    {
+      "character": "子",
+      "x": 12,
+      "y": 25,
+      "code": "1c13",
+      "rendered": true
+    },
+    {
+      "character": "羅",
+      "x": 15,
+      "y": 19,
+      "code": "1c07",
+      "rendered": true
+    },
+    {
+      "character": "生",
+      "x": 15,
+      "y": 21,
+      "code": "1dd8",
+      "rendered": true
+    },
+    {
+      "character": "門",
+      "x": 15,
+      "y": 23,
+      "code": "1d3b",
+      "rendered": true
+    },
+    {
+      "character": "阿",
+      "x": 19,
+      "y": 17,
+      "code": "1d8a",
+      "rendered": true
+    },
+    {
+      "character": "修",
+      "x": 19,
+      "y": 19,
+      "code": "1dd0",
+      "rendered": true
+    },
+    {
+      "character": "羅",
+      "x": 19,
+      "y": 21,
+      "code": "1c07",
+      "rendered": true
+    },
+    {
+      "character": " ",
+      "x": 19,
+      "y": 23,
+      "code": "50",
+      "rendered": true
+    },
+    {
+      "character": "風",
+      "x": 22,
+      "y": 17,
+      "code": "1cdf",
+      "rendered": true
+    },
+    {
+      "character": "神",
+      "x": 22,
+      "y": 19,
+      "code": "1cb3",
+      "rendered": true
+    },
+    {
+      "character": "雷",
+      "x": 25,
+      "y": 17,
+      "code": "1d35",
+      "rendered": true
+    },
+    {
+      "character": "神",
+      "x": 25,
+      "y": 19,
+      "code": "1cb3",
+      "rendered": true
+    },
+    {
+      "character": "醜",
+      "x": 28,
+      "y": 17,
+      "code": "1dde",
+      "rendered": true
+    },
+    {
+      "character": "女",
+      "x": 28,
+      "y": 19,
+      "code": "1ddf",
+      "rendered": true
+    },
+    {
+      "character": " ",
+      "x": 28,
+      "y": 21,
+      "code": "50",
+      "rendered": true
+    }
+  ],
+  "outsideChartCellsUnchanged": true,
+  "otherChartPixelsIdentical": false,
+  "familyChartCells": [
+    {
+      "character": "伐",
+      "x": 47,
+      "y": 4,
+      "code": "1c09"
+    },
+    {
+      "character": " ",
+      "x": 47,
+      "y": 6,
+      "code": "50"
+    },
+    {
+      "character": "折",
+      "x": 47,
+      "y": 8,
+      "code": "1c0a"
+    },
+    {
+      "character": " ",
+      "x": 47,
+      "y": 10,
+      "code": "50"
+    },
+    {
+      "character": "羅",
+      "x": 47,
+      "y": 12,
+      "code": "1c07"
+    },
+    {
+      "character": " ",
+      "x": 47,
+      "y": 14,
+      "code": "50"
+    },
+    {
+      "character": "王",
+      "x": 47,
+      "y": 16,
+      "code": "1c0b"
+    },
+    {
+      "character": "鬼",
+      "x": 34,
+      "y": 5,
+      "code": "1bf7"
+    },
+    {
+      "character": "子",
+      "x": 34,
+      "y": 7,
+      "code": "1c13"
+    },
+    {
+      "character": "母",
+      "x": 34,
+      "y": 9,
+      "code": "2753"
+    },
+    {
+      "character": "神",
+      "x": 34,
+      "y": 11,
+      "code": "1cb3"
+    },
+    {
+      "character": "達",
+      "x": 37,
+      "y": 14,
+      "code": "1c7a"
+    },
+    {
+      "character": "伊",
+      "x": 37,
+      "y": 16,
+      "code": "1c7b"
+    },
+    {
+      "character": "達",
+      "x": 37,
+      "y": 18,
+      "code": "1c7a"
+    },
+    {
+      "character": "王",
+      "x": 37,
+      "y": 20,
+      "code": "1c0b"
+    },
+    {
+      "character": "子",
+      "x": 37,
+      "y": 22,
+      "code": "1c13"
+    },
+    {
+      "character": "夜",
+      "x": 44,
+      "y": 20,
+      "code": "1c64"
+    },
+    {
+      "character": "叉",
+      "x": 44,
+      "y": 22,
+      "code": "1e1f"
+    },
+    {
+      "character": "姬",
+      "x": 44,
+      "y": 24,
+      "code": "1c65"
+    },
+    {
+      "character": "人",
+      "x": 41,
+      "y": 10,
+      "code": "1c0d"
+    },
+    {
+      "character": "類",
+      "x": 41,
+      "y": 12,
+      "code": "1f49"
+    },
+    {
+      "character": "女",
+      "x": 41,
+      "y": 14,
+      "code": "1ddf"
+    },
+    {
+      "character": "子",
+      "x": 41,
+      "y": 16,
+      "code": "1c13"
+    },
+    {
+      "character": "阿",
+      "x": 50,
+      "y": 14,
+      "code": "1d8a"
+    },
+    {
+      "character": "闍",
+      "x": 50,
+      "y": 16,
+      "code": "1e1e"
+    },
+    {
+      "character": "世",
+      "x": 50,
+      "y": 18,
+      "code": "1dda"
+    },
+    {
+      "character": "王",
+      "x": 50,
+      "y": 20,
+      "code": "1c0b"
+    },
+    {
+      "character": "子",
+      "x": 50,
+      "y": 22,
+      "code": "1c13"
+    },
+    {
+      "character": " ",
+      "x": 50,
+      "y": 24,
+      "code": "50"
+    },
+    {
+      "character": "月",
+      "x": 55,
+      "y": 6,
+      "code": "1c61"
+    },
+    {
+      "character": "族",
+      "x": 55,
+      "y": 8,
+      "code": "1c2d"
+    },
+    {
+      "character": "第",
+      "x": 55,
+      "y": 10,
+      "code": "24cf"
+    },
+    {
+      "character": "一",
+      "x": 55,
+      "y": 12,
+      "code": "1c45"
+    },
+    {
+      "character": "公",
+      "x": 55,
+      "y": 14,
+      "code": "1cad"
+    },
+    {
+      "character": "主",
+      "x": 55,
+      "y": 16,
+      "code": "1cae"
+    },
+    {
+      "character": " ",
+      "x": 55,
+      "y": 18,
+      "code": "50"
+    },
+    {
+      "character": "月",
+      "x": 59,
+      "y": 6,
+      "code": "1c61"
+    },
+    {
+      "character": "族",
+      "x": 59,
+      "y": 8,
+      "code": "1c2d"
+    },
+    {
+      "character": "第",
+      "x": 59,
+      "y": 10,
+      "code": "24cf"
+    },
+    {
+      "character": "二",
+      "x": 59,
+      "y": 12,
+      "code": "1cca"
+    },
+    {
+      "character": "公",
+      "x": 59,
+      "y": 14,
+      "code": "1cad"
+    },
+    {
+      "character": "主",
+      "x": 59,
+      "y": 16,
+      "code": "1cae"
+    },
+    {
+      "character": " ",
+      "x": 59,
+      "y": 18,
+      "code": "50"
+    },
+    {
+      "character": "月",
+      "x": 55,
+      "y": 2,
+      "code": "1c61"
+    },
+    {
+      "character": "族",
+      "x": 57,
+      "y": 2,
+      "code": "1c2d"
+    },
+    {
+      "character": " ",
+      "x": 59,
+      "y": 2,
+      "code": "50"
+    },
+    {
+      "character": "輝",
+      "x": 55,
+      "y": 22,
+      "code": "1c63"
+    },
+    {
+      "character": "夜",
+      "x": 57,
+      "y": 22,
+      "code": "1c64"
+    },
+    {
+      "character": "姬",
+      "x": 59,
+      "y": 22,
+      "code": "1c65"
+    },
+    {
+      "character": " ",
+      "x": 61,
+      "y": 22,
+      "code": "50"
+    }
+  ],
+  "outsideFamilyCellsUnchanged": true,
+  "familyModeInitialized": true,
+  "defaultNameCases": [
+    {
+      "name": "default",
+      "index": 24,
+      "address": 15675,
+      "hex": "04b2bd9f00",
+      "translated": true,
+      "passed": true,
+      "nameRamUnchanged": true
+    },
+    {
+      "name": "custom-suffix",
+      "index": 24,
+      "address": 15675,
+      "hex": "04b2bd9f9f00",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true
+    },
+    {
+      "name": "custom-name",
+      "index": 24,
+      "address": 15675,
+      "hex": "0495969700",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true
+    },
+    {
+      "name": "other-character",
+      "index": 23,
+      "address": 15669,
+      "hex": "04b2bd9f00",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true
+    }
+  ],
+  "fixtureUnchanged": true,
+  "limitations": [
+    "Chart opened from a copied item-use state; family mode and name cases use scoped probes",
+    "Not a natural dice-summoning battle or physical-device boot verification"
+  ]
+}

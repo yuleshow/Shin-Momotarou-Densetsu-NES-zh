@@ -1,0 +1,98 @@
+{
+  "targetSha256": "cdd864a94f3e058d4ff775e94f8aa76b311794e778221b2312376a762434bcf4",
+  "jobs": [
+    {
+      "name": "baseline",
+      "status": "passed"
+    },
+    {
+      "name": "control",
+      "status": "passed"
+    },
+    {
+      "name": "font-final",
+      "status": "passed"
+    },
+    {
+      "name": "menu",
+      "status": "passed"
+    },
+    {
+      "name": "sumo",
+      "status": "passed"
+    },
+    {
+      "name": "welcome",
+      "status": "passed"
+    },
+    {
+      "name": "battle",
+      "status": "passed"
+    },
+    {
+      "name": "screenshot-labels",
+      "status": "passed"
+    },
+    {
+      "name": "animal-names",
+      "status": "passed"
+    },
+    {
+      "name": "field",
+      "status": "passed"
+    },
+    {
+      "name": "formation",
+      "status": "passed"
+    },
+    {
+      "name": "injury",
+      "status": "passed"
+    },
+    {
+      "name": "dictionary-reference",
+      "status": "passed"
+    },
+    {
+      "name": "tests",
+      "status": "passed"
+    },
+    {
+      "name": "rom-codec",
+      "status": "passed"
+    },
+    {
+      "name": "font-codec",
+      "status": "passed"
+    },
+    {
+      "name": "text-codec",
+      "status": "passed"
+    },
+    {
+      "name": "lz-fixtures",
+      "status": "passed"
+    },
+    {
+      "name": "catalog",
+      "status": "passed"
+    },
+    {
+      "name": "builder",
+      "status": "passed"
+    },
+    {
+      "name": "dialogue-0",
+      "status": "passed"
+    },
+    {
+      "name": "dialogue-1",
+      "status": "passed"
+    },
+    {
+      "name": "dialogue-2",
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

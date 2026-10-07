@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x7020a",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hell-orders-rumors",
+  "decodedBytes": 208,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「只要打倒你們，\n迦樓羅大人就會提拔我！」\n",
+    "1": "「迦樓羅口中的\n伐折羅王大人之命，\n全都是他編造的！」\n「[02a0]先生！請告訴\n地獄的鬼族，王的命令\n其實都是謊言！」",
+    "2": "「哈哈哈！\n迦樓羅可沒有\n在說謊喔！」\n「對那傢伙來說，\n他以為自己說的全是真的！」\n"
+  }
+}

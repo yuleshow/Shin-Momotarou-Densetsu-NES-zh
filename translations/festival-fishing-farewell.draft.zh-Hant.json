@@ -1,0 +1,12 @@
+{
+  "pointerOffset": "0x70066",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "festival-fishing-farewell",
+  "decodedBytes": 47,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「請盡量多釣一些吧。」",
+    "1": "「辛苦了。\n歡迎隨時再來。」"
+  }
+}

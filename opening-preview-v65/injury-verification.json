@@ -1,0 +1,99 @@
+{
+  "targetSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "baselineSha256": "c6cdbdd1a73c384184e26d2b5924adf9bb596100b8af06565c80e2308b521aa4",
+  "fixtureSha256": "bdc932f3f7b3c7a124ef31f97c68a55593d41c49f4dfbb5a8bc67ad73c28be25",
+  "cases": [
+    {
+      "status": 0,
+      "heading": null,
+      "checkedRanges": [
+        [
+          789,
+          822
+        ],
+        [
+          5376,
+          5600
+        ],
+        [
+          5643,
+          8192
+        ]
+      ],
+      "checkedAbilityDataIdentical": true,
+      "abilityPanelOutsideInjuryIdentical": true,
+      "unclassifiedRamDifferences": [],
+      "image": "ability-0-target.png"
+    },
+    {
+      "status": 128,
+      "heading": {
+        "x": 144,
+        "y": 32,
+        "width": 24,
+        "height": 16
+      },
+      "checkedRanges": [
+        [
+          789,
+          822
+        ],
+        [
+          5376,
+          5600
+        ],
+        [
+          5643,
+          8192
+        ]
+      ],
+      "checkedAbilityDataIdentical": true,
+      "abilityPanelOutsideInjuryIdentical": true,
+      "unclassifiedRamDifferences": [
+        {
+          "address": "7E15EB",
+          "before": 5,
+          "after": 6
+        },
+        {
+          "address": "7E15F5",
+          "before": 4,
+          "after": 2
+        },
+        {
+          "address": "7E15FE",
+          "before": 5,
+          "after": 4
+        },
+        {
+          "address": "7E1600",
+          "before": 1,
+          "after": 0
+        },
+        {
+          "address": "7E1601",
+          "before": 5,
+          "after": 4
+        },
+        {
+          "address": "7E1602",
+          "before": 5,
+          "after": 8
+        },
+        {
+          "address": "7E1608",
+          "before": 9,
+          "after": 8
+        }
+      ],
+      "image": "ability-128-target.png"
+    }
+  ],
+  "nativeControllerNavigation": true,
+  "syntheticConditionAddress": "7E180A",
+  "originalFixtureUnchanged": true,
+  "limitations": [
+    "Healthy/severely injured protagonist only; not every actor, status combination or full release regression.",
+    "Background animation timing differs in the injury case. RAM 7E15E0-7E160A differences are recorded but unclassified; full scene or gameplay RAM equality is not claimed."
+  ]
+}

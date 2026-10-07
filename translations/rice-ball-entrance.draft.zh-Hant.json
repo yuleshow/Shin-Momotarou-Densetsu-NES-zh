@@ -1,0 +1,14 @@
+{
+  "pointerOffset": "0x701b0",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "rice-ball-entrance",
+  "target": "0x3d0800",
+  "decodedBytes": 223,
+  "status": "control-checked-draft",
+  "records": {
+    "0": "「我拜著地藏菩薩，\n就掉到這種地方來了！\n到底要從哪裡出去啊？」",
+    "1": "「[02a0]先生！飯糰村\n建好之後，旅行真的\n方便多了呢！」\n「這個請收下！\n是我在這裡打的泉水！」\n",
+    "2": "「[02a0]先生！飯糰村\n建好之後，旅行真的\n方便多了呢！」",
+    "3": "「[02a0]先生！前面有\n會噴毒的青鬼！\n請小心啊！」"
+  }
+}

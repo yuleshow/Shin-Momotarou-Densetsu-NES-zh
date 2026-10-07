@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x70204",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "fukuryuu-trial",
+  "decodedBytes": 360,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「吼……！」\n\n\n「欲將吾從永恆沉眠中\n喚醒的渺小之人啊！」\n\n「吾名伏龍！」\n\n\n「遵循古老的訓示，\n守護龍鱗之人正是吾！」\n\n「汝等小小的手中，\n可曾掌握真正的男子氣概\n與友情！？」\n「若是如此，就在吾面前，\n展現汝等的力量吧！」\n",
+    "1": "「吼！吼！」\n\n",
+    "2": "「吼……！」\n\n\n「很好！汝等正是\n吾一直等待的，\n擁有真正男子氣概之人！」\n「龍鱗\n就在深處！\n將它帶走吧！」\n「吾將再次\n陷入永恆的沉眠，\n不許再來打擾吾！」"
+  }
+}

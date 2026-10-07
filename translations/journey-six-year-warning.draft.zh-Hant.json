@@ -1,0 +1,11 @@
+{
+  "pointerOffset": "0x702d0",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "journey-six-year-warning",
+  "decodedBytes": 93,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「[02a0]！要小心啊！\n鬼族的力量，\n已遠遠超過六年前了！」\n「先找到，\n值得信賴的夥伴，\n再以鬼之島為目標吧！」"
+  }
+}

@@ -1,0 +1,1032 @@
+{
+  "status": "partial-menu-proof-of-concept",
+  "locale": "zh-Hant-TW",
+  "textDrafts": ["services.draft.zh-Hant.json", "village-interactions.draft.zh-Hant.json", "shrines.draft.zh-Hant.json", "face-puzzle.draft.zh-Hant.json", "prince-hints.draft.zh-Hant.json", "starting-village.draft.zh-Hant.json", "regional-villagers.draft.zh-Hant.json", "companions-and-villagers.draft.zh-Hant.json", "rice-ball-village.draft.zh-Hant.json", "hidden-passage-training.draft.zh-Hant.json", "avoid-encounters-training.draft.zh-Hant.json", "poison-escort-training.draft.zh-Hant.json", "golden-buddha.draft.zh-Hant.json", "spell-teachers.draft.zh-Hant.json", "rice-ball-cave.draft.zh-Hant.json", "rice-ball-entrance.draft.zh-Hant.json", "rice-ball-offering.draft.zh-Hant.json", "screenshot-locations.draft.zh-Hant.json", "field-messages.draft.zh-Hant.json", "rice-ball-cave-depths.draft.zh-Hant.json", "ryotetsu-encounter.draft.zh-Hant.json", "sparrow-inn-one.draft.zh-Hant.json", "matsuba-gate.draft.zh-Hant.json", "lightning-hermit.draft.zh-Hant.json", "lightning-rock-trial.draft.zh-Hant.json", "pheasant-rescue.draft.zh-Hant.json", "hanasaka-village.draft.zh-Hant.json", "hanasaka-prison-entrance.draft.zh-Hant.json", "hanasaka-water-prison.draft.zh-Hant.json", "hanasaka-visitors.draft.zh-Hant.json"],
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "entries": [
+    { "offset": "0x70581", "originalHex": "96ba9750a49b", "source": "きろく なし", "translation": "無存檔" },
+    { "offset": "0x70676", "originalHex": "09bc50afa1989f5c0101", "segments": [{ "text": "發現了" }, { "hex": "09" }, { "text": "！" }, { "hex": "0101" }] },
+    { "offset": "0x70690", "originalHex": "a4bda35c01a1dcb6a850a495a5a90109d050919f5c", "segments": [{ "text": "竟然！" }, { "hex": "01" }, { "text": "寶箱裡藏著" }, { "hex": "0109" }, { "text": "！" }] },
+    { "offset": "0x706a6", "originalHex": "09d001a1dcb6a81a83a501aa96d7b799aeb99f5c", "segments": [{ "hex": "09" }, { "text": "被" }, { "hex": "01" }, { "text": "拉進了" }, { "hex": "01" }, { "text": "寶箱裡！" }] },
+    { "offset": "0x706bb", "originalHex": "09a901a1dcb6a850a49595b60109bc5019adb719cc9b9f5c", "segments": [{ "hex": "09" }, { "hex": "01" }, { "text": "從寶箱裡取出了" }, { "hex": "0109" }, { "text": "！" }] },
+    { "offset": "0x706d4", "originalHex": "09a95009bc01a1dcb6a850a495a550b2dd9b9f5c01", "segments": [{ "hex": "09" }, { "text": "把" }, { "hex": "09" }, { "hex": "01" }, { "text": "放回了寶箱裡！" }, { "hex": "01" }] },
+    { "offset": "0x70704", "originalHex": "9b959b50a4a5b25018b0a195b6a495f59f5c", "source": "しかし なにも 見つからなかった！", "translation": "但什麼也沒找到！" },
+    { "offset": "0x70717", "originalHex": "9b959b50a1dcb6a95095b6f5e7daf59f5c", "source": "しかし つづらは からっぽだった！", "translation": "但是寶箱裡空空如也！" },
+    { "offset": "0x70729", "originalHex": "a1dc96", "source": "つづき", "translation": "繼續" },
+    { "offset": "0x7072d", "originalHex": "a9d6b1a2", "source": "はじめて", "translation": "開始" },
+    { "offset": "0x70732", "originalHex": "92a19c", "source": "うつす", "translation": "複製" },
+    { "offset": "0x70736", "originalHex": "989c", "source": "けす", "translation": "刪除" }
+  ],
+  "nameBlocks": [
+    {
+      "name": "battle-commands", "pointerOffset": "0x7000c", "target": "0x254000",
+      "entries": [
+        { "offset": "0x70e65", "originalHex": "1a1c92", "source": "戦う", "translation": "攻擊" },
+        { "offset": "0x70e69", "originalHex": "1a1bb8", "source": "守る", "translation": "防禦" },
+        { "offset": "0x70e6d", "originalHex": "181b", "source": "術", "translation": "術" },
+        { "offset": "0x70e70", "originalHex": "95de92", "source": "かばう", "translation": "掩護" },
+        { "offset": "0x70e74", "originalHex": "181c181d", "source": "道具", "translation": "道具" },
+        { "offset": "0x70e79", "originalHex": "1a1dd3b8", "source": "逃げる", "translation": "逃跑" }
+      ]
+    },
+    {
+      "name": "enemies", "pointerOffset": "0x7000f", "target": "0x253000",
+      "entries": [
+        { "offset": "0x71092", "originalHex": "180b18db", "source": "雷鬼", "translation": "雷鬼" },
+        { "offset": "0x710c0", "originalHex": "aaa3daae", "source": "ひとだま", "translation": "鬼火" },
+        { "offset": "0x710d7", "originalHex": "0492d7d2b203", "source": "ウズグモ", "translation": "渦蜘蛛" },
+        { "offset": "0x710ed", "originalHex": "04a1a0d2b203", "source": "ツチグモ", "translation": "土蜘蛛" },
+        { "offset": "0x71106", "originalHex": "189c189d", "source": "地虫", "translation": "地蟲" },
+        { "offset": "0x711d5", "originalHex": "def595bd96", "source": "ばっかんき", "translation": "巴坎鬼" },
+        { "offset": "0x71258", "originalHex": "1819194e", "source": "両鉄", "translation": "兩鐵" },
+        { "offset": "0x71639", "originalHex": "04da91da0318411888", "translation": "達伊達王子" },
+        { "offset": "0x71643", "originalHex": "04da91da0318411888", "translation": "達伊達王子" },
+        { "offset": "0x7164d", "originalHex": "04da91da0318411888", "translation": "達伊達王子" },
+        { "offset": "0x71657", "originalHex": "04da91da0318411888", "translation": "達伊達王子" },
+        { "offset": "0x71661", "originalHex": "04da91da0318411888", "translation": "達伊達王子" },
+        { "offset": "0x716a2", "originalHex": "02b019881847", "source": "きんたん仙人", "translation": "金丹仙人" }
+      ]
+    },
+    {
+      "name": "items", "pointerOffset": "0x70015", "target": "0x250000",
+      "entries": [
+        { "offset": "0x71b8b", "originalHex": "94aebdd6f792", "source": "おまんじゅう", "translation": "饅頭" },
+        { "offset": "0x71b92", "originalHex": "049aa1ae91b203", "source": "サツマイモ", "translation": "甘藷" },
+        { "offset": "0x71b9a", "originalHex": "02c0", "source": "おにぎり", "translation": "飯糰" },
+        { "offset": "0x71b9d", "originalHex": "96dfdabdd4", "source": "きびだんご", "translation": "黍糰" },
+        { "offset": "0x71ba3", "originalHex": "04b49603a802c0", "source": "ユキのおにぎり", "translation": "雪之飯糰" },
+        { "offset": "0x71bab", "originalHex": "1844a818901ac8", "source": "竹の水筒", "translation": "竹水筒" },
+        { "offset": "0x71bbb", "originalHex": "19881847a8959caf", "source": "仙人のかすみ", "translation": "仙人霞" },
+        { "offset": "0x71bc4", "originalHex": "19881847a81800", "source": "仙人の桃", "translation": "仙人桃" },
+        { "offset": "0x71bcc", "originalHex": "1a12a019cca899dca0", "source": "打ち出のこづち", "translation": "如意小槌" },
+        { "offset": "0x71bd6", "originalHex": "19cb960491b203", "source": "焼きイモ", "translation": "烤甘藷" },
+        { "offset": "0x71bde", "originalHex": "1a071a02", "source": "銘菓", "translation": "名菓" },
+        { "offset": "0x71be3", "originalHex": "04da9199bd03", "source": "ダイコン", "translation": "白蘿蔔" },
+        { "offset": "0x71bea", "originalHex": "9f97bbbd", "source": "たくわん", "translation": "醃蘿蔔" },
+        { "offset": "0x71bef", "originalHex": "18831a4cdc98", "source": "千枚づけ", "translation": "千枚漬" },
+        { "offset": "0x71bf6", "originalHex": "1af218cc18a9a81acc", "source": "半河沙の玉", "translation": "半河沙玉" },
+        { "offset": "0x71c00", "originalHex": "1acb1848a81acc", "source": "元気の玉", "translation": "元氣玉" },
+        { "offset": "0x71c08", "originalHex": "1acd18cc18a9a81acc", "source": "恒河沙の玉", "translation": "恆河沙玉" },
+        { "offset": "0x71c12", "originalHex": "180f18161ace", "source": "強力丹", "translation": "強力丹" },
+        { "offset": "0x71c21", "originalHex": "180e1acf9b", "source": "毒消し", "translation": "解毒藥" },
+        { "offset": "0x71c27", "originalHex": "04aeaa031acf9b", "source": "マヒ消し", "translation": "解麻藥" },
+        { "offset": "0x71c2f", "originalHex": "1a2a911acf9b", "source": "呪い消し", "translation": "解咒藥" },
+        { "offset": "0x71c36", "originalHex": "1a9d1ad1194f", "source": "奇効丸", "translation": "奇效丸" },
+        { "offset": "0x71c3d", "originalHex": "18031a131ace", "source": "金創丹", "translation": "金瘡丹" },
+        { "offset": "0x71c44", "originalHex": "19e01ad21ace", "source": "万能丹", "translation": "萬能丹" },
+        { "offset": "0x71c4b", "originalHex": "0496f792b703", "source": "キュウリ", "translation": "小黃瓜" },
+        { "offset": "0x71c52", "originalHex": "0491bb9b03", "source": "イワシ", "translation": "沙丁魚" },
+        { "offset": "0x71c58", "originalHex": "049ade03", "source": "サバ", "translation": "鯖魚" },
+        { "offset": "0x71c5d", "originalHex": "04a9aea003", "source": "ハマチ", "translation": "鰤魚" },
+        { "offset": "0x71c63", "originalHex": "04aed2ba03", "source": "マグロ", "translation": "鮪魚" },
+        { "offset": "0x71c69", "originalHex": "049f9103", "source": "タイ", "translation": "鯛魚" },
+        { "offset": "0x71c6e", "originalHex": "979af59f0491bb9b03", "source": "くさったイワシ", "translation": "腐敗沙丁魚" },
+        { "offset": "0x71c78", "originalHex": "979af59f049ade03", "source": "くさったサバ", "translation": "腐敗鯖魚" },
+        { "offset": "0x71c81", "originalHex": "979af59f04a9aea003", "source": "くさったハマチ", "translation": "腐敗鰤魚" },
+        { "offset": "0x71c8b", "originalHex": "979af59f04aed2ba03", "source": "くさったマグロ", "translation": "腐敗鮪魚" },
+        { "offset": "0x71c95", "originalHex": "979af59f049f9103", "source": "くさったタイ", "translation": "腐敗鯛魚" },
+        { "offset": "0x71ca7", "originalHex": "18900490b103", "source": "水アメ", "translation": "麥芽糖" },
+        { "offset": "0x71cb9", "originalHex": "90b1d59197", "source": "あめざいく", "translation": "糖塑" },
+        { "offset": "0x71cc7", "originalHex": "18b2d0bbb7189c1ad4", "source": "身がわり地蔵", "translation": "替身地藏" },
+        { "offset": "0x71cd1", "originalHex": "049abdd403a8941ad5", "source": "サンゴのお札", "translation": "珊瑚護符" },
+        { "offset": "0x71cdb", "originalHex": "1803a8a4b8188b", "source": "金のなる木", "translation": "搖錢樹" },
+        { "offset": "0x71d17", "originalHex": "9597b9afa8", "source": "かくれみの", "translation": "隱身蓑衣" },
+        { "offset": "0x71d37", "originalHex": "dd92e0a1a81a2b", "source": "どうぶつの友", "translation": "動物之友" },
+        { "offset": "0x71d3f", "originalHex": "0491a603aef59bd2b6", "source": "イヌまっしぐら", "translation": "狗兒最愛" },
+        { "offset": "0x71d49", "originalHex": "0496d6031949", "source": "キジ豆", "translation": "雉雞豆" },
+        { "offset": "0x71d50", "originalHex": "049ab803b6f596f8", "source": "サルらっきょ", "translation": "猴子薤頭" },
+        { "offset": "0x71d59", "originalHex": "a9d4bab2", "source": "はごろも", "translation": "羽衣" },
+        { "offset": "0x71d5e", "originalHex": "188c188aa8a9d4bab2", "source": "天女のはごろも", "translation": "天女羽衣" },
+        { "offset": "0x71d68", "originalHex": "0497b203a81a09", "source": "クモの糸", "translation": "蜘蛛絲" },
+        { "offset": "0x71fb8", "originalHex": "97aebed2bb", "source": "くまでぐわ", "translation": "耙鋤" },
+        { "offset": "0x72036", "originalHex": "1892a818901a32", "source": "月の水晶", "translation": "月之水晶" }
+      ]
+    },
+    {
+      "name": "equipment", "pointerOffset": "0x70018", "target": "0x251000",
+      "entries": [
+        { "offset": "0x720d2", "originalHex": "188b184c", "source": "木刀", "translation": "木刀" },
+        { "offset": "0x720d7", "originalHex": "184c", "source": "刀", "translation": "刀" },
+        { "offset": "0x72138", "originalHex": "18d01848a81a45", "source": "男気の剣", "translation": "勇氣之劍" },
+        { "offset": "0x72140", "originalHex": "18d01848a81a45", "source": "男気の剣", "translation": "勇氣之劍" },
+        { "offset": "0x72148", "originalHex": "18d01848a81a45", "source": "男気の剣", "translation": "勇氣之劍" },
+        { "offset": "0x72182", "originalHex": "188ba81a4aa81a4b", "source": "木の皮の胴", "translation": "樹皮護甲" },
+        { "offset": "0x721bd", "originalHex": "18d01848a81a4e", "source": "男気の鎧", "translation": "勇氣鎧甲" },
+        { "offset": "0x72553", "originalHex": "1a591a5f9b", "source": "着流し", "translation": "便服" },
+        { "offset": "0x72815", "originalHex": "a9a0ae96", "source": "はちまき", "translation": "頭巾" },
+        { "offset": "0x72823", "originalHex": "18d01848a895e0a3", "source": "男気のかぶと", "translation": "勇氣頭盔" },
+        { "offset": "0x72847", "originalHex": "bbb6d6", "source": "わらじ", "translation": "草鞋" },
+        { "offset": "0x7284b", "originalHex": "04929ad103a8198a19c2", "source": "ウサギの足袋", "translation": "兔子足袋" },
+        { "offset": "0x728a1", "originalHex": "18d01848a81abe", "source": "男気の沓", "translation": "勇氣長靴" }
+      ]
+    },
+    {
+      "name": "techniques", "pointerOffset": "0x7001b", "target": "0x252000",
+      "entries": [
+        { "offset": "0x728c9", "originalHex": "02b0", "source": "きんたん", "translation": "金丹" },
+        { "offset": "0x728cc", "originalHex": "9dbd02b0", "source": "せんきんたん", "translation": "千金丹" },
+        { "offset": "0x728d1", "originalHex": "aebd02b0", "source": "まんきんたん", "translation": "萬金丹" },
+        { "offset": "0x728d6", "originalHex": "afa402b0", "source": "みなきんたん", "translation": "全體金丹" },
+        { "offset": "0x728db", "originalHex": "afa49dbd9fbd", "source": "みなせんたん", "translation": "全體千丹" },
+        { "offset": "0x728e2", "originalHex": "afa4aebd9fbd", "source": "みなまんたん", "translation": "全體萬丹" },
+        { "offset": "0x728e9", "originalHex": "aeadbade", "source": "まほろば", "translation": "真幌" },
+        { "offset": "0x728ee", "originalHex": "96bd9e92", "source": "きんそう", "translation": "金瘡" },
+        { "offset": "0x728f3", "originalHex": "dd97989b", "source": "どくけし", "translation": "解毒" },
+        { "offset": "0x728f8", "originalHex": "aeaa989b", "source": "まひけし", "translation": "解麻" },
+        { "offset": "0x728fd", "originalHex": "184e18ce", "source": "小波", "translation": "小波" },
+        { "offset": "0x72902", "originalHex": "184018ce", "source": "大波", "translation": "大波" },
+        { "offset": "0x72907", "originalHex": "1a5318ce", "source": "津波", "translation": "海嘯" },
+        { "offset": "0x7290c", "originalHex": "1a7e1a7f", "source": "稲妻", "translation": "稻妻" },
+        { "offset": "0x72911", "originalHex": "180b1ac0", "source": "雷鳴", "translation": "雷鳴" },
+        { "offset": "0x72916", "originalHex": "180b1a19", "source": "雷撃", "translation": "雷擊" },
+        { "offset": "0x7291b", "originalHex": "180b1ac1", "source": "雷電", "translation": "雷電" },
+        { "offset": "0x72920", "originalHex": "1ac2180c", "source": "旋風", "translation": "旋風" },
+        { "offset": "0x72925", "originalHex": "1ac3180c", "source": "突風", "translation": "突風" },
+        { "offset": "0x7292a", "originalHex": "1ac4180c", "source": "烈風", "translation": "烈風" },
+        { "offset": "0x7292f", "originalHex": "1a79", "source": "炎", "translation": "炎" },
+        { "offset": "0x72932", "originalHex": "188f1a79", "source": "火炎", "translation": "火焰" },
+        { "offset": "0x72937", "originalHex": "188f1ac5", "source": "火走", "translation": "火走" },
+        { "offset": "0x7293c", "originalHex": "04deb60318ae1807", "source": "バラ吹雪", "translation": "玫瑰吹雪" },
+        { "offset": "0x72945", "originalHex": "1ac61a23", "source": "忍冬", "translation": "忍冬" },
+        { "offset": "0x7294a", "originalHex": "1a5fb91a60", "source": "流れ星", "translation": "流星" },
+        { "offset": "0x72950", "originalHex": "199d199e", "source": "鹿角", "translation": "鹿角" },
+        { "offset": "0x72955", "originalHex": "e0bdddb7", "source": "ぶんどり", "translation": "奪取" },
+        { "offset": "0x7295a", "originalHex": "a7999ed1", "source": "ねこそぎ", "translation": "搜刮" },
+        { "offset": "0x7295f", "originalHex": "1ac719cc9b", "source": "尻出し", "translation": "露臀" },
+        { "offset": "0x72965", "originalHex": "b2bada9b", "source": "もろだし", "translation": "全露" },
+        { "offset": "0x7296a", "originalHex": "dadadbdb", "source": "だだぢぢ", "translation": "達達吉吉" },
+        { "offset": "0x7296f", "originalHex": "de91b796", "source": "ばいりき", "translation": "倍力" },
+        { "offset": "0x72974", "originalHex": "aeb2b7", "source": "まもり", "translation": "守護" },
+        { "offset": "0x72978", "originalHex": "a9b3a2", "source": "はやて", "translation": "疾風" },
+        { "offset": "0x7297c", "originalHex": "b1d5ae9b", "source": "めざまし", "translation": "喚醒" },
+        { "offset": "0x72981", "originalHex": "aeab92d6", "source": "まふうじ", "translation": "封魔" },
+        { "offset": "0x72986", "originalHex": "a1aedf96", "source": "つまびき", "translation": "撥弦" },
+        { "offset": "0x7298b", "originalHex": "95b79eb1", "source": "かりそめ", "translation": "假象" },
+        { "offset": "0x72990", "originalHex": "04deb603d097b9", "source": "バラがくれ", "translation": "玫瑰隱身" },
+        { "offset": "0x72998", "originalHex": "ad92aa", "source": "ほうひ", "translation": "放屁" },
+        { "offset": "0x7299c", "originalHex": "aba5f6b6", "source": "ふにゃら", "translation": "軟化" },
+        { "offset": "0x729a1", "originalHex": "a3aedd91", "source": "とまどい", "translation": "迷惘" },
+        { "offset": "0x729a6", "originalHex": "ab9291bd", "source": "ふういん", "translation": "封印" },
+        { "offset": "0x729ab", "originalHex": "bbd5b59d", "source": "わざよせ", "translation": "招術" },
+        { "offset": "0x729b0", "originalHex": "aeddbaaf", "source": "まどろみ", "translation": "微眠" },
+        { "offset": "0x729b5", "originalHex": "92a1baaa", "source": "うつろひ", "translation": "變幻" },
+        { "offset": "0x729ba", "originalHex": "afa4aba5f6b6", "source": "みなふにゃら", "translation": "全體軟化" },
+        { "offset": "0x729c1", "originalHex": "95d3a691", "source": "かげぬい", "translation": "縛影" },
+        { "offset": "0x729c6", "originalHex": "a9b6adba", "source": "はらほろ", "translation": "哈啦呵囉" },
+        { "offset": "0x729cb", "originalHex": "aa93bd", "source": "ひえん", "translation": "飛燕" },
+        { "offset": "0x729cf", "originalHex": "a698da9b", "source": "ぬけだし", "translation": "脫身" },
+        { "offset": "0x729d4", "originalHex": "02acb598", "source": "オニよけ", "translation": "避鬼" },
+        { "offset": "0x729d9", "originalHex": "b7f892b7", "source": "りょうり", "translation": "料理" },
+        { "offset": "0x729de", "originalHex": "aeb598", "source": "まよけ", "translation": "避魔" },
+        { "offset": "0x729e2", "originalHex": "abb492", "source": "ふゆう", "translation": "浮游" },
+        { "offset": "0x729e6", "originalHex": "929f959f", "source": "うたかた", "translation": "泡影" },
+        { "offset": "0x729eb", "originalHex": "90b3959b", "source": "あやかし", "translation": "妖異" },
+        { "offset": "0x729f0", "originalHex": "aeb8da9b", "source": "まるだし", "translation": "赤裸" },
+        { "offset": "0x729f5", "originalHex": "18db181b", "source": "鬼術", "translation": "鬼術" },
+        { "offset": "0x729fa", "originalHex": "184e18ce", "source": "小波", "translation": "小波" },
+        { "offset": "0x729ff", "originalHex": "184018ce", "source": "大波", "translation": "大波" },
+        { "offset": "0x72a04", "originalHex": "1a5318ce", "source": "津波", "translation": "海嘯" },
+        { "offset": "0x72a09", "originalHex": "180b1ac0", "source": "雷鳴", "translation": "雷鳴" },
+        { "offset": "0x72a0e", "originalHex": "180b1a19", "source": "雷撃", "translation": "雷擊" },
+        { "offset": "0x72a13", "originalHex": "180b1ac1", "source": "雷電", "translation": "雷電" },
+        { "offset": "0x72a18", "originalHex": "1ac2180c", "source": "旋風", "translation": "旋風" },
+        { "offset": "0x72a1d", "originalHex": "1ac3180c", "source": "突風", "translation": "突風" },
+        { "offset": "0x72a22", "originalHex": "1ac4180c", "source": "烈風", "translation": "烈風" },
+        { "offset": "0x72a27", "originalHex": "1a79", "source": "炎", "translation": "炎" },
+        { "offset": "0x72a2a", "originalHex": "188f1a79", "source": "火炎", "translation": "火焰" },
+        { "offset": "0x72a2f", "originalHex": "188f1ac5", "source": "火走", "translation": "火走" },
+        { "offset": "0x72a34", "originalHex": "1afa1807", "source": "細雪", "translation": "細雪" },
+        { "offset": "0x72a39", "originalHex": "18ae1807", "source": "吹雪", "translation": "吹雪" },
+        { "offset": "0x72a3e", "originalHex": "18071afb", "source": "雪崩", "translation": "雪崩" },
+        { "offset": "0x72a43", "originalHex": "18801899", "source": "一切", "translation": "一切" },
+        { "offset": "0x72a48", "originalHex": "1a881af21af3", "source": "四半分", "translation": "四分之一" },
+        { "offset": "0x72a4f", "originalHex": "de91dad396", "source": "ばいだげき", "translation": "倍打擊" },
+        { "offset": "0x72a55", "originalHex": "de91b796", "source": "ばいりき", "translation": "倍力" },
+        { "offset": "0x72a5a", "originalHex": "de91b796", "source": "ばいりき", "translation": "倍力" },
+        { "offset": "0x72a5f", "originalHex": "aeb2b7", "source": "まもり", "translation": "守護" },
+        { "offset": "0x72a63", "originalHex": "aeb2b7", "source": "まもり", "translation": "守護" },
+        { "offset": "0x72a67", "originalHex": "d8bdaeb2b7", "source": "ぜんまもり", "translation": "全體守護" },
+        { "offset": "0x72a6d", "originalHex": "a9b3a2", "source": "はやて", "translation": "疾風" },
+        { "offset": "0x72a71", "originalHex": "a9b3a2", "source": "はやて", "translation": "疾風" },
+        { "offset": "0x72a75", "originalHex": "b3aedf99", "source": "やまびこ", "translation": "山彥" },
+        { "offset": "0x72a7a", "originalHex": "aba5f6b6", "source": "ふにゃら", "translation": "軟化" },
+        { "offset": "0x72a7f", "originalHex": "aba5f6b6", "source": "ふにゃら", "translation": "軟化" },
+        { "offset": "0x72a84", "originalHex": "b4b1af", "source": "ゆめみ", "translation": "夢見" },
+        { "offset": "0x72a88", "originalHex": "9597b6bd", "source": "かくらん", "translation": "擾亂" },
+        { "offset": "0x72a8d", "originalHex": "95d3ba92", "source": "かげろう", "translation": "陽炎" },
+        { "offset": "0x72a92", "originalHex": "1a031ad8b7", "source": "日照り", "translation": "日照" },
+        { "offset": "0x72a98", "originalHex": "0496a1a703de959b", "source": "キツネばかし", "translation": "狐幻" }
+      ]
+    }
+  ],
+  "textBlocks": [
+    {
+      "name": "moon-palace-guard", "pointerOffset": "0x7028b", "target": "0x2c0000", "decodedBytes": 45, "complete": true,
+      "entries": [
+        { "offset": "0", "originalHex": "7d1854da5b5002b6a95c01501b489c99a350ae95b7a4b6a65c01500495b8b6031907a850d418211822da5c7e", "source": "何だ？おまえは！通すことまかりならぬ！カルラ様のご命令だ！", "segments": [{ "hex": "7d" }, { "text": "什麼？你是誰！" }, { "hex": "01" }, { "text": "不准通行！" }, { "hex": "0104" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "大人的命令！" }, { "hex": "7e" }] }
+      ]
+    },
+    {
+      "name": "prince-and-karura-dialogue", "pointerOffset": "0x70051", "target": "0x2b0000",
+      "entries": [
+        { "offset": "0x80c9c", "originalHex": "04da91da0318411888017da4d8da5b5099bda45095e29e911816be01501914189a18c1a550186ff59fa39192a8955b7e0f", "source": "達伊達王子：為什麼，如此微弱的力量竟能戰勝羅生門？", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "為什麼？如此微弱的力量，" }, { "hex": "01" }, { "text": "竟然能戰勝羅生門？" }, { "hex": "7e0f" }] },
+        { "offset": "0x80cce", "originalHex": "04da91da0318411888017da4d8da5b5099bda4501a9391b3a1a50150afbda4d050a191a29197a8955b7e0f", "source": "達伊達王子：為什麼大家要追隨如此弱小的人？", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "為什麼？這麼弱小的傢伙，" }, { "hex": "01" }, { "text": "大家為何還要追隨他？" }, { "hex": "7e0f" }] },
+        { "offset": "0x80cfa", "originalHex": "04da91da0318411888017da4d8da5b509991a1b6a90150186fa09f91a35094b2bba491a8955b7e0f", "source": "達伊達王子：這些人難道不想贏嗎？", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "為什麼？這些傢伙" }, { "hex": "01" }, { "text": "難道不想贏嗎？" }, { "hex": "7e0f" }] },
+        { "offset": "0x80d23", "originalHex": "04da91da0318411888017d185404f1035b501a939aa8a495a501501816d050aab1b6b9a291b8a8955b7e0f", "source": "達伊達王子：什麼？弱小之中藏著力量？", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "什" }, { "hex": "04" }, { "text": "麼" }, { "hex": "03" }, { "text": "？弱小之中" }, { "hex": "01" }, { "text": "竟然藏著力量？" }, { "hex": "7e0f" }] },
+        { "offset": "0x80d4f", "originalHex": "04da91da0318411888017d185404f1035b501a939195b6999e015011a550a191a219bf97daa35b7e0f", "source": "達伊達王子：什麼？正因為弱小，才要追隨桃太郎？", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "什" }, { "hex": "04" }, { "text": "麼" }, { "hex": "03" }, { "text": "？正因為弱小，" }, { "hex": "01" }, { "text": "才要追隨" }, { "hex": "11" }, { "text": "嗎？" }, { "hex": "7e0f" }] },
+        { "offset": "0x80d79", "originalHex": "04da91da0318411888017d1a939195b650afbda4a81816be50195b9819f8925c01509eb9d0501a2b187ea81816a4a8955c5c5c5c5c7e0f", "source": "達伊達王子：正因為弱小，才用大家的力量互相扶持，這就是同伴的力量嗎？", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "因為弱小，才互相扶持！" }, { "hex": "01" }, { "text": "這就是同伴的力量嗎！！" }, { "hex": "7e0f" }] },
+        { "offset": "0x80db1", "originalHex": "04da91da0318411888017d1a93911817d050aaa3a1a89fdea350a4f5a20150184096a41816a350a4f5a219bf97a8955c5c5c7e0f", "source": "達伊達王子：弱小的心凝聚成一束，就成為巨大的力量！", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "弱小的心凝聚在一起，" }, { "hex": "01" }, { "text": "就能成為強大的力量！！" }, { "hex": "7e0f" }] },
+        {
+          "offset": "0x80de6", "originalHex": "04da91da0318411888017d9e92955c5002b69fa0a901501840188bbea497501b407b909b7ca4a8955c7e017d184096a4188ba9501816180f91d001509edaa0a597919b50188018491a6ab9b9de01501a4d1849a350199ca01938b9a4915c7e017d115c5002b6a950a9d6b195b6015019bb1884a5509eb5d2501b407b909b7cbc0150b1d59ba2919fa8955c7e017dda95b65002b6a8501a45a901501a9391a8bea9a4970150180ca5509eb5d2501b40daf59fbb98da5c7e",
+          "source": "達伊達王子理解同伴如蘆葦相互扶持，不是難以重生的孤立大樹。桃太郎的劍不是弱小，而是隨風擺動的蘆葦。",
+          "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "原來如此！你們" }, { "hex": "01" }, { "text": "不是大樹，而是蘆葦！" }, { "hex": "7e017d" }, { "text": "大樹雖然強壯，" }, { "hex": "01" }, { "text": "卻不易長成，一旦倒下，" }, { "hex": "01" }, { "text": "便再也站不起來！" }, { "hex": "7e017d11" }, { "text": "！原來你從一開始" }, { "hex": "01" }, { "text": "就想成為那種" }, { "hex": "01" }, { "text": "遍布四方、隨風擺動的蘆葦！" }, { "hex": "7e017d" }, { "text": "所以你的劍，" }, { "hex": "01" }, { "text": "並不是弱小，" }, { "hex": "01" }, { "text": "而是迎風擺動的蘆葦啊！" }, { "hex": "7e" }]
+        },
+        { "offset": "0x80e9e", "originalHex": "7d9e9ba250095c015002b6d0015011bc509a9a939fbb98da5c7e", "source": "而你，正是你支撐著桃太郎。", "segments": [{ "hex": "7d" }, { "text": "還有" }, { "hex": "09" }, { "text": "！" }, { "hex": "01" }, { "text": "正因為有你，" }, { "hex": "0111" }, { "text": "才得到了支持！" }, { "hex": "7e" }] },
+        { "offset": "0x80eb9", "originalHex": "7d9e9ba250095c50095c015002b69fa0d0015011bc509a9a939fbb98da5c7e", "source": "兩位同伴支撐著桃太郎。", "segments": [{ "hex": "7d" }, { "text": "還有" }, { "hex": "09" }, { "text": "、" }, { "hex": "09" }, { "text": "！" }, { "hex": "01" }, { "text": "正因為有你們，" }, { "hex": "0111" }, { "text": "才得到了支持！" }, { "hex": "7e" }] },
+        { "offset": "0x80ed9", "originalHex": "7d9e9ba250095c50095c0150095c5002b69fa0d0015011bc509a9a939fbb98da5c7e", "source": "三位同伴支撐著桃太郎。", "segments": [{ "hex": "7d" }, { "text": "還有" }, { "hex": "09" }, { "text": "、" }, { "hex": "09" }, { "text": "！" }, { "hex": "0109" }, { "text": "！正因為有你們，" }, { "hex": "0111" }, { "text": "才得到了支持！" }, { "hex": "7e" }] },
+        { "offset": "0x80efc", "originalHex": "7dbb95f59fd95c50115c0150a3d19cae9ab99f501a45beb2f5a2015002b6a550949b93b6b99f5c7e017dae99a3a850180f9abc5c01500494b903a850a49ce19699a3bc5c7e010f", "source": "達伊達王子從桃太郎的劍領悟真正的強大與自己應做的事。", "segments": [{ "hex": "7d" }, { "text": "我明白了！" }, { "hex": "11" }, { "text": "！" }, { "hex": "01" }, { "text": "你那磨練到極致的劍，" }, { "hex": "01" }, { "text": "讓我終於明白了！" }, { "hex": "7e017d" }, { "text": "什麼是真正的強大！" }, { "hex": "0104" }, { "text": "我" }, { "hex": "03" }, { "text": "又該做些什麼！" }, { "hex": "7e010f" }] },
+        {
+          "offset": "0x80f44", "originalHex": "0495b8b601037d0498038004f598f598f5035c7e01017d90905c5091b3da5c015091b3da5c50aef59f975c7e01017d99a8bb9bd050184719b6a4dda301501a1c92a3a9a45c015090905c5098d0b6bb9b915c7e017da9b397501a1c91bc509cae9da2015018e0beb250a8aea7de015099a850929aa950a9b9a6bb915c7e017d9a905c509595b95c015019251abb18db5c5019f01abb18db5c7e01017d1817b497aebe5002a0bc01509bf6e0b7a1979ba250b3b95c01500498038004f598f598f5035c50049803800498f598f5035c7e0f",
+          "source": "迦樓羅厭惡與人類戰鬥，命令右魂鬼、左魂鬼對付桃太郎。",
+          "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d04" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e01017d" }, { "text": "啊！真討厭！" }, { "hex": "01" }, { "text": "真是討厭透了！" }, { "hex": "7e01017d" }, { "text": "我竟然得和人類" }, { "hex": "01" }, { "text": "這種東西戰鬥！" }, { "hex": "01" }, { "text": "啊！真是骯髒！" }, { "hex": "7e017d" }, { "text": "得趕快結束這場戰鬥，" }, { "hex": "01" }, { "text": "喝點酒，" }, { "hex": "01" }, { "text": "才能消掉這口悶氣！" }, { "hex": "7e017d" }, { "text": "來吧！上啊！" }, { "hex": "01" }, { "text": "右魂鬼！左魂鬼！" }, { "hex": "7e01017d" }, { "text": "給我狠狠收拾" }, { "hex": "02a0" }, { "text": "，" }, { "hex": "01" }, { "text": "直到你們滿意為止！" }, { "hex": "0104" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！" }, { "hex": "04" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e0f" }]
+        },
+        { "offset": "0x81015", "originalHex": "7d0498038004f598f598f5035c5090905c015091b3da5c5091b3da5c0150189d98b6a3501a1c92a8a95091b3da5c7e0f", "source": "迦樓羅：討厭，真討厭和螻蟻戰鬥！", "segments": [{ "hex": "7d04" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！啊！" }, { "hex": "01" }, { "text": "討厭！討厭！" }, { "hex": "01" }, { "text": "真討厭和螻蟻戰鬥！" }, { "hex": "7e0f" }] },
+        { "offset": "0x81046", "originalHex": "7d049803800498f598f5035c5090905c0150184719b6a850a59491a90150979a97a2509faeb6bd5c7e0f", "source": "迦樓羅：人類的氣味臭得受不了！", "segments": [{ "hex": "7d04" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！啊！" }, { "hex": "01" }, { "text": "人類的氣味" }, { "hex": "01" }, { "text": "真是臭得受不了！" }, { "hex": "7e0f" }] },
+        { "offset": "0x81071", "originalHex": "7d049803800498f598f5035c5090905c015099b91a17184a501a1cf5a2b8a30150184719b6a8a59491d0509bafa1975c7e0f", "source": "迦樓羅：再打下去，人類的臭味會沾到身上！", "segments": [{ "hex": "7d04" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！啊！" }, { "hex": "01" }, { "text": "再繼續打下去，" }, { "hex": "01" }, { "text": "人類的臭味都要沾上來了！" }, { "hex": "7e0f" }] },
+        { "offset": "0x810a4", "originalHex": "7d049803800498f598f5035c5090905c015091b3da5c5091b3da5c0150189d98b6a850a59491d0509bafa1975c7e0f", "source": "迦樓羅：討厭，螻蟻的臭味沾上來了！", "segments": [{ "hex": "7d04" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！啊！" }, { "hex": "01" }, { "text": "討厭！討厭！" }, { "hex": "01" }, { "text": "螻蟻的臭味都沾上來了！" }, { "hex": "7e0f" }] },
+        {
+          "offset": "0x810d4", "originalHex": "0495b8b601037da45b50a45b50a4bddaa35b7e01017dbb5b50bb5b50bb9bd05b0150ae5b50ae5b50ae98b8a8955b7e01017d04d2d1f6d1f6d1f6d1f6d1f6d1f6d1f601035004d1f6d1f6d1f6d1f6d1f6d1f6d1f6037e01017d04d1f6d1f6d1f6d1f6d1f6d1f6d1f601035004d1f6d1f6d1f6d1f6d1f6d1f6d1f601035004d1f6d1f6d1f6d1f6d1f603808004f5035c7e010495b8b601037d99a850bb9bd05c5099a850bb9bd05c0150184719b6d4a396a550ae98b8a8955b7e017d9e5f509ebda499a3a950bb9ba8015018dba39ba2a850ad99b7d050b4b89dbd5c015099a8184aa950afd795b650189ebc93b6e05c7e017d9ab6de500495b8b6031841191cb55c0150939193bd50a4b95c7e010f",
+          "source": "迦樓羅難以接受落敗，尖叫並聲稱身為鬼的尊嚴不容許輸給人類，向自己的王朝告別。",
+          "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "什、什麼？你說什麼？" }, { "hex": "7e01017d" }, { "text": "我、我、我竟然" }, { "hex": "01" }, { "text": "會、會輸嗎？" }, { "hex": "7e01017d04" }, { "text": "嘎啊啊啊啊！" }, { "hex": "010304" }, { "text": "啊啊啊啊啊！" }, { "hex": "037e01017d04" }, { "text": "啊啊啊啊！" }, { "hex": "010304" }, { "text": "啊啊啊啊！" }, { "hex": "010304" }, { "text": "啊啊啊啊" }, { "hex": "0304" }, { "text": "啊" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e0104" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "我竟然！我竟然！" }, { "hex": "01" }, { "text": "會輸給區區人類？" }, { "hex": "7e017d" }, { "text": "這、這種事，" }, { "hex": "01" }, { "text": "我身為鬼的尊嚴絕不允許！" }, { "hex": "01" }, { "text": "事到如今，我寧願選擇死亡！" }, { "hex": "7e017d" }, { "text": "永別了，" }, { "hex": "04" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "王朝！" }, { "hex": "01" }, { "text": "願你永世長存！" }, { "hex": "7e010f" }]
+        },
+        { "offset": "0x811e3", "originalHex": "0495b8b601037d0494b9031907a9501892a8184101500495b8b603da808080808004f5035c7e0f", "source": "迦樓羅自稱月亮之王。", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d04" }, { "text": "本大爺" }, { "hex": "03" }, { "text": "是月亮之王！" }, { "hex": "0104" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "啊" }, { "hex": "04" }, { "text": "啊" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e0f" }] },
+        { "offset": "0x8120b", "originalHex": "0495b8b601037d0494b9031907a950189c1904a8184101500495b8b603da808080808004f5035c7e0f", "source": "迦樓羅自稱地獄之王。", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d04" }, { "text": "本大爺" }, { "hex": "03" }, { "text": "是地獄之王！" }, { "hex": "0104" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "啊" }, { "hex": "04" }, { "text": "啊" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e0f" }] },
+        { "offset": "0x81235", "originalHex": "0495b8b601037d0494b9031907a9501840189ca8184101500495b8b603da808080808004f5035c7e0f", "source": "迦樓羅自稱大地之王。", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d04" }, { "text": "本大爺" }, { "hex": "03" }, { "text": "是大地之王！" }, { "hex": "0104" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "啊" }, { "hex": "04" }, { "text": "啊" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e0f" }] },
+        { "offset": "0x8125f", "originalHex": "0495b8b601037d0494b9031907a950188c184aa8184101500495b8b603da808080808004f5035c7e0f", "source": "迦樓羅自稱天上之王。", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d04" }, { "text": "本大爺" }, { "hex": "03" }, { "text": "是天上之王！" }, { "hex": "0104" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "啊" }, { "hex": "04" }, { "text": "啊" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e0f" }] },
+        { "offset": "0x81289", "originalHex": "0495b8b601037d189d98b6d4a396d0015018dba5509a95b69194f5a25c7e0f", "source": "迦樓羅：區區螻蟻竟敢反抗鬼！", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "區區螻蟻，" }, { "hex": "01" }, { "text": "竟敢反抗鬼！" }, { "hex": "7e0f" }] },
+        { "offset": "0x812a9", "originalHex": "0495b8b601037d189dd050186cd050184719b6a5509a95b692955b0150184719b6a95018dba5509b9fd092a8da5c7e0f", "source": "迦樓羅：蟲或鳥會反抗人類嗎？人類就該服從鬼！", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "蟲鳥會反抗人類嗎？" }, { "hex": "01" }, { "text": "人類就該服從鬼！" }, { "hex": "7e0f" }] },
+        { "offset": "0x812da", "originalHex": "0495b8b601037d93b6deb99f19e9d050afa4bc01509b9fd0bb9db8a8d050a4d85018eb915c7e0f", "source": "迦樓羅：被選中的人統治大家，哪裡不對！", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "被選中的人統治眾人，" }, { "hex": "01" }, { "text": "究竟有什麼不對！" }, { "hex": "7e0f" }] },
+        { "offset": "0x81302", "originalHex": "0495b8b601037d192ca85018eb91b3a1a9500494b9031907a80150919299a3bc50190991a2b7f69191bdda5c7e0f", "source": "迦樓羅：腦袋不好的傢伙，只管聽我的話就行！", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "腦袋不好，就聽" }, { "hex": "04" }, { "text": "本大爺" }, { "hex": "03" }, { "text": "的話，" }, { "hex": "01" }, { "text": "乖乖照做就行了！" }, { "hex": "7e0f" }] },
+        { "offset": "0x81331", "originalHex": "0495b8b601037ddd929b9f99a3da5c500494b9031907a80150198ad050959f97a4f5a291975c7e0f", "source": "迦樓羅：怎麼回事！我的腳越來越硬！", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "怎麼回事！" }, { "hex": "04" }, { "text": "本大爺" }, { "hex": "03" }, { "text": "的" }, { "hex": "01" }, { "text": "腳越來越硬了！" }, { "hex": "7e0f" }] },
+        { "offset": "0x8135a", "originalHex": "0495b8b601037dae9a955b5018141847a819d5d09cb85c0150198aa550180f9119ecafbc5095bdd6b85c7e0f", "source": "迦樓羅：難道是村民的聲音？腳上感受到強烈怨恨。", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "不可能！是村民的聲音！" }, { "hex": "01" }, { "text": "腳上傳來強烈的怨恨！" }, { "hex": "7e0f" }] },
+        { "offset": "0x81387", "originalHex": "0495b8b601037d99a8509a98df19d5a9501854da5b015018dba819d5da5c5092b19619d5da5c7e0f", "source": "迦樓羅：這是什麼叫聲？鬼的聲音、呻吟聲！", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "這是什麼叫聲？" }, { "hex": "01" }, { "text": "是鬼的聲音！是呻吟聲！" }, { "hex": "7e0f" }] },
+        { "offset": "0x813b0", "originalHex": "0495b8b601037d92bbbbbbbbf55c5002b6a9015004da91da03184118885c50a4d8189a96a291b85c7e0f", "source": "迦樓羅驚見達伊達王子還活著。", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d" }, { "text": "哇啊啊！你是" }, { "hex": "0104" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子！怎麼還活著！" }, { "hex": "7e0f" }] },
+        { "offset": "0x813db", "originalHex": "0495b8b601037d049696969696f5035c50b3b1ba5c01509a98e0a45c5004d5990318dbddb25c7e017d049696969696f5035c50189ea5d999a491d05c015092bbbbbbbbf55c501acf93ba80808004f5035c7e010f", "source": "迦樓羅驚慌叫喊，要求眾鬼停止叫喊、消失。", "segments": [{ "hex": "04" }, { "text": "迦樓羅" }, { "hex": "01037d04" }, { "text": "嘰嘰嘰嘰" }, { "hex": "03" }, { "text": "！住口！" }, { "hex": "01" }, { "text": "別再叫了！你們這些" }, { "hex": "04" }, { "text": "雜兵" }, { "hex": "03" }, { "text": "鬼！" }, { "hex": "7e017d04" }, { "text": "嘰嘰嘰嘰" }, { "hex": "03" }, { "text": "！陰魂不散的傢伙！" }, { "hex": "01" }, { "text": "哇啊啊！快消失" }, { "hex": "04" }, { "text": "啊" }, { "hex": "03" }, { "text": "！" }, { "hex": "7e010f" }] },
+        { "offset": "0x81ffc", "originalHex": "7d02a85c0150a4bdd6f65c50a4bdd6f65c01509ea8501b4aa196a95c7e0f", "source": "ウビャビャ…！なんじゃ！なんじゃ！その腰つきは！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "怎麼回事！怎麼回事！" }, { "hex": "01" }, { "text": "你那是什麼腰勢！" }, { "hex": "7e0f" }] },
+        { "offset": "0x8201b", "originalHex": "7d02a85c01509ebda450184ca8abb7959fd6f6015004a99303d050a3aeb8d9915c7e0f", "source": "ウビャビャ…！そんな刀のふりかたじゃハエがとまるぞい！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "刀揮得這麼慢，" }, { "hex": "0104" }, { "text": "蒼蠅" }, { "hex": "03" }, { "text": "都能停在上頭啦！" }, { "hex": "7e0f" }] },
+        { "offset": "0x8203f", "originalHex": "7d02a85c01501816d05019d7f5a25094b6a6a45c015096dfdabdd4bc5018d1e1a491a8955b7e0f", "source": "ウビャビャ…！力が入っておらぬな！きびだんごを食べないのか？", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "一點力氣都沒有嘛！" }, { "hex": "01" }, { "text": "怎麼不吃點黍糰呢？" }, { "hex": "7e0f" }] },
+        { "offset": "0x82067", "originalHex": "7d02a85c01509ebda41977bea95018dba50150b3b6b9a2509bae92d95c7e0f", "source": "ウビャビャ…！そんな腕では鬼にやられてしまうぞ！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "這點身手，可是會被" }, { "hex": "01" }, { "text": "惡鬼打倒的啊！" }, { "hex": "7e0f" }] },
+        { "offset": "0x82087", "originalHex": "7d02a85c01501977a850abb7d001501ae19750a4f5a2969fa45c7e0f", "source": "ウビャビャ…！腕のふりが早くなってきたな！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "手臂揮動得" }, { "hex": "01" }, { "text": "越來越快了嘛！" }, { "hex": "7e0f" }] },
+        { "offset": "0x820a4", "originalHex": "7d94f55c50a495a4950150b597a4f5a250969fd95c015002a05c7e0f", "source": "おっ！なかなかよくなってきたぞ！[主角]！", "segments": [{ "hex": "7d" }, { "text": "哦！已經" }, { "hex": "01" }, { "text": "進步不少了嘛！" }, { "hex": "0102a0" }, { "text": "！" }, { "hex": "7e0f" }] },
+        { "offset": "0x820c1", "originalHex": "7d187ba85091a0d396a9015096919fd950115c7e010f", "source": "今のいちげきはきいたぞ [主角]！", "segments": [{ "hex": "7d" }, { "text": "剛才那一擊" }, { "hex": "01" }, { "text": "真夠勁啊，" }, { "hex": "11" }, { "text": "！" }, { "hex": "7e010f" }] },
+        { "offset": "0x820d8", "originalHex": "7d9ea850a0f8929bd6f65c015002a85c7e010f", "source": "そのちょうしじゃ！ウビャビャ…！", "segments": [{ "hex": "7d" }, { "text": "就是這樣！" }, { "hex": "01" }, { "text": "哇哈哈！" }, { "hex": "7e010f" }] },
+        { "offset": "0x820ec", "originalHex": "7d9eb9bea9509eba9eba015019bf96ae9c9591a45b7e010f", "source": "それではそろそろ行きますかいな？", "segments": [{ "hex": "7d" }, { "text": "那麼，差不多" }, { "hex": "01" }, { "text": "該認真上了吧？" }, { "hex": "7e010f" }] },
+        { "offset": "0x82105", "originalHex": "7d02a85c0150181ba5501b87b8de95b7bea9015018dba4bdd9a550186fa2bdd95c7e0f", "source": "ウビャビャ…！術に頼るばかりでは鬼なんぞに勝てんぞ！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "一味依賴術法，" }, { "hex": "01" }, { "text": "可打不贏惡鬼啊！" }, { "hex": "7e0f" }] },
+        { "offset": "0x82129", "originalHex": "7d02a85c015018dbbc509f949ca8bea9a4915c015099b69bb1b8a8da5c50b591a45c7e0f", "source": "ウビャビャ…！鬼をたおすのではない！こらしめるのだ！よいな！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "不是要消滅惡鬼！" }, { "hex": "01" }, { "text": "是懲治牠們！懂了嗎！" }, { "hex": "7e0f" }] },
+        { "offset": "0x8214e", "originalHex": "7d02a85c01501a1e19c3bc5018c7b899a3dbf65c01509ab9de50181ca950aab695b9bd5c7e0f", "source": "ウビャビャ…！相手を知ることじゃ！されば道はひらかれん！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "要先了解對手！" }, { "hex": "01" }, { "text": "如此便能找到出路！" }, { "hex": "7e0f" }] },
+        { "offset": "0x82175", "originalHex": "7d02a85c015094a0a1985c5090bba2a2a901509ce1a2d05018f2a550a4b85c7e0f", "source": "ウビャビャ…！おちつけ！あわててはすべてが無になる！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "冷靜！慌了手腳，" }, { "hex": "01" }, { "text": "就什麼都辦不成了！" }, { "hex": "7e0f" }] },
+        { "offset": "0x82197", "originalHex": "7d9eb9bea95099b9a501509f93b899a3d050be96ae9c9591a45b7e010f", "source": "それではこれにたえることができますかいな？", "segments": [{ "hex": "7d" }, { "text": "那麼，這一招" }, { "hex": "01" }, { "text": "你能承受得住嗎？" }, { "hex": "7e010f" }] },
+        { "offset": "0x821b5", "originalHex": "7d02a85c01509ea850a0f8929b5c01509ea850a0f8929bdbf650115c7e0f", "source": "ウビャビャ…！そのちょうし！そのちょうしじゃ [主角]！", "segments": [{ "hex": "7d" }, { "text": "哇哈哈！" }, { "hex": "01" }, { "text": "就是這樣！" }, { "hex": "01" }, { "text": "就是這樣，" }, { "hex": "11" }, { "text": "！" }, { "hex": "7e0f" }] }
+      ]
+    },
+    {
+      "name": "boss-battle-dialogue", "pointerOffset": "0x70045", "target": "0x2a0000",
+      "entries": [
+        { "offset": "0x79ea5", "originalHex": "0909a8509992d3965c0f", "segments": [{ "hex": "0909" }, { "text": "發動攻擊！" }, { "hex": "0f" }] },
+        { "offset": "0x79ec3", "originalHex": "0909a850a9d0a7a8501815d0011a121a19bc50531a98a59ba250a9a795939c5c0f", "segments": [{ "hex": "0909" }, { "text": "的鋼鐵身軀" }, { "hex": "01" }, { "text": "將打擊加倍反彈！" }, { "hex": "0f" }] },
+        { "offset": "0x79ee5", "originalHex": "0909a90118db181c18a09119adb7bc50186ed69f5c010f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "施展了鬼道吸收術！" }, { "hex": "010f" }] },
+        { "offset": "0x79efd", "originalHex": "0909a85018151816d0011af21af35018a09119adb6b9a29baef59f5c010f", "segments": [{ "hex": "0909" }, { "text": "的體力" }, { "hex": "01" }, { "text": "被吸走了一半！" }, { "hex": "010f" }] },
+        { "offset": "0x79f1c", "originalHex": "0909a90109be509be2bdbe9baef59f5c0f011a181a191816d0501acba550197af59f5c011a1b18201816d0501acba550197af59f5c0f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "因" }, { "hex": "09" }, { "text": "而縮小了！" }, { "hex": "0f01" }, { "text": "攻擊力恢復原狀！" }, { "hex": "01" }, { "text": "防禦力恢復原狀！" }, { "hex": "0f" }] },
+        { "offset": "0x79f53", "originalHex": "0909a9011a7ab7a5501840969750b29390d0f59f5c0f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "燃起了熊熊怒火！" }, { "hex": "0f" }] },
+        { "offset": "0x79f6a", "originalHex": "0909a8011a181a191816d050531a98a550ab939f5c011a1b18201816d050531a98a550ab939f5c", "segments": [{ "hex": "0909" }, { "text": "的" }, { "hex": "01" }, { "text": "攻擊力變成兩倍！" }, { "hex": "01" }, { "text": "防禦力變成兩倍！" }] },
+        { "offset": "0x79f92", "originalHex": "0909a901185995b6500497b203a81a09bc501940919f5c0f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "從口中吐出" }, { "hex": "04" }, { "text": "蜘蛛" }, { "hex": "03" }, { "text": "絲！" }, { "hex": "0f" }] },
+        { "offset": "0x79fab", "originalHex": "0909a8501a471922a50104a7dea7de03a8500497b203a81a09d05095b6afa1975c0f", "segments": [{ "hex": "0909" }, { "text": "的武器" }, { "hex": "01" }, { "text": "被" }, { "hex": "04" }, { "text": "黏稠" }, { "hex": "03" }, { "text": "的" }, { "hex": "04" }, { "text": "蜘蛛" }, { "hex": "03" }, { "text": "絲纏住了！" }, { "hex": "0f" }] },
+        { "offset": "0x79fce", "originalHex": "0909a901185995b6500497b203a81a09bc501940919f5c0f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "從口中吐出" }, { "hex": "04" }, { "text": "蜘蛛" }, { "hex": "03" }, { "text": "絲！" }, { "hex": "0f" }] },
+        { "offset": "0x79fe7", "originalHex": "0909a9011af495b650aee09b9119e8bc50a9a4f59f5c0f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "從眼中放出耀眼的光芒！" }, { "hex": "0f" }] },
+        { "offset": "0x79fff", "originalHex": "0909a9011af495b65018c99bd3a419e8bc50a9a4f59f5c0f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "從眼中放出詭異的光芒！" }, { "hex": "0f" }] },
+        { "offset": "0x7a018", "originalHex": "0909a85018151816a3501842d001b1a0f697a0f6a50119d7b995bbf5a29baef59f5c0f", "segments": [{ "hex": "0909" }, { "text": "的體力與技力" }, { "hex": "01" }, { "text": "全都亂成一團，" }, { "hex": "01" }, { "text": "互相交換了！" }, { "hex": "0f" }] },
+        { "offset": "0x7a03c", "originalHex": "0909a90118db181c1a2a91a396bc50186ed69f5c010f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "施展了鬼道解咒術！" }, { "hex": "010f" }] },
+        { "offset": "0x7c020", "originalHex": "1a871a6a19141841017d02b69fa0a801501a1c911a24a950b59750bb95f59f5c7e017d9ea8a291ddbe50bb9bbc015099b69bb1b592a3a950909aa995a45c7e01017d1a1c91a3a95099929192b2a8da5c7e0101", "source": "伐折羅王：おまえたちの戦い方はよくわかった！その程度でわしをこらしめようとは浅はかな！戦いとはこういうものだ！", "segments": [{ "text": "伐折羅王" }, { "hex": "017d" }, { "text": "你們的戰鬥方式，" }, { "hex": "01" }, { "text": "我已經看得一清二楚！" }, { "hex": "7e017d" }, { "text": "這點本事就想打敗我，" }, { "hex": "01" }, { "text": "未免太天真了！" }, { "hex": "7e01017d" }, { "text": "所謂戰鬥，就是這樣！" }, { "hex": "7e0101" }] },
+        { "offset": "0x7c074", "originalHex": "1a871a6a19141841017d5f5f5f5f5f5f5f5f5f5f7e010f", "source": "伐折羅王：…………", "segments": [{ "text": "伐折羅王" }, { "hex": "017d" }, { "text": "…………" }, { "hex": "7e010f" }] },
+        { "offset": "0x7c08c", "originalHex": "0909a9010909a85009a8181bbc0118a09119adf59f5c0f", "source": "[攻擊者]は [對象]の [術名]の術を 吸い取った！", "segments": [{ "hex": "0909" }, { "text": "吸走了" }, { "hex": "010909" }, { "text": "的" }, { "hex": "09" }, { "text": "術！" }, { "hex": "010f" }] },
+        { "offset": "0x7c0a4", "originalHex": "04da91da0318411888a90111a8501892a818901a32bc01a9d69650a3de9b9f5c0197da95b99f501892a818901a32a9011a881a2419b71a24a550a3dfa0f59f5c010f", "source": "達伊達王子打碎月之水晶，碎片四處飛散。", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子把" }, { "hex": "0111" }, { "text": "的月之水晶" }, { "hex": "01" }, { "text": "打碎了！" }, { "hex": "01" }, { "text": "破碎的月之水晶" }, { "hex": "01" }, { "text": "向四面八方飛散！" }, { "hex": "010f" }] },
+        { "offset": "0x7c0e7", "originalHex": "0909a9010909a85009bc01a9d69650a3de9b9f5c0f", "source": "[攻擊者]は [對象]の [裝備]を はじき とばした！", "segments": [{ "hex": "0909" }, { "text": "將" }, { "hex": "010909" }, { "text": "的" }, { "hex": "09" }, { "text": "擊飛了！" }, { "hex": "010f" }] },
+        { "offset": "0x7c0fd", "originalHex": "04da91da0318411888017d98f55c5097dab6bd5c0150181aa550a4b6bda45c7e0f017daed7509cdeb39ad0509fb6bd5c01509b95b250a1a7a5501a2bbc015095de949295a35095bdd093a291b85c7e0f017d95de92a8a9509e99a80150aba3f59f5004d09603a50150ae959d9fad92d05091915c7e0f0104da91da0318411888a9011a1c91bc50b3b1a29baef59f5c010f", "source": "達伊達王子批評桃太郎不夠快、總想保護同伴，叫他把保護交給胖小鬼，然後停戰。", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d" }, { "text": "哼！無聊！" }, { "hex": "01" }, { "text": "根本不值得一戰！" }, { "hex": "7e0f017d" }, { "text": "首先，你的速度太慢！" }, { "hex": "01" }, { "text": "而且總想著" }, { "hex": "01" }, { "text": "保護同伴！" }, { "hex": "7e0f017d" }, { "text": "保護同伴這種事，" }, { "hex": "01" }, { "text": "交給那個胖" }, { "hex": "04" }, { "text": "小鬼" }, { "hex": "03" }, { "hex": "01" }, { "text": "就行了！" }, { "hex": "7e0f0104" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "01" }, { "text": "停止了戰鬥！" }, { "hex": "010f" }] },
+        { "offset": "0x7c18f", "originalHex": "04da91da0318411888017d115c7e01017daeda50181bbc50dd99be509598b8a895a80150a9bddabdd05090ae915c7e01017d1a1c91a550959fa0d050a4915c7e01010104da91da0318411888a9011a1c91bc50b3b1a29baef59f5c010f", "source": "達伊達王子批評桃太郎施術時機不佳，戰鬥沒有章法，並停戰。", "segments": [{ "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d11" }, { "text": "！" }, { "hex": "7e01017d" }, { "text": "你對施術時機的" }, { "hex": "01" }, { "text": "判斷還太嫩了！" }, { "hex": "7e01017d" }, { "text": "戰鬥毫無章法！" }, { "hex": "7e01010104" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "01" }, { "text": "停止了戰鬥！" }, { "hex": "010f" }] },
+        { "offset": "0x7c1ed", "originalHex": "0909a9011a181a19bc5018b4981876b19f5c0f", "source": "[角色]は攻撃を受け止めた！", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "擋下了攻擊！" }, { "hex": "0f" }] },
+        { "offset": "0x7c201", "originalHex": "0490d6f69d0318411888017d02a05f50afd4a3a4aebea50150184ca550afdab9d050a4917e0f017d18901a32a8b592a4501817bc0150184719b6d050b2f5a291b8a3a95c015002c9a850ab9597da5f7e0f010490d6f69d03a9501a181a19bc50b3b1a29baef59f5c01010f", "source": "阿闍世王子：桃太郎，刀法毫無紊亂，想不到人類也有水晶般的心，是我失察了；停止攻擊。", "segments": [{ "hex": "04" }, { "text": "阿闍世" }, { "hex": "03" }, { "text": "王子" }, { "hex": "017d02a0" }, { "text": "……你的刀法" }, { "hex": "01" }, { "text": "竟然毫無紊亂。" }, { "hex": "7e0f017d" }, { "text": "沒想到人類也有" }, { "hex": "01" }, { "text": "水晶般純淨的心！" }, { "hex": "01" }, { "text": "是我失察了……" }, { "hex": "7e0f0104" }, { "text": "阿闍世" }, { "hex": "03" }, { "text": "停止了攻擊！" }, { "hex": "01010f" }] },
+        { "offset": "0x7c26d", "originalHex": "18081809180a017d115c5099b9d05090a49fa801501816a4a8a75c5092b99b97a4b8bb5c7e0f017d02c9b250aa9a9be0b7a501501a041848bc5019cc9e92959bb65b7e010f", "source": "夜叉姬：這就是你的力量呀，真令人高興！我也久違地認真一下吧？", "segments": [{ "text": "夜叉姬" }, { "hex": "017d11" }, { "text": "！這就是" }, { "hex": "01" }, { "text": "你的力量呀！真高興！" }, { "hex": "7e0f017d" }, { "text": "我也好久沒有" }, { "hex": "01" }, { "text": "認真戰鬥了呢？" }, { "hex": "7e010f" }] },
+        { "offset": "0x7c2b3", "originalHex": "18081809180ad050a191a5501a041848a5a4f59f5c01010f0118081809180aa8501a181a191816d050531a98a5a4f59f5c0118081809180aa8501a1b18201816d050531a98a5a4f59f5c0118081809180aa850a9b39ad050531a98a5a4f59f5c0f017d115c509fa89b9701501a1c91ae9bf892a75c7e010f", "source": "夜叉姬認真起來，攻擊力、防禦力與速度都成為兩倍，邀請桃太郎痛快戰鬥。", "segments": [{ "text": "夜叉姬終於認真起來了！" }, { "hex": "01010f01" }, { "text": "夜叉姬的攻擊力變成兩倍！" }, { "hex": "01" }, { "text": "夜叉姬的防禦力變成兩倍！" }, { "hex": "01" }, { "text": "夜叉姬的速度變成兩倍！" }, { "hex": "0f017d11" }, { "text": "！讓我們" }, { "hex": "01" }, { "text": "痛快地打一場吧！" }, { "hex": "7e010f" }] },
+        {
+          "offset": "0x7c32c", "originalHex": "180c180d7bab92d6bd7c017de4f7b8b8b8b8f25c0150aa9a9be0b7daa45c5002a05c7e0f017d99929ba2509999be5002b6a50150ab9f9fdf501adc9299a3bc50bbdfb85c7e01017d90a8a396a95002b6bc01501a549b91a35094b2f59f5c01509b959b5018dba5a95018dba89496a2d090b87e017d93bdae1907a9500495b8b603a85018211822a901501a871a6a191418419aae50aa91a2a95004da91da0318411888a8015018211822da95b650190998a391925c7e017d0494b903a550a3f5a2015093bdae1907a950d8f59f91da5c7e010f017d0495b8b6031907a8509192015002b69fa0a8501a2b187ea3b3b6b201509f9b95b1a250af9f915c7e0f017de4f7b8b8b8b8f25c7e01010f",
+          "source": "風神向桃太郎致歉，說明鬼族規矩與閻魔要求服從迦樓羅命令，也想親自確認他們的同伴關係。",
+          "segments": [{ "text": "風神" }, { "hex": "017d" }, { "text": "呼嚕嚕嚕！" }, { "hex": "01" }, { "text": "好久不見了！" }, { "hex": "02a0" }, { "text": "！" }, { "hex": "7e0f017d" }, { "text": "很抱歉又在這裡" }, { "hex": "01" }, { "text": "與你碰面！" }, { "hex": "7e01017d" }, { "text": "那時我認為你" }, { "hex": "01" }, { "text": "才是對的！" }, { "hex": "01" }, { "text": "但鬼也有鬼的規矩。" }, { "hex": "7e017d" }, { "text": "閻魔大人說，" }, { "hex": "04" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "的命令，" }, { "hex": "01" }, { "text": "就是伐折羅王和" }, { "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子" }, { "hex": "01" }, { "text": "的命令，必須服從！" }, { "hex": "7e017d04" }, { "text": "我" }, { "hex": "03" }, { "text": "無論如何，" }, { "hex": "01" }, { "text": "都絕對服從閻魔大人！" }, { "hex": "7e010f017d04" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "大人所說的，" }, { "hex": "01" }, { "text": "你們之間的同伴關係，" }, { "hex": "01" }, { "text": "我也想親自確認！" }, { "hex": "7e0f017d" }, { "text": "呼嚕嚕嚕！" }, { "hex": "7e01010f" }]
+        }
+      ]
+    },
+    {
+      "name": "moon-challenge-dialogue", "pointerOffset": "0x7028e", "target": "0x280000", "decodedBytes": 1720, "complete": true,
+      "entries": [
+        {
+          "offset": "0",
+          "originalHex": "060495b8b60105037d049803800498f598f5035c0150b3a9b75018b99f955c5002a05c7e01060495b8b60105037d19e81936a550193792d091915c7e0101060495b8b60105037d1a871a6a19147bde9ab67c18419aaea80150187f5218411888be5f509b95b25c7e01060495b8b60105037d18db180d7b969bbd7ca350b5deb9b8addd01501a4718d0a59f989f5004da91da0318411888d05c7e01060495b8b60105037dafd795b6501a45bc5094a3b7a5a4f5a2015002b6a3501a1cf5a297da9ab85c7e01060495b8b60105037d1a0418b9a4b6501a45bc50aed693b8a4dd015098f59ba25095a4bba650941a24da5c7e01060495b8b60105037d93bdae1841bc509f949b9f1816bc015004da91da0318411888a55018b09da2afb55c7e01060495b8b60105037d04da91da0318411888a950180f9119e9bc0150b2a3b1a294b6b9b85c7e01060495b8b60105037db29b5002b6a501501816d05090b9de5f7e01060495b8b60105037d04da91da0318411888a85018dd195f7b92aedebd7ca50150a3b79fa2a250b3f5a2b250b591d95c7e",
+          "source": "迦樓羅嘲笑桃太郎，介紹伐折羅王的第一王子達伊達，稱其武勇如鬼神，要求桃太郎展示打敗閻魔王的力量。",
+          "segments": [
+            { "hex": "0604" }, { "text": "迦樓羅" }, { "hex": "0105037d04" }, { "text": "呵" }, { "hex": "038004" }, { "text": "呵呵" }, { "hex": "03" }, { "text": "！" }, { "hex": "01" }, { "text": "你果然來了！" }, { "hex": "02a0" }, { "text": "！" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d" }, { "text": "你就心存感激吧！" }, { "hex": "7e01010604" }, { "text": "迦樓羅" }, { "hex": "0105037d" }, { "text": "伐折羅王的" }, { "hex": "01" }, { "text": "第一王子，而且！" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d" }, { "text": "武勇高強，被稱為鬼神的" }, { "hex": "01" }, { "hex": "04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子！" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d" }, { "text": "將親自執劍，" }, { "hex": "01" }, { "text": "與你交手！" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d" }, { "text": "平常哪有機會" }, { "hex": "01" }, { "text": "和這位大人交手啊！" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d" }, { "text": "把你打敗閻魔王的力量，" }, { "hex": "0104" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子面前展現出來吧！" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子正渴望" }, { "hex": "01" }, { "text": "與強者交手！" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d" }, { "text": "只要你" }, { "hex": "01" }, { "text": "真有本事……" }, { "hex": "7e010604" }, { "text": "迦樓羅" }, { "hex": "0105037d04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子的馬倌一職，" }, { "hex": "01" }, { "text": "也不是不能賞給你！" }, { "hex": "7e" }
+          ]
+        },
+        { "offset": "403", "originalHex": "7d95d2b3180a9aaed05091a10150b2ddb6b9a2b250b591b592a50150a3a3a893a25091b8a8be9c5c7e017d96f5a35096f5a35018f21aeaa5015094b2ddb7a550a4b6b9b8bb5f7e01", "source": "輝夜姬何時回來都能安心住下；她一定會平安歸來。", "segments": [{ "hex": "7d" }, { "text": "為了讓輝夜姬隨時回來，" }, { "hex": "01" }, { "text": "我們已把這裡" }, { "hex": "01" }, { "text": "準備妥當了！" }, { "hex": "7e017d" }, { "text": "她一定、一定會" }, { "hex": "01" }, { "text": "平安回來的……" }, { "hex": "7e01" }] },
+        { "offset": "476", "originalHex": "7d90905c5002a09abd5c0150a3a1d8bd501892a89ce1a2d00150a9d39b9750b4b9da9b9fbdbe9c5c7e017d99a85019a019b3da98a9015095ba92d6a250a899f5a291ae9cd05f7e01", "source": "桃太郎，月亮突然猛烈搖晃，只有這座宮殿勉強留下。", "segments": [{ "hex": "7d" }, { "text": "啊！" }, { "hex": "02a0" }, { "text": "先生！" }, { "hex": "01" }, { "text": "整個月亮突然" }, { "hex": "01" }, { "text": "開始猛烈搖晃！" }, { "hex": "7e017d" }, { "text": "只有這座宮殿" }, { "hex": "01" }, { "text": "勉強保存下來……" }, { "hex": "7e01" }] },
+        { "offset": "549", "originalHex": "7d18d01848a81a45a5501816bc50909f93b8a4b6015019b295a81814a55019f4a0b85018c2a81a60be0150969f93a2a9509195d0be9bf8925c7e", "source": "要為勇氣之劍注入力量，可用落在豐饒村的藍星鍛鍊。", "segments": [{ "hex": "7d" }, { "text": "想為勇氣之劍注入力量，" }, { "hex": "01" }, { "text": "何不試試用落在豐饒村的" }, { "hex": "01" }, { "text": "藍星來鍛鍊它呢！" }, { "hex": "7e" }] },
+        { "offset": "608", "originalHex": "7d02a09abd5c5018db9f91d6bc01509096b6b1a491be5002c5ae9b5c7e01017d95d2b3180a9aaea95090a49fa5015019a419a5bc509f979ab9ae9b9f5c7e01017ddd92955090a8500495b8b603bc5f5c01509e9ba2501a871a6a19141841bc5f5f5f5c7e01017d18d01848a81a45be015099b69bb1a202c55c7e01017d90a49fa4b65096f5a35c0150bb9f979b9fa0b2501a08d6a294b7ae9c5c7e01", "source": "輝夜姬把希望託付給桃太郎，懇請他用勇氣之劍打敗迦樓羅與伐折羅王。", "segments": [{ "hex": "7d02a0" }, { "text": "先生！" }, { "hex": "01" }, { "text": "請別放棄討伐惡鬼！" }, { "hex": "7e01017d" }, { "text": "輝夜姬已把希望" }, { "hex": "01" }, { "text": "全都託付給您了！" }, { "hex": "7e01017d" }, { "text": "請您打敗那個" }, { "hex": "04" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "……" }, { "hex": "01" }, { "text": "還有伐折羅王……！" }, { "hex": "7e01017d" }, { "text": "請用勇氣之劍，" }, { "hex": "01" }, { "text": "好好懲治他們！" }, { "hex": "7e01017d" }, { "text": "您一定做得到！" }, { "hex": "01" }, { "text": "我們都相信您！" }, { "hex": "7e01" }] },
+        { "offset": "765", "originalHex": "7d04e4f8e4f8bd035c015018c2a81a60a950ab9bd1a41a605c7e01017da39694b75019f4a0a218b9a201501892a5b1d2afbc50b29fb69ca3015091bbb9a291ae9c5c7e", "source": "藍星是神奇的星星，偶爾落下，為月亮帶來恩惠。", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！" }, { "hex": "01" }, { "text": "藍星真是神奇的星星！" }, { "hex": "7e01017d" }, { "text": "據說它偶爾會墜落，" }, { "hex": "01" }, { "text": "為月亮帶來恩惠！" }, { "hex": "01" }, { "text": "大家都是這麼說的！" }, { "hex": "7e" }] },
+        { "offset": "833", "originalHex": "7d04e4f8e4f8bd035c01501892be509f9c95f5a291b8a8a901509999a35019b295a81814da985c7e017dbeb250189c184aa950b2f5a3aadd91015090b79aae50a4bdbe9ca75b7e01", "source": "月亮上只剩這裡與豐饒村倖存；地上更慘。", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！" }, { "hex": "01" }, { "text": "月亮上只剩下這裡" }, { "hex": "01" }, { "text": "和豐饒村倖存！" }, { "hex": "7e017d" }, { "text": "不過，地上的慘狀" }, { "hex": "01" }, { "text": "好像還更嚴重吧？" }, { "hex": "7e01" }] },
+        { "offset": "906", "originalHex": "7d0495b8b603a3919218db5c015019a019b3bc501a81b69bad92da9101501a81b69ba25019bf96ae9b9fbb5c7e", "source": "名叫迦樓羅的鬼，把宮殿肆意破壞後離開了。", "segments": [{ "hex": "7d04" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "那個惡鬼！" }, { "hex": "01" }, { "text": "把宮殿弄得一團亂，" }, { "hex": "01" }, { "text": "大肆破壞後就走了！" }, { "hex": "7e" }] },
+        { "offset": "952", "originalHex": "7d18e61999a81991a550a1dc975018f4a81814b20150929ba4bbb9a2509bae91ae9b9f5f7e01017d9e9995b650189c184aa8184719a7bca3015094b291ae9b9fd05f01509eb9b25095a491ae9da65c7e", "source": "通往黃泉塔的嵐村消失了，無法再從那裡前往地上。", "segments": [{ "hex": "7d" }, { "text": "通往黃泉塔的嵐村，" }, { "hex": "01" }, { "text": "也已經消失了……" }, { "hex": "7e01017d" }, { "text": "本想從那裡前往地上，" }, { "hex": "01" }, { "text": "去找那裡的人們……" }, { "hex": "01" }, { "text": "如今也辦不到了！" }, { "hex": "7e" }] },
+        { "offset": "1033", "originalHex": "7d95d2b3180a9aae5f5f5c0150dd929550d418f21aeabe015094b2ddb7a49ab9a25002c5ae9b5c7e", "source": "輝夜姬，請平安歸來。", "segments": [{ "hex": "7d" }, { "text": "輝夜姬……！" }, { "hex": "01" }, { "text": "請您一定要" }, { "hex": "01" }, { "text": "平安回來啊！" }, { "hex": "7e" }] },
+        { "offset": "1074", "originalHex": "7d1892d05097da980150b2939fd1b850a9acbdd00150189c184aa550abb79e9ed1ae9c5c7e017d9eb9d05f5099a81895a8015019ff1a00a8509cd09fa3015091bbb9a291ae9c5c7e", "source": "月亮粉碎，熾熱碎片落向地上，便是世界末日。", "segments": [{ "hex": "7d" }, { "text": "月亮粉碎，" }, { "hex": "01" }, { "text": "燃燒的碎片" }, { "hex": "01" }, { "text": "灑落大地！" }, { "hex": "7e017d" }, { "text": "據說那就是" }, { "hex": "01" }, { "text": "這個世界" }, { "hex": "01" }, { "text": "最後的模樣！" }, { "hex": "7e" }] },
+        { "offset": "1147", "originalHex": "7d04e4f8e4f8bd035c5002a09abd5c01501a211a22bc50b5afd093b69d9fa8be9ca75c7e01017da4b6de501889a59599aeb99f015019b295a81814a5b25018d9bdbe19bf98ae9cb55c7e01", "source": "桃太郎讓鳳凰復活，可以飛往岩石包圍的豐饒村。", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！" }, { "hex": "02a0" }, { "text": "先生！" }, { "hex": "01" }, { "text": "您讓鳳凰復活了呢！" }, { "hex": "7e01017d" }, { "text": "那就能飛往" }, { "hex": "01" }, { "text": "被岩石包圍的豐饒村了！" }, { "hex": "7e01" }] },
+        { "offset": "1223", "originalHex": "7d04e4f8e4f8bd035c015095d2b3180a9aaed05f509ebda45c7e01017d5f5fbeb2509096b6b1ae9dbd5c01509eb9a950180a9aaed05091a0debd015018f79bb099a3dab2bd5c50d29c5c7e", "source": "輝夜姬竟然……但不會放棄，因為公主最討厭放棄。", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！" }, { "hex": "01" }, { "text": "輝夜姬竟然……怎麼會！" }, { "hex": "7e01017d" }, { "text": "……不過，我不會放棄！" }, { "hex": "01" }, { "text": "因為公主最討厭的" }, { "hex": "01" }, { "text": "就是放棄了！嗚嗚！" }, { "hex": "7e" }] },
+        { "offset": "1299", "originalHex": "7d02a09abd5c5095d2b3180a9aaea9015002a09abda5509ce1a2bc01509490d7989cb85094a1b2b7be9b9fbb5c7e017d9999a590b8187da950b592b397015018dba81af4bc50a8d0b99f187d5c7e01017ddd92d95018db9f91d6a80150941916a5199ca2a25002c5ae9d5c7e01", "source": "輝夜姬本想把所有物品交給桃太郎；這些物品倖免於鬼之手，請用來討鬼。", "segments": [{ "hex": "7d02a0" }, { "text": "先生！輝夜姬" }, { "hex": "01" }, { "text": "原本想把一切交給" }, { "hex": "02a0" }, { "hex": "01" }, { "text": "先生保管！" }, { "hex": "7e017d" }, { "text": "這裡的物品，" }, { "hex": "01" }, { "text": "好不容易才逃過惡鬼的魔掌！" }, { "hex": "7e01017d" }, { "text": "請讓它們" }, { "hex": "01" }, { "text": "為您討伐惡鬼盡一份力！" }, { "hex": "7e01" }] },
+        { "offset": "1409", "originalHex": "7d180a9aae5f5095d2b3180a9aae5f7e0101017d9197b6501ac9bc501a5f9b9fa3a2015090a850941a24a90150b29250b2ddb7ae9da65f7e", "source": "公主、輝夜姬，再多眼淚也換不回她。", "segments": [{ "hex": "7d" }, { "text": "公主……輝夜姬……" }, { "hex": "7e0101017d" }, { "text": "無論流下多少眼淚，" }, { "hex": "01" }, { "text": "那位大人" }, { "hex": "01" }, { "text": "都不會再回來了……" }, { "hex": "7e" }] },
+        { "offset": "1466", "originalHex": "7d04e4f8e4f8bd035c5095d2b3180a9aae805c0150dd99a55019bff5a0f6f59fa8805c7e01", "source": "輝夜姬去哪裡了？", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！輝夜姬呀！" }, { "hex": "01" }, { "text": "妳到底去哪裡了呀！" }, { "hex": "7e01" }] },
+        { "offset": "1504", "originalHex": "7d04e4f8e4f8bd035c015019b195a81814b25019eea8181495b6b201501854a85018c7b69db250a491a85c7e", "source": "靜村和夢村都沒有任何消息。", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！" }, { "hex": "01" }, { "text": "靜村也好，夢村也好，" }, { "hex": "01" }, { "text": "都沒有傳來任何消息！" }, { "hex": "7e" }] },
+        { "offset": "1549", "originalHex": "7d04e4f8e4f8bd035c5002a09abd5c01500495b8b603a9501892a8b1e29b91187dbc0150afbda450959cb1a3f5a29bae91ae9b9f5c7e017d9999a55090b8a8a950a4bda395015095979ba3949b9f187dbe9c5c015002a09abdd050941993a002c55c7e", "source": "迦樓羅偷走許多月亮珍寶，倖存藏品請桃太郎使用。", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！" }, { "hex": "02a0" }, { "text": "先生！" }, { "hex": "0104" }, { "text": "迦樓羅" }, { "hex": "03" }, { "text": "偷走了" }, { "hex": "01" }, { "text": "好多月亮的珍寶！" }, { "hex": "7e017d" }, { "text": "這裡剩下的，" }, { "hex": "01" }, { "text": "是好不容易才藏住的物品！" }, { "hex": "0102a0" }, { "text": "先生，請您使用吧！" }, { "hex": "7e" }] },
+        { "offset": "1649", "originalHex": "7d04e4f8e4f8bd035c015018de19a019a1a85018b7180a9aaea90150d4e0d650be9bf892955f7e017dae9a955090a85018ab9118d4a80150a495a55094b6b9b8a8bea95b7e01", "source": "龍宮城的乙姬平安嗎？難道還在赤紅的海裡？", "segments": [{ "hex": "7d04" }, { "text": "蹦蹦" }, { "hex": "03" }, { "text": "！" }, { "hex": "01" }, { "text": "龍宮城的乙姬" }, { "hex": "01" }, { "text": "是否平安呢……" }, { "hex": "7e017d" }, { "text": "難道她還在" }, { "hex": "01" }, { "text": "那片赤紅的海裡嗎？" }, { "hex": "7e01" }] }
+      ]
+    },
+    {
+      "name": "battle-messages", "pointerOffset": "0x70048", "target": "0x290000",
+      "entries": [
+        { "offset": "0x7c7f8", "originalHex": "0909a90118b2bc501a1bf5a291b85c010f", "source": "[角色]は 身を 守っている！", "segments": [{ "hex": "0909" }, { "text": "正在" }, { "hex": "01" }, { "text": "防禦！" }, { "hex": "010f" }] },
+        { "offset": "0x7c80a", "originalHex": "0909a9010909bc5095def5a291b85c010f", "source": "[角色]は [角色]を かばっている！", "segments": [{ "hex": "0909" }, { "text": "正在保護" }, { "hex": "010909" }, { "text": "！" }, { "hex": "010f" }] },
+        { "offset": "0x7c81c", "originalHex": "0909a5010aa8501a121a19bc5002ab5c010f", "source": "[對象]に [數值]の打撃をあたえた！", "segments": [{ "text": "對" }, { "hex": "0909" }, { "text": "造成了" }, { "hex": "010a" }, { "text": "點傷害！" }, { "hex": "010f" }] },
+        { "offset": "0x7c82f", "originalHex": "0909a9010aa8501a121a19bc5092989f5c010f", "source": "[角色]は [數值]の 打撃を うけた！", "segments": [{ "hex": "0909" }, { "text": "受到了" }, { "hex": "010a" }, { "text": "點傷害！" }, { "hex": "010f" }] },
+        { "offset": "0x7c843", "originalHex": "0909a85018151816d0010aacf59f5c010f", "source": "[角色]の 体力が [數值]へった！", "segments": [{ "hex": "0909" }, { "text": "的體力" }, { "hex": "01" }, { "text": "減少了" }, { "hex": "0a" }, { "text": "點！" }, { "hex": "010f" }] },
+        { "offset": "0x7c855", "originalHex": "0909a90104aab6b703a3501a181a19bc5095bb9b9f5c010f", "source": "[角色]は ヒラリと 攻撃を かわした！", "segments": [{ "hex": "0909" }, { "hex": "0104" }, { "text": "輕巧地" }, { "hex": "03" }, { "text": "閃過了攻擊！" }, { "hex": "010f" }] },
+        { "offset": "0x7c86e", "originalHex": "0909bc5099b69bb19f5c0f", "source": "[角色]を こらしめた！", "segments": [{ "hex": "0909" }, { "text": "已被打敗！" }, { "hex": "0f" }] },
+        { "offset": "0x7c87a", "originalHex": "0909a9501816a196a29baef59f5c0f", "source": "[角色]は 力つきてしまった！", "segments": [{ "hex": "0909" }, { "text": "力竭倒下了！" }, { "hex": "0f" }] },
+        { "offset": "0x7c89a", "originalHex": "0909a8501a181a195c0f", "source": "[角色]の 攻撃！", "segments": [{ "hex": "0909" }, { "text": "發動攻擊！" }, { "hex": "0f" }] },
+        { "offset": "0x7c8a5", "originalHex": "0909a9010909bc5095def59f5c010f", "source": "[角色]は [角色]を かばった！", "segments": [{ "hex": "0909" }, { "text": "保護了" }, { "hex": "010909" }, { "text": "！" }, { "hex": "010f" }] },
+        { "offset": "0x7c99d", "originalHex": "097b097cd001949ef5a2969f5c0f", "segments": [{ "hex": "097b097c01" }, { "text": "襲擊過來了！" }, { "hex": "0f" }] },
+        { "offset": "0x7c9ac", "originalHex": "09d050949ef5a2969f5c", "segments": [{ "hex": "09" }, { "text": "襲擊過來了！" }] },
+        { "offset": "0x7ca31", "originalHex": "a1dcb6a81a83a5a901097b097cd001aa9ebdbe919f5c0f", "source": "つづらの中には\n[敵人]([數量])が\nひそんでいた！", "segments": [{ "text": "寶箱裡竟然有" }, { "hex": "0109" }, { "hex": "7b097c" }, { "hex": "01" }, { "text": "埋伏著！" }, { "hex": "0f" }] },
+        { "offset": "0x7ca49", "originalHex": "a1dcb6a81a83a5a90109d050aa9ebdbe919f5c010f", "source": "つづらの中には\n[敵人]が ひそんでいた！\n", "segments": [{ "text": "寶箱裡竟然有" }, { "hex": "0109" }, { "text": "埋伏著！" }, { "hex": "010f" }] },
+        { "offset": "0x7ca5f", "originalHex": "0909a901a1dcb6a81a8395b60109bc5018b0a1989f5c0f", "source": "[角色]は\nつづらの中から\n[道具]を 見つけた！", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "從寶箱裡找到了" }, { "hex": "0109" }, { "text": "！" }, { "hex": "0f" }] },
+        { "offset": "0x7ca77", "originalHex": "0909a801181ba950ab9291bd9ab99f5c010f", "source": "[角色]の 術は ふういんされた！", "segments": [{ "hex": "0909" }, { "text": "的術" }, { "hex": "01" }, { "text": "被封印了！" }, { "hex": "010f" }] },
+        { "offset": "0x7ca8a", "originalHex": "0909a801181ba950ab9291bd9ab9a291b85c010f", "source": "[角色]の 術は ふういんされている！", "segments": [{ "hex": "0909" }, { "text": "的術" }, { "hex": "01" }, { "text": "仍被封印著！" }, { "hex": "010f" }] },
+        { "offset": "0x7ca9f", "originalHex": "0909a901181bd050a19593b8b592a550a4f59f5c010f", "source": "[角色]は 術が つかえるようになった！", "segments": [{ "hex": "0909" }, { "text": "已經" }, { "hex": "01" }, { "text": "可以使用術了！" }, { "hex": "010f" }] },
+        { "offset": "0x7cc28", "originalHex": "0909a901a7b0b6a495f59f5c010f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "沒有睡著！" }, { "hex": "010f" }] },
+        { "offset": "0x7cc37", "originalHex": "0909a901a7b0f5a291b85c0f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "正在沉睡！" }, { "hex": "0f" }] },
+        { "offset": "0x7cc44", "originalHex": "0909a901a7b0b795b6509ab19f5c010f", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "從睡夢中醒來了！" }, { "hex": "010f" }] },
+        { "offset": "0x7cc55", "originalHex": "0909a8501815a50104a7dea7de03a8500497b203a81a09d05095b6afa1975c0f", "segments": [{ "hex": "0909" }, { "text": "的身體" }, { "hex": "01" }, { "text": "被" }, { "hex": "04" }, { "text": "黏稠" }, { "hex": "03" }, { "text": "的" }, { "hex": "04" }, { "text": "蜘蛛" }, { "hex": "03" }, { "text": "絲纏住了！" }, { "hex": "0f" }] },
+        { "offset": "0x7cc76", "originalHex": "9b959b500909a9010497b203a81a09bc50abb7a9b6f59f5c0f", "segments": [{ "text": "但是" }, { "hex": "0909" }, { "hex": "0104" }, { "text": "蜘蛛" }, { "hex": "03" }, { "text": "絲被甩開了！" }, { "hex": "0f" }] },
+        { "offset": "0x7d714", "originalHex": "0909a85018151816a90119e202b4010f", "source": "[角色]の 体力は\n全回復した！\n", "segments": [{ "hex": "0909" }, { "text": "的體力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }] },
+        { "offset": "0x7d725", "originalHex": "0909a85018151816a90119e202b4010f", "source": "[角色]の 体力は\n全回復した！\n", "segments": [{ "hex": "0909" }, { "text": "的體力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }] },
+        { "offset": "0x7d744", "originalHex": "0909a8501842a90119e202b4010f", "source": "[角色]の 技は\n全回復した！\n", "segments": [{ "hex": "0909" }, { "text": "的技力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }] },
+        { "offset": "0x7d753", "originalHex": "0909a8501842a90119e202b4010f", "source": "[角色]の 技は\n全回復した！\n", "segments": [{ "hex": "0909" }, { "text": "的技力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }] }
+      ]
+    },
+    {
+      "name": "awakening-dialogue", "pointerOffset": "0x700e7", "target": "0x270000", "complete": true,
+      "entries": [
+        {
+          "offset": "0", "originalHex": "0602a0a894de909abd01057d02a0b35c509bf595b7949b5c7e01",
+          "source": "桃太郎のおばあさん：桃太郎や！ しっかりおし！",
+          "segments": [{ "hex": "0602a0" }, { "text": "的奶奶" }, { "hex": "01057d02a0" }, { "text": "啊！振作一點！" }, { "hex": "7e01" }]
+        },
+        {
+          "offset": "27", "originalHex": "0602a0a894d6919abd01057d02a05c7e01010694de909abd01057d02a0d05099bda4a5015092a49ab9b8a4bda25c7e010694d6919abd01057db5f5e7dd50a1b6915094b291bc01509b9fbdd6f6ba92a4f05f5f7e010694de909abd01057dadbda55f50adbda55f5099bda40150a1b69e92a45018bfbc9cb8a4bda25f7e010694d6919abd01057dab925f5f5f7e01010694de909abd01057da9905f5f5f7e01",
+          "source": "爺爺呼喚桃太郎；奶奶擔心他做噩夢，爺爺認為他受了很大的苦，兩人嘆息。",
+          "segments": [{ "hex": "0602a0" }, { "text": "的爺爺" }, { "hex": "01057d02a0" }, { "text": "！" }, { "hex": "7e010106" }, { "text": "奶奶" }, { "hex": "01057d02a0" }, { "text": "竟然" }, { "hex": "01" }, { "text": "做噩夢難受成這樣！" }, { "hex": "7e0106" }, { "text": "爺爺" }, { "hex": "01057d" }, { "text": "他一定受了很大的苦，" }, { "hex": "01" }, { "text": "才會變成這樣啊……" }, { "hex": "7e0106" }, { "text": "奶奶" }, { "hex": "01057d" }, { "text": "是啊……是啊……" }, { "hex": "01" }, { "text": "看他那麼痛苦的表情……" }, { "hex": "7e0106" }, { "text": "爺爺" }, { "hex": "01057d" }, { "text": "唉……" }, { "hex": "7e010106" }, { "text": "奶奶" }, { "hex": "01057d" }, { "text": "唉……" }, { "hex": "7e01" }]
+        },
+        {
+          "offset": "187", "originalHex": "0694d6919abd01057da9a25b501a9495509491be955b7e01",
+          "source": "おじいさん：はて？ 誰か おいでか？",
+          "segments": [{ "hex": "06" }, { "text": "爺爺" }, { "hex": "01057d" }, { "text": "咦？有人來了嗎？" }, { "hex": "7e01" }]
+        },
+        {
+          "offset": "212", "originalHex": "06049cb703a81850185101057db25f50b25f5002a09abda90150da91d6f892e050be9c95915b7e",
+          "source": "スリの銀次：も…も…桃太郎さんは だいじょうぶですかい？",
+          "segments": [{ "hex": "0604" }, { "text": "扒手" }, { "hex": "03" }, { "text": "銀次" }, { "hex": "01057d" }, { "text": "桃……桃……" }, { "hex": "02a0" }, { "text": "先生" }, { "hex": "01" }, { "text": "沒事吧？" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "252", "originalHex": "0694de909abd01057d19a6a850185018519abd50bea7f5955c0150ddbadab698be50bb95bda495f59fb57e",
+          "source": "おばあさん：都の銀次さんでねっか！どろだらけでわかんなかったよ",
+          "segments": [{ "hex": "06" }, { "text": "奶奶" }, { "hex": "01057d" }, { "text": "這不是都城的銀次嗎！" }, { "hex": "01" }, { "text": "滿身泥巴，差點認不出你了。" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "296", "originalHex": "06049cb703a81850185101057d02a09abda95b5002a09abda95b7e01",
+          "source": "スリの銀次：桃太郎さんは？桃太郎さんは？",
+          "segments": [{ "hex": "0604" }, { "text": "扒手" }, { "hex": "03" }, { "text": "銀次" }, { "hex": "01057d02a0" }, { "text": "先生呢？" }, { "hex": "02a0" }, { "text": "先生呢？" }, { "hex": "7e01" }]
+        },
+        {
+          "offset": "325", "originalHex": "0694d6919abd01057db25f5002a05c01501848d0a1919f955c7e",
+          "source": "おじいさん：も……桃太郎！ 気がついたか！",
+          "segments": [{ "hex": "06" }, { "text": "爺爺" }, { "hex": "01057d" }, { "text": "桃……" }, { "hex": "02a0" }, { "text": "！" }, { "hex": "01" }, { "text": "你醒來了嗎！" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "352", "originalHex": "0694de909abd01057ddab1dab15c50b39cbdbea496f65c015004abb6abb603be50a7f5955c7e0b",
+          "source": "おばあさん：だめだめ！休んでなきゃ！ フラフラでねっか！",
+          "segments": [{ "hex": "06" }, { "text": "奶奶" }, { "hex": "01057d" }, { "text": "不行不行！你得休息！" }, { "hex": "0104" }, { "text": "搖搖晃晃" }, { "hex": "03" }, { "text": "的，怎麼行呢！" }, { "hex": "7e0b" }]
+        },
+        {
+          "offset": "392", "originalHex": "06049cb703a81850185101057d02a09abd5c50015018f21a31bc9ba0f6509198a7935c7e",
+          "source": "銀次：桃太郎さん！無理をしちゃいけねえ！",
+          "segments": [{ "hex": "0604" }, { "text": "扒手" }, { "hex": "03" }, { "text": "銀次" }, { "hex": "01057d02a0" }, { "text": "先生！" }, { "hex": "01" }, { "text": "可不能勉強自己啊！" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "429", "originalHex": "06188ca81988184701057d02a85c5002a05c0150aa9a9be0b7dbf6a85c7e0106188ca81988184701057d188ca819881847dbf6b55c50bb9cb99f955b7e010106188ca81988184701057d9b959b50180f91b3f5a0f6a4905c015004da91da0318411888a3509192b3a15c7e0106188ca81988184701057ddd92dbf65b50187b1849a9501a94b2015018f21a31bc9bbaa35091bba6dbf6ba5c7e",
+          "source": "天之仙人久別重逢；達伊達王子很強，這次沒人會勉強桃太郎。",
+          "segments": [{ "hex": "06" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "哇哈哈！" }, { "hex": "02a0" }, { "text": "！" }, { "hex": "01" }, { "text": "好久不見啦！" }, { "hex": "7e0106" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "我是天之仙人！忘了嗎？" }, { "hex": "7e010106" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "不過，那傢伙真強啊！" }, { "hex": "0104" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子那傢伙！" }, { "hex": "7e0106" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "怎樣？這次應該" }, { "hex": "01" }, { "text": "沒人會勉強你了吧！" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "583", "originalHex": "06188ca81988184701057d18db9f91d6a9509096b6b1915c7e01", "source": "天の仙人：鬼退治はあきらめい！",
+          "segments": [{ "hex": "06" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "就放棄討伐惡鬼吧！" }, { "hex": "7e01" }]
+        },
+        {
+          "offset": "610", "originalHex": "06188ca81988184701057d9e92dbf65c509eb9d0b5915c7e01", "source": "天の仙人：そうじゃ！それがよい！",
+          "segments": [{ "hex": "06" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "對啦！這樣就好！" }, { "hex": "7e01" }]
+        },
+        {
+          "offset": "636", "originalHex": "06188ca81988184701057d02a85c501a61a35018d01848d00150aeda501924f5a294f59f955c7e0106188ca81988184701057d04da91da0318411888b25002a0a80150181ba35018151816a95092de939fd05f5f7e0106188ca81988184701057d1a61a318d01848aebea9015092de93a495f59fb592dbf6a45f7e",
+          "source": "天之仙人：愛與勇氣尚存，達伊達奪走術和體力，卻奪不走愛與勇氣。",
+          "segments": [{ "hex": "06" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "哇哈哈！你的愛與勇氣" }, { "hex": "01" }, { "text": "還在啊！" }, { "hex": "7e0106" }, { "text": "天之仙人" }, { "hex": "01057d04" }, { "text": "達伊達" }, { "hex": "03" }, { "text": "王子雖奪走了" }, { "hex": "02a0" }, { "text": "的" }, { "hex": "01" }, { "text": "術與體力……" }, { "hex": "7e0106" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "但你的愛與勇氣，" }, { "hex": "01" }, { "text": "他可奪不走啊……" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "760", "originalHex": "06188ca81988184701057d99b9be501acb1848a550a4f59fdbf6ba5c015018db9f91d6a550b09592d050b5915c7e", "source": "天の仙人：これで元気になったじゃろ！鬼退治にむかうがよい！",
+          "segments": [{ "hex": "06" }, { "text": "天之仙人" }, { "hex": "01057d" }, { "text": "這下有精神了吧！" }, { "hex": "01" }, { "text": "去討伐惡鬼吧！" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "807", "originalHex": "0694d6919abd01057d02a0b35c509c97a491d00150afd69f97a5beb25002b3d093935c7e0102a0a9505251511819bc5019c3a519d7b99f5c0101", "source": "爺爺贈送一百兩，讓桃太郎準備旅裝。",
+          "segments": [{ "hex": "06" }, { "text": "爺爺" }, { "hex": "01057d02a0" }, { "text": "啊！雖然不多，" }, { "hex": "01" }, { "text": "拿去準備行裝吧！" }, { "hex": "7e0102a0" }, { "text": "得到了１００兩！" }, { "hex": "0101" }]
+        },
+        {
+          "offset": "866", "originalHex": "0694de909abd01057d02a0b35c501815a5501848bca198a2a75c0150199ba8181c1a83be509fe1a29497b95c7e", "source": "奶奶叮囑桃太郎保重身體，留著旅途中吃。",
+          "segments": [{ "hex": "06" }, { "text": "奶奶" }, { "hex": "01057d02a0" }, { "text": "啊！要保重身體！" }, { "hex": "01" }, { "text": "留著在旅途中吃吧！" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "912", "originalHex": "06049cb703a81850185101057d9eb9bea95002a09abd5c0150ae91b7b39bf892955c7e", "source": "銀次：那麼，桃太郎先生，咱們出發吧！",
+          "segments": [{ "hex": "0604" }, { "text": "扒手" }, { "hex": "03" }, { "text": "銀次" }, { "hex": "01057d" }, { "text": "那麼，" }, { "hex": "02a0" }, { "text": "先生，" }, { "hex": "01" }, { "text": "咱們出發吧！" }, { "hex": "7e" }]
+        },
+        {
+          "offset": "948", "originalHex": "06049cb703a81850185101057d02a09abda950aeda015018f21a31a8509695a793501815da5c7e0106049cb703a81850185101057d9bdeb697a8509091da5090f59bb20150d491f59bf89a9da250919fda96b39c5c7e0118501851d05019b519b6a51a92bbf59f5c0101", "source": "銀次認為桃太郎仍虛弱，暫時同行；銀次加入隊伍。",
+          "segments": [{ "hex": "0604" }, { "text": "扒手" }, { "hex": "03" }, { "text": "銀次" }, { "hex": "01057d02a0" }, { "text": "先生現在" }, { "hex": "01" }, { "text": "身體還不能太勉強！" }, { "hex": "7e010604" }, { "text": "扒手" }, { "hex": "03" }, { "text": "銀次" }, { "hex": "01057d" }, { "text": "這陣子就讓我" }, { "hex": "01" }, { "text": "陪您一起走吧！" }, { "hex": "7e01" }, { "text": "銀次加入了隊伍！" }, { "hex": "0101" }]
+        },
+        { "offset": "1055", "originalHex": "7d02a0b35c5096f892a90150199aa550a3aef5a2015019d11a03be9598b895915b7e", "source": "桃太郎や！今日は宿に泊まって明日でかけるかい？", "segments": [{ "hex": "7d02a0" }, { "text": "啊！今天先" }, { "hex": "01" }, { "text": "在旅館住一晚，" }, { "hex": "01" }, { "text": "明天再出發，好嗎？" }, { "hex": "7e" }] },
+        { "offset": "1090", "originalHex": "94de909abd017d02a0b35c01501815a5501848bca198b8bddab55c7e", "source": "おばあさん：桃太郎や！体に気をつけるんだよ！", "segments": [{ "text": "奶奶" }, { "hex": "017d02a0" }, { "text": "啊！" }, { "hex": "01" }, { "text": "要保重身體喔！" }, { "hex": "7e" }] },
+        { "offset": "1119", "originalHex": "7d02a0b35c015018f21a31bc509cb8bdd6f6a491b55c7e01", "source": "桃太郎や！無理をするんじゃないよ！", "segments": [{ "hex": "7d02a0" }, { "text": "啊！" }, { "hex": "01" }, { "text": "可別勉強自己喔！" }, { "hex": "7e01" }] },
+        { "offset": "1144", "originalHex": "0694de909abd01057dd7f5a35099929ba2015092a49ab99f50aeaebe9cd6f65f7e", "source": "奶奶：一直像這樣，被噩夢纏著啊……", "segments": [{ "hex": "06" }, { "text": "奶奶" }, { "hex": "01057d" }, { "text": "他一直像這樣，" }, { "hex": "01" }, { "text": "被噩夢纏著啊……" }, { "hex": "7e" }] },
+        { "offset": "1178", "originalHex": "0694d6919abd01057db2925095b999b90150541a039fa1a8be9cb550185018519abd5c7e", "source": "爺爺：已經差不多三天了啊，銀次先生。", "segments": [{ "hex": "06" }, { "text": "爺爺" }, { "hex": "01057d" }, { "text": "差不多已經三天了，" }, { "hex": "01" }, { "text": "銀次先生！" }, { "hex": "7e" }] },
+        { "offset": "1215", "originalHex": "7d02a0b35c50bb9bb6a901509999be5002b6a85018f21aeabc015091a8f5a294b895b6a85c7e", "source": "桃太郎呀，我們會在這裡祈求你平安。", "segments": [{ "hex": "7d02a0" }, { "text": "啊！我們會" }, { "hex": "01" }, { "text": "在這裡祈禱，" }, { "hex": "01" }, { "text": "保佑你平安無事！" }, { "hex": "7e" }] }
+      ]
+    },
+    {
+      "name": "equipment-effects", "pointerOffset": "0x7003f", "target": "0x3da400",
+      "entries": [
+        { "offset": "0x78a77", "originalHex": "19d4194da85096b6b196d0500909a80118151816bc5019de19df9a9d9f5c0f", "source": "包丁の きらめきが [角色]の\n体力を 回復させた！", "segments": [{ "text": "菜刀的光芒讓" }, { "hex": "0909" }, { "text": "的" }, { "hex": "01" }, { "text": "體力回復了！" }, { "hex": "0f" }] }
+      ]
+    },
+    {
+      "name": "battle-effects", "pointerOffset": "0x7004b", "target": "0x3dc000",
+      "entries": [
+        { "offset": "0x7e4fe", "originalHex": "0909a8501a181a191816a9010a184bd0f59f5c010f", "source": "[角色]の 攻撃力は\n[數值]下がった！\n", "segments": [{ "hex": "0909" }, { "text": "的攻擊力" }, { "hex": "01" }, { "text": "下降了" }, { "hex": "0a" }, { "text": "點！" }, { "hex": "010f" }] }
+      ]
+    },
+    {
+      "name": "spell-chants", "pointerOffset": "0x70027", "target": "0x3da000", "decodedBytes": 678,
+      "entries": [
+        { "offset": "1", "originalHex": "96bd9f8080808080bd5c", "source": "きんたーーーーーん！", "segments": [{ "text": "金丹啊啊啊！" }] },
+        { "offset": "12", "originalHex": "9d80bd9680bd9f8080808080bd5c", "source": "せーんきーんたーーーーーん！", "segments": [{ "text": "千金丹啊啊啊！" }] },
+        { "offset": "27", "originalHex": "ae80bd9680bd9f8080808080bd5c", "source": "まーんきーんたーーーーーん！", "segments": [{ "text": "萬金丹啊啊啊！" }] },
+        { "offset": "42", "originalHex": "afa496bd9f8080808080bd5c", "source": "みなきんたーーーーーん！", "segments": [{ "text": "全體金丹啊啊啊！" }] },
+        { "offset": "132", "originalHex": "91a4d7ae8080808080bd5c", "source": "いなずまーーーーーん！", "segments": [{ "text": "稻妻啊啊啊！" }] },
+        { "offset": "144", "originalHex": "04d4bad4bad4ba0380808080805c", "segments": [{ "hex": "04" }, { "text": "轟隆轟隆轟隆" }, { "hex": "03" }, { "text": "啊啊啊！" }] },
+        { "offset": "159", "originalHex": "04d4bad4badf950380808080805c5c", "segments": [{ "hex": "04" }, { "text": "轟隆轟隆閃光" }, { "hex": "03" }, { "text": "啊啊啊！！" }] },
+        { "offset": "175", "originalHex": "04d4badf95dd9503808080808004bdf5035c5c5c", "segments": [{ "hex": "04" }, { "text": "轟隆閃光" }, { "hex": "03" }, { "text": "啊啊啊" }, { "hex": "04" }, { "text": "轟" }, { "hex": "03" }, { "text": "！！！" }] }
+      ]
+    },
+    {
+      "name": "spell-messages", "pointerOffset": "0x70042", "target": "0x3d8000",
+      "entries": [
+        { "offset": "0x78d14", "originalHex": "0909a90109a8181bbc50a3a4939f5c", "source": "[角色]は\n[術名]の術を となえた！", "segments": [{ "hex": "0909" }, { "text": "施展了" }, { "hex": "0109" }, { "text": "之術！" }] },
+        { "offset": "0x78d27", "originalHex": "0909a90109a8181bbc50a3a4939f5c", "source": "[角色]は\n[術名]の術を となえた！", "segments": [{ "hex": "0909" }, { "text": "施展了" }, { "hex": "0109" }, { "text": "之術！" }] },
+        { "offset": "0x78d39", "originalHex": "9b959b01a4a5b2509496a495f59f5c010f", "source": "しかし\nなにも おきなかった！\n", "segments": [{ "text": "但是" }, { "hex": "01" }, { "text": "什麼也沒發生！" }, { "hex": "010f" }] },
+        { "offset": "0x78d4b", "originalHex": "09a8181ba90191aea950a19593ae9dbd5c010f", "source": "[術名]の術は\nいまは つかえません！\n", "segments": [{ "hex": "09" }, { "text": "之術" }, { "hex": "01" }, { "text": "現在無法使用！" }, { "hex": "010f" }] },
+        { "offset": "0x78da4", "originalHex": "9b959b5009a90119d5d05019cca497a4b8501a2a91a89d91be01181bd050a3a493b6b9a4915c0f", "source": "しかし [角色]は\n声が 出なくなる 呪いのせいで\n術が となえられない！", "segments": [{ "text": "但是" }, { "hex": "09" }, { "text": "因為" }, { "hex": "01" }, { "text": "無法出聲的詛咒，" }, { "hex": "01" }, { "text": "不能施展法術！" }, { "hex": "0f" }] },
+        { "offset": "0x78dcc", "originalHex": "09a950184098d0bc509ba291b8a8be01181bd050a3a493b6b9a4915c010f", "source": "[角色]は 大けがを しているので\n術が となえられない！\n", "segments": [{ "hex": "09" }, { "text": "身受重傷，" }, { "hex": "01" }, { "text": "不能施展法術！" }, { "hex": "010f" }] },
+        { "offset": "0x78deb", "originalHex": "1842194754be50192b1a2450aaa3b7a85018151816bc019c999b5019de19dfbe96ae9c5c010f", "source": "技数3で 味方ひとりの体力を\nすこし 回復できます！\n", "segments": [{ "text": "消耗" }, { "hex": "54" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "少量回復一位夥伴的體力！" }, { "hex": "010f" }] },
+        { "offset": "0x78e12", "originalHex": "1842194756be50192b1a2450aaa3b7a85018151816bc0195a4b75019de19dfbe96ae9c5c010f", "source": "技数5で 味方ひとりの体力を\nかなり 回復できます！\n", "segments": [{ "text": "消耗" }, { "hex": "56" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "大量回復一位夥伴的體力！" }, { "hex": "010f" }] },
+        { "offset": "0x78e39", "originalHex": "184219475251be50192b1a2450aaa3b7a85018151816bc0119e219de19dfbe96ae9c5c010f", "source": "技数10で 味方ひとりの体力を\n全回復できます！\n", "segments": [{ "text": "消耗" }, { "hex": "5251" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "完全回復一位夥伴的體力！" }, { "hex": "010f" }] },
+        { "offset": "0x78e5f", "originalHex": "184219475251be50192b1a24509ce1a2a85018151816bc019c999b5019de19dfbe96ae9c5c010f", "source": "技数10で 味方すべての体力を\nすこし 回復できます！\n", "segments": [{ "text": "消耗" }, { "hex": "5251" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "少量回復全體夥伴的體力！" }, { "hex": "010f" }] },
+        { "offset": "0x78e87", "originalHex": "184219475259be50192b1a24509ce1a2a85018151816bc0195a4b75019de19dfbe96ae9c5c010f", "source": "技数18で 味方すべての体力を\nかなり 回復できます！\n", "segments": [{ "text": "消耗" }, { "hex": "5259" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "大量回復全體夥伴的體力！" }, { "hex": "010f" }] },
+        { "offset": "0x78eaf", "originalHex": "184219475453be50192b1a24509ce1a2a85018151816bc0119e219de19dfbe96ae9c5c010f", "source": "技数32で 味方すべての体力を\n全回復できます！\n", "segments": [{ "text": "消耗" }, { "hex": "5453" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "完全回復全體夥伴的體力！" }, { "hex": "010f" }] },
+        { "offset": "0x78ed5", "originalHex": "184219475251be50192b1a2450d8bd91bda85018151816bc019197b695d7a15019de19df9bae9c5c010f", "source": "技数10で 味方ぜんいんの体力を\nいくらかずつ 回復します！\n", "segments": [{ "text": "消耗" }, { "hex": "5251" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "逐漸回復全體夥伴的體力！" }, { "hex": "010f" }] },
+        { "offset": "0x78f00", "originalHex": "0909a950b3bbb69591019594b7a550a1a1aeb99f5c010f", "source": "[角色]は やわらかい\nかおりに つつまれた！\n", "segments": [{ "hex": "0909" }, { "text": "被柔和的" }, { "hex": "01" }, { "text": "香氣包圍了！" }, { "hex": "010f" }] },
+        { "offset": "0x78f18", "originalHex": "184219475359be50192b1a2450aaa3b7a801184098d0bc50a4949b5019ff184018151816a801531af3a852aebe5019de19df9bae9c5c0f", "source": "技数28で 味方ひとりの\n大けがを なおし 最大体力の\n2分の1まで 回復します！", "segments": [{ "text": "消耗" }, { "hex": "5359" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "治好一位夥伴的重傷，" }, { "hex": "01" }, { "text": "體力回復至上限的一半！" }, { "hex": "0f" }] },
+        { "offset": "0x78f50", "originalHex": "9b959b01a4a5b2509496a495f59f5c010f", "source": "しかし\nなにも おきなかった！\n", "segments": [{ "text": "但是" }, { "hex": "01" }, { "text": "什麼也沒發生！" }, { "hex": "010f" }] },
+        { "offset": "0x78f62", "originalHex": "0909d050949690d0f59f5c01010f", "source": "[角色]が おきあがった！\n\n", "segments": [{ "hex": "0909" }, { "text": "站起來了！" }, { "hex": "01010f" }] },
+        { "offset": "0x78f71", "originalHex": "0909a901919b96bc50a3b7b2dd9b9f5c010f", "source": "[角色]は\nいしきを とりもどした！\n", "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "恢復了意識！" }, { "hex": "010f" }] },
+        { "offset": "0x78f84", "originalHex": "1842194753be50192b1a2450aaa3b7a801180ebc501acf9bae9c5c010f", "source": "技数2で 味方ひとりの\n毒を 消します！\n", "segments": [{ "text": "消耗" }, { "hex": "53" }, { "text": "點技力，" }, { "hex": "01" }, { "text": "解除一位夥伴的中毒！" }, { "hex": "010f" }] }
+      ]
+    },
+    {
+      "name": "item-descriptions", "pointerOffset": "0x7003c", "target": "0x260000",
+      "entries": [
+        {
+          "offset": "0x77028", "originalHex": "09a901a19593ae9dbd5c010f",
+          "source": "[道具]は\nつかえません！\n",
+          "segments": [{ "hex": "09" }, { "text": "：" }, { "hex": "01" }, { "text": "無法使用！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x77035", "originalHex": "09a90104b0da03a499a3bc509b9fa8a5501848d0a1919f5c01",
+          "source": "[角色]は\nムダなことを したのに 気がついた！\n",
+          "segments": [{ "hex": "09" }, { "text": "發現" }, { "hex": "0104" }, { "text": "白忙" }, { "hex": "03" }, { "text": "了一場！" }, { "hex": "01" }]
+        },
+        {
+          "offset": "0x7704f", "originalHex": "a195f5a2b201a4a5b2509496ae9dbd5c010f",
+          "source": "つかっても\nなにも おきません！\n",
+          "segments": [{ "text": "使用後" }, { "hex": "01" }, { "text": "什麼也沒發生！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x77062", "originalHex": "0909a90109bc5002c4010f",
+          "source": "[角色]は\n[道具]を つかった！\n",
+          "segments": [{ "hex": "0909" }, { "text": "使用了" }, { "hex": "0109" }, { "text": "！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x7706e", "originalHex": "0909a90109bc5018d1e19f5c010f",
+          "source": "[角色]は\n[道具]を 食べた！\n",
+          "segments": [{ "hex": "0909" }, { "text": "吃下了" }, { "hex": "0109" }, { "text": "！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x7707d", "originalHex": "0909a9010909a50109bc5018d1e19a9d9f5c0f",
+          "source": "[角色]は\n[對象]に\n[道具]を 食べさせた！",
+          "segments": [{ "hex": "0909" }, { "text": "讓" }, { "hex": "010909" }, { "text": "吃下" }, { "hex": "0109" }, { "text": "！" }, { "hex": "0f" }]
+        },
+        {
+          "offset": "0x77091", "originalHex": "0909a90109a8501890bc501a97bdda5c010f",
+          "source": "[角色]は\n[道具]の 水を 飲んだ！\n",
+          "segments": [{ "hex": "0909" }, { "text": "喝下了" }, { "hex": "0109" }, { "text": "的水！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x770a4", "originalHex": "0909a950afbda4a50109bc50abb8aef59f5c010f",
+          "source": "[角色]は みんなに\n[道具]を ふるまった！\n",
+          "segments": [{ "hex": "0909" }, { "text": "分給大家" }, { "hex": "0109" }, { "text": "！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x770b9", "originalHex": "0909a90109bc501a97bdda5c010f",
+          "source": "[角色]は\n[道具]を 飲んだ！\n",
+          "segments": [{ "hex": "0909" }, { "text": "喝下了" }, { "hex": "0109" }, { "text": "！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x770c8", "originalHex": "0909a9010909a50109a8501890bc501a97ae9d9f5c0f",
+          "source": "[角色]は\n[對象]に\n[道具]の 水を 飲ませた！",
+          "segments": [{ "hex": "0909" }, { "text": "讓" }, { "hex": "010909" }, { "text": "喝下" }, { "hex": "0109" }, { "text": "的水！" }, { "hex": "0f" }]
+        },
+        {
+          "offset": "0x770df", "originalHex": "0909a9010909a50109bc501a97ae9d9f5c0f",
+          "source": "[角色]は\n[對象]に\n[道具]を 飲ませた！",
+          "segments": [{ "hex": "0909" }, { "text": "讓" }, { "hex": "010909" }, { "text": "喝下" }, { "hex": "0109" }, { "text": "！" }, { "hex": "0f" }]
+        },
+        {
+          "offset": "0x770f2", "originalHex": "18d1e1b8a35018151816d0010a19de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "食べると 体力が\n[數值]回復します！\n（1回きり！）",
+          "segments": [{ "text": "食用後，體力" }, { "hex": "01" }, { "text": "回復" }, { "hex": "0a" }, { "text": "點！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77112", "originalHex": "1a97b0a35018151816d0010a19de19df9bae9c5c01895b19de8a0f",
+          "source": "飲むと 体力が\n[數值]回復します！\n（[原次數]回）",
+          "segments": [{ "text": "飲用後，體力" }, { "hex": "01" }, { "text": "回復" }, { "hex": "0a" }, { "text": "點！" }, { "hex": "01895b" }, { "text": "次" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7712e", "originalHex": "1844a818901ac8a8501890bc501a97afad9b9f5c0118901ac8a9500495b603a5a4f5a2509baef59f5c010f",
+          "source": "竹の水筒の 水を 飲みほした！\n水筒は カラになって しまった！\n",
+          "segments": [{ "text": "竹水筒裡的水喝光了！" }, { "hex": "01" }, { "text": "水筒已經" }, { "hex": "04" }, { "text": "空了" }, { "hex": "03" }, { "text": "！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x7715a", "originalHex": "02b3a3501842d001527f5619de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 技が\n1/5回復します！\n（1回きり！）",
+          "segments": [{ "text": "使用後，技力回復" }, { "hex": "01527f56" }, { "text": "！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77178", "originalHex": "18d1e1b8a3501842d0010a19de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "食べると 技が\n[數值]回復します！\n（1回きり！）",
+          "segments": [{ "text": "食用後，技力" }, { "hex": "01" }, { "text": "回復" }, { "hex": "0a" }, { "text": "點！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77196", "originalHex": "02b3a3501842d00119e219de19df9bae9c5c01895b19de8a0f",
+          "source": "つかうと 技が\n全回復します！\n（[原次數]回）",
+          "segments": [{ "text": "使用後，技力" }, { "hex": "01" }, { "text": "全部回復！" }, { "hex": "01895b" }, { "text": "次" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x771b0", "originalHex": "90bdaeb750180f97509f9f919fa8be011a12a019cca899dca0a95099bbb9a29baef59f5c010f",
+          "source": "あんまり 強く たたいたので\n打ち出のこづちは こわれてしまった！\n",
+          "segments": [{ "text": "因為敲得太用力，" }, { "hex": "01" }, { "text": "如意小槌壞掉了！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x771d7", "originalHex": "18d1e1b8a35018151816d0500a011842d0500a19de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "食べると 体力が [數值]\n技が [數值]回復します！\n（1回きり！）",
+          "segments": [{ "text": "食用後，體力回復" }, { "hex": "0a01" }, { "text": "技力回復" }, { "hex": "0a" }, { "text": "！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x771fd", "originalHex": "18d1e1b8a35018151816d001527f5419de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "食べると 体力が\n1/3回復します！\n（1回きり！）",
+          "segments": [{ "text": "食用後，體力回復" }, { "hex": "01527f54" }, { "text": "！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7721f", "originalHex": "02b3a3501842d001527f5919de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 技が\n1/8回復します！\n（1回きり！）",
+          "segments": [{ "text": "使用後，技力回復" }, { "hex": "01527f59" }, { "text": "！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7723d", "originalHex": "02b3a3501842d0015a7f525719de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 技が\n9/16回復します！\n（1回きり！）",
+          "segments": [{ "text": "使用後，技力回復" }, { "hex": "015a7f5257" }, { "text": "！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7725c", "originalHex": "02b3a35018151816a3501842d0011af21af3aebe5019de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 体力と 技が\n半分まで 回復します！\n（1回きり！）",
+          "segments": [{ "text": "使用後，體力與技力" }, { "hex": "01" }, { "text": "回復至一半！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77284", "originalHex": "02b3a350afbda4a85018151816d0010a19de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "つかうと みんなの 体力が\n[數值]回復します！\n（1回きり！）",
+          "segments": [{ "text": "使用後，全員體力" }, { "hex": "01" }, { "text": "回復" }, { "hex": "0a" }, { "text": "點！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x772a7", "originalHex": "02b3a35018151816a3501842d00119e219de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 体力と 技が\n全回復します！\n（1回きり！）",
+          "segments": [{ "text": "使用後，體力與技力" }, { "hex": "01" }, { "text": "全部回復！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x772ca", "originalHex": "1a97b0a35018151816a3501842d00119ff184018febc509993a25019de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "飲むと 体力と 技が\n最大値を こえて 回復します！\n（1回きり！）",
+          "segments": [{ "text": "飲用後，體力與技力" }, { "hex": "01" }, { "text": "回復至超過最大值！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x772f8", "originalHex": "0909a85018151816a3501842d00119ff184018febc509993a25002b4010f",
+          "source": "[角色]の 体力と 技が\n最大値を こえて 回復した！\n",
+          "segments": [{ "hex": "0909" }, { "text": "的體力與技力" }, { "hex": "01" }, { "text": "已回復至超過最大值！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x77317", "originalHex": "b2f5a291b8da98be501816a1969fa396019ea81a33be50abf595a150be96ae9c5c01895219de96b75c8a0f",
+          "source": "もっているだけで 力つきたとき\nその場で ふっかつ できます！\n（1回きり！）",
+          "segments": [{ "text": "帶在身上，倒下時" }, { "hex": "01" }, { "text": "就能原地復活！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77343", "originalHex": "02d6a8501a141a15a81accd00119e8b795d0b3919f5c010f",
+          "source": "道具袋の 崑崙の玉が\n光りかがやいた！\n",
+          "segments": [{ "text": "背包裡的崑崙之玉" }, { "hex": "01" }, { "text": "發出了耀眼光芒！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x7735c", "originalHex": "02b3a350181595b601180ed0501acf939ab7ae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 体から\n毒が 消えさります！\n（1回きり！）",
+          "segments": [{ "text": "使用後，身上的" }, { "hex": "01" }, { "text": "毒就會消失！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7737c", "originalHex": "02b3a3501815a80104aeaa03d050a494b7ae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 体の\nマヒが なおります！\n（1回きり！）",
+          "segments": [{ "text": "使用後，身上的" }, { "hex": "0104" }, { "text": "麻痺" }, { "hex": "03" }, { "text": "就會解除！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7739b", "originalHex": "02b3a350181595b6011a2a91d050a398ae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 体から\n呪いが とけます！\n（1回きり！）",
+          "segments": [{ "text": "使用後，身上的" }, { "hex": "01" }, { "text": "詛咒就會解除！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x773b9", "originalHex": "02b3a35099bdb6bd95b601199ca0a494b7ae9c5c01895219de96b75c8a0f",
+          "source": "つかうと こんらんから\n立ちなおります！\n（1回きり！）",
+          "segments": [{ "text": "使用後，就能" }, { "hex": "01" }, { "text": "從混亂中恢復！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x773d8", "originalHex": "0909a901192cd0509cf596b7a39ba20199bdb6bd95b650199ca0a494f59f5c0f",
+          "source": "[角色]は\n頭が すっきりとして\nこんらんから 立ちなおった！",
+          "segments": [{ "hex": "0909" }, { "hex": "01" }, { "text": "頭腦清醒了，" }, { "hex": "01" }, { "text": "從混亂中恢復了！" }, { "hex": "0f" }]
+        },
+        {
+          "offset": "0x773f9", "originalHex": "02b3a350184098d0d0019fa0aea050a494b7ae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 大けがが\nたちまち なおります！\n（1回きり！）",
+          "segments": [{ "text": "使用後，重傷" }, { "hex": "01" }, { "text": "立刻痊癒！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77419", "originalHex": "1a97b0a3501815a850bbb891a399babc019ce1a25019de19df9bae9c5c01895b19de8a0f",
+          "source": "飲むと 体の わるいところを\nすべて 回復します！\n（？回）",
+          "segments": [{ "text": "喝下後，身上的異常" }, { "hex": "01" }, { "text": "全部恢復！" }, { "hex": "01895b" }, { "text": "次" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7743e", "originalHex": "09a9011acb1848a550a4f59f5c010f",
+          "source": "[角色]は\n元気に なった！\n",
+          "segments": [{ "hex": "09" }, { "hex": "01" }, { "text": "恢復精神了！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x7744e", "originalHex": "09bc011a97afa1979ba2509baef59f5c010f",
+          "source": "[道具]を\n飲みつくして しまった！\n",
+          "segments": [{ "hex": "09" }, { "hex": "01" }, { "text": "已經喝光了！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x77461", "originalHex": "18d1e1b8a3501842d0019c999b5019de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "食べると 技が\nすこし 回復します！\n（1回きり！）",
+          "segments": [{ "text": "食用後，技力" }, { "hex": "01" }, { "text": "會稍微回復！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77482", "originalHex": "979af5a291b8a8be019ca2b89b955090b7ae9dbd5c010f",
+          "source": "くさっているので\nすてるしか ありません！\n",
+          "segments": [{ "text": "已經腐敗了，" }, { "hex": "01" }, { "text": "只能丟掉！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x774c1", "originalHex": "09a901941a4fbc99bb9ba20118151816d0500a184bd0f59f5c",
+          "source": "[角色]は\nお腹をこわして\n体力が [數值]下がった！",
+          "segments": [{ "hex": "09" }, { "hex": "01" }, { "text": "吃壞了肚子，" }, { "hex": "01" }, { "text": "體力下降了" }, { "hex": "0a" }, { "text": "點！" }]
+        },
+        {
+          "offset": "0x774db", "originalHex": "19a119be1a31181c181da90119a118401a26bea498b9de0190a19593a4915c0f",
+          "source": "城修理道具は\n城大工でなければ\nあつかえない！",
+          "segments": [{ "text": "修城工具" }, { "hex": "01" }, { "text": "只有城堡木匠" }, { "hex": "01" }, { "text": "才能使用！" }, { "hex": "0f" }]
+        },
+        {
+          "offset": "0x774fc", "originalHex": "02b3a35019a1a81b7b1b0c1849d00154515119de19df9bae9c5c01895219de96b75c8a0f",
+          "source": "つかうと 城の耐久度が\n300回復します！\n（1回きり！）",
+          "segments": [{ "text": "使用後，城堡耐久度" }, { "hex": "01" }, { "text": "回復" }, { "hex": "545151" }, { "text": "點！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77521", "originalHex": "1a1c91be5002b3a35018dba801181b1a181a19bc50ab92d6ae9c5c01895219de96b75c8a0f",
+          "source": "戦いで つかうと 鬼の\n術攻撃を ふうじます！\n（1回きり！）",
+          "segments": [{ "text": "戰鬥中使用，可封住鬼的" }, { "hex": "01" }, { "text": "術法攻擊！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77547", "originalHex": "b2f5a291b9de50180eb304aeaa03bc92989fa3960118b2d0bbb7a550a4f5a297b9ae9c5c01895219de96b75c8a0f",
+          "source": "もっていれば 毒やマヒをうけたとき\n身がわりに なってくれます！\n（1回きり！）",
+          "segments": [{ "text": "帶在身上，中毒或" }, { "hex": "04" }, { "text": "麻痺" }, { "hex": "03" }, { "text": "時" }, { "hex": "01" }, { "text": "就會代你承受！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77576", "originalHex": "02d6a85018b2d0bbb7189c1ad4d0010909a501b39a9b9750959fb795989f5c0f0102c9d05018b2195cbbb7a5a4b7ae9bf8925c01090950d0bddeb8a8be9cb55c010f0118b2d0bbb7189c1ad4a95097da98a29baef59f5c0f",
+          "source": "身がわり地蔵が優しく語りかけ、身代わりになって砕ける。",
+          "segments": [{ "text": "背包裡的替身地藏" }, { "hex": "01" }, { "text": "向" }, { "hex": "090901" }, { "text": "溫柔地說道！" }, { "hex": "0f01" }, { "text": "讓我來替你承受吧！" }, { "hex": "010909" }, { "text": "，要加油喔！" }, { "hex": "010f01" }, { "text": "替身地藏碎裂了！" }, { "hex": "0f" }]
+        },
+        {
+          "offset": "0x775cf", "originalHex": "1a1c91be5002b3a35018dba80118db181cbc50ab92d6ae9c5c01895219de96b75c8a0f",
+          "source": "戦いで つかうと 鬼の\n鬼道を ふうじます！\n（1回きり！）",
+          "segments": [{ "text": "戰鬥中使用，可封住鬼的" }, { "hex": "01" }, { "text": "鬼道！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x775f3", "originalHex": "1a1c91be5002b3a35099b69bb19f90a3a501b2b693b8941803d050531a98a5a4b7ae9c5c01895219de96b75c8a0f",
+          "source": "戦いで つかうと こらしめたあとに\nもらえるお金が 2倍になります！\n（1回きり！）",
+          "segments": [{ "text": "戰鬥中使用，獲勝後" }, { "hex": "01" }, { "text": "獲得的金錢變為" }, { "hex": "53" }, { "text": "倍！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x77622", "originalHex": "18db9fa0d05019b519b6dd929bbe0102b319cda4a8be50b597bb95b6a4915c010f",
+          "source": "鬼たちが 仲間どうしで\nつかう物なので よくわからない！\n",
+          "segments": [{ "text": "這是鬼族同伴之間" }, { "hex": "01" }, { "text": "使用的東西，作用不明！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x77644", "originalHex": "1a1c91be5002b3a35018db95b6a8011a121a19bc501af21af350a9a795939bae9c5c01895219de96b75c8a0f",
+          "source": "戦いで つかうと 鬼からの\n打撃を 半分 はねかえします！\n（1回きり！）",
+          "segments": [{ "text": "戰鬥中使用，可將鬼的" }, { "hex": "01" }, { "text": "打擊反彈一半！" }, { "hex": "018952" }, { "text": "次限定！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x782d5", "originalHex": "b2f5a291b9de50194abc50adf5a2019c9cb099a3d050be96ae9c5c0189d7f5a35c8a0f",
+          "source": "もっていれば 土を ほって\nすすむことが できます！\n（ずっと！）",
+          "segments": [{ "text": "帶在身上就能挖土" }, { "hex": "01" }, { "text": "繼續前進！" }, { "hex": "0189" }, { "text": "永久！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7853d",
+          "originalHex": "95d2b3180a9aae95b650919fda919f011892a850187d19cdbe9c5c0189d7f5a35c8a0f",
+          "source": "かぐや姫さまから いただいた\n月の 宝物です！\n（ずっと！）",
+          "segments": [{ "text": "輝夜姬贈予的" }, { "hex": "01" }, { "text": "月之寶物！" }, { "hex": "0189" }, { "text": "永久！" }, { "hex": "8a0f" }]
+        },
+        {
+          "offset": "0x7874b", "originalHex": "9999bea950a19593ae9dbd5c0101",
+          "source": "ここでは つかえません！",
+          "segments": [{ "text": "這裡不能使用！" }, { "hex": "0101" }]
+        },
+        {
+          "offset": "0x7877d", "originalHex": "09a85018151816a90119e202b401",
+          "source": "[角色]の 体力は\n全回復した！\n",
+          "segments": [{ "hex": "09" }, { "text": "的體力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "01" }]
+        },
+        {
+          "offset": "0x7879a", "originalHex": "09a85018151816a90119e202b4010f",
+          "source": "[角色]の 体力は\n全回復した！\n",
+          "segments": [{ "hex": "09" }, { "text": "的體力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x787aa", "originalHex": "09a8501842a90119e202b4010f",
+          "source": "[角色]の 技は\n全回復した！\n",
+          "segments": [{ "hex": "09" }, { "text": "的技力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x787c5", "originalHex": "09a8501842a90119e202b4010f",
+          "source": "[角色]の 技は\n全回復した！\n",
+          "segments": [{ "hex": "09" }, { "text": "的技力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }]
+        },
+        {
+          "offset": "0x787f1", "originalHex": "09a85018151816a3501842a90119e202b4010f",
+          "source": "[角色]の 体力と 技は 全回復した！",
+          "segments": [{ "hex": "09" }, { "text": "的體力與技力" }, { "hex": "01" }, { "text": "全部回復了！" }, { "hex": "010f" }]
+        }
+      ]
+    }
+  ],
+  "inlineMenus": [
+    {
+      "name": "spell-actions",
+      "start": "0x1dbb9", "end": "0x1dbda", "target": "0x23d300",
+      "pointerOperand": "0x1db82", "bankOperand": "0x1db89", "originalBank": "81",
+      "alternatePointers": [{ "pointerOperand": "0x1db95", "bankOperand": "0x1db9c", "skip": 3 }],
+      "entries": [
+        { "offset": "0x1dbc2", "originalHex": "a19592", "source": "つかう", "translation": "使用", "padding": 1 },
+        { "offset": "0x1dbc8", "originalHex": "19d019d1", "source": "説明", "translation": "說明" },
+        { "offset": "0x1dbd3", "originalHex": "1a331a34", "source": "場所", "translation": "場所" }
+      ]
+    },
+    {
+      "name": "battle-spell-actions",
+      "start": "0x2eb90", "end": "0x2eba5", "target": "0x23d400",
+      "pointerOperand": "0x2eb75", "bankOperand": "0x2eb7c", "originalBank": "82",
+      "entries": [
+        { "offset": "0x2eb99", "originalHex": "a19592", "source": "つかう", "translation": "使用", "padding": 1 },
+        { "offset": "0x2eb9f", "originalHex": "19d019d1", "source": "説明", "translation": "說明" }
+      ]
+    },
+    {
+      "name": "chest-sizes",
+      "start": "0x3c51b", "end": "0x3c537", "target": "0x23d500",
+      "pointerOperand": "0x3c50c", "bankOperand": "0x3c513", "originalBank": "83",
+      "entries": [
+        { "offset": "0x3c524", "originalHex": "18409691a1dcb6", "source": "大きいつづら", "translation": "大藤箱", "padding": 3 },
+        { "offset": "0x3c52e", "originalHex": "184e9a91a1dcb6", "source": "小さいつづら", "translation": "小藤箱", "padding": 3 }
+      ]
+    },
+    {
+      "name": "battle-enemy-count",
+      "start": "0x2e3ed", "end": "0x2e4ea", "target": "0x23d100",
+      "pointerOperand": "0x2e3d2", "bankOperand": "0x2e3d9", "originalBank": "82",
+      "entries": [
+        { "offset": "0x2e41a", "originalHex": "aaa3b7", "source": "ひとり", "translation": "一人" },
+        { "offset": "0x2e449", "originalHex": "aaa3b7", "source": "ひとり", "translation": "一人" },
+        { "offset": "0x2e478", "originalHex": "aaa3b7", "source": "ひとり", "translation": "一人" },
+        { "offset": "0x2e4a8", "originalHex": "aaa3b7", "source": "ひとり", "translation": "一人" }
+      ]
+    },
+    {
+      "name": "shop-services", "start": "0x3be78", "end": "0x3beca", "target": "0x239000",
+      "pointerOperand": "0x3be69", "bankOperand": "0x3be70", "originalBank": "83",
+      "entries": [
+        { "offset": "0x3be81", "originalHex": "19ca92", "source": "買う", "translation": "購買" },
+        { "offset": "0x3be8b", "originalHex": "19c4b8", "source": "売る", "translation": "出售" },
+        { "offset": "0x3be9b", "originalHex": "184b19adb7", "source": "下取り", "translation": "折價換購" },
+        { "offset": "0x3bebe", "originalHex": "19d019d1", "source": "説明", "translation": "說明" },
+        { "offset": "0x3bec5", "originalHex": "b3b1b8", "source": "やめる", "translation": "取消" }
+      ]
+    },
+    {
+      "name": "doctor-services", "start": "0x3c39c", "end": "0x3c3cb", "target": "0x23a000",
+      "pointerOperand": "0x3c38d", "bankOperand": "0x3c394", "originalBank": "83",
+      "entries": [
+        { "offset": "0x3c3a5", "originalHex": "180ebc1acf9c", "source": "毒を消す", "translation": "解毒" },
+        { "offset": "0x3c3ae", "originalHex": "04aeaa03bca4949c", "source": "マヒをなおす", "translation": "解除麻痺" },
+        { "offset": "0x3c3b9", "originalHex": "184098d0", "source": "大けが", "translation": "治療重傷" },
+        { "offset": "0x3c3c0", "originalHex": "d8bde0", "source": "ぜんぶ", "translation": "全部治療" },
+        { "offset": "0x3c3c6", "originalHex": "b3b1b8", "source": "やめる", "translation": "取消" }
+      ]
+    },
+    {
+      "name": "fortune-services", "start": "0x3cb94", "end": "0x3cbb0", "target": "0x23b000",
+      "pointerOperand": "0x3cb85", "bankOperand": "0x3cb8c", "originalBank": "83",
+      "entries": [
+        { "offset": "0x3cb9d", "originalHex": "99a8909fb7a818db", "source": "このあたりの鬼", "translation": "附近敵情" },
+        { "offset": "0x3cba8", "originalHex": "184718481849", "source": "人気度", "translation": "人氣" }
+      ]
+    },
+    {
+      "name": "shrine-services", "start": "0x3cbcc", "end": "0x3cbeb", "target": "0x23c000",
+      "pointerOperand": "0x3cbbd", "bankOperand": "0x3cbc4", "originalBank": "83",
+      "entries": [
+        { "offset": "0x3cbd5", "originalHex": "199ba8181a", "source": "旅の話", "translation": "記錄旅程" },
+        { "offset": "0x3cbdd", "originalHex": "94a9b6919cb8", "source": "おはらいする", "translation": "祓除詛咒" },
+        { "offset": "0x3cbe6", "originalHex": "b3b1b8", "source": "やめる", "translation": "取消" }
+      ]
+    },
+    {
+      "name": "yes-no", "start": "0x5bb17", "end": "0x5bb2a", "target": "0x23d000",
+      "pointerOperand": "0x5bad7", "bankOperand": "0x5bade", "originalBank": "85",
+      "alternatePointers": [{ "pointerOperand": "0x5bae6", "bankOperand": "0x5baed", "skip": 1 }],
+      "entries": [
+        { "offset": "0x5bb1a", "originalHex": "a991", "source": "はい", "translation": "是" },
+        { "offset": "0x5bb1f", "originalHex": "919193", "source": "いいえ", "translation": "否" }
+      ]
+    },
+    {
+      "name": "field-menu-compact",
+      "start": "0x1ef1e", "end": "0x1ef76", "target": "0x230000",
+      "pointerOperand": "0x1eef2", "bankOperand": "0x1eef9",
+      "entries": [
+        { "offset": "0x1ef23", "originalHex": "181a9c", "source": "話す", "translation": "交談" },
+        { "offset": "0x1ef2a", "originalHex": "181c181d", "source": "道具", "translation": "道具" },
+        { "offset": "0x1ef31", "originalHex": "181b", "source": "術", "translation": "術" },
+        { "offset": "0x1ef38", "originalHex": "181f1820", "source": "装備", "translation": "裝備" },
+        { "offset": "0x1ef3f", "originalHex": "180f9a", "source": "強さ", "translation": "能力" },
+        { "offset": "0x1ef49", "originalHex": "18211822", "source": "命令", "translation": "命令" },
+        { "offset": "0x1ef51", "originalHex": "181ee1b8", "source": "調べる", "translation": "調查", "padding": 1 },
+        { "offset": "0x1ef57", "originalHex": "186d1b2f", "source": "特別", "translation": "特別" }
+      ]
+    },
+    {
+      "name": "field-menu-expanded",
+      "start": "0x1ef76", "end": "0x1effc", "target": "0x231000",
+      "pointerOperand": "0x1ef05", "bankOperand": "0x1ef0c",
+      "entries": [
+        { "offset": "0x1ef80", "originalHex": "181a9c", "source": "話す", "translation": "交談" },
+        { "offset": "0x1ef8e", "originalHex": "181c181d", "source": "道具", "translation": "道具" },
+        { "offset": "0x1ef95", "originalHex": "180f9a", "source": "強さ", "translation": "能力" },
+        { "offset": "0x1ef9b", "originalHex": "181ee1b8", "source": "調べる", "translation": "調查", "padding": 1 },
+        { "offset": "0x1efad", "originalHex": "181b", "source": "術", "translation": "術" },
+        { "offset": "0x1efb3", "originalHex": "181f1820", "source": "装備", "translation": "裝備" },
+        { "offset": "0x1efbd", "originalHex": "18211822", "source": "命令", "translation": "命令" },
+        { "offset": "0x1efcb", "originalHex": "186d1b2f", "source": "特別", "translation": "特別" }
+      ]
+    },
+    {
+      "name": "special-menu",
+      "start": "0x1f096", "end": "0x1f0cf", "target": "0x232000",
+      "pointerOperand": "0x1f088", "bankOperand": "0x1f08f",
+      "entries": [
+        { "offset": "0x1f09c", "originalHex": "9db7ab", "source": "セリフ", "translation": "語速" },
+        { "offset": "0x1f0a3", "originalHex": "1a16195f", "source": "順番", "translation": "隊列" },
+        { "offset": "0x1f0ad", "originalHex": "1a11af", "source": "歩み", "translation": "步行" },
+        { "offset": "0x1f0b3", "originalHex": "aa93bd", "source": "ひえん", "translation": "飛行" },
+        { "offset": "0x1f0b9", "originalHex": "19851860", "source": "音楽", "translation": "音樂" }
+      ]
+    },
+    {
+      "name": "walking-speed",
+      "start": "0x1f0eb", "end": "0x1f115", "target": "0x233000",
+      "pointerOperand": "0x1f0dd", "bankOperand": "0x1f0e4",
+      "entries": [
+        { "offset": "0x1f0fb", "originalHex": "1a1197a9b39a", "source": "歩くはやさ", "translation": "步行速度" },
+        { "offset": "0x1f106", "originalHex": "a9b391", "source": "はやい", "translation": "快速" },
+        { "offset": "0x1f10b", "originalHex": "aba192", "source": "ふつう", "translation": "普通" },
+        { "offset": "0x1f110", "originalHex": "949e91", "source": "おそい", "translation": "慢速" }
+      ]
+    },
+    {
+      "name": "flight-speed",
+      "start": "0x1f157", "end": "0x1f188", "target": "0x234000",
+      "pointerOperand": "0x1f149", "bankOperand": "0x1f150",
+      "entries": [
+        { "offset": "0x1f168", "originalHex": "aa93bda8a9b39a", "source": "ひえんのはやさ", "translation": "飛行速度" },
+        { "offset": "0x1f174", "originalHex": "adbd96", "source": "ほんき", "translation": "極速" },
+        { "offset": "0x1f179", "originalHex": "a9b391", "source": "はやい", "translation": "快速", "padding": 1 },
+        { "offset": "0x1f17e", "originalHex": "aba192", "source": "ふつう", "translation": "普通", "padding": 1 },
+        { "offset": "0x1f183", "originalHex": "949e91", "source": "おそい", "translation": "慢速" }
+      ]
+    },
+    {
+      "name": "speech-speed",
+      "start": "0x1f1aa", "end": "0x1f1de", "target": "0x235000",
+      "pointerOperand": "0x1f19c", "bankOperand": "0x1f1a3",
+      "entries": [
+        { "offset": "0x1f1bd", "originalHex": "9db7ab", "source": "セリフ", "translation": "訊息" },
+        { "offset": "0x1f1c1", "originalHex": "a8a9b39a", "source": "のはやさ", "translation": "速度" },
+        { "offset": "0x1f1ca", "originalHex": "adbd96", "source": "ほんき", "translation": "極速" },
+        { "offset": "0x1f1cf", "originalHex": "a9b391", "source": "はやい", "translation": "快速", "padding": 1 },
+        { "offset": "0x1f1d4", "originalHex": "aba192", "source": "ふつう", "translation": "普通", "padding": 1 },
+        { "offset": "0x1f1d9", "originalHex": "949e91", "source": "おそい", "translation": "慢速" }
+      ]
+    },
+    {
+      "name": "audio-mode",
+      "start": "0x1f201", "end": "0x1f21e", "target": "0x236000",
+      "pointerOperand": "0x1f1f3", "bankOperand": "0x1f1fa",
+      "entries": [
+        { "offset": "0x1f20e", "originalHex": "9ca2b994", "source": "ステレオ", "translation": "立體聲" },
+        { "offset": "0x1f217", "originalHex": "b2a8b6b8", "source": "モノラル", "translation": "單聲道" }
+      ]
+    },
+    {
+      "name": "ability-status",
+      "start": "0x5bfc2", "end": "0x5c0ea", "target": "0x237000",
+      "pointerOperand": "0x5bfb3", "bankOperand": "0x5bfba", "originalBank": "85",
+      "entries": [
+        { "offset": "0x5bfed", "originalHex": "1817a81947", "source": "心の数", "translation": "心值", "padding": 1 },
+        { "offset": "0x5bffe", "originalHex": "1815505050", "source": "体", "translation": "體力", "padding": 2 },
+        { "offset": "0x5c010", "originalHex": "1842505050", "source": "技", "translation": "技力", "padding": 2 },
+        { "offset": "0x5c022", "originalHex": "1a181a191816", "source": "攻撃力", "translation": "攻擊力" },
+        { "offset": "0x5c034", "originalHex": "1a1b18201816", "source": "守備力", "translation": "防禦力" },
+        { "offset": "0x5c046", "originalHex": "a9b39a", "source": "はやさ", "translation": "速度", "padding": 1 }
+      ]
+    },
+    {
+      "name": "item-actions",
+      "start": "0x3a4b5", "end": "0x3a4db", "target": "0x238000",
+      "pointerOperand": "0x3a48a", "bankOperand": "0x3a491", "originalBank": "83",
+      "alternatePointers": [{ "pointerOperand": "0x3a49c", "bankOperand": "0x3a4a3", "skip": 3 }],
+      "entries": [
+        { "offset": "0x3a4be", "originalHex": "a19592", "source": "つかう", "translation": "使用", "padding": 1 },
+        { "offset": "0x3a4c4", "originalHex": "19d019d1", "source": "説明", "translation": "說明" },
+        { "offset": "0x3a4cf", "originalHex": "bb9f9c", "source": "わたす", "translation": "交付", "padding": 1 },
+        { "offset": "0x3a4d5", "originalHex": "9ca2b8", "source": "すてる", "translation": "丟棄", "padding": 1 }
+      ]
+    }
+  ]
+}

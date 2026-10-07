@@ -1,0 +1,2912 @@
+{
+  "targetSha256": "0fdde8d9e933bf8c56c842fdefc35b64418b567844d50c830493a09de317d86e",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "netarou-village",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "積雪深得能埋住房屋": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "冰之塔的醜女": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "躲進洞裡": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "禿頭": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 2,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "遇到下雪會流失體力": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請多照顧他": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 3,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "村子恢復原狀": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "防雪準備": {
+          "frame": "frame-1320.ppm",
+          "x": 116,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 4,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一起打雪仗": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "重要工作": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "男子漢之間的約定": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 6,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最討厭冷天": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "溫暖的國家": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人心比南國還溫暖": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 8,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "橋頭那裡": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "還在睡覺": {
+          "frame": "frame-1320.ppm",
+          "x": 92,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雪球越滾越大": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風聲就會改變": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "像桃子一樣溫柔的風": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 12,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "暴風雪中喪命": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "艱辛的旅途": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "旅行見聞": {
+          "frame": "frame-1140.ppm",
+          "x": 116,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "徹底改過自新": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "守護神": {
+          "frame": "frame-1200.ppm",
+          "x": 116,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 15,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "微笑村": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "用言語逗人笑": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 16,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "非得鏟雪": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "好收成": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 17,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "手受傷了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "冷笑話大會": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 18,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎先生": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "老爺爺": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 19,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "唔喵唔喵": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 20,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "冰室袋裡取出": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "冰室刨冰": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "眼睛上": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 21,
+      "frames": 4200,
+      "changedFrames": 53,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "好冰": {
+          "frame": "frame-1260.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "晚": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "唔喵唔喵": {
+          "frame": "frame-1200.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎又": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "睡著了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 24,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "冰室袋裡取出": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "冰室刨冰": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "眼睛上": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 25,
+      "frames": 4200,
+      "changedFrames": 53,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "好冰": {
+          "frame": "frame-1260.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 26,
+      "frames": 12600,
+      "changedFrames": 190,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "天上掉冰柱": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "擋住大家過橋": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "對": {
+          "frame": "frame-2520.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "唔喵唔喵": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-village",
+      "firstIndex": 28,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寢太郎又": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "睡著了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "疏於向仙人修行": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "金太郎村東北方": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "解毒仙人庵": {
+          "frame": "frame-1380.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "正等著您": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "戒掉最愛的將棋": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "鹿角之術": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 2,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "梅木杖": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "不可思議的力量": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "梅花真香": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "跑哪去了": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "白蝴蝶翩翩飛舞": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "老頭子": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "梅樹很漂亮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "驅除邪氣": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rokkaku-village",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "討些梅乾": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "對身體很好": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 0,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族設下的陷阱": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "三個人與三隻夥伴": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "平安穿越大江山": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "通往二樓": {
+          "frame": "frame-1980.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只能幫到這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "保佑你們平安": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 2,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "尚未完成的事情": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "切莫心急": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "再回到這裡": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 3,
+      "frames": 23400,
+      "changedFrames": 374,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "當作敵人對待": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "連小孩都會玩": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就會出現新的樓梯": {
+          "frame": "frame-2460.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "配對文字": {
+          "frame": "frame-3000.ppm",
+          "x": 128,
+          "y": 112
+        },
+        "翻開兩塊石板": {
+          "frame": "frame-3240.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "還想再聽一次": {
+          "frame": "frame-3660.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 4,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我們之間的較量": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "愚蠢的生物": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還在逞強": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "都不會告訴你": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 6,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了石板": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "配對相同的文字": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "消除所有石板": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 7,
+      "frames": 11400,
+      "changedFrames": 174,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "小試身手": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "龍勝虎": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 88
+        },
+        "虎勝龜": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "龜勝龍": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "還想知道更多": {
+          "frame": "frame-2280.ppm",
+          "x": 44,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "誰要告訴你": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乖乖回答想知道": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 10,
+      "frames": 13800,
+      "changedFrames": 214,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍為水": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "龜為風": {
+          "frame": "frame-1560.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "火能喚起風": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "風能聚集水": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "逐一移動藍色石板": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 24,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "交給了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 25,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪汪": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是太好吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪汪": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "剛才吃得好滿足": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱吱": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是太好吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 28,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱吱": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "剛才吃得好滿足": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 29,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啾啾": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是太好吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 30,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啾啾": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "剛才吃得好滿足": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 31,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好吃得快融化了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 32,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好吃得停不下來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 33,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滋味真是高雅極了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 34,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "剛才給誰了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 35,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "提升了一點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "變為": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 36,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "學會了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 37,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "已達到最高值": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "無法再提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 38,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "能長大到今天": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "一直細心養育": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "賜給你吧": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 39,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "已經無法再提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 40,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "並沒有帶": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "同行": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 41,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣低於三十": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "已經不肯吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 42,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣低於三十": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "不肯聽從指示了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 43,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生的壞話": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "不想聽你的命令": {
+          "frame": "frame-1200.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 44,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "充滿愛與勇氣": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "跑到哪裡去了": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 45,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最近是不是忘了": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "討伐惡鬼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 123,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有潛伏的鬼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 124,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗅嗅嗅": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "埋著什麼東西": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "挖開了腳邊": {
+          "frame": "frame-1680.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 125,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "地下竟埋著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 126,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗅嗅嗅": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 127,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有埋任何東西": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 128,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "請看這個": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 129,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "實在太危險": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 130,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "游個泳": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 131,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不能游泳": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 132,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "做個記號": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 133,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘩": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 134,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "會不好意思": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 135,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "太危險": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 136,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "讓我去撿": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 137,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "重要的東西": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "丟出去": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 138,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "丟了出去": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 139,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拚命找過": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "還是找不到": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 140,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "撿回來了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 141,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "撿回來了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "咦": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 142,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "可以探索的地方": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 143,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "去探索": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 144,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "挖這裡": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 145,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "往西": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 146,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "往東": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 147,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "往北": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "步的地方": {
+          "frame": "frame-1080.ppm",
+          "x": 78,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 148,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "往南": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "步的地方": {
+          "frame": "frame-1080.ppm",
+          "x": 78,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 149,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "似乎埋著什麼東西": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 150,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "挖這裡": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "沒有埋任何東西": {
+          "frame": "frame-1320.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 151,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "請看這個": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 152,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "太危險": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 153,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "找點東西回來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "尋找東西去了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 154,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "找回來了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 155,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "到處都找過": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "什麼也沒找到": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 156,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夥伴們叫來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "背著籃子": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "順利逃到了外面": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 157,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我的夥伴": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 158,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "去偵察": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 159,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有必要偵察": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 160,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "目前持有": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "要到幾兩時通知你": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 161,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我就通知你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 162,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你現在已經有": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "在身上了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 163,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "去請大夫過來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "振翅飛走了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 164,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我把大夫請來了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 165,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那我就送大夫": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 166,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "帶著大夫": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "振翅飛走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 167,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "送回去了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 168,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查寶箱的數量": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 169,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這裡的寶箱": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 170,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我知道了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "尚未打開": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 171,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我知道了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "似乎已經全部": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 172,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "看看前面的情況": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 173,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "看不到前面的情況": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 174,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒辦法出門跑腿": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 175,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要去哪裡買": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 176,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要到哪間店": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 177,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要買什麼回來": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 178,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對吧": {
+          "frame": "frame-1020.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 179,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "錢都不夠了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "跟老闆殺價": {
+          "frame": "frame-1440.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 180,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "去跑腿了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "出門跑腿去了": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 181,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還要買其他東西": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 182,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我買完東西回來了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 183,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從空中看看": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 184,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒辦法瞭望": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 185,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力下降三點": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "防禦力下降二點": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "速度下降三點": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 186,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復原狀了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 187,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力下降二點": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "防禦力下降十點": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "速度下降二點": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 188,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復原狀了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 189,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吃了一個黍糰": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 190,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有帶黍糰": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 191,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雉雞": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "剩下的是這些": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 61,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的人氣提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 62,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣達到一百": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "崑崙之玉": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "不能再提升": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 63,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "超過八十": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "好事發生": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的人氣下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 65,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "降到三十以下": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "快去做好事": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 66,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的人氣變為": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 76,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "狗兒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入了隊伍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 77,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猴子": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入了隊伍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 78,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雉雞": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入了隊伍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 122,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "有了夥伴": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "防禦力提升了": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "速度提升了": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 53,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "進入了絕佳狀態": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 67,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發現背包": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        },
+        "已經裝滿了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 68,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要丟棄背包裡的道具嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 69,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要丟棄誰的背包裡的道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 70,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "放棄了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 71,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不能丟棄": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 72,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "丟棄了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "得到了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 73,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "得到了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 74,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要丟棄": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "確定嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 0,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "升到了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力變為": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "升到了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "技力變為": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "防禦力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "速度提升了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 56,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了眼前": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "field-messages",
+    "netarou-village",
+    "ooeyama-puzzles",
+    "rokkaku-village"
+  ]
+}

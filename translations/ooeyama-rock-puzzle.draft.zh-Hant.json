@@ -1,0 +1,20 @@
+{
+  "pointerOffset": "0x701e0",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ooeyama-rock-puzzle",
+  "target": "0x2cc000",
+  "decodedBytes": 321,
+  "complete": true,
+  "status": "native-verified-v42",
+  "reviewNotes": [
+    "All five original glyph renderings reviewed. Preserve floor four, five remaining puzzles, blue rocks, and horizontal movement.",
+    "Integrated for v42; all five synthetic native scenes passed exact word pixels and original relocation comparison. Natural puzzle-route interaction remains unverified."
+  ],
+  "records": {
+    "0": "迦樓羅\n「嘿嘿嘿！\n來到四樓了啊！」\n「獎勵你一個好消息！\n謎題還剩下\n五題呢！很開心吧？」\n「這一層的謎題，\n就是移動岩石，\n造出一條路！」\n「怎麼樣，看起來很有趣吧？」\n\n",
+    "1": "「嘿嘿嘿！\n沒錯！就是這樣！\n本大爺可開心得很呢！」",
+    "2": "「這樣啊，那麼，\n就讓你好好享受吧！」\n",
+    "3": "迦樓羅\n「嘿嘿嘿！\n好玩的還在後頭呢！」",
+    "4": "[02a0]調查了石板！\n\n\n[02a0]讀起石板！\n\n\n將青色岩石左右滑動，\n開闢自己前進的道路！\n"
+  }
+}

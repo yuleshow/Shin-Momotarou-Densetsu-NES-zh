@@ -1,0 +1,11 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "343ae58c99a120fad5114693d42abfcebdee044618d0a9cb4ccf8a3028aef522",
+  "originalTraceSha256": "aece22af88de1f28695dd15f1fc33acd124db1555d284c34b2f879b74ef7ddfc",
+  "translatedTraceSha256": "e1da648c447b52d597d4b9219105c4b8d9d8f7769b2aea95ab2cbfbf889d7b95",
+  "followingRuntimeBytesIdentical": 179,
+  "originalRuntimeBytes": 457,
+  "translatedRuntimeBytes": 514,
+  "allCapturedOutputsMatchDecodedRom": true,
+  "visualTimingIdentical": false
+}

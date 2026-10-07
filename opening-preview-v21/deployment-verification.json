@@ -1,0 +1,105 @@
+{
+  "version": "v21",
+  "status": "deployed-readback-verified-screenshots-removed",
+  "installedAt": "2026-10-01T05:13:54.349Z",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "previousSha256": "7d4ec0ad7ae3ab3071c9e0424e48cc118b52e96276e3c2a06d9f327dcb4c3158",
+  "targetSha256": "413ed9d937a94a9783e31caa0efb33c0c818f723f5f673a011ba3b3d2eea504f",
+  "fullReadbackVerified": true,
+  "readbackBytes": 4194304,
+  "screenshotBackupDirectory": "/var/folders/rc/016sqsys46q6f9p4mn0tp34c0000gn/T/momotaro-screenshots-pre-v21-XxcsP8",
+  "backedUpScreenshots": [
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-201941.png",
+      "sha256": "8019024a6f46552c8e0c4ef8545f3470c042f2bb14f5fc778a9e90dd4368a667",
+      "bytes": 75747
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203704.png",
+      "sha256": "338fc3816a34e919cb78da0ecad3580c3c445fca024966167d06917c1d2a6c64",
+      "bytes": 82974
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203745.png",
+      "sha256": "5a416bb50c7cfc8e1128a66d92045ba16a141ae94002e85bf4c97c04c5da01ec",
+      "bytes": 63567
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203828.png",
+      "sha256": "bd3baaa42420eadfce2d7723ffb91a2df613ba49a60a91b5675b6137f1bc7fc3",
+      "bytes": 62627
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203845.png",
+      "sha256": "b56689b7ba802ef23c6d02410a6f015db603bd6bcc9d65b2e8a86b9540c3500c",
+      "bytes": 62441
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203918.png",
+      "sha256": "e8523be87a39d1a097bee0ceb9ff4d03ca777311ef52f79fdf97a62116d5788b",
+      "bytes": 58287
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-204735.png",
+      "sha256": "47ba2135980d408c0473da576dca697203b162e4ef421e356f92b1504a5f28e0",
+      "bytes": 60800
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-204738.png",
+      "sha256": "88d700bb25521a0db9a43fe236c18b7bf6bdf221634ff9d54b5894d7c2dcac4e",
+      "bytes": 68759
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-204831.png",
+      "sha256": "b6644895eb234b474e90ac839410c1effcae0a787d306f6a63c3fe410092a03f",
+      "bytes": 58817
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210337.png",
+      "sha256": "a00c3f85f598be4635e06c46d2b8d1aa96b06d25a3944b73064a88361530a1fd",
+      "bytes": 80262
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210525.png",
+      "sha256": "0d00d74d58a9b5d9ded985f5fcf331da2e4878553ac12f71fb7b24700f668b29",
+      "bytes": 87432
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210637.png",
+      "sha256": "1ef0030028d627fae22c0447488e8e5e4f2f3f6912e05147f5deacbcfc0ef2ef",
+      "bytes": 64531
+    },
+    {
+      "name": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210646.png",
+      "sha256": "a4b3dc15e3a9ed1b14bb05cda0747e65a88937e3f66668188c16b819b4068acd",
+      "bytes": 64618
+    }
+  ],
+  "deletedScreenshots": [
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-201941.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-203704.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-203745.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-203828.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-203845.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-203918.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-204735.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-204738.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-204831.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-210337.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-210525.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-210637.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-210646.png"
+  ],
+  "screenshotsDeleted": 13,
+  "savesWrittenOrRestored": false,
+  "physicalDeviceBootVerified": false,
+  "remainingRelatedScreenshots": [],
+  "unrelatedScreenshotEntryCount": 200,
+  "unrelatedScreenshotEntriesUnchanged": true,
+  "changedSaves": [],
+  "unchangedSaveFiles": 39,
+  "saveEntriesUnchanged": true,
+  "relatedRomCount": 1,
+  "finalDeviceSha256": "413ed9d937a94a9783e31caa0efb33c0c818f723f5f673a011ba3b3d2eea504f",
+  "completedAt": "2026-10-01T05:13:55.772Z"
+}

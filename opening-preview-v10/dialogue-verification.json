@@ -1,0 +1,323 @@
+{
+  "targetSha256": "0f1bc7c0bd20c38f4991bef73b06d2108dcaaa5c6262d6dccce8babbab13392e",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "moon-challenge-dialogue",
+      "firstIndex": 0,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "鬼神": {
+          "frame": "frame-2040.ppm",
+          "x": 134,
+          "y": 96
+        },
+        "達伊達": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "輝夜姬": {
+          "frame": "frame-4620.ppm",
+          "x": 58,
+          "y": 152
+        },
+        "鳳凰": {
+          "frame": "frame-12120.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "awakening-dialogue",
+      "firstIndex": 0,
+      "frames": 12000,
+      "changedFrames": 184,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "奶奶": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "振作一點": {
+          "frame": "frame-1140.ppm",
+          "x": 98,
+          "y": 96
+        },
+        "爺爺": {
+          "frame": "frame-1680.ppm",
+          "x": 64,
+          "y": 152
+        },
+        "銀次": {
+          "frame": "frame-3540.ppm",
+          "x": 40,
+          "y": 152
+        },
+        "天之仙人": {
+          "frame": "frame-6420.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "愛與勇氣": {
+          "frame": "frame-8520.ppm",
+          "x": 134,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-challenge-dialogue",
+      "firstIndex": 13,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "靜村": {
+          "frame": "frame-3060.ppm",
+          "x": 16,
+          "y": 168
+        },
+        "夢村": {
+          "frame": "frame-3060.ppm",
+          "x": 76,
+          "y": 168
+        },
+        "珍寶": {
+          "frame": "frame-3660.ppm",
+          "x": 76,
+          "y": 184
+        },
+        "龍宮城": {
+          "frame": "frame-4440.ppm",
+          "x": 16,
+          "y": 168
+        },
+        "乙姬": {
+          "frame": "frame-4440.ppm",
+          "x": 64,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "awakening-dialogue",
+      "firstIndex": 12,
+      "frames": 14400,
+      "changedFrames": 223,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "愛與勇氣": {
+          "frame": "frame-1140.ppm",
+          "x": 110,
+          "y": 96
+        },
+        "旅途中": {
+          "frame": "frame-3180.ppm",
+          "x": 52,
+          "y": 184
+        },
+        "銀次加入了隊伍": {
+          "frame": "frame-4620.ppm",
+          "x": 16,
+          "y": 176
+        },
+        "三天": {
+          "frame": "frame-6480.ppm",
+          "x": 82,
+          "y": 168
+        },
+        "平安無事": {
+          "frame": "frame-7200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 225,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吸走了": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "達伊達": {
+          "frame": "frame-2520.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "擊飛了": {
+          "frame": "frame-3300.ppm",
+          "x": 28,
+          "y": 168
+        },
+        "阿闍世": {
+          "frame": "frame-6720.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "夜叉姬": {
+          "frame": "frame-7560.ppm",
+          "x": 16,
+          "y": 152
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 236,
+      "frames": 7800,
+      "changedFrames": 114,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "閻魔大人": {
+          "frame": "frame-1920.ppm",
+          "x": 38,
+          "y": 112
+        },
+        "同伴關係": {
+          "frame": "frame-2700.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 126,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "羅生門": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "同伴的力量": {
+          "frame": "frame-3240.ppm",
+          "x": 52,
+          "y": 184
+        },
+        "蘆葦": {
+          "frame": "frame-3840.ppm",
+          "x": 100,
+          "y": 184
+        },
+        "真正的強大": {
+          "frame": "frame-7380.ppm",
+          "x": 98,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 138,
+      "frames": 12000,
+      "changedFrames": 184,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "左魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "身為鬼的尊嚴": {
+          "frame": "frame-6300.ppm",
+          "x": 28,
+          "y": 184
+        },
+        "永世長存": {
+          "frame": "frame-6720.ppm",
+          "x": 40,
+          "y": 184
+        },
+        "月亮之王": {
+          "frame": "frame-6900.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "地獄之王": {
+          "frame": "frame-7260.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "大地之王": {
+          "frame": "frame-8340.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "天上之王": {
+          "frame": "frame-8580.ppm",
+          "x": 70,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 152,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腳越來越硬": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "村民的聲音": {
+          "frame": "frame-1740.ppm",
+          "x": 82,
+          "y": 168
+        },
+        "強烈的怨恨": {
+          "frame": "frame-1800.ppm",
+          "x": 64,
+          "y": 184
+        },
+        "達伊達": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 184
+        },
+        "別再叫了": {
+          "frame": "frame-2760.ppm",
+          "x": 16,
+          "y": 184
+        }
+      }
+    }
+  ]
+}

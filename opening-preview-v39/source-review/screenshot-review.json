@@ -1,0 +1,361 @@
+[
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-233344.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-233344.png",
+    "sha256": "ad7ee24589b1dc24361d253c795201f33c3dc88086a030bb75f00f97815d8582",
+    "name": null,
+    "index": null,
+    "status": "reviewed-no-dialogue-temple-plaque",
+    "residual": null
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234315.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234315.png",
+    "sha256": "2fe1f2463a4c4bab43a7ed1d5ab9c9cca2687aa56d9fa90af457cfe412f5ad05",
+    "name": "village-rescue-rumors",
+    "index": 3,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234323.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234323.png",
+    "sha256": "0b5375578cc0a33aa445dd1c05ba691ee4071e5094d39156e57ddebe595c24e5",
+    "name": "village-rescue-rumors",
+    "index": 3,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234333.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234333.png",
+    "sha256": "b32ef650e10397f67d936320bd25c4c1f131db10e368cb4105c0c2dc5ed5479d",
+    "name": "village-rescue-rumors",
+    "index": 3,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234950.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234950.png",
+    "sha256": "dab6a19fe657214c0b2abdc334d65e39d6fca0f8c73279b7e932d59d1ccf9f13",
+    "name": "village-rescue-rumors",
+    "index": 3,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234342.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234342.png",
+    "sha256": "dccabf19d65479e0e558c3fa9cfccdfc53c53bf86cb397a0d610768ad170ebaa",
+    "name": "village-rescue-rumors",
+    "index": 2,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234349.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234349.png",
+    "sha256": "c468f87c621aef9d3b7e3f18839fa1be9e98c575f3158e2fec2edf3bd8179660",
+    "name": "village-rescue-rumors",
+    "index": 2,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234355.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234355.png",
+    "sha256": "323af20f4f262e9d517850c8778d5534918f2f50d70cab631e8fe257ed133401",
+    "name": "village-rescue-rumors",
+    "index": 2,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234402.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234402.png",
+    "sha256": "e9775d640e4d90574b8c8c403807795d5a75b9ce35ca05c3afa731c49675c37d",
+    "name": "village-rescue-rumors",
+    "index": 2,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234406.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234406.png",
+    "sha256": "5cac6f829815755082eb544b35f4fb7bbe86025437ca0d824d2ddf210acd6f03",
+    "name": "village-rescue-rumors",
+    "index": 2,
+    "pointerOffset": "0x70126",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234718.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234718.png",
+    "sha256": "0c0bcbf67685d874b11fa3792d3855d0e5b01edf0c7d28280627fe75958c56fb",
+    "name": "village-cough-remedy",
+    "index": 6,
+    "pointerOffset": "0x70123",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-234726.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261001-234726.png",
+    "sha256": "93630ce5bb726f40a216d59258fc3ec7a4a6ff05bb93dd0152b3579c2923de43",
+    "name": "village-cough-remedy",
+    "index": 2,
+    "pointerOffset": "0x70123",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002142.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002142.png",
+    "sha256": "0e1cf832beb29f785f6d9abf56d6562e337a2924ca10a3268ca04d639ffa41ce",
+    "name": "waterfall-confrontation",
+    "index": 0,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002147.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002147.png",
+    "sha256": "9addfd8dee1946049b20aa8633a8b769892f04d892645ffa1b84aaaf71661799",
+    "name": "waterfall-confrontation",
+    "index": 0,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002153.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002153.png",
+    "sha256": "942b399516d7c65a648e21207d028a81947d2b5729e405a53690e4dc03fdf87d",
+    "name": "waterfall-confrontation",
+    "index": 0,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002210.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002210.png",
+    "sha256": "7145e5ff29bf9076b128105b8eb62653b0d8fe4d2d95d3c6c45d167c73de71a0",
+    "name": "waterfall-confrontation",
+    "index": 2,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002218.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002218.png",
+    "sha256": "d924adb14573262fd04dcee1edc8d26d58780078fb1b5895d51ff0062747107f",
+    "name": "waterfall-confrontation",
+    "index": 1,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002223.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002223.png",
+    "sha256": "3817c32fc40c9661dccb4dd844bf4ac67214ad259f3092fdc65acd23903a5310",
+    "name": "waterfall-confrontation",
+    "index": 7,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002229.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002229.png",
+    "sha256": "87921cdb1e7c5fcfb67117b442636e2b76b8836be43aa995e0172bf79af82ef0",
+    "name": "waterfall-confrontation",
+    "index": 8,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002235.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002235.png",
+    "sha256": "ba87aef861a9207731072b90adb06f8c9766e45598241cc7b3fb42bff33619ea",
+    "name": "waterfall-confrontation",
+    "index": 8,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002241.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002241.png",
+    "sha256": "ce90b2201afdebc7a66db29e304ccdc3558077c8409c934e9bf1fb72ca75544d",
+    "name": "waterfall-confrontation",
+    "index": 11,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002246.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002246.png",
+    "sha256": "69a7f67fe6c0a76c72dd98ef798e64a99ef5393a5fff45c0c208d43e1da29e3a",
+    "name": "waterfall-confrontation",
+    "index": 12,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002252.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002252.png",
+    "sha256": "9960974524a9b855654e00f5b5d1e866fa15f3c725e38160b2df9efc15242233",
+    "name": "waterfall-confrontation",
+    "index": 9,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002257.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002257.png",
+    "sha256": "b60ab6cbe85df2fff3c24dac9187d7766a801f0bcf24bc593abed0792b019af6",
+    "name": "waterfall-confrontation",
+    "index": 9,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002311.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002311.png",
+    "sha256": "5ef95fcff11fb3760a3e2027e07cd617658a508b51d15549fb0bcfd9fda7ac02",
+    "name": "battle-messages",
+    "index": 21,
+    "pointerOffset": "0x70048",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002333.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002333.png",
+    "sha256": "25a9051673f4c0ad6ec5ca105119d6f5e16c28337f505376aca6898d10905e24",
+    "name": "prince-and-karura-dialogue",
+    "index": 183,
+    "pointerOffset": "0x70051",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002340.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002340.png",
+    "sha256": "7d24a6799277075f1736d43936d1b1ece9c12a505b0454002ebca5d9f132e257",
+    "name": "prince-and-karura-dialogue",
+    "index": 183,
+    "pointerOffset": "0x70051",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002343.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002343.png",
+    "sha256": "804b8e2018d5c20d5aa82bc1f3b1f28b2bb254de509d6a1205d46cfdf709b2f3",
+    "name": "prince-and-karura-dialogue",
+    "index": 183,
+    "pointerOffset": "0x70051",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002351.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002351.png",
+    "sha256": "cd8b75a5759438eb46b5679c42fca37909b897f0e93553e9a8cf24bc08fe4bc6",
+    "name": "prince-and-karura-dialogue",
+    "index": 183,
+    "pointerOffset": "0x70051",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-002520.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-002520.png",
+    "sha256": "f779349d19f0be2d669796db2980cbe2fc1d872e26fc69c58d85a9c63aa5da57",
+    "name": "battle-effects",
+    "index": 43,
+    "pointerOffset": "0x7004b",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-004144.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-004144.png",
+    "sha256": "7cf3c2fff55bc32d6329cfcb3c96e496644fb51869009d521fb348a989b77311",
+    "name": "waterfall-confrontation",
+    "index": 10,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-004147.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-004147.png",
+    "sha256": "895819d8297882ed95e3024ac2f151293ac0703b7dde57b2e0f164ca27b7fd82",
+    "name": "waterfall-confrontation",
+    "index": 10,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-004151.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-004151.png",
+    "sha256": "69b34332f4c5994ab72fb0dfd725b540778dd5deadb2c93eb6c8ac5fa2bd157b",
+    "name": "waterfall-confrontation",
+    "index": 10,
+    "pointerOffset": "0x701d4",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-114943.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-114943.png",
+    "sha256": "0d5794d87fa93cf79b54a6872c0d2e1e3b4b5ddbc8474b497feeb30475e8507a",
+    "name": "spell-chants",
+    "index": 51,
+    "pointerOffset": "0x70027",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-115509.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-115509.png",
+    "sha256": "96a444e3a85eac8aa53e6ed64f93cf0034ba7a09e85fd03a608ea0da7834e3dc",
+    "name": "battle-effects",
+    "index": 45,
+    "pointerOffset": "0x7004b",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  },
+  {
+    "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261002-115659.png",
+    "source": "/Volumes/share/screenshots/Shin Momotarou Densetsu (Traditional Chinese)-261002-115659.png",
+    "sha256": "70e5b2e6b04a044ac7b9bb06313b9463eeaf12cf1d858aa70247a169548fc26e",
+    "name": "field-messages",
+    "index": 12,
+    "pointerOffset": "0x70039",
+    "status": "dialogue-translated-native-probe-verified",
+    "residual": "Saved companion names and compact battle HUD are outside this dialogue translation."
+  }
+]

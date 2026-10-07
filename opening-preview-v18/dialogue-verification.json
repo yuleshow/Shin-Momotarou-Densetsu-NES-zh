@@ -1,0 +1,86 @@
+{
+  "targetSha256": "da5ad6269b0f022c655b308ed102b11ca4cc82d2901a93cc03715d50821f5fbd",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "golden-buddha",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "背後的佛像": {
+          "frame": "frame-1380.ppm",
+          "x": 64,
+          "y": 112
+        },
+        "不少錢": {
+          "frame": "frame-1740.ppm",
+          "x": 64,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 1,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "天之仙人": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不客氣": {
+          "frame": "frame-1440.ppm",
+          "x": 136,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "阿修羅": {
+          "frame": "frame-1080.ppm",
+          "x": 100,
+          "y": 96
+        },
+        "千萬不能輸": {
+          "frame": "frame-1140.ppm",
+          "x": 40,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "golden-buddha",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "得到了黃金佛像": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 96
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "golden-buddha"
+  ]
+}

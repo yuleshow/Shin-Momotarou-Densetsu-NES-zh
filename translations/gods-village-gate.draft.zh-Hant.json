@@ -1,0 +1,21 @@
+{
+  "pointerOffset": "0x70192",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "gods-village-gate",
+  "decodedBytes": 364,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All seven source records reviewed. Preserve the unbuilt-castle reminder and 神之味噌湯 gate requirement, possession prompt and refusal branches.",
+    "神々の里 provisionally rendered 眾神之里; final place-name review remains required. Keep the soup pun 神のみぞ知る as a Chinese wordplay adaptation."
+  ],
+  "records": {
+    "0": "「窮窮！我是守門人啦！\n怎麼回事？\n你還沒蓋城堡呀！」\n「趕快去，\n蓋座城堡比較好喔！」\n",
+    "1": "「窮窮！我是守門人啦！\n請我喝神之味噌湯，\n我就讓你進去啦！」",
+    "2": "「哎呀呀呀？\n你帶著神之味噌湯呢！\n請我喝吧！」",
+    "3": "「咕嚕咕嚕！\n神之味噌湯的滋味，\n只有神才知道啦！」",
+    "4": "「小氣！小氣！小氣！\n小氣鬼！小小氣鬼！」\n",
+    "5": "「你明明帶著神之味噌湯！\n就讓我喝嘛！」\n",
+    "6": "「窮窮！這裡是眾神之里！\n是沒有任何爭鬥，\n只有神明居住的村落啦！」"
+  }
+}

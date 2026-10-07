@@ -1,0 +1,66 @@
+{
+  "version": "v42",
+  "status": "deployed-rom-and-cheats-readback-verified",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 3188,
+    "untranslatedRecords": 4600,
+    "emptyRecords": 82
+  },
+  "glyphs": 2084,
+  "additions": 73,
+  "previousTranslationsPreserved": true,
+  "unchangedEmptyRecords": [
+    3,
+    5,
+    7,
+    9
+  ],
+  "newlyCoveredControlOnlyRecords": 1,
+  "addedRecordsSinceV41": 73,
+  "completeFieldTextRecords": 188,
+  "rockPuzzleRecords": 5,
+  "glyphCapacity": 2112,
+  "verification": {
+    "nativeDialogueScenes": 193,
+    "exactWords": 341,
+    "allAddedRecordsTested": true,
+    "originalRelocationFramesIdentical": true,
+    "representativePreviewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNamesAndReadingsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "ipsRoundtripPassed": true,
+    "emptyRecordPreservationPassed": true
+  },
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v42",
+    "sha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+    "deviceWrites": true,
+    "screenshotsDeleted": 0,
+    "savesWritten": false,
+    "cheatsWritten": true,
+    "deploymentReport": "deployment-verification.json"
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "Every prior dialogue scene on this hash",
+    "Natural event branches and all dynamic names and values",
+    "Natural concatenation of directional message fragments"
+  ],
+  "remainingJapanese": [
+    "4600 indexed records",
+    "Saved companion names",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph"
+  ]
+}

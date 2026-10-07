@@ -1,0 +1,76 @@
+{
+  "name": "screenshot-inline-animal-references",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "status": "source-reviewed-reference-draft-only-not-integrated",
+  "validationNotes": [
+    "This is a source-reference draft, not a compileTextDraft input. No allocation, pointer redirection, menu integration, build or deployment is requested.",
+    "Only the two missing dynamic labels and the two complete screenshot selection menus are included: nine new labels, not duplicate field dialogue or enemy-name translations.",
+    "For each inline menu, start is inclusive and end exclusive. originalHex covers the entire observed choice stream through its 00 terminator. Only entry.originalHex label spans may change; preserve every intervening byte verbatim.",
+    "In particular preserve 25 86 19 01/02/04/08 before the four opponents and 01 2c after each label, as well as 21 3e. These callback/control bytes must not be reinterpreted as text, padding or replaced glyphs. Their runtime semantics and relocation operands are not certified by this source-only review.",
+    "All nine label strings fit within 14 glyphs. Animal name records retain source kana-mode controls explicitly in segments. Future inline encoding must use glyphs valid for the menu parser; no encoded replacement bytes are generated here.",
+    "Field-message records 0x70039:35 and :36 already supply the Chinese sentence around the dynamic animal labels seen in screenshots 24 and 25. Opponent battle names already exist in menu.zh-Hant.json but do not cover these separate inline-menu addresses."
+  ],
+  "indexedNames": [
+    {
+      "pointerOffset": "0x70003",
+      "sourceType": 0,
+      "sourceStart": "0x704f2",
+      "sourceEnd": "0x70a0a",
+      "decodedBytes": 1303,
+      "complete": false,
+      "entries": [
+        {
+          "recordIndex": 126,
+          "screenshotIds": [24],
+          "decodedOffset": "0x351",
+          "offset": "0x70844",
+          "originalHex": "18b2a899a49b",
+          "source": "身のこなし",
+          "translation": "身手",
+          "segments": [{ "text": "身手" }],
+          "coverageBefore": "untranslated"
+        },
+        {
+          "recordIndex": 131,
+          "screenshotIds": [25],
+          "decodedOffset": "0x370",
+          "offset": "0x70863",
+          "originalHex": "04a0bda0bd03",
+          "source": "チンチン",
+          "translation": "站立作揖",
+          "segments": [{ "hex": "04" }, { "text": "站立作揖" }, { "hex": "03" }],
+          "coverageBefore": "untranslated"
+        }
+      ]
+    }
+  ],
+  "inlineMenus": [
+    {
+      "name": "karura-three-stories",
+      "screenshotIds": [16, 17],
+      "start": "0x4e782",
+      "end": "0x4e798",
+      "originalHex": "213e52a8181a01213e53a8181a01213e54a8181a0100",
+      "complete": true,
+      "entries": [
+        { "offset": "0x4e784", "originalHex": "52a8181a", "source": "１の話", "translation": "故事一" },
+        { "offset": "0x4e78b", "originalHex": "53a8181a", "source": "２の話", "translation": "故事二" },
+        { "offset": "0x4e792", "originalHex": "54a8181a", "source": "３の話", "translation": "故事三" }
+      ]
+    },
+    {
+      "name": "shuten-four-opponents",
+      "screenshotIds": [49],
+      "start": "0x4e7bc",
+      "end": "0x4e7f9",
+      "originalHex": "25861901213e95a718f31888012c25861902213e97ae18f31888012c25861904213ea3b697ae18f31888012c25861908213ead9b97ae18f31888012c00",
+      "complete": true,
+      "entries": [
+        { "offset": "0x4e7c2", "originalHex": "95a718f31888", "source": "かね童子", "translation": "金童子" },
+        { "offset": "0x4e7d0", "originalHex": "97ae18f31888", "source": "くま童子", "translation": "熊童子" },
+        { "offset": "0x4e7de", "originalHex": "a3b697ae18f31888", "source": "とらくま童子", "translation": "虎熊童子" },
+        { "offset": "0x4e7ee", "originalHex": "ad9b97ae18f31888", "source": "ほしくま童子", "translation": "星熊童子" }
+      ]
+    }
+  ]
+}

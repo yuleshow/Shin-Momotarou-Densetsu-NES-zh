@@ -1,0 +1,3914 @@
+[
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 2,
+    "offset": "0x7d9b5",
+    "originalHex": "9b959b500909a9011aeeafa5509bf5e3919b9f5c010f",
+    "segments": [
+      {
+        "text": "但是"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "偷竊失敗了！"
+      },
+      {
+        "hex": "010f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 6,
+    "offset": "0x7da15",
+    "originalHex": "190f521815a55095a4b6d7501a121a19bc909f93019ab6a5501a181a191816501a1b18201816bc50184bd3b85c019fda19ff184018151816a850551af3a852bc5002b35c0f",
+    "segments": [
+      {
+        "text": "對一名敵人必定造成傷害，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "並降低攻擊力及防禦力！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "消耗最大體力的四分之一！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 7,
+    "offset": "0x7da5b",
+    "originalHex": "91aea8501a181a191816a850551af3a854a8501816be01190f19e2191fa5501a121a19bc50909f93b85c019fda19ff184018151816a850541af3a852bc5002b35c0f",
+    "segments": [
+      {
+        "text": "以目前攻擊力四分之三的力量，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "對全體敵人造成傷害！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "消耗最大體力的三分之一！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 8,
+    "offset": "0x7da9e",
+    "originalHex": "190f521815a5501adc1817a818801a19bc01909f93b899a3d050be96ae9c5c50beb25c0119ff184018151816a850531af3a852bc50a19591ae9c5c0f",
+    "segments": [
+      {
+        "text": "能對一名敵人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "使出會心一擊！但是！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "消耗最大體力的二分之一！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 9,
+    "offset": "0x7dadb",
+    "originalHex": "0909a850a9b719c35c0f",
+    "segments": [
+      {
+        "hex": "0909"
+      },
+      {
+        "text": "使出了拍掌！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 10,
+    "offset": "0x7dae6",
+    "originalHex": "0909a850a1f5e3b75c0f",
+    "segments": [
+      {
+        "hex": "0909"
+      },
+      {
+        "text": "使出了推掌！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 11,
+    "offset": "0x7daf1",
+    "originalHex": "0909a850192c1ac3965c0f",
+    "segments": [
+      {
+        "hex": "0909"
+      },
+      {
+        "text": "使出了頭槌！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 12,
+    "offset": "0x7dafd",
+    "originalHex": "9b959b500909a9011924b7a85018151816d0509fb7a495f59f5c0f",
+    "segments": [
+      {
+        "text": "但是"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "剩餘的體力不足！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 68,
+    "offset": "0x7e20f",
+    "originalHex": "9b959b500909a9011aeeafa5509bf5e3919b9f5c010f",
+    "segments": [
+      {
+        "text": "但是"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "偷竊失敗了！"
+      },
+      {
+        "hex": "010f"
+      }
+    ]
+  },
+  {
+    "name": "spell-chants",
+    "pointerOffset": "0x70027",
+    "index": 11,
+    "offset": "93",
+    "originalHex": "9a80d580a480af80808080805c",
+    "segments": [
+      {
+        "text": "小小波浪啊啊啊！"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "0495b101037d02a09abd5c015018de19a019a1a550a196ae9b9f5c7e017d18b7180a9aaea9501b68a819b6be9c5c015094919ed197da9ab9805c7e01",
+    "segments": [
+      {
+        "text": "海龜"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我們到龍宮城了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「乙姬大人在裡面的房間！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請快一點！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 10,
+    "offset": "0x1c7",
+    "originalHex": "7d18b7180a9aae7f5c0150dd99a55094bb9bae9c957f5c7e01",
+    "segments": [
+      {
+        "text": "「乙姬大人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您在哪裡啊！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-entry",
+    "pointerOffset": "0x7029d",
+    "index": 52,
+    "offset": "0xb4a",
+    "originalHex": "7d02a09abd5c50d6a1a9015099a850929fd3a9501892a818707bb39bba7cbc0150aab6975018f818f97bd19b967ca4a8be9c5c7e017d18de19a019a1a8509095d7a819b6a901505251511a0ba8501a6f96a550bb9fb70150a3d6a2919fa8be9c5c7e017d9095d7a819b6a55090b8501892a8187095b6a901501892a85019b195a81814ac50a192d6b801501a80a8181cd05090b8a8be9c7e017d1892a8187095b65019b195a81814ac5c7e0101017d19b195a8181495b65095d2b3180a9aaed00150a3b6bbb9a291b8501892a819a019b3aebe015019bf9799a3d050be96b895b29bb9ae9dbd7e017ddd92d95099a0b6ac5c7e0101",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！其實，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這場宴會是為了開啟"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "月之祠而舉行的儀式！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「龍宮城那間緊閉的房間，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "已經整整一百年"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "沒有打開過了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「房裡的月之祠，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "有一條通往月亮上"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "寧靜村的空中道路。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「從月之祠前往寧靜村！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「從寧靜村出發，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也許就能抵達囚禁"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "輝夜姬大人的月宮。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請往這邊走！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 4,
+    "offset": "0xe1",
+    "originalHex": "7d97a0949bb37f5c50bbb9b6a5a9015018b7180a9aaebc509f9c98b8501816b2a4915c7e01017d905c5002a0dda85c015018b7180a9aaebc50949f9c98be96b8a8a9015090a49f9aae9b955094b7ae9da67f5c7e",
+    "segments": [
+      {
+        "text": "「真不甘心！我們竟然"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "連救乙姬大人的力量都沒有！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「啊！"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "閣下！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "能救出乙姬大人的，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就只有您了！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 7,
+    "offset": "0x1a3",
+    "originalHex": "7d18b7180a9aaed05c501892a818707bb39bba7cd05c015018669b965018de19a0d05c5002c99fa0a90150dd92a4f5a29bae92a8be9bf8925c7e",
+    "segments": [
+      {
+        "text": "「乙姬大人！月之祠！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "美麗的龍宮！我們"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "究竟會變成怎樣啊！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 13,
+    "offset": "0x2e9",
+    "originalHex": "18b7180a017d02a09abd5c015002bd9c5c7e017d99a818de19a0d05018dba819c3a55019f4a09fb60150a3b795939ba8a195a4910150a399babed4d591ae9b9f5c7e017d929fd3a8509d96bc0150b29298ae9ca8be509bde9b01509497a1bad102c5ae9b5c7e",
+    "segments": [
+      {
+        "text": "乙姬"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "非常感謝您！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「這座龍宮若落入鬼族手中，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "後果將會"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不堪設想！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我會為各位"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "準備宴席，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請先稍作休息！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-rescue",
+    "pointerOffset": "0x702a0",
+    "index": 14,
+    "offset": "0x350",
+    "originalHex": "18d11890190a18db017d979ef55c5018b7180aa5501892a8a4d9bc0150190996da9e92a39b9fa8a55c7e017d9992a4b7f65002b6bc5018e19b01500495b8b6031907a550ad92dfbc50b2b691a5015019bf97a39cb8955c50bbf5a9f5a9f55c7e",
+    "segments": [
+      {
+        "text": "食水餓鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「可惡！本來正想逼乙姬"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "說出月亮的祕密！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「既然如此，就殺了你，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "去向迦樓羅大人"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "領賞吧！哇哈哈哈！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "18b7180a017d18de19a0bc50a1959addb8015018d4a850180db55c7e017d18ce5099939a9d9fae935c7e0101",
+    "segments": [
+      {
+        "text": "乙姬"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「掌管龍宮的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "海神啊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請讓我們跨越波浪吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 1,
+    "offset": "0x2d",
+    "originalHex": "18b7180a017ddd92d9501892ac01509491be02c55c7e017d19b195a81814a5a9015018ca19107bd0b7f7927ca3501adbdeb9b8501910d001509cafa191a291b89e92be9c5c7e017da4bdbeb25018ca1910a89bb9bda501509f93b6b9b819e9a5a9501892a81ae7bc0150909f93b8a350190991a294b7ae9c7e017da1a7a55099a850a3dfb6a90150aab6919faeaea5509ba29496ae9c5c0150dd929550d418f21aeabe5c7e",
+    "segments": [
+      {
+        "text": "乙姬"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請前往"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "月亮吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「聽說寧靜村裡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "住著一條"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "名叫臥龍的龍！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我聽說只要能夠"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "通過臥龍的試煉，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就能得到月之鏡。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「這扇門，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我會一直為各位敞開！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "祝你們平安！」"
+      }
+    ]
+  },
+  {
+    "name": "dragon-palace-moon",
+    "pointerOffset": "0x702a3",
+    "index": 10,
+    "offset": "0x329",
+    "originalHex": "7d18b7180a9aae7f5c0150dd99a55094bb9bae9c957f5c7e01",
+    "segments": [
+      {
+        "text": "「乙姬大人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您在哪裡啊！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "kintarou-festival-farewell",
+    "pointerOffset": "0x70138",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "180318011802017d0495b8b603a550a195bbb9a2b8015018db9fa0f5a2509fa89b91f5a2015094b29299a35090b8a895a45b7e017d90f55c509198a75c01501981188fd050a9d6aeb8dd5c015002a05c5019bf9992d85c7e",
+    "segments": [
+      {
+        "text": "金太郎"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「被迦樓羅使喚的"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那些鬼，也會覺得"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "有什麼事很好玩嗎？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「啊！糟糕！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "煙火要開始了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！我們走吧！」"
+      }
+    ]
+  },
+  {
+    "name": "kintarou-festival-farewell",
+    "pointerOffset": "0x70138",
+    "index": 1,
+    "offset": "0x59",
+    "originalHex": "7d02a09abd5c7e0101017d1803180118029abdd05099a81a010150d491f59bf8509ba297da9ab8a4b60150ae9aa550194318471816be9ca75c7e017d90f59ba950ae9f01501a01a55019bff5a20150d6f892ad92bc5090a1b1a296b39c5c7e01049cb703a818501851a95002a09fa0a350a9a4b9a201199bbc509cb899a3a5a4f59f5c01",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「以後有金太郎先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "和您同行，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "真是如虎添翼啊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我就再"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "先走一步，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "替各位打聽消息去啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "小偷銀次離開了"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "一行人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "決定獨自踏上旅途！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "kintarou-festival-farewell",
+    "pointerOffset": "0x70138",
+    "index": 2,
+    "offset": "0xde",
+    "originalHex": "180318011802017d9df595a0a45004b3a103daa45c01501975b75018b0a29198de509191a8a5a45c7e017d90f55c509198a75c01501981188fd050a9d6aeb8dd5c015002a05c50919992d85c7e",
+    "segments": [
+      {
+        "text": "金太郎"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「真是個急性子！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "看完祭典再走不就好了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「啊！糟糕！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "煙火要開始了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！我們走吧！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "7d02a09abdd050a9d6b1a2a8015018db9f91d6a8199bbc9ba2015093bdae1907bc5099b69bb19f99ba5f7e017d0495b8b603a9501a871a6a19141841a50150a3b791f5a250189c1904bc015019ccb592a3509ba495f59fa8be9cbb5c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生第一次"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "踏上討伐鬼族的旅程，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "懲治閻魔大人的時候……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「迦樓羅只顧著"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "討好伐折羅王，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不肯離開地獄呢！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 1,
+    "offset": "0x5e",
+    "originalHex": "7d0495b8b603a95018dba8189518d7be015091a0debd509ff5a3deb9b801501a1c91d050a5d0a2be9b9f7e017d9ea89fb15018a197a8501a4718d0a818dbbc01501a871a6a19141841a819acbe509b9fd0bb9d01500495b8b603a89fb1a550a99fb6959dae9b9f7e",
+    "segments": [
+      {
+        "text": "「鬼族最崇尚的"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就是戰鬥，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "迦樓羅卻不擅長戰鬥。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「所以他借用伐折羅王之名，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "讓許多勇猛的鬼族服從，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "替自己效力。」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 2,
+    "offset": "0xc7",
+    "originalHex": "7d1892a81ae7bc509ad09ba5015091b69b9fa8be9ca75c7e01017dbea95018ca19107bd0b7f7927ca89bb9bdbc01509298a2919fda95a7de50a4b7ae9dbd5c7e01",
+    "segments": [
+      {
+        "text": "「您是來"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "尋找月之鏡的吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「那就必須接受"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "臥龍的試煉才行！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 3,
+    "offset": "0x109",
+    "originalHex": "7d18ca1910a89bb9bdbc01509298b8b2a8a9509fdaaaa3b75c7e010102d5ae91b7ae9c955b7e0101",
+    "segments": [
+      {
+        "text": "「接受臥龍試煉的人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "只能有一位！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請問要由誰前往呢？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 4,
+    "offset": "0x132",
+    "originalHex": "7d099abdd0015019bf97a8be9ca75c7e01",
+    "segments": [
+      {
+        "text": "「由"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "前往，對吧！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 5,
+    "offset": "0x144",
+    "originalHex": "7daeb5bba497a4f59fb601509491bea49a91ae9d5c7e01",
+    "segments": [
+      {
+        "text": "「等您不再猶豫時，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "再過來吧！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 6,
+    "offset": "0x15c",
+    "originalHex": "7dbea9509e99a819eb95b601509419d7b702c55c7e01017d099abdd0015018ca1910a850af9999baa5015095a491ae9cb592a55c7e",
+    "segments": [
+      {
+        "text": "「那麼，請從那個洞口"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "進去吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「願"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "能夠得到"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "臥龍的認可！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-treasure-hall",
+    "pointerOffset": "0x70279",
+    "index": 7,
+    "offset": "0x192",
+    "originalHex": "7d1892a81ae7bc50a19593de01501892a818901a32a890b795d050bb95b7ae9c5c7e01017d9ce1a2a8501892a818901a32bc5090a1b1b9de01501895bc5018dba819c395b6509c97920150a2daa2d050189aaeb9ae9bf8925c7e017d02a09abda501501892a850d495d4d05090b7ae9cb592a55c7e01",
+    "segments": [
+      {
+        "text": "「使用月之鏡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就能知道月之水晶的下落！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「只要集齊所有月之水晶，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "或許就能找到從鬼族手中"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "拯救世界的方法！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "願月亮庇佑您！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "7d95d2b3180ad050949597b9a50150a4f5a295b6a39192b2a8501892a5b2015018dbd05019ccb8b592a5a4b7ae9b9f5c7e017d9eb9beb25099a81814a59cb0015018ca19107bd0b7f7927ca8509495d3be015018dbd05019d7f5a299b9a491a8be9c5c7e",
+    "segments": [
+      {
+        "text": "「自從輝夜姬"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不見了以後，月亮上"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也開始出現鬼族！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「幸好有住在村裡的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "臥龍保護，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "鬼族才無法進來！」"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 1,
+    "offset": "0x65",
+    "originalHex": "7d1892a81ae7a9501892a818901a32bc015092a19bda9c50b2a85c0150187d19cd19b3a550d4d591ae9c7e",
+    "segments": [
+      {
+        "text": "「月之鏡能映出"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "月之水晶的所在！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "它就在寶物殿裡。」"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 2,
+    "offset": "0x91",
+    "originalHex": "7d1892a81ae7bc5019c3a59cb8a5a9015018ca19107bd0b7f7927ca8509bb9bdbc01509298a7dea4b7ae9dbd5c7e",
+    "segments": [
+      {
+        "text": "「想要取得月之鏡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就必須接受"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "臥龍的試煉！」"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 3,
+    "offset": "0xc0",
+    "originalHex": "7d04e4f8e4f8bd035c015099a81814b25018dba50150949ebbb99fa8be9c5c7e017d9ea8a3965019acb25090959aa650941a24d001501814bc50195b98a297b99fa8be9c5c015090a8941a24b25018dba8a9d7a4a8a55f7e",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這座村莊也曾經"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "遭到鬼族襲擊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「當時有一位不願透露姓名的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "大人拯救了村莊！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那位大人明明也是鬼族……」"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 4,
+    "offset": "0x119",
+    "originalHex": "7d04e4f8e4f8bd035c01501814bc50195b98a297da9af59f50941a24a90150a3a2b2501a0cd05094d6f892d7be9b9f5c7e",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救了村莊的那位大人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "笛子吹得非常好呢！」"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 5,
+    "offset": "0x14b",
+    "originalHex": "7d18dba8a495a5b25090a8b592a401509cdeb69b91501a0ca85018ae9619c3d0015091b8a3a95094ddba96be9c5c7e",
+    "segments": [
+      {
+        "text": "「想不到鬼族之中，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然也有那麼出色的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "吹笛高手，真令人驚訝！」"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 6,
+    "offset": "0x17b",
+    "originalHex": "7d04e4f8e4f8bd035c5095d2b3180a9aaea801509418bfbc5018b0a497a4f5a295b60150b29250d791e0bd509fa0ae9c5c7e017dd418f21aeabe5091b6f59bf6b8a301509191bdbe9c98dd5c7e01",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！已經好久"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "沒有見到輝夜姬大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "的身影了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「希望她"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "平安無事就好了！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "quiet-village-residents",
+    "pointerOffset": "0x7027c",
+    "index": 7,
+    "offset": "0x1ca",
+    "originalHex": "7d04e4f8e4f8bd035c01501892a819a019b3aca9501892a818bbbea498b9de015019bf98a497a4f5a2509bae91ae9b9f7e017d1892a818bba9501b7e91501b7e91015018f4a81814a59b955090b7ae9dbd0150a3a2b25018f21a31be9c7e",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "如今要前往月宮，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "非得搭乘月之舟不可了。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「月之舟只有遙遠的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "風暴村才有，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "實在辦不到啊！」"
+      }
+    ]
+  },
+  {
+    "name": "garyuu-trial",
+    "pointerOffset": "0x7027f",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "18ca19107bd0b7f7927c017d184e9a96b2a8509ea49fa901501892a81ae7bc50adf59cb8b2a8955b7e",
+    "segments": [
+      {
+        "text": "臥龍"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「渺小的生靈啊，你就是"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "渴求月之鏡的人嗎？」"
+      }
+    ]
+  },
+  {
+    "name": "garyuu-trial",
+    "pointerOffset": "0x7027f",
+    "index": 1,
+    "offset": "0x2a",
+    "originalHex": "7da4b6de509ab8d0b59101509999a9501847d00150198abcabaf91b9b850189cbea9a4917e",
+    "segments": [
+      {
+        "text": "「那就離去吧。"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這裡不是人類"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "可以踏足的地方。」"
+      }
+    ]
+  },
+  {
+    "name": "garyuu-trial",
+    "pointerOffset": "0x7027f",
+    "index": 2,
+    "offset": "0x50",
+    "originalHex": "7dbebd9bf892a55090b796501892a81ae701509eb9a9501892a818c29619e8bc5090a1b19b015019a419a5a3501a5d196fa850180d19227bd6bd967c7e017d1892a818901a32a85095d0b396bc509f979ca50150ab9abb9b9619e9da98d05001509eb9bc5019c3a59cb899a3d050be96b87e017dbea9501ae47b91a59b937ca80150af99a3a8b7a5509b9fd09101509ea49fa8181650bbd019d9a5509bb19d5c7e",
+    "segments": [
+      {
+        "text": "「傳說中的月之鏡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "匯聚月亮的青色光芒，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "是希望與真實的神器。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「唯有配得上承接"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "月之水晶光輝的人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "才能將它握在手中。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「那麼，就遵從"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "遠古的旨意，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "在我面前展現你的力量吧！」"
+      }
+    ]
+  },
+  {
+    "name": "garyuu-trial",
+    "pointerOffset": "0x7027f",
+    "index": 3,
+    "offset": "0xf2",
+    "originalHex": "18ca1910017d11b55c7e01017d1ae47b91a59b937ca850af99a3a8b7a90150187b9999a550a99f9ab99f5c7e01017d1892a81ae7a850afa0df96a5509b9fd09101501892a818901a32a85095d0b3960150ab9f9fdf50a3b7b2dd9cd091915c7e",
+    "segments": [
+      {
+        "text": "臥龍"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "11"
+      },
+      {
+        "text": "啊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「遠古的旨意，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "如今已在此實現！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「遵循月之鏡的指引，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "讓月之水晶的光芒"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "重新綻放吧！」"
+      }
+    ]
+  },
+  {
+    "name": "garyuu-trial",
+    "pointerOffset": "0x7027f",
+    "index": 4,
+    "offset": "0x153",
+    "originalHex": "7d1892a81ae7a850afa0df96a5509b9fd09101501892a818901a32a85095d0b3960150ab9f9fdf50a3b7b2dd9cd091915c7e",
+    "segments": [
+      {
+        "text": "「遵循月之鏡的指引，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "讓月之水晶的光芒"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "重新綻放吧！」"
+      }
+    ]
+  },
+  {
+    "name": "garyuu-trial",
+    "pointerOffset": "0x7027f",
+    "index": 5,
+    "offset": "0x186",
+    "originalHex": "18ca1910017d11b55c501892a81ae7bc015019c3a59cb8a5a9501816188e198aa850b592da5c7e017d1977bc50afd091a2015019cca4949cd050b5915c7e01",
+    "segments": [
+      {
+        "text": "臥龍"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "11"
+      },
+      {
+        "text": "啊！要取得月之鏡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "你的力量似乎還不夠！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「好好磨練本領，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "再來挑戰吧！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "7d1892a818901a32a5a90150184091a4b8501821d00150b3ddf5a291b8a3190996ae9c5c7e017d95d2b3180ad05002a09abda501501892a818901a32bc509f979ab99fa8a9015096f5a350183a192bd05090b8a8be9cbb5c7e",
+    "segments": [
+      {
+        "text": "「聽說月之水晶裡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "寄宿著"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "偉大的生命！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「輝夜姬託付"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "月之水晶，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一定有她的用意！」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 1,
+    "offset": "0x5a",
+    "originalHex": "7d0495b8b603a95018b895b6015093bdaebc50a79fae9b97015094b2f5a2919fb592be9c5c7e017d18bc1a6691500495b8b603a5a9015018f218bca45093bdaea8509499a491d001501848a59abbb8a895b2509bb9ae9dbd5c7e",
+    "segments": [
+      {
+        "text": "「迦樓羅從以前起，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "似乎就一直"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "嫉妒著閻魔！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「或許正因迦樓羅貪得無厭，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "才會看不慣"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "無欲無求的閻魔吧！」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 2,
+    "offset": "0xb5",
+    "originalHex": "7d95d2b3180a9aaea901501892a31847a3bc50a1a4d250941a247e01017d180ad05091a497a4b8a301501892b250189c184ab250dd92a4b89501509ada95bea95090b7ae9dbd5c7e017d0490d6f69d0318411888a9509ea899a3bc01501848a59598a2509491bebe9b9f5c7e01",
+    "segments": [
+      {
+        "text": "「輝夜姬大人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "是連結月亮與人類的人。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「若公主不在了，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "月亮和地上會變成怎樣，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "誰也無法確定！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「阿闍世王子"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一直很在意這件事！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 3,
+    "offset": "0x123",
+    "originalHex": "7d04e4f8e4f8bd035c015002a09abd5c5018d01848a81a45be015018dbd01805ac5019bf96ae9b9f955b7e017d184419adb7a81814a8501813a8af9a96be015018d01848a81a45bc5095d59dde015018dbd01805aca850181cd050aab698ae9c7e",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生，您有用勇氣之劍"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "前往鬼島了嗎？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「在竹取村北邊的海岬，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "高舉勇氣之劍，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就能開啟通往鬼島的道路。」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 4,
+    "offset": "0x185",
+    "originalHex": "7d18c296193f1a60a95018d01848a81a45bc0150969f93b8a3501ae093b6b9a294b7ae9c5c7e01017dbeb2509eb9bc509f9b95b19f19e9a90150dab9aaa3b75091a491a8be9c5c7e01",
+    "segments": [
+      {
+        "text": "「傳說藍色隕星"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "能夠鍛鍊勇氣之劍！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「但是，還沒有任何人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "親自證實過這件事！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 5,
+    "offset": "0x1cf",
+    "originalHex": "7d9ea850184e9aa41815a55091f59f910150dd99aebea8501816d00150aa9ebdbe91b8a8be9bf8925c7e017d19ff1a00a81a1c91beb2015018f21a31bc50a49ab7ae9da6b592a55c7e01017d5fa391f5a2b250b0dabe9cbba75c7e0101",
+    "segments": [
+      {
+        "text": "「您那小小的身軀裡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "究竟還隱藏著"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "多少力量呢！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「就算是最後的決戰，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也請不要太勉強自己！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「……說了也是白說吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 6,
+    "offset": "0x22d",
+    "originalHex": "7d1840189cd05018cea8b592a55092a7b70150181419a7bc50a8af99bdbe9196ae9c5c7e01017d194718831a0bbc501892a3a3b2a550189a96a2969f015090a85018ca1910be9cb65f0150a99f9ba250e0d6be91b895dd92955f7e",
+    "segments": [
+      {
+        "text": "「大地如波浪般翻騰，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不斷吞沒各個村莊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「就連與月亮共度數千年的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那位臥龍……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也不知道是否還平安……」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 7,
+    "offset": "0x289",
+    "originalHex": "7d02a09abd5c509f9b95a5015018d01848a81a45a95018c296193f1a60a81816be01501a0418b9a81816bc5019adb7197a9bae9c7e017dbeb2501a041a30a50150189ea695b2509bb9ae9dbd5c01509eb9beb25019bf96ae9c955b7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生，的確，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "勇氣之劍能藉由藍色隕星"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "恢復原本的力量。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「但是，您真的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "有可能會死啊！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "即使如此，也要去嗎？」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 8,
+    "offset": "0x2e6",
+    "originalHex": "7d18d0184890b819e9a8509bb9bda90150189ea699a3bea9a4970150189a96b899a3a55090b7ae9c5c7e017d90a49fd05093b6bdda50181ca9015098f59ba250aea0d0f5a2a991ae9dbd5c7e01",
+    "segments": [
+      {
+        "text": "「勇者真正的試煉，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不在於赴死，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "而在於活下去！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「您所選擇的道路，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "絕對沒有錯！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 9,
+    "offset": "0x334",
+    "originalHex": "7d9e92be9c955f50b3a9b75f0150b2a9b350941876b19cb899a3015095a4bba491a8be9bf892a77e017d99a8199abc19cca2509ab6a5015019b41818bc5094b7a202c5ae9b5c7e01017d19ba19981a66975018c0a5509599aeb99f01501893193da81999a55018c296193f1a60a9015019f4a0a218b9b8a9d7be9cbb5c7e017d1893193da81999bc50aeb2b80150bb9f979ba81831501a6018087b9d91b37ca5015094a2a1da91509a9dae9bf8925c7e",
+    "segments": [
+      {
+        "text": "「這樣啊……果然……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "看來我已經"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "無法阻止您了。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請走出這間屋子，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "繼續沿著階梯往下走！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「谷底深處，岩石環繞的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "白砂泉，應該就是"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "藍色隕星落下的地方！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我會請守護白砂泉的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "妹妹星夜，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "協助您的！」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 10,
+    "offset": "0x3e5",
+    "originalHex": "7dbb9f979ba81831501a601808d00150941916a5199cf59f50b592be9ca75c01017d1892a59cb019e9a550a3f5a2015019c99b9150ad99b7d050189aaeb9ae9b9f5c01509eb9a95002a09abd5c5090a49fbe9c7e",
+    "segments": [
+      {
+        "text": "「看來我的妹妹星夜，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "幫上您的忙了呢！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「對月亮上的居民來說，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您成了我們新的驕傲！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就是您，"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 11,
+    "offset": "0x43a",
+    "originalHex": "7d183719a5a950aaa3a1a801509bb9bdbe9c5f509b959b5f7e01017d9e9995b650199ca0184ad0b80150a1b5911817d05f5002a09abd5c015090a49fa5a4b650bb95b8a9d7be9c5c7e",
+    "segments": [
+      {
+        "text": "「絕望是一種"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "試煉……但是……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「從中重新站起的堅強心志，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您一定能夠明白！」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 12,
+    "offset": "0x484",
+    "originalHex": "7d1892a81830a9501a1c9299a3bc015018c7b6a4915018305f5f015018dba9501a1c91a550909897b9b85018305f5f7e017d1892a81830d05018dba550949ebbb9b9de0150186fa01af4a4dd5090b7ae9da67e01",
+    "segments": [
+      {
+        "text": "「月之民不懂得"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "戰鬥……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "鬼族卻終日征戰……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「月之民若遭到鬼族襲擊，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "根本沒有勝算。」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 13,
+    "offset": "0x4d9",
+    "originalHex": "7d04e4f8e4f8bd035c5099a0b6a9015019aa18929aaea850949cae91be9c5c7e01",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！這裡是"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "夕月大人的住處！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 14,
+    "offset": "0x4fb",
+    "originalHex": "7dbb9f979ba95019aa18927bb492dc967ca30150b2929cb2a8be50d4d591ae9c5c7e01017d949fd7a7a8509f9ed0b9a819eebc01509ad09ba2af9fa8be9cd001501a94b25018c7b819e9a95094b7ae9dbd5c7e017d1854955018eb9119eebeb20150d4b6bda550a4f59fa8bea9015090b7ae9dbd955b7e",
+    "segments": [
+      {
+        "text": "「小女子名叫夕月，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請多指教！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「您打聽的黃昏之夢，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我已經試著尋找，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "但沒有人聽說過！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「您會不會是"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "做了什麼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "惡夢呢？」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 15,
+    "offset": "0x573",
+    "originalHex": "0490d6f69d0318411888017d99b9a95094b291d098a491015018479fa0a5509092b2a8da5c7e",
+    "segments": [
+      {
+        "text": "阿闍世王子"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「真沒想到，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然會在這裡遇見你們！」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 16,
+    "offset": "0x59a",
+    "originalHex": "19aa1892017d0490d6f69d03184118885c5002a09abda301509418c7b719f89150be9b9f955b7e017d02a09abda95099a81814a5501ae0bbb801509f9ed0b9a819eebc501993f5a218b991a301500495b8b603a55091bbb9a2969fa8be9c5c7e010490d6f69d0318411888017d9eb9be501831d05c7e01017d9b959b50aff892a499a3bc5c7e0101017d9ea8b592a4501ad9a8181a01501909919f99a3a4dda4915c7e01017d949eb697500495b8b603a950beae959dbc5c0150927fb05091b3a450b595bdd09cb85c7e01017d919ed150189c184aa550b2ddb6b9b55c7e0101",
+    "segments": [
+      {
+        "text": "夕月"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「阿闍世王子！您和"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "原來認識嗎？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生是奉迦樓羅之命，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "來取回村裡流傳的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "黃昏之夢的！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "阿闍世王子"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「所以妹妹才會……！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「可是，真奇怪！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「那種石頭的事，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我從來沒有聽說過！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「恐怕是迦樓羅信口胡說！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "唔……有種不祥的預感！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「快回地上去！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 17,
+    "offset": "0x67b",
+    "originalHex": "7d02a09abd5c50bb9f979bb2015018eb9150b595bdd050919f9bae9c5c7e01017da9b39750189c184aac015094b2ddb7a49ab9ae9d5c7e01",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我也有不祥的預感！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「請趕快"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "回到地上吧！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 18,
+    "offset": "0x6b4",
+    "originalHex": "7d19aa1892be50d4d591ae9c0150b3a9b7509f9ed0b9a819eea90150dd99a5b250a495f59fa8be9c955f7e017db0d49199a3bc5f7e0101017da9d6b1a2be9c5c015099bda4a5501974d001501a7ab7be5090abb9b8a8a95f7e",
+    "segments": [
+      {
+        "text": "「我是夕月。"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "黃昏之夢果然"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "哪裡都找不到……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「竟然做出這麼殘酷的事……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我還是第一次！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "胸口竟然充滿了"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "如此強烈的怒火……」"
+      }
+    ]
+  },
+  {
+    "name": "yuuzuki-moon-events",
+    "pointerOffset": "0x70276",
+    "index": 19,
+    "offset": "0x70e",
+    "originalHex": "7d02c9a95091ae501892a819a019b3a50150a192d6b8181cbc509ad09ba291b87e01017d02a0b55c509ea49fbc01501a08d6a2509f979b9f5091b292a3bc0150b5ba9b97509fa8b05c7e",
+    "segments": [
+      {
+        "text": "「我正在尋找"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "通往月宮的道路。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "啊！我相信你，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "才將妹妹託付給你。"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "她就拜託你了！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-karura-history",
+    "pointerOffset": "0x70273",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "7daeda50189c1904a55004da91da0318411888d00150189aaeb9b819d9a899a35c7e01017d0495b8b603a9501a871a6a19141841a5509191ae9b9f015018dba81895bc501840969750aabad3b899a3bc0150afa4a5509bb19ce196daa35c7e017d9e929ba2501892a8180aa350184719b6a81976bc01509ab6f5a296a201501a871a6a19141841a5509a9bda9b9fa8be9c5c7e",
+    "segments": [
+      {
+        "text": "「那是達伊達王子"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "還沒在地獄出生時的事！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「迦樓羅向伐折羅王進言，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "應該向眾人展示"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "擴張鬼族天下的決心！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「於是他抓來月亮的公主"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "和一位人類姑娘，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "獻給了伐折羅王！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-karura-history",
+    "pointerOffset": "0x70273",
+    "index": 1,
+    "offset": "0x94",
+    "originalHex": "7d0495b8b603b25093bdae1841b201509a919bf8a95018dba8a495be0150aef59f975094a4d650199c1a33be9b9f5c7e017d941803b250b191b5b2501854b2a497015094a8b9a85018c71b12a3501816da98be0150186f1a96bc9ba2969fa9d7a4a8be9c5c7e017da4a8a550dd929ba2015090b4b0181cd05099b9addd501b7e9701509598a9a4b9a29baef59fa8be9bf8925c7e",
+    "segments": [
+      {
+        "text": "「迦樓羅和閻魔王，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "最初在鬼族之中，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "地位完全相同！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「沒有金錢，也沒有名譽，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "都只能憑自己的智慧與力量，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一較高下！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「可是，為什麼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "他們最後所走的道路，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竟然會相差這麼遠呢！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-karura-history",
+    "pointerOffset": "0x70273",
+    "index": 2,
+    "offset": "0x129",
+    "originalHex": "7d91a1bbb75f5092b6d1b75f7e0101017d1a871a6a19141841a550a3b791b89fb101500495b8b603d050a491d09bbaa59b9f18dba90150525151b350535151bea95090b7ae9dbd7e",
+    "segments": [
+      {
+        "text": "「謊言……背叛……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「為了討好伐折羅王，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "被迦樓羅犧牲的鬼族，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "可不只一百、兩百個啊！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-karura-history",
+    "pointerOffset": "0x70273",
+    "index": 3,
+    "offset": "0x172",
+    "originalHex": "7d0490d6f69d0318411888a95018bbd0a498b9de0150181cbc50a197b8aebeda01505fa350b2929ab9a294b7ae9b9f5c7e017db29bb3501811a81889bc5097b7a691a201501892a819a019b3ac50bb9fb80150949597d4a4a8be9bf892955b7e",
+    "segments": [
+      {
+        "text": "「阿闍世王子說過，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "沒有船的話，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就自己開出一條路！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「難道他打算挖穿"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "西邊的山，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "前往月宮嗎？」"
+      }
+    ]
+  },
+  {
+    "name": "moon-karura-history",
+    "pointerOffset": "0x70273",
+    "index": 4,
+    "offset": "0x1d3",
+    "originalHex": "7dbb9f979b9fa0a5a9501892a819a019b3a8015095d2b3180a9aaebc5094195b989cb801509ce1d050a491a8be9c5c7e",
+    "segments": [
+      {
+        "text": "「我們根本沒有辦法，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "救出月宮裡的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "輝夜姬大人！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-karura-history",
+    "pointerOffset": "0x70273",
+    "index": 5,
+    "offset": "0x204",
+    "originalHex": "7d99bda4509adf9b911814a5015018dbd050ad9bd0b8187dd0015090b8a3a95094b293ae9dbdbb5c7e",
+    "segments": [
+      {
+        "text": "「這麼冷清的村莊，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "怎麼可能會有"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "鬼族想要的寶物呢！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-karura-history",
+    "pointerOffset": "0x70273",
+    "index": 6,
+    "offset": "0x22e",
+    "originalHex": "7d949eb6975018db9fa0b2015095d2b3180a9aaea8501a041a30a81816a501501848dc91a25091a491a8bea95f7e",
+    "segments": [
+      {
+        "text": "「恐怕連鬼族也"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "還沒有察覺到"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "輝夜姬大人真正的力量吧……」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "7d02a09abd5c015018dba5509ab6bbb99f501892a8180aa8015018b8181abc50919f9bae9bf892955b7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "想聽聽月亮公主被鬼族抓走"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "的往事嗎？」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 1,
+    "offset": "0x2b",
+    "originalHex": "7d9e92be9ca750919fae9b91181abe9c95b6015094190996a550a4b6a4911a24d00150b5ba9b9195b2509bb9ae9dbdbb5f5f7e",
+    "segments": [
+      {
+        "text": "「是啊，那是個悲傷的故事，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "或許還是"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不要聽比較好……」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 2,
+    "offset": "0x5f",
+    "originalHex": "7d18dba81841be90b8501a871a6a19141841d001501892a8180abc509ab6f59fa8a90150d791e0bd5018b8a899a3be9c5c7e017d90a899ba501892a5a90150531847a8180ad05094b7ae9b9f5c7e01017d1952a8180aa9501a0ca819ac19c3be01509eb9a95018669b91180abe9b9fd0015018dba5509ab6bbb9a29bae91ae9b9f5c7e017d9e9ba2501952a8180aa901500490d6f69d0318411888bc50189ab0a3509cd2a5015094a497a4b7a550a4f59f9e92be9c7e017d1892a55019249ab99f501831a8180aa90150bbd0501976d0509ab6bbb9b899a3bc01509f91acbd50949eb9ae9b9f5c7e017d19379150a4b3bdda90d3970150a191a550189c184aa850184419ada81814ac01501976bc509f979b9fa8be9c5c7e017db2925094bb95b7be9bf8925b01509ea8501892a81831a8180aa8501976d0015095d2b3180aa4a8be9c5c7e",
+    "segments": [
+      {
+        "text": "「鬼族之王伐折羅王，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "抓走月亮的公主，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "已經是很久以前的事了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「當時月亮上，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "有兩位公主！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「姊姊是位美麗的公主，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也很擅長吹笛，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "卻被鬼族抓走了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「據說姊姊生下"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "阿闍世王子之後，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不久就過世了。」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「留在月亮上的妹妹，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "非常害怕自己的女兒"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也會被抓走！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「她苦惱了許久，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "最後將女兒託付給"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "地上的竹取村！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「您應該明白了吧？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "妹妹的那位女兒，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就是輝夜姬！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 3,
+    "offset": "0x1a5",
+    "originalHex": "7d02a09abd5c5091f59997b20150a9b397501892a818901a32bc5090a1b1a201501892a819a019b3bc50b1d59c99a3be9c5c7e017d95d2b3180abc5094195b989ba498b9de015018db9f91d6a95098f59ba2015018fdbbb899a3a950a491be9bf8925c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！請儘快"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "集齊月之水晶，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "前往月宮！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「如果不救出輝夜姬，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這場討伐鬼族的旅程，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就永遠不會結束！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 4,
+    "offset": "0x20a",
+    "originalHex": "7d0490d6f69d0318411888a950a4bda39ba2b201501892a819a019b3bc50b1d59ca1b2b7daa3015094f59bf6f5a291ae9b9fbb5c7e",
+    "segments": [
+      {
+        "text": "「阿闍世王子說過，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "無論如何，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "他都要前往月宮！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 5,
+    "offset": "0x240",
+    "originalHex": "7d02a09abd5c01501892a818901a32bc501892a819a019b3a50150941993a002c5ae9d5c7e017d96f5a3501892a818901a32d0015099a81895bc501a1bb81816a50150a4b8a9d7be9c95b65f5f7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請把月之水晶"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "帶到月宮！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「月之水晶一定"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "能成為守護"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這個世界的力量……」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 6,
+    "offset": "0x28f",
+    "originalHex": "7d04e4f8e4f8bd035c50dd929ba2b2015018c296193f1a60bc5018d01848a81a45a5015019f4a39ca1b2b7be9c955f7e017d1a041a30a4b650941876b19b9f91be9c5c0150beb2501876b1a2b250b0daa497b691015099a81895a95090e0a491a8be9cb5a75c7e",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！您還是"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "決定讓藍色隕星"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "落在勇氣之劍上嗎……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我真的很想阻止您！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "可是，世界已經危險到"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "無法阻止您了，對吧！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 7,
+    "offset": "0x2f7",
+    "originalHex": "7d04e4f8e4f8bd035c01509ea85095d0b3975018d01848a81a45a95c0150afd4a3509f939fa8be9ca75c7e017d91b591b55019ff1a00a81a1c91d001501886f5a291ae9ca75c50d495a1b397bc01509491a8b79ba294b7ae9c5c7e",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那把閃耀的勇氣之劍！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "您真的撐過去了呢！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「接下來就是"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "最後的決戰了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "祝您大展身手！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 8,
+    "offset": "0x353",
+    "originalHex": "7d04e4f8e4f8bd035c015091f59bf8a55094b2a0a1969cb80150a3b2daa05091a497a4a0f6f59f5f7e017d02a09abda5015018d1e19a9d9f95f59fa8a55f0150b29250be96a4915c7e",
+    "segments": [
+      {
+        "text": "「蹦蹦跳！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一起搗年糕的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "朋友不見了……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「本來還想讓"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "嚐嚐看……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "現在做不到了！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 9,
+    "offset": "0x39d",
+    "originalHex": "7d95d2b3180a9aaed0015094a497a4b7a5a4f59fb65f0150aed0aed09b9199a3d0509499b8a85f7e017d96f5a35099a81895a9015018fdbbf5a29bae925f5c7e01",
+    "segments": [
+      {
+        "text": "「如果輝夜姬大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不幸過世……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就會發生可怕的事……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「這個世界一定"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "會就此毀滅……！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 10,
+    "offset": "0x3df",
+    "originalHex": "7d99929ba25002a09abda501501adcf5a2509c999b50182918179bae9b9f5f7e01017ddaf5a25002a09abda8501af4a9015018c296193f1a60a8b592a45019e8bc0150929ba4f5a25091ae9dbdb2a85c7e",
+    "segments": [
+      {
+        "text": "「能這樣見到"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就稍微安心了些……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「因為"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生的眼裡，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "依然有著"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "藍色隕星般的光芒！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 11,
+    "offset": "0x431",
+    "originalHex": "7d02c9a95019269bda9850afb691bc015092b6a49299a3d050be96ae9ca85c7e01017d02a09abdd0501a211a22bc0150b5afd093b69db899a3b2015092b6a4f5a250af9dae9b9f5c7e017da4a8a55018c296193f1a60d05019f4a0b8a396bc01509fda9b975092b6a49299a3d00150dd929ba2b250be96a491a8be9c5c7e",
+    "segments": [
+      {
+        "text": "「我能夠占卜"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一點點未來的事！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生讓鳳凰"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "復活的事情，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我也占卜到了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「可是藍色隕星落下的時間，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我卻怎麼樣都"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "無法準確占卜出來！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 12,
+    "offset": "0x4b0",
+    "originalHex": "7d02a09abd5c5090a49fa9015092b6a4919cb601509993a29bae92a8be9ca75c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！您竟然"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "連占卜的結果"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "都能夠超越呢！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 13,
+    "offset": "0x4d2",
+    "originalHex": "7d188c181ca8509adab1b850a399baaebe015097b89150a9d6b1ae9b9f5c7e01017db2a9b35002c9a8015092b6a491a8501816a4dd015094b5e0e197b25090b7ae9dbdbb5c7e",
+    "segments": [
+      {
+        "text": "「就連天道安排的命運，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "也開始失去秩序了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「如今憑我的"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "占卜能力，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "根本無法預知啊！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 14,
+    "offset": "0x519",
+    "originalHex": "7d95d2b3180a9aaea9501892a819a019b3a81a83be015018dba550a3d699b1b6b9a201509497b69ba850b592be9c5c7e017d19a019b3a890b8d6be5090b7a4d0b60150a3b6bbb9a818b2daa4bda2015094919fbb9b915095d2b3180a9aae5c7e",
+    "segments": [
+      {
+        "text": "「輝夜姬大人似乎"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "被鬼族囚禁，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一直住在月宮裡！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「明明是宮殿的主人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "卻成了階下囚，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "真可憐啊，輝夜姬大人！」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 15,
+    "offset": "0x57a",
+    "originalHex": "7d9f9ed0b9a819eed001501ad9a819ac19d9daa3509192a8be9c955b7e01017d1ad9a8b592a4509f9b95a4b2a8a501509f9ed0b9a819ee50a4dda391920150a995a49119acbc50a198b8be9bf892955b7e",
+    "segments": [
+      {
+        "text": "「您說黃昏之夢，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "是一顆石頭的名字？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「像石頭這麼實在的東西，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "會取黃昏之夢"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "這麼虛幻的名字嗎？」"
+      }
+    ]
+  },
+  {
+    "name": "moon-princess-history",
+    "pointerOffset": "0x70270",
+    "index": 16,
+    "offset": "0x5cc",
+    "originalHex": "7d95d2b3180a9aaea85018b2a50150b29bb2a899a3d05090b9de5099a81895a901509f91acbda499a3a550a4b7ae9c5c7e017d02a09abd5c50dd9295015095d2b3180a9aaebc5094195b9802c55c7e01",
+    "segments": [
+      {
+        "text": "「萬一輝夜姬大人"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "遭遇不測，這個世界"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就會發生大事！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "請您務必救出輝夜姬大人！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "battle-commands",
+    "pointerOffset": "0x7000c",
+    "index": 8,
+    "offset": "0x70e7e",
+    "originalHex": "9cb2921842",
+    "source": "すもう技",
+    "translation": "相撲技"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "status": "native-verified-scope-only-not-released",
+  "inlineMenus": [
+    {
+      "name": "party-formation",
+      "start": "0x1f26a",
+      "end": "0x1f2ff",
+      "target": "0x236100",
+      "pointerOperand": "0x1f25c",
+      "bankOperand": "0x1f263",
+      "entries": [
+        { "offset": "0x1f27c", "originalHex": "1a16195f", "source": "順番", "translation": "隊列" }
+      ]
+    }
+  ]
+}

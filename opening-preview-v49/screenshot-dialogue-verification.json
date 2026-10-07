@@ -1,0 +1,4044 @@
+{
+  "targetSha256": "43b4ec17a8db4eacb78876ff9d04f8314bba85b06a70833997b829743002b2ee",
+  "status": "passed",
+  "exactCandidateRecordsVerified": 41,
+  "scenes": [
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 189,
+      "words": [
+        "呵呵呵",
+        "先生",
+        "你的動作",
+        "看起來只像",
+        "在天空翩翩飛舞的蝴蝶"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/battle-events-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呵呵呵": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 140,
+          "y": 80
+        },
+        "你的動作": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "看起來只像": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "在天空翩翩飛舞的蝴蝶": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "f8490d27b1d0fca9cb3cbe7fcd3bd96c5a5d5f2d7884a81d571eea4d85ca4fe6"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "9152c3d58c2d4f00586998f0118bcc1d15f849a7779f3e506d286e015e2c1ce2"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "571bf28337fc1d762692a6e9b083d3f3410ce3eba045a6313ff7a46c19f9e27e"
+        },
+        {
+          "filename": "frame-1200.ppm",
+          "sha256": "cfc9c2bc2410b24b889d305b7a84d2309bfea75c5395ba3bd6a2fc7f90b1775e"
+        }
+      ]
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 192,
+      "words": [
+        "呵呵呵",
+        "堅持不懈",
+        "和死纏爛打",
+        "意思可不一樣喔"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/battle-events-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呵呵呵": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "堅持不懈": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "和死纏爛打": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "意思可不一樣喔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "f8490d27b1d0fca9cb3cbe7fcd3bd96c5a5d5f2d7884a81d571eea4d85ca4fe6"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "1734857afb42ae2950d85435f0835f5bde4a74cdcd2e0e5536c9290ce6d0aac5"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "8519f486d188efbd0ad22270fff62528d029b17722e7d261c8cba7e0f3d3632d"
+        }
+      ]
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 200,
+      "words": [
+        "怎麼可能",
+        "荒唐",
+        "騙人的吧",
+        "如此美麗的我",
+        "戰敗",
+        "我不承認",
+        "怎能承認",
+        "要我使用那個術",
+        "這樣的對手",
+        "我從來沒有遇見過",
+        "你們",
+        "究竟",
+        "咿咿咿",
+        "你們讓我亂了方寸",
+        "看阿修羅的渾身絕技",
+        "玫瑰吹雪之術"
+      ],
+      "frames": 16200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/battle-events-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 247,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎麼可能": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "荒唐": {
+          "frame": "frame-1260.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "騙人的吧": {
+          "frame": "frame-1500.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "如此美麗的我": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "戰敗": {
+          "frame": "frame-1980.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "我不承認": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "怎能承認": {
+          "frame": "frame-2460.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "要我使用那個術": {
+          "frame": "frame-2700.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "這樣的對手": {
+          "frame": "frame-2940.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我從來沒有遇見過": {
+          "frame": "frame-3000.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你們": {
+          "frame": "frame-3000.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "究竟": {
+          "frame": "frame-3060.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "咿咿咿": {
+          "frame": "frame-3240.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "你們讓我亂了方寸": {
+          "frame": "frame-3300.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "看阿修羅的渾身絕技": {
+          "frame": "frame-3540.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "玫瑰吹雪之術": {
+          "frame": "frame-3600.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "df1b0632f6e8e810096a9764d165ed55b226c2d26ef018297c833a74c47fd462"
+        },
+        {
+          "filename": "frame-1260.ppm",
+          "sha256": "22577a1dd22744d6e8750d6a48044a905cd58471a265b48ec5e3f0101d06c774"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "e85413227d32983558d814f901948b22f7a6be5fcf3737edde16969285cffc1f"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "176a97cbe8b698683d25ec48651cc16fea0bdb083768f881688bceb6c39a8e3a"
+        },
+        {
+          "filename": "frame-1980.ppm",
+          "sha256": "49b7e533f9b2e79fd1c3de68f5a8096e59b8e92075ceab060172ff38af7b4c7e"
+        },
+        {
+          "filename": "frame-2220.ppm",
+          "sha256": "b4102e3f72e16ed89dd4d7df86ebff511171e6f59553f23d5fed5f01946af52e"
+        },
+        {
+          "filename": "frame-2460.ppm",
+          "sha256": "caa9c63a9c9ba26aa9afb31e739e5f5e50780817839f59be157fec8e81c3f0f7"
+        },
+        {
+          "filename": "frame-2700.ppm",
+          "sha256": "199839391d73aeb9e0c8f79ce6c9f47d9f76a2d1fa094dfb63dab7bac9747303"
+        },
+        {
+          "filename": "frame-2940.ppm",
+          "sha256": "a5523fdc2b845920b16fe39b5f29b4e171544b6780266fc6b5d3c20f59e908d6"
+        },
+        {
+          "filename": "frame-3000.ppm",
+          "sha256": "a7c057ffec8093ccf4ca40d1d302d5eafc7f806de3a3963ef9205ffeb3c8da50"
+        },
+        {
+          "filename": "frame-3060.ppm",
+          "sha256": "7a77df650d15d5caec59cb1a93937f336b95252c45c36dcc651b8aa7573f2d8c"
+        },
+        {
+          "filename": "frame-3240.ppm",
+          "sha256": "6ad6f3a109636f4774ec4d41308413bb61e506c564c39862535bffde67a9a0c8"
+        },
+        {
+          "filename": "frame-3300.ppm",
+          "sha256": "a1e377bca130db201d134d940b1d93f49eaa2376f4d548d692f11e24bdadaf01"
+        },
+        {
+          "filename": "frame-3540.ppm",
+          "sha256": "c52ca0bc5fddb59230489fa3465d7e294568c419d9527ac42f7a55b72518d7ba"
+        },
+        {
+          "filename": "frame-3600.ppm",
+          "sha256": "781e773c74a919d2e48013d1ac7755600381904d3a6db042e1d6e55f4f1b2d20"
+        }
+      ]
+    },
+    {
+      "name": "karura-weight-gate",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅",
+        "喀喀喀",
+        "沒想到你們",
+        "連阿修羅",
+        "都拉攏過去了",
+        "用了什麼手段",
+        "錢",
+        "女人",
+        "土地",
+        "你為什麼在笑"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x7018f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-weight-gate.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 55,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "喀喀喀": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "沒想到你們": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "連阿修羅": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "都拉攏過去了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "用了什麼手段": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "錢": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "女人": {
+          "frame": "frame-1680.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "土地": {
+          "frame": "frame-1680.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "你為什麼在笑": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "64ddee21ea8713ff8e9bc661a9b5151e2583ae838509f88da6569ceecb69d23d"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "1299ce212e4eae1a83e3d8c2cc311321ba9fbb4e2fbd49fabb5d719d20420378"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "a8857bf62de084e92945ca5e249b99c91a751aace7037212618ea3b00cfd54bc"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "c570de0681808a01978c2223436c80a84050e4098196ae9329c11efc03354982"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "21d65e4ab942d1148ea62baa4744605542ed134d93d1fa118a350cb22b08ec02"
+        },
+        {
+          "filename": "frame-1620.ppm",
+          "sha256": "f043453298a495fce2d5d95f857ea6661e14700dc9fc2a245ff7bc8401ca048e"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "530114bb8780fd7387a26b31c9269fd4c7240c8379438f8daf2991f264e245c2"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "e7f90e527a73aa70ae3530820bebf36f55a1e8173b1998efcc221c366159ee9e"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-snow-rescue",
+      "firstIndex": 0,
+      "words": [
+        "啾啾",
+        "有個女人",
+        "倒在雪地裡了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70264",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-snow-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啾啾": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "有個女人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "倒在雪地裡了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "8142ad9ea0e87a4f9197ff6460015064c44bdbb7921e52234b455a2b0576c3d7"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "39322eea69c56842bbe53539abe27a63966f17c013778c8a99b7ada7c9ae1e1d"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 0,
+      "words": [
+        "龍鱗啊",
+        "以我的本領",
+        "能否煎好這藥",
+        "真令人擔心"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍鱗啊": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "以我的本領": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "能否煎好這藥": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "真令人擔心": {
+          "frame": "frame-1140.ppm",
+          "x": 116,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "5d9382d03b6c479c91678be8920c054fab64de30c8532fb8d43e1daab7d3d19f"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "e82ad1a87c3788849e13d77df8c66c9323947c161407339f9ef3c4e607e43a11"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "635c47b2afd209349cc8ab3bfbc8449a98cbbc0817cc1ffa684bacf92733162c"
+        }
+      ]
+    },
+    {
+      "name": "fukuryuu-trial",
+      "firstIndex": 0,
+      "words": [
+        "吼",
+        "欲將吾從永恆沉眠中",
+        "喚醒的渺小之人啊",
+        "吾名伏龍",
+        "遵循古老的訓示",
+        "守護龍鱗之人正是吾",
+        "汝等小小的手中",
+        "可曾掌握真正的男子氣概",
+        "與友情",
+        "若是如此",
+        "就在吾面前",
+        "展現汝等的力量吧"
+      ],
+      "frames": 6600,
+      "pointerOffset": "0x70204",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/fukuryuu-trial.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 83,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "欲將吾從永恆沉眠中": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "喚醒的渺小之人啊": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "吾名伏龍": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "遵循古老的訓示": {
+          "frame": "frame-1800.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "守護龍鱗之人正是吾": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "汝等小小的手中": {
+          "frame": "frame-2100.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "可曾掌握真正的男子氣概": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "與友情": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "若是如此": {
+          "frame": "frame-2460.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就在吾面前": {
+          "frame": "frame-2460.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "展現汝等的力量吧": {
+          "frame": "frame-2520.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "d581fae01426d2f932dc4382d57981f23b393914554a7fef1d5699b149ceb339"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "2be5536fa0c842c340737576d9bcc2722b424b1c0069e0a1b82a47b61829853f"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "334d39960156c2d19e1eb899067689b056a50c5a6528fa0d243efacc466b599f"
+        },
+        {
+          "filename": "frame-1560.ppm",
+          "sha256": "12c2529755a0677a54e502e014083400e2b40381f7170520841d69d078b874c3"
+        },
+        {
+          "filename": "frame-1800.ppm",
+          "sha256": "993aa4012512eb937bfb3b24ad844efbe712c46c44d2313dcce99121233cc8f9"
+        },
+        {
+          "filename": "frame-1920.ppm",
+          "sha256": "07927436b3837eb2cf4d535b0fa5c2da4974b15039bc22d77b000b8fb312cc5f"
+        },
+        {
+          "filename": "frame-2100.ppm",
+          "sha256": "29f13b4ee253fc2eab62e6c1d347e1d678d3b175cf0a3fe4d09991da7a12d65c"
+        },
+        {
+          "filename": "frame-2220.ppm",
+          "sha256": "8e23bb4f42eb2d58b5d924fbba7f73de61aab6e9463cfb27ac7a1390dee8591e"
+        },
+        {
+          "filename": "frame-2460.ppm",
+          "sha256": "ca5287bfcba7285fbb78ec2c8cf34572d2fd75b53e50e1d4223605eff77684c3"
+        },
+        {
+          "filename": "frame-2520.ppm",
+          "sha256": "0f10b767767ff189528b137a7632f540ce22627f3bec0831056c91a03cae808c"
+        }
+      ]
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 0,
+      "words": [
+        "蛇骨婆",
+        "嘿嘻",
+        "你可來啦",
+        "迦樓羅大人告訴了我",
+        "一件天大的好事啊",
+        "只要吸食人類的鮮血",
+        "鬼族就能返老還童呢",
+        "你的鮮血",
+        "看起來真美味啊"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 66,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蛇骨婆": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘻": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你可來啦": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "迦樓羅大人告訴了我": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "一件天大的好事啊": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "只要吸食人類的鮮血": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "鬼族就能返老還童呢": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你的鮮血": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "看起來真美味啊": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "414ec63f3844ad0ece0258b3d8cc1fa6496fff8d4ea36d76e142ec5cb4c4f3d2"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "0cdb4c63789e60ae9dea19fecf0933bdda358738568b154a2362763e20a8479d"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "06a31d2ef45e97487f6e2a7ae649b40bea334f79cfa301d0043264a73dff9d2b"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "5ec0c6930d59dc9914eb1543cb94e0a47a9ba9a6acb56848b9685e54f6d6559e"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "1beb593a6e8a37bac5cae2ca4de0a9e15847eb9dc765e5e96dc358ea3b850580"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "4fba24c8331d9a9c702ce99d50e5fe2db0556d89bb7efc3714b7b405cba3ce33"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "59fc5620e4e0d323b56a922791a66d71a036f326de3eb16662ad6dc9e343eeb9"
+        },
+        {
+          "filename": "frame-1980.ppm",
+          "sha256": "74f516cb9033f69a9ab0f9dda4e2fc40273d3040e61127eb539f1cb0b8f7c826"
+        },
+        {
+          "filename": "frame-2040.ppm",
+          "sha256": "745015a22e96310f0d61728b71c5779bb9c0e56204694934742d25049c190ec0"
+        }
+      ]
+    },
+    {
+      "name": "hell-secret-passage",
+      "firstIndex": 0,
+      "words": [
+        "這裡就是密道",
+        "接下來都是毒沼",
+        "要善用浮游之術",
+        "看來迦樓羅正暗中",
+        "設法取得",
+        "水軍的力量",
+        "查到詳情後",
+        "我會再通知你",
+        "不過",
+        "地獄的戒備已變嚴了"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x7021f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-secret-passage.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 59,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這裡就是密道": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "接下來都是毒沼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "要善用浮游之術": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "看來迦樓羅正暗中": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "設法取得": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "水軍的力量": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "查到詳情後": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我會再通知你": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "不過": {
+          "frame": "frame-1740.ppm",
+          "x": 116,
+          "y": 104
+        },
+        "地獄的戒備已變嚴了": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "8bf50fc06f9f4c2e559ed376adb53757f2154218f5b9080df710942ef259c860"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "91eaf38522cab194c3b6b64d1e4b06f2ed61d1efb80570ad2e63107084432ee7"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "ed7d1e401a48de72c3a25a00a36d27321c71a1125640689cbe2cacf88d013db1"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "bbb44ff5d476ac03aa49f30dd2b68fb8ff5fcf19eb20af14562e1ab77ed1d15a"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "762d24b0df6c5e4ddc54c003369b18b829194da67982a483b3d02b262d874ad7"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "b90cda9e069833601abc4bc3b553c0e94595cc3380750270d8a086b2017a39ef"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "fe0b3946673103d0880913d0f85e0d3f660cb77d17508e27569c2cc81baa33df"
+        },
+        {
+          "filename": "frame-1800.ppm",
+          "sha256": "03657a8a01ad322917a0028fbadec649339f38ed753c54ccaf37d09e1ffced11"
+        }
+      ]
+    },
+    {
+      "name": "karura-weight-gate",
+      "firstIndex": 2,
+      "words": [
+        "迦樓羅",
+        "什",
+        "什麼",
+        "你說什麼",
+        "不",
+        "不可能",
+        "你們難道",
+        "完全不求回報",
+        "就採取行動嗎",
+        "別開玩笑",
+        "哪有這種傢伙",
+        "那我就來考驗你們",
+        "這扇門設計成",
+        "只要４８公斤的人類或鬼",
+        "站在前面就會打開",
+        "一個人也行",
+        "兩個人",
+        "三個人",
+        "四個人也會開",
+        "體重４８公斤",
+        "動動腦筋再來",
+        "我就替你們開門",
+        "要是你們不能",
+        "真正同心協力",
+        "就解不開這道謎題"
+      ],
+      "frames": 7800,
+      "pointerOffset": "0x7018f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-weight-gate.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 105,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "什": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "什麼": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "你說什麼": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "不": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "不可能": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "你們難道": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "完全不求回報": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就採取行動嗎": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "別開玩笑": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "哪有這種傢伙": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "那我就來考驗你們": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 88
+        },
+        "這扇門設計成": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "只要４８公斤的人類或鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "站在前面就會打開": {
+          "frame": "frame-2340.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "一個人也行": {
+          "frame": "frame-2580.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "兩個人": {
+          "frame": "frame-2580.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "三個人": {
+          "frame": "frame-2640.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "四個人也會開": {
+          "frame": "frame-2700.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "體重４８公斤": {
+          "frame": "frame-2880.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "動動腦筋再來": {
+          "frame": "frame-2940.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我就替你們開門": {
+          "frame": "frame-3000.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要是你們不能": {
+          "frame": "frame-3240.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "真正同心協力": {
+          "frame": "frame-3240.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就解不開這道謎題": {
+          "frame": "frame-3300.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "64ddee21ea8713ff8e9bc661a9b5151e2583ae838509f88da6569ceecb69d23d"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "8bd0ca84b09d3d95b169b8ba758009ecbaae2362e691dc097d923b093464e172"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "43850ece7234eef9a8e501ec985f2347001c782e82e0473e9a986f7a3297a824"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "ab05780184fb46944b38d6c358bd0bba15ddc9968527bfb5b55ebe34bc032e8b"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "8051d63c33e541c56e4cc0d4c61e07cc52d13a0a4dacc558fbe1a3934190a8af"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "b20582ebff0293185b585937d69c70721cbdfb9d3adab3ed029a926d972187dc"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "287226e6ebef93c5119263cc1fb935f5a14953ac53d98b32262f5f6fd6903bce"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "f199e673fa6398441e7f14536c833f561ec538f64f0f52e5cf7e1eaf1f0ff3ec"
+        },
+        {
+          "filename": "frame-1980.ppm",
+          "sha256": "49725260ba64391a2138cec4999d2a282c420513fef4e6600a34673ab691ec59"
+        },
+        {
+          "filename": "frame-2220.ppm",
+          "sha256": "68894c9fbcd55d224939c4248fab4faa53dee6acb4e570865b58d5b5d535e815"
+        },
+        {
+          "filename": "frame-2280.ppm",
+          "sha256": "48351b3a04b9ec3a17c63c25be8b966b9135efe397974d6cc6f40a6529f111af"
+        },
+        {
+          "filename": "frame-2340.ppm",
+          "sha256": "83b86133c8a1ed1c6b7657d6072b63b876862ac0e7bb3466324fe4f8f5d89574"
+        },
+        {
+          "filename": "frame-2580.ppm",
+          "sha256": "7d22b63b5c4e5a1efa4e794928c1d58df5089ba037bdef84bb283d0db01a17e9"
+        },
+        {
+          "filename": "frame-2640.ppm",
+          "sha256": "c1bf7f042b39fcbaa90f47a501ea4bc655c989fbefe30131e747d35d0ee3977a"
+        },
+        {
+          "filename": "frame-2700.ppm",
+          "sha256": "80489579dd3ab1afaab2996fd354f245e524931433a80667def15fa8d2bf490b"
+        },
+        {
+          "filename": "frame-2880.ppm",
+          "sha256": "239a00d727ea3ba22c79b48c78e54caabad320f5f3df0c801a0c1c0f135d5d56"
+        },
+        {
+          "filename": "frame-2940.ppm",
+          "sha256": "48f454804bb3614302d0241c016616b0fc6ed4592dedc2160bf2dee9921d35db"
+        },
+        {
+          "filename": "frame-3000.ppm",
+          "sha256": "b651888814aaf04cd38e2e057ba3471752264ad4b803e0970b020c09c458423d"
+        },
+        {
+          "filename": "frame-3240.ppm",
+          "sha256": "c843cd065c2c04f9c6441c3108776e1584d3a4b45685a1f2bbf0d71be04a44df"
+        },
+        {
+          "filename": "frame-3300.ppm",
+          "sha256": "7838397f017213077f038136c37c92ffb443408bde4c0a17cbb72577422c1fc1"
+        }
+      ]
+    },
+    {
+      "name": "mashira-pun-contest",
+      "firstIndex": 11,
+      "words": [
+        "拜",
+        "託",
+        "樂",
+        "師",
+        "教",
+        "他",
+        "不",
+        "然",
+        "那",
+        "歌",
+        "喜",
+        "歡",
+        "先生",
+        "沒聽清楚嗎",
+        "我再說一次",
+        "拜託教訓猿樂師吧",
+        "不然我都快要",
+        "喜歡上那首歌啦"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x7012c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/mashira-pun-contest.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 57,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拜": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "託": {
+          "frame": "frame-1020.ppm",
+          "x": 72,
+          "y": 80
+        },
+        "樂": {
+          "frame": "frame-1080.ppm",
+          "x": 100,
+          "y": 80
+        },
+        "師": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 80
+        },
+        "教": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "他": {
+          "frame": "frame-1080.ppm",
+          "x": 60,
+          "y": 96
+        },
+        "不": {
+          "frame": "frame-1140.ppm",
+          "x": 84,
+          "y": 96
+        },
+        "然": {
+          "frame": "frame-1140.ppm",
+          "x": 112,
+          "y": 96
+        },
+        "那": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "歌": {
+          "frame": "frame-1140.ppm",
+          "x": 60,
+          "y": 112
+        },
+        "喜": {
+          "frame": "frame-1200.ppm",
+          "x": 88,
+          "y": 112
+        },
+        "歡": {
+          "frame": "frame-1200.ppm",
+          "x": 116,
+          "y": 112
+        },
+        "先生": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "沒聽清楚嗎": {
+          "frame": "frame-1440.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "我再說一次": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "拜託教訓猿樂師吧": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "不然我都快要": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "喜歡上那首歌啦": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "7114bbd714bb351ef294246c6b9d5abddf6779f11db8469c9596c0743191059b"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "fb467d2e1dffde2aa347e14212125023261ce69c7dcff194fac0f48ae5165d16"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "cce7be5f7bae103800ba67f3747ba98f61d56ed0ac8af92f6f5882a4a3ec5f41"
+        },
+        {
+          "filename": "frame-1200.ppm",
+          "sha256": "88cabc2b9f4bebc174028fc2d4914aa46203bb6bedbd4037d916ec626c6ff7b2"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "c8fb83d638708699626ca7617f4dea8ed78013588fb5ac959e6588534446adcf"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "1e856f6a0eb874a2427b57fae11c1a38279e98096a12a96693990403a675df89"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "0b800d3621ca85dbb2af952aea3eac02db6458b2ae46e6984e4d52bf8c89db6e"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "d715becea20076f31751db5498bd3f7bf8b242fddc2ac812ca6f0bfc4a19c8ca"
+        },
+        {
+          "filename": "frame-1800.ppm",
+          "sha256": "c46ff8f6d81eafa83ffba74a8b79824038e1bbc5de743f1ca689752b595d3ce1"
+        }
+      ]
+    },
+    {
+      "name": "mashira-stage-tournament",
+      "firstIndex": 16,
+      "words": [
+        "嘿",
+        "謝謝大家今天又來到",
+        "天使猿樂師與",
+        "藍猴群的舞台",
+        "各位",
+        "今天也要",
+        "留下美好的汗水再回去喔",
+        "在演奏第一首之前",
+        "想不想聽聽",
+        "我輝煌的經歷呀"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x7012f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/mashira-stage-tournament.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "謝謝大家今天又來到": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "天使猿樂師與": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "藍猴群的舞台": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "各位": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "今天也要": {
+          "frame": "frame-1740.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "留下美好的汗水再回去喔": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "在演奏第一首之前": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "想不想聽聽": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我輝煌的經歷呀": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "5a06dd2670eef51b8e6453c4cc3dcc75f72e372629722a297d7ec8d86c6566a1"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "3a1e8d4db44bc657a40c3f3d4c57c8ca850d2bdc8933b7ebf6b21efdecf31a52"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "fe69b23234e890be19ef029cb7b61c359f1f24c450c5d4f4713f5a0590a4a505"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "2c8303c4aa20671a071d582a441cb14a79e0194f1b0fbfb8fd3fec976645aebe"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "c0008d46b3d9a06b76a27c7c29a9f837dde5870b4c62bd5162695675be6472e9"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "87d652284945bd71bb43611e489e49a3ad872a275c93b7096237cc9940241b23"
+        },
+        {
+          "filename": "frame-1800.ppm",
+          "sha256": "f9e53647df7673358cb297810f8b615442b731196f3d10a29de614b98f0a9c10"
+        },
+        {
+          "filename": "frame-2040.ppm",
+          "sha256": "25d6b239be2491e8df8e58f57a9d081850d4532eebc5b6ba518ad22a32e5b468"
+        },
+        {
+          "filename": "frame-2100.ppm",
+          "sha256": "941ae34784fd1aa1858ca8d1b7cebbb80d8e107180570b00e0230a17e5b1c704"
+        },
+        {
+          "filename": "frame-2160.ppm",
+          "sha256": "0cb5711b0613f0cd0d6cbb4c2a5d0353ed9854caa4b2b2db2df7015a0f96c067"
+        }
+      ]
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 16,
+      "words": [
+        "像我這種小嘍囉",
+        "就算講迦樓羅的壞話也沒事",
+        "大人物可就麻煩了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "像我這種小嘍囉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就算講迦樓羅的壞話也沒事": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "大人物可就麻煩了": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "04cb5a469762dd3dec5f17e12107ae32276a3c7c26aac1223eec5ecd1ac12e44"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "b86a691f2731695b2c2b2bb206cea5449ed27ea04f5efa0b837cd8dc2e164393"
+        },
+        {
+          "filename": "frame-1200.ppm",
+          "sha256": "c0c8664605ac381d45386fc4be4b507519e898cde3d50d8dbf36345d3c4c1488"
+        }
+      ]
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 16,
+      "words": [
+        "金太郎",
+        "太過分了",
+        "實在太過分",
+        "俺這次可是真的生氣了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "太過分了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "實在太過分": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "俺這次可是真的生氣了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "2bccd06cc1827fbdf0de95acdb2cbca06f2fa54386ce8626eeacb9d8758d5e09"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "d5030998163db9ac7cdcb68035e77d9ec9d695b963c381c6b1905baf26ab0fa2"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "b0de1f2829e54a60f79865c5ec11507bb229ea94dd389c0cfe93da07e798152e"
+        }
+      ]
+    },
+    {
+      "name": "gods-village-hints",
+      "firstIndex": 4,
+      "words": [
+        "嘿",
+        "要好好做人啊",
+        "當政治人物",
+        "１０歲就可以",
+        "投票權要６０歲才有呀"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70198",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/gods-village-hints.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "要好好做人啊": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "當政治人物": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "１０歲就可以": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "投票權要６０歲才有呀": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "8a130dac7f832bc2f15f0cbde5a39237356a715320bb2cccae29f305031602da"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "0772e0aa1e5dbff42738a5feb3f8941eddacc3ef20b38600eef72461b5a459e9"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "6a071b860865150dd22c50e66ae5ddde8c7e3c70afdbfc750264081cb17424ac"
+        },
+        {
+          "filename": "frame-1200.ppm",
+          "sha256": "e7e684c04fb291b5b78325623e048f7a96779dda0f0a27a8830723c9883b77f1"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-snow-rescue",
+      "firstIndex": 4,
+      "words": [
+        "銀次",
+        "是小的",
+        "小的是銀次啊",
+        "果然",
+        "那不好的",
+        "預感成真了嗎",
+        "小的一直心神不寧",
+        "所以追著趕過來了",
+        "先生",
+        "總之",
+        "先把夜叉姬",
+        "送到那邊的旅店去吧"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x70264",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-snow-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 65,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "是小的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "小的是銀次啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "果然": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "那不好的": {
+          "frame": "frame-1320.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "預感成真了嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "小的一直心神不寧": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "所以追著趕過來了": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "先生": {
+          "frame": "frame-1920.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "總之": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "先把夜叉姬": {
+          "frame": "frame-1980.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "送到那邊的旅店去吧": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "b343dda40497ebb40641be1f3f0f05dff7e9aa13e5781ef951e616befd650d25"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "014938f6d99dd3a13f8b52d1ed8b462ac6f6fefdee28477e5e755295e9f17b4a"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "fa60c2e45290d1058f0ebd1b3eae4c1ee75fee622bcf11058c293eab786dd173"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "ce0b26d681ed1941f2323f06f3ce6caaeb2b77adaa47c61d581067ae64776801"
+        },
+        {
+          "filename": "frame-1620.ppm",
+          "sha256": "06c164d61f8ae1f47db882d30bb0738166a72957dfdcc40cbbe101005b2707f4"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "e8f84f80fca7b34cd46d62b92a8d33cb3414f9a364efdd4f9caeb152df2998f4"
+        },
+        {
+          "filename": "frame-1920.ppm",
+          "sha256": "299d85ca42cdc32c517faf29c64a51c1e4948f6d2b24ec5069a160eda89a0575"
+        },
+        {
+          "filename": "frame-1980.ppm",
+          "sha256": "c63f40a7e102059839a1d16aac1f1b6d2f0f28336e3c14856085506eb4e417f5"
+        },
+        {
+          "filename": "frame-2040.ppm",
+          "sha256": "98d8cf3da4d212287ef587c68e8943c796b6f66877949c885e84dfcd6b61b0ee"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 4,
+      "words": [
+        "醫生",
+        "唔",
+        "要保住她的命",
+        "恐怕很困難"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 47,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "唔": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "要保住她的命": {
+          "frame": "frame-1260.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "恐怕很困難": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "20aefed0ddeed1afa9795496b6d882d2e22ad9da976de53777fa159a3ae05295"
+        },
+        {
+          "filename": "frame-1260.ppm",
+          "sha256": "ba77734745f6a9d87da23c5be712e504e3adbf690a8f67c7505e38ebb668d863"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "400e038a711b281fa0c9d74f0c5567a1bfbaf866d75bc50a58ddbd646dc34b26"
+        }
+      ]
+    },
+    {
+      "name": "raijin-companion-rescue",
+      "firstIndex": 4,
+      "words": [
+        "不",
+        "別著急",
+        "只是讓",
+        "大意",
+        "好讓你趁機打倒他"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7020d",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/raijin-companion-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "別著急": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "只是讓": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "大意": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "好讓你趁機打倒他": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "cf9ae4b966693461bc963d79395b929603a6efa9b825dc4f9aca9403110681e3"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "4de7b24077697208783abb03d326f18b381ac4e369a7b43fae9e979e56872e96"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "3ef8227f3801bef40c8d4d80cc77b695e55e9ec3c24f53ea1fcd795caaa4f8d0"
+        }
+      ]
+    },
+    {
+      "name": "gods-village-hints",
+      "firstIndex": 1,
+      "words": [
+        "嗚嘻嘻",
+        "我可不會",
+        "加入人氣不高的人",
+        "所帶領的隊伍",
+        "你現在的",
+        "人氣是",
+        "嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70198",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/gods-village-hints.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 49,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚嘻嘻": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我可不會": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入人氣不高的人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "所帶領的隊伍": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你現在的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "人氣是": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 78,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "50ed34eb71b9e397f87d1b0543899e7ccb5b9275ea2fb91db351e1805fd80e44"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "5425bb05956bdc3ed5b6eb47db4da1b46c85525538aab7c1469d0a6fdbf19492"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "e1511579e67b20a47c2ec971351600e421933578aa602c30772b153c5c1d870b"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "09d79612d89b4c9653a0d39fa2223397eedc2fc0f9e20261ea9a26cdbd84c11c"
+        }
+      ]
+    },
+    {
+      "name": "castle-interior-companions",
+      "firstIndex": 97,
+      "words": [
+        "唔",
+        "俺",
+        "會努力不睡著"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7015c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/castle-interior-companions.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "唔": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "俺": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "會努力不睡著": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "705cc48eedcac1924e9586b406b9760749ada8a86c4ad17a6c8b7e72bf04f9dc"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "968542c39ed996d4f69c26c2cf3a1ad7c15b09cc395cfbdc9dc64bbe9fcf779a"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "c99cb45bc507fef8c22b4fb832343238b29236e035b2dd699a1528f6065e72fc"
+        }
+      ]
+    },
+    {
+      "name": "castle-interior-companions",
+      "firstIndex": 75,
+      "words": [
+        "俺也想和",
+        "先生一起討伐鬼族呀",
+        "啊啵"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7015c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/castle-interior-companions.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "俺也想和": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生一起討伐鬼族呀": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "啊啵": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "0a4da559537d44c2e9c956d4ee14ccec3e434079703a789d68e184396035b526"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "91cbc2d74bb88ca2675406ea663fd83c8eadcefc6da618a23d89478d5df04507"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 5,
+      "words": [
+        "銀次",
+        "先生",
+        "是我呀",
+        "我問過不少人",
+        "但大家都不太清楚",
+        "鬼族的身體呀",
+        "不過",
+        "前面有個",
+        "叫伏龍洞窟的地方",
+        "聽說呀",
+        "只要取來那裡伏龍的",
+        "鱗片煎成藥喝",
+        "就能治好她"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "是我呀": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "我問過不少人": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "但大家都不太清楚": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鬼族的身體呀": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "不過": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "前面有個": {
+          "frame": "frame-1620.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "叫伏龍洞窟的地方": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "聽說呀": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "只要取來那裡伏龍的": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "鱗片煎成藥喝": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就能治好她": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "35df323bab81a85497c608b45301fde5164133561e542107a1a5b8bccfc28854"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "90379caad9716cef64b6547671ee9f8b344e1ebad87a410a3df0815262e10530"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "2686a0eb342eba3a54ad58f3acff51b1e9cae5107aec562398c38aaa40e57fdf"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "5df254c0a13a2882b6458fb03ad327c62b1ae411e24196783dcd59c64d31549f"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "b17912675e3aad1a1aa10483665b75432b8c2faea768eba86b1bc3acfa6fad25"
+        },
+        {
+          "filename": "frame-1620.ppm",
+          "sha256": "302413fc7eaf88cee24c84bcd8a7ce4cdb92c789bb7761ee4c796ab81a85290b"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "5bf01203e890411ddc1fcbe76df94ec61bd2913c07a0c5aac1768253ab8bbded"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "505a0018da10662a895f6123c5ca15ec3d4788580d39e77ad52e94d54eca99d7"
+        },
+        {
+          "filename": "frame-1980.ppm",
+          "sha256": "122fd254ef3cd348ff29275bf8df6d65cbdff9ae3c08a2885db7750e0787e456"
+        },
+        {
+          "filename": "frame-2040.ppm",
+          "sha256": "619003403f0c536c5f1d44a74fb684c4bc866b5f7c4153ed894cd41b5d85dd99"
+        }
+      ]
+    },
+    {
+      "name": "hell-prince-and-prisoners",
+      "firstIndex": 5,
+      "words": [
+        "夜叉姬",
+        "達伊達哥哥",
+        "快清醒過來吧",
+        "現在的地獄走錯路了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70207",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prince-and-prisoners.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 48,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "達伊達哥哥": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "快清醒過來吧": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "現在的地獄走錯路了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "432f4bcc043189a88c637b8908b8ad3b33bda7151b8c14aaa2b05bd63f6ee92b"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "b4c2ab58e66ea8598a6493689c8a2840d7dd67f11db1654511af5b26a735c7ae"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "ec2e4b32c1b167bd3bfba59c99bec50dcf4605b751b36c585848eee0f5caef4e"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "cbb829530da5b67d5dc87c36ec532cccd556a31785d9c67ede62ae69b237e690"
+        }
+      ]
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 5,
+      "words": [
+        "迦樓羅",
+        "人類這些傢伙",
+        "最適合待在毒沼裡了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "人類這些傢伙": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "最適合待在毒沼裡了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "64ddee21ea8713ff8e9bc661a9b5151e2583ae838509f88da6569ceecb69d23d"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "7fb7a8322d0211ac8edbb5cb324581942e02d18deda338df0d150a678f30efed"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "0a596350820af2d7900364c606271709b8f5d15f9ba485306cc06dd7b7b48cb9"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 6,
+      "words": [
+        "醫生",
+        "喔",
+        "先生",
+        "難道您要去伏龍洞窟",
+        "據說去過那裡的人",
+        "沒有一個能活著回來"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 47,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "喔": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "難道您要去伏龍洞窟": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "據說去過那裡的人": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "沒有一個能活著回來": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "881766f60f018bf6e2341faaa985349091f43cf11905ce924d32522d2266ef20"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "463dfcff1afd72282c0072056bc7c92e33cc9c7b133e973c00a0faeccbfc7340"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "598df8d94cbb6f6fd5d4f3eec2f30dd97fe1777b1f88f52e655506f21c379534"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "97a90e1fa88718d70f0f2ac0253f651906b1f1310abcbb8a8dc9a80f09a56501"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "79258ce06607ea8b96bc73e3600e65b72bb977d9870308ca2b379c4c42db0c05"
+        }
+      ]
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 6,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "不了解本大爺野心的",
+        "那些傢伙",
+        "全都是螻蟻",
+        "閻魔",
+        "伐折羅",
+        "夜叉",
+        "阿闍世",
+        "阿修羅",
+        "風神",
+        "雷神",
+        "醜女",
+        "酒吞童子",
+        "浦島",
+        "金太郎",
+        "還有那個可悲的",
+        "不知自己愚蠢的",
+        "你們這群螻蟻",
+        "全都狼狽地死去吧"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 78,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "不了解本大爺野心的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "那些傢伙": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "全都是螻蟻": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "閻魔": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "伐折羅": {
+          "frame": "frame-1680.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "夜叉": {
+          "frame": "frame-1680.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "阿闍世": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "阿修羅": {
+          "frame": "frame-1740.ppm",
+          "x": 80,
+          "y": 104
+        },
+        "風神": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "雷神": {
+          "frame": "frame-1800.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "醜女": {
+          "frame": "frame-1800.ppm",
+          "x": 104,
+          "y": 112
+        },
+        "酒吞童子": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "浦島": {
+          "frame": "frame-2040.ppm",
+          "x": 104,
+          "y": 104
+        },
+        "金太郎": {
+          "frame": "frame-2040.ppm",
+          "x": 140,
+          "y": 104
+        },
+        "還有那個可悲的": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不知自己愚蠢的": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你們這群螻蟻": {
+          "frame": "frame-2400.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "全都狼狽地死去吧": {
+          "frame": "frame-2460.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "64ddee21ea8713ff8e9bc661a9b5151e2583ae838509f88da6569ceecb69d23d"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "f243a65035b1cdbc02db25f73b47e44e0ef27bd85d2d8782d4d11fa1de7a7886"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "014730619836ad9b5020a55b40f35df3d45fd9fd202bfd3ba19303786f0be32b"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "45a20fc0442b08c9cc244a396f5e8abdf90239e0b8aa05e93dd2e1d0fca5dbde"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "dabef9ac8a59e2dcafe06cf969ab762888ae60c416b6c45aa9fe94ecf12542b3"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "c0c28bf05f9cf04111c93b8684f76a128b594e0501ca916941b4e3671df70a61"
+        },
+        {
+          "filename": "frame-1800.ppm",
+          "sha256": "4f15ddb97ffd0241b7f06e6bf7f39ad5606947128c2b6aaec32a0aeef957cd34"
+        },
+        {
+          "filename": "frame-2040.ppm",
+          "sha256": "b7f40d5522a41ad6c4577b1d3ae926a7bc438447176500799960d6d8ef76300a"
+        },
+        {
+          "filename": "frame-2100.ppm",
+          "sha256": "30679330d28485128072d40a087cad2abbdef808bb4ea64b58650baef8d66eff"
+        },
+        {
+          "filename": "frame-2160.ppm",
+          "sha256": "e9171f86f82cfe33eafe8306c33d6136fa12b41b7e5606c81938420dfaae1ebb"
+        },
+        {
+          "filename": "frame-2400.ppm",
+          "sha256": "dfae6d99d6b4d5517b16fe4d4b3f92de9634ba3d502bbbff9e866c6ac28a496d"
+        },
+        {
+          "filename": "frame-2460.ppm",
+          "sha256": "e5da05f10f48235a8354d83558021335cbf4e860b1ce6008634a97e21f603f78"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 7,
+      "words": [
+        "銀次",
+        "先生",
+        "您當然",
+        "會去",
+        "對吧",
+        "這才像您嘛",
+        "伏龍洞窟",
+        "我記得就在這裡",
+        "東南方的山谷裡",
+        "快去一趟",
+        "把那個什麼龍鱗",
+        "給找出來吧",
+        "我也來幫忙"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "您當然": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "會去": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "對吧": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "這才像您嘛": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "伏龍洞窟": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我記得就在這裡": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "東南方的山谷裡": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "快去一趟": {
+          "frame": "frame-1860.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "把那個什麼龍鱗": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "給找出來吧": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我也來幫忙": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 80
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "35df323bab81a85497c608b45301fde5164133561e542107a1a5b8bccfc28854"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "e69a2d4f0ead46e59f73d595faa36c8564bcea52901f8087f18bd9b6abb3c50c"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "7dbfb16088425fb201c0cbfe1cc6158b273fd8f671885b56f1ca399389f51c52"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "df6c3f31bd3255a66ed6c182d8f06c200815d1bc536fb8fa9a8999e77176dac3"
+        },
+        {
+          "filename": "frame-1560.ppm",
+          "sha256": "0f77d637e79d9b94fdf6ab45cc2dfaa74a334f374810fc3f4c3dc9a83ae6b68c"
+        },
+        {
+          "filename": "frame-1620.ppm",
+          "sha256": "c83fc08488748421939c17f078473fc9a7d60259fdf4345064923b74a21b9724"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "a4176bda159e8e9f5b357c79fa69f363377fc1b8482bcf46f494bac461be3037"
+        },
+        {
+          "filename": "frame-1860.ppm",
+          "sha256": "f970267e3ec110202279e3e8d7cec0de31dc45d4f9686765a20d35ce10afb1ce"
+        },
+        {
+          "filename": "frame-1920.ppm",
+          "sha256": "7ead46b472e8e6bbe21cae2a1ba6f616a111348bee009665b65baa9a25804d3c"
+        },
+        {
+          "filename": "frame-1980.ppm",
+          "sha256": "775dc207f860ac09f59b5b1631872b875f1ca73158d3977ebb28aa5934c0be20"
+        },
+        {
+          "filename": "frame-2220.ppm",
+          "sha256": "5c8103d4f15bf13367349a9cec6fc8b7af0bd4e52c9ab96730e908892a87f112"
+        }
+      ]
+    },
+    {
+      "name": "hell-prince-and-prisoners",
+      "firstIndex": 7,
+      "words": [
+        "達伊達王子",
+        "看來你們並不了解",
+        "迦樓羅所追求的鬼族世界",
+        "要是我們沒有力量",
+        "人類就會高高在上",
+        "鬼族就只能任人踐踏",
+        "就算不是人類",
+        "也會有其他動物凌駕鬼族",
+        "這麼簡單的道理",
+        "你們怎麼就是不明白",
+        "戰鬥吧"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x70207",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prince-and-prisoners.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 76,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達王子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "看來你們並不了解": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "迦樓羅所追求的鬼族世界": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要是我們沒有力量": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "人類就會高高在上": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鬼族就只能任人踐踏": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就算不是人類": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "也會有其他動物凌駕鬼族": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "這麼簡單的道理": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "你們怎麼就是不明白": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "戰鬥吧": {
+          "frame": "frame-2340.ppm",
+          "x": 44,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "d92ab4c03626478a41919c13269d31c9dd6e9652c4ebe19c7d6091be9ffd464a"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "f0a301c236dca76af49e30af44b18fff8e59554669ed39ca2f296df534c2e3e7"
+        },
+        {
+          "filename": "frame-1200.ppm",
+          "sha256": "9336076fbc9edd5c0bb355bc7b714ad86280b2c51d08a14ecdb21ccd33e3bf69"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "96af653ad79574018387ad3b8b8d2aef1619cae9e246bab9593455483d0ac25a"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "e4e36a460106b52d7e0c853d57f4900b14326a11133ab762b11f47fa0d639b49"
+        },
+        {
+          "filename": "frame-1560.ppm",
+          "sha256": "bc5bf598f6da1ad3c935d194cddf19df9a54fcd01d18f75b781dd17c3586c2ad"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "57b58f267c778335ed5c9d2f221cd2efbbaff6a7e039d495597522254fed34be"
+        },
+        {
+          "filename": "frame-1860.ppm",
+          "sha256": "18e8a6f2f8d62063d08e76cc2355c16f2a45729c5da31bf6ee1eed32ae6ff531"
+        },
+        {
+          "filename": "frame-2040.ppm",
+          "sha256": "f9937c7939042fb137f230ce291ee5f6253d9bf37acc0c9226b9a66fd22b1a5d"
+        },
+        {
+          "filename": "frame-2160.ppm",
+          "sha256": "1881ebf686b422c7af734de1be1dd1506b1fafb5bf47351edf89b28f0b965cc7"
+        },
+        {
+          "filename": "frame-2340.ppm",
+          "sha256": "85b7c47a9a5adeceff05b84f22a451b068f2468d22d691a284059533b5cbe8dd"
+        }
+      ]
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 7,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "聽得見嗎",
+        "待在毒沼的滋味如何",
+        "現在再讓你們看看",
+        "更有趣的東西",
+        "右魂鬼",
+        "左魂鬼",
+        "去給那些蠢貨",
+        "最後一擊吧"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 55,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "聽得見嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "待在毒沼的滋味如何": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "現在再讓你們看看": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "更有趣的東西": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "右魂鬼": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "左魂鬼": {
+          "frame": "frame-1680.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "去給那些蠢貨": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "最後一擊吧": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "64ddee21ea8713ff8e9bc661a9b5151e2583ae838509f88da6569ceecb69d23d"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "06710613630dc97ac5fd92fbecdca65d867e9939ab4f754b880accd26270903c"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "567794fdbae3159720d2ea76774c4d76ca0d3c23512abd9f0beedd8ada6eaf91"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "45ff0420264a97428cefde3156a630a65001dfa6fec856cacce0d514e0c5ab16"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "ca9091d0f8473f3838f4395e1aa1f42c27865ddad1f8dfa5fc57d960878af78e"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "fa6d1908984e36a4fdfbe79b94ce140e7312471cced1db6384ce601a0c319697"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "4e5d8ffb4b970ebb26d3af3520aee9d8ffe6c7b23d03ab36691c8556e4378ab6"
+        },
+        {
+          "filename": "frame-1740.ppm",
+          "sha256": "5bd4ff1780b36c79fa02e93f4596facf0bf65da906e55047bb00db7b42170b7b"
+        },
+        {
+          "filename": "frame-1800.ppm",
+          "sha256": "862b3712eda1cbfc29c61a377081997dea83c24950396129958cf97ce6ffa29e"
+        }
+      ]
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 8,
+      "words": [
+        "醫生",
+        "先生",
+        "您無論如何",
+        "都要去伏龍洞窟是吧",
+        "那麼",
+        "至少",
+        "把這個帶上吧"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 49,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "您無論如何": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "都要去伏龍洞窟是吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "那麼": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "至少": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "把這個帶上吧": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "115151bfe5d698390e754b122da5e0be21ff80ba0da60ea24ec78bcd3c6ef478"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "c3ff72963aea03bd98f444a29134c06520101bc2ccdcc762f51accab736e01f4"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "2e77af0979f8fd045a9c112525f2db58a05e4ce4680b1ba9baacc070d52dc05f"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "6624d5a26e8f81282c717659ff786bf97e3d066bdf76d0e6ae3eed140942f1fc"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "b9f08c6e9277dba0f8307700769cd2edab5855b4693d1bc8a4cdbdfdcdb1805f"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "90e5593fdcfdf39efe011840dbb819cf56e35b273dfd43850e6806f236519718"
+        }
+      ]
+    },
+    {
+      "name": "raijin-companion-rescue",
+      "firstIndex": 8,
+      "words": [
+        "嘿嘿嘿",
+        "來吧",
+        "雷神啊",
+        "打倒",
+        "吧",
+        "只要打倒",
+        "我保證會替閻魔王",
+        "向伐折羅王大人求情"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x7020d",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/raijin-companion-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿嘿嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "來吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "雷神啊": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "吧": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "打倒": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "只要打倒": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我保證會替閻魔王": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "向伐折羅王大人求情": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "37d79b6ffb223dc8489d09aabbc0c22a162e10673363f8eeb0111f58e58ce712"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "f7b578a57810ad6e2d60ac1da219f18a7d49e957a70e981d74a3d8f0d7edd757"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "3263988bdb7652cf7a779ed2eeb8b577e6f3334eda787cf8cb4fff58ad06c8a4"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "d0235c7be927db0f478b90b36b76b1f586439f4875b52fed7e66141444bd6d95"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "febf6298a474ef782e77a7fffb82bd4588ee5286813c92db9e6055d38df6537f"
+        },
+        {
+          "filename": "frame-1500.ppm",
+          "sha256": "1a8ee03625ed838e8cd2873ce0b6a020dd89f417aa0116a4c514701e44588eb6"
+        }
+      ]
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 26,
+      "words": [
+        "木屐",
+        "木屐木屐木屐",
+        "要不要買木屐呀",
+        "要不要拿你的糖塑",
+        "和我的木屐",
+        "交換一下呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 49,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木屐": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "木屐木屐木屐": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "要不要買木屐呀": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要不要拿你的糖塑": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "和我的木屐": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "交換一下呢": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "af00accfa42ae31d59d07364b5207ef976f4385e25eded7cf19b11bc8d63e842"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "32a46e8f0640d8fa4054f2d94fdbd3830874cf206c6aaab3199e39ee1c7353b2"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "fd0cef767d46329a83f333c5c9124211b7124989595ace83f271f9dd27781bb6"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "5393f9c52640cac18403ffc5630522835683b48189a5ad916c3cfb0d1e6a468b"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "00146239e3afc013de7b789184b22ecf3b7b75a01d5e2ec6d5decf9c241ac0d1"
+        }
+      ]
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 27,
+      "words": [
+        "你哪裡有糖塑呀",
+        "真過分",
+        "你真的有心討伐鬼族嗎"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你哪裡有糖塑呀": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真過分": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你真的有心討伐鬼族嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "3efe689ca9b3b4efc548f751cd2023cf2275cc5adce848ff22348ce480e6b6d2"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "f5301f0c9677f3a34204ab706c29962e467d8e525cf885a68f3d8589b4003139"
+        }
+      ]
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 30,
+      "words": [
+        "調查了雪人",
+        "發現雪人",
+        "似乎稍微動了一下",
+        "唔",
+        "是",
+        "嗎",
+        "快救俺出去",
+        "冷得身體都不能動了",
+        "打碎了雪人",
+        "把金太郎拉了出來"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 66,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了雪人": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "發現雪人": {
+          "frame": "frame-1260.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "似乎稍微動了一下": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "唔": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "是": {
+          "frame": "frame-1560.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "嗎": {
+          "frame": "frame-1560.ppm",
+          "x": 128,
+          "y": 112
+        },
+        "快救俺出去": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "冷得身體都不能動了": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "打碎了雪人": {
+          "frame": "frame-1920.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "把金太郎拉了出來": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "58d5b9d9f1607b0d6d73bc592d131f4db27b5d5968c6c5af855925bc609def0a"
+        },
+        {
+          "filename": "frame-1260.ppm",
+          "sha256": "649ab0d6262b830fefada9d766bf006b8a04cb52c9160ecd2d602e76efe3f506"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "b8c26e6aff7ad9bbd762f939edd85038adb622e96b5bfd871dc8212e08e00816"
+        },
+        {
+          "filename": "frame-1560.ppm",
+          "sha256": "20ee76418024d534dad57f97f590481c5b482a5c617b2897da7a02ec396c12bc"
+        },
+        {
+          "filename": "frame-1620.ppm",
+          "sha256": "35743e9acf63820427ac2a2a06e9d72be763dec82e3ba658dc01184d679a9d5b"
+        },
+        {
+          "filename": "frame-1680.ppm",
+          "sha256": "2e003dfe5809dd8fe4f835b45c40ddf5115c678280004e18aac373e9a6c66a5f"
+        },
+        {
+          "filename": "frame-1920.ppm",
+          "sha256": "6b704fca9aab865ab641ac6401ecc3fbb299aaa5a14708bdcde74bbe6c3517ae"
+        },
+        {
+          "filename": "frame-1980.ppm",
+          "sha256": "c42bb8bda305be42deacca692582066e4c7c6841cccb3fa97dbaeba134fce0cd"
+        }
+      ]
+    },
+    {
+      "name": "hell-prince-and-prisoners",
+      "firstIndex": 14,
+      "words": [
+        "您還記得嗎",
+        "我是以前",
+        "在花咲村",
+        "被",
+        "先生",
+        "打倒的銀鬼啊",
+        "閻魔大人出事以後",
+        "我不肯當迦樓羅的部下",
+        "就落得這個下場了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70207",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prince-and-prisoners.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 52,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "您還記得嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我是以前": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "在花咲村": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "被": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "先生": {
+          "frame": "frame-1140.ppm",
+          "x": 140,
+          "y": 96
+        },
+        "打倒的銀鬼啊": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "閻魔大人出事以後": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我不肯當迦樓羅的部下": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就落得這個下場了": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "dbbd2d0589d795cee981a16224be3dfef95fddf62943d4e9dbcdbf6fbe27db6f"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "bcd182fe56cb233a5f47f7fe5ab1381e5b392be914526e6ebb7ff935cf7cc4ba"
+        },
+        {
+          "filename": "frame-1200.ppm",
+          "sha256": "e8bd36019b1b9b7d99b72d6378e77c4337ca89a172a3f2c69b4ff6755198ae3b"
+        },
+        {
+          "filename": "frame-1380.ppm",
+          "sha256": "1e04dc299568bbf45953d9b73929b7ff3e11c5397f7715f6f69b5d331ef197fa"
+        },
+        {
+          "filename": "frame-1440.ppm",
+          "sha256": "6b785fe1651294cbbce7f3c2617e8fd0a227966933b22e9dd996c6f9bf9c0eb5"
+        },
+        {
+          "filename": "frame-1560.ppm",
+          "sha256": "6d0b18b9007f31b725939c03b38fbbb6a617be3b412387ca67ad0457984fe38f"
+        }
+      ]
+    },
+    {
+      "name": "raijin-companion-rescue",
+      "firstIndex": 9,
+      "words": [
+        "洗清閻魔大人的污名",
+        "就是我的心願",
+        "原諒我"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x7020d",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/raijin-companion-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 48,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "洗清閻魔大人的污名": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就是我的心願": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "原諒我": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "06051ca35a1cb2f02d8940e89592beedef9ce76ff82e90c4d8a275f3991c8c97"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "b6c1849e24f15987624db34a3e3277cd89294ed5d3d59d9a8be18e31d34cf6fb"
+        },
+        {
+          "filename": "frame-1320.ppm",
+          "sha256": "347c284901f7d2742d3ba683a701629c193025c7407e2653b423adc007de6843"
+        }
+      ]
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 9,
+      "words": [
+        "右魂鬼",
+        "咕嚕嚕嚕嚕"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 32,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右魂鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "咕嚕嚕嚕嚕": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "52341b29af18614c3c619b3a8ba6c1afb437c41ebc4b9535a43d90c3471dc4c1"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "194713eb197cbdc03cdd913e85e30bb6592674bb85591ea9606ed473de3a72f3"
+        }
+      ]
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 3,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "海中",
+        "山中",
+        "地上",
+        "天空",
+        "河川",
+        "森林",
+        "火中",
+        "水中",
+        "風中",
+        "蠢動掙扎的數億",
+        "徘徊之魂啊",
+        "此刻就聚集到我身上",
+        "一同揭開狂亂與毀滅的",
+        "盛宴吧",
+        "讓現世那些",
+        "鬱鬱度日的愚蠢",
+        "行屍走肉們",
+        "也分到詛咒",
+        "毀滅",
+        "以及你們所承受的",
+        "痛苦吧",
+        "出來吧",
+        "我的魂魄",
+        "右魂鬼",
+        "左魂鬼"
+      ],
+      "frames": 8400,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 124,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "海中": {
+          "frame": "frame-2100.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "山中": {
+          "frame": "frame-2100.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "地上": {
+          "frame": "frame-2160.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "天空": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "河川": {
+          "frame": "frame-2160.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "森林": {
+          "frame": "frame-2220.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "火中": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "水中": {
+          "frame": "frame-2220.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "風中": {
+          "frame": "frame-2280.ppm",
+          "x": 104,
+          "y": 112
+        },
+        "蠢動掙扎的數億": {
+          "frame": "frame-2460.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "徘徊之魂啊": {
+          "frame": "frame-2520.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "此刻就聚集到我身上": {
+          "frame": "frame-2760.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "一同揭開狂亂與毀滅的": {
+          "frame": "frame-2820.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "毀滅": {
+          "frame": "frame-2820.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "盛宴吧": {
+          "frame": "frame-2880.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "讓現世那些": {
+          "frame": "frame-3060.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "鬱鬱度日的愚蠢": {
+          "frame": "frame-3120.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "行屍走肉們": {
+          "frame": "frame-3180.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "也分到詛咒": {
+          "frame": "frame-3360.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "以及你們所承受的": {
+          "frame": "frame-3420.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "痛苦吧": {
+          "frame": "frame-3480.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "出來吧": {
+          "frame": "frame-3660.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我的魂魄": {
+          "frame": "frame-3720.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "右魂鬼": {
+          "frame": "frame-3720.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "左魂鬼": {
+          "frame": "frame-3780.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "64ddee21ea8713ff8e9bc661a9b5151e2583ae838509f88da6569ceecb69d23d"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "f5bd7a3506d6fca9d0d1132df27947d684dac93d5b31f4f45417f60747c76818"
+        },
+        {
+          "filename": "frame-2100.ppm",
+          "sha256": "06dc76825e0ce9f98700bdff4b1d91cb03d49ad0466b9162162f7578266a0010"
+        },
+        {
+          "filename": "frame-2160.ppm",
+          "sha256": "053e71297c42eaf106f9736d4ea914e58266d703ea5cea47ec8abc816bf5d0c4"
+        },
+        {
+          "filename": "frame-2220.ppm",
+          "sha256": "1bc0399a16f09bd050dc130911a6b9272c5528d4a77a2bc9e27b4077b732fd1c"
+        },
+        {
+          "filename": "frame-2280.ppm",
+          "sha256": "f24ca926fae01d4ed4a8b8ec6c97989ca6f27784948d13bc59132e4f1ac471d3"
+        },
+        {
+          "filename": "frame-2460.ppm",
+          "sha256": "09fcc376f45df9ab0d3e40a8747acf184972eb98e626178a5df8c700b8ecac4c"
+        },
+        {
+          "filename": "frame-2520.ppm",
+          "sha256": "bcaa9be2f4fc0c91c67b6fd64b684e5f38191b04fdea4f44f642e0096f26077f"
+        },
+        {
+          "filename": "frame-2760.ppm",
+          "sha256": "3e1688d3081679b7422d98c529b28506175914a7836059f678f58a2eaa6af56e"
+        },
+        {
+          "filename": "frame-2820.ppm",
+          "sha256": "133d308a2307f37eb12cf090512da93747e822343f3e6ac98b291fd6ec2d3e1f"
+        },
+        {
+          "filename": "frame-2880.ppm",
+          "sha256": "a45dec25b527c1c026e3347e5d3a43ae0f6c34d5b5fe325c6df5112ed3944d3f"
+        },
+        {
+          "filename": "frame-3060.ppm",
+          "sha256": "49106a8a571091a53eb8e2ab7a7253fc410b811ed820796cdcd2aaab84f261b5"
+        },
+        {
+          "filename": "frame-3120.ppm",
+          "sha256": "6c2965868ddb9cc80fa5dbaa3d721a5aeefa67a01e770ea99f57b1d1d7beb22d"
+        },
+        {
+          "filename": "frame-3180.ppm",
+          "sha256": "c9ff7fdecf539517663c881840dad89988035e163daad45569aa6cd762c0c7b5"
+        },
+        {
+          "filename": "frame-3360.ppm",
+          "sha256": "46008d503dfe6ff5ea0c8cfc199fe0f3e57aed1220db2632030af96c7defe463"
+        },
+        {
+          "filename": "frame-3420.ppm",
+          "sha256": "231954c22eb9a276da5c947c147cd94ab5eb56b0b4f9183c007e46707fac9042"
+        },
+        {
+          "filename": "frame-3480.ppm",
+          "sha256": "318241c54e026468227b7d259c9d391d8181a9969b332d2e3154d6d08821fd81"
+        },
+        {
+          "filename": "frame-3660.ppm",
+          "sha256": "6afd48fa124c93b7f0afa27ee5ecdb66ca92ae33ac38ce56e1f710a89c3a723c"
+        },
+        {
+          "filename": "frame-3720.ppm",
+          "sha256": "e7af926d35656e6a3292fdec387cd9e6f4e31fc358c89bef046609f5c24246d8"
+        },
+        {
+          "filename": "frame-3780.ppm",
+          "sha256": "60dc52c7ce5af149e2fd2f3b7ebe5945c2984511aff99b1be93e7dc147aa8939"
+        }
+      ]
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 10,
+      "words": [
+        "左魂鬼",
+        "嘎嚕嚕嚕嚕"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 32,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "左魂鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘎嚕嚕嚕嚕": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "f97aef625e29b2352b8e0d92dce0ef246a79b152c0d17c4d27cbafda6ea61532"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "13d8ae1db72fa350a52d5c67a6f97c12e577ef57659564bea00a9405d6ee2071"
+        }
+      ]
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 18,
+      "words": [
+        "夜叉姬",
+        "迦樓羅",
+        "我再也不會原諒你"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "迦樓羅": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我再也不會原諒你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "432f4bcc043189a88c637b8908b8ad3b33bda7151b8c14aaa2b05bd63f6ee92b"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "62315e5344e29300b87e241e4cb222f48e09cc95de2afe8cf6397bfd8ed92589"
+        },
+        {
+          "filename": "frame-1140.ppm",
+          "sha256": "494850bec60fedd4944461a6065319a2f8ac1a7196958e92b6ffaf13f374d23c"
+        }
+      ]
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 20,
+      "words": [
+        "銀次",
+        "怎麼會這樣",
+        "小的",
+        "再也"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "怎麼會這樣": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "小的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "再也": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "captures": [
+        {
+          "filename": "frame-1020.ppm",
+          "sha256": "9fd5e24eccac93750c89985975768b8d307829a1261807609e3b566a32df1250"
+        },
+        {
+          "filename": "frame-1080.ppm",
+          "sha256": "335d1ec9f5a93581807ce5433b4af73d6b7773011cc2a137e73e3c10b888e299"
+        }
+      ]
+    }
+  ],
+  "sourceReports": [
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-189/verification.json",
+      "sha256": "1b0a8cb464f9659019dc5999544ee2d3090f54a4ad9f4c8eb275a2cc98729bad"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-192/verification.json",
+      "sha256": "97c9858fca17aad65a06333c3f2426d07b79fa1b057ae828c4031549df6b5706"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-200/verification.json",
+      "sha256": "53d183750fc037e24592e613f29c57b5ce7c966ceaadb9f8fa20c37f80ba8336"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-0/verification.json",
+      "sha256": "71834366c69e40c3635515d4911a547efe3b5ab9b90841819c1d69ecace84d7a"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-2/verification.json",
+      "sha256": "ec39c2e1a361189337e8a8d7159f2e390722f9fe10c702f87c017cb47335110f"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-11/verification.json",
+      "sha256": "d612edeb5f64c8446031a9f4ced89dfdbc1e885db72d42b541174eac344d613f"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-16/verification.json",
+      "sha256": "667704306a516536862f6df205b9ebdf9b92b2af6d07bf00760684f4ca781792"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-4/verification.json",
+      "sha256": "da9e2dfde331d003592e0b298f41d6f426c68b4a1cbe876e3c0a87d00b5a526c"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-1/verification.json",
+      "sha256": "fb58f452cf72c8c79689124122553d9254e56ef09a64bca0269ad785f235d561"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-97/verification.json",
+      "sha256": "3ac2fcf06db58a321d7b0e93c38a622f6ad03bd4f58f5d61546559a9ed8d8d90"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-75/verification.json",
+      "sha256": "c09d5ee6defc991d40bb95111ecfa3e378f864bbdd8a071e531a43997ca77c4f"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-5/verification.json",
+      "sha256": "c0e59c83c4748c8a5b11aaf058f29e3d3b977b94a0e2d8d41494bfeb3b3ae228"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-6/verification.json",
+      "sha256": "23e1abf0422b9d254c62dfb0642b323fc500c3ec73d7f57021ff69aa04791179"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-7/verification.json",
+      "sha256": "ba5bc009614d29677d7cf3c45cdd22f6634489d57eef4adbeb5249abb70725da"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-8/verification.json",
+      "sha256": "29f62772d9dc4049a44735dd4f763e4ebe29c4533c854ee64c4a2a5e0fdd0229"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-26/verification.json",
+      "sha256": "953b7a6d1983b13eee1e2db65e737c14d6d6bbf0924c2e1e97505c5e5b73d056"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-27/verification.json",
+      "sha256": "c726421b842260c1353592fe49d1515811edac1e61836723d316b35d427a1357"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-30/verification.json",
+      "sha256": "61a18b3368ba778956414c7e3d3d04bd39c48cf25623a9787255048dc5c541f0"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-14/verification.json",
+      "sha256": "ecc0adde7c364caed0f4dbaef3448f4d5f12f5c413e4309583fcece55a4fee00"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-9/verification.json",
+      "sha256": "5ebf79b3c539ebc5712ffba812d7cd55a80e2655686663b8a34101e44963f6f3"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-3/verification.json",
+      "sha256": "aa279ab49ba4d4e4c7b39789ee54ea2d208cc8b44dc0d420c1659f6f1a47f051"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-10/verification.json",
+      "sha256": "bb7989ad81baa39c00fa5ec9b6dc67a6a67518beb2ab66a87375acdf73df555d"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-18/verification.json",
+      "sha256": "b72b32b173b98193dbb97e882f616376098b334126bed17297cd30d356de7186"
+    },
+    {
+      "filename": "/tmp/momotaro-v49-screenshot-dialogue-20/verification.json",
+      "sha256": "4c99dcc0bca7a52674282f1dbb29aaa75d16d83e1e35ec3eb265ff32fd987aa3"
+    }
+  ],
+  "synthetic": true,
+  "actualStoryRouteVerified": false
+}

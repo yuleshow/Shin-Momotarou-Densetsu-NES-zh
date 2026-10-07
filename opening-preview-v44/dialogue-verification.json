@@ -1,0 +1,5890 @@
+{
+  "targetSha256": "93ae5613e3dcd6dbafa6fe25114b57774ac49a64cc65004d76a9ef2e831c0d09",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 11,
+      "words": [
+        "若要前往月亮",
+        "請務必小心"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702a3",
+      "screenshotIds": [
+        0
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-moon-complete.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 0
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "若要前往月亮": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請務必小心": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 8,
+      "words": [
+        "乙姬大人吩咐",
+        "龍宮這裡的寶物",
+        "請各位儘管帶走"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702a3",
+      "screenshotIds": [
+        1
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-moon-complete.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 1
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人吩咐": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "龍宮這裡的寶物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請各位儘管帶走": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 11,
+      "words": [
+        "多謝您",
+        "救了龍宮",
+        "請收下這個吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        2
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 2
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 15,
+      "words": [
+        "多謝您",
+        "救了龍宮",
+        "請收下這個吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        2
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 2
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 19,
+      "words": [
+        "多謝您",
+        "救了龍宮",
+        "請收下這個吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        2
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 2
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 23,
+      "words": [
+        "多謝您",
+        "救了龍宮",
+        "請收下這個吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        2
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 2
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 27,
+      "words": [
+        "多謝您",
+        "救了龍宮",
+        "請收下這個吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        2
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 2
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 31,
+      "words": [
+        "多謝您",
+        "救了龍宮",
+        "請收下這個吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        2
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 2
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 39,
+      "words": [
+        "迦樓羅大人一定會把",
+        "那位大人請到大江山",
+        "那位被稱為軍神的大人"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        3
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 3
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅大人一定會把": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那位大人請到大江山": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "那位被稱為軍神的大人": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 44,
+      "words": [
+        "先生",
+        "您如此",
+        "掛念龍宮的事情",
+        "乙姬真的非常高興",
+        "讓您稍作消遣",
+        "要不要欣賞",
+        "我的一支舞呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        4,
+        5
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 4
+        },
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 5
+        }
+      ],
+      "changedFrames": 51,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "您如此": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "掛念龍宮的事情": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "乙姬真的非常高興": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "讓您稍作消遣": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "要不要欣賞": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我的一支舞呢": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 2,
+      "words": [
+        "上次真是多謝您了",
+        "乙姬大人",
+        "就在下面"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702a0",
+      "screenshotIds": [
+        7
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-rescue-complete.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 7
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "乙姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 5,
+      "words": [
+        "上次真是多謝您了",
+        "乙姬大人",
+        "就在下面"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702a0",
+      "screenshotIds": [
+        7
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-rescue-complete.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 7
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "乙姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 8,
+      "words": [
+        "上次真是多謝您了",
+        "乙姬大人",
+        "就在下面"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702a0",
+      "screenshotIds": [
+        7
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-rescue-complete.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 7
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "乙姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 11,
+      "words": [
+        "上次真是多謝您了",
+        "乙姬大人",
+        "就在下面"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702a0",
+      "screenshotIds": [
+        7
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-rescue-complete.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 7
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "乙姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 1,
+      "words": [
+        "先生",
+        "要不要先",
+        "回到地上",
+        "重新準備一下呢"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7029d",
+      "screenshotIds": [
+        8
+      ],
+      "mappings": [
+        {
+          "file": "translations/dragon-palace-entry.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 8
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "要不要先": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "回到地上": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "重新準備一下呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-rock-puzzle",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "來到四樓了啊",
+        "獎勵你一個好消息",
+        "謎題還剩下",
+        "五題呢",
+        "很開心吧",
+        "這一層的謎題",
+        "就是移動岩石",
+        "造出一條路",
+        "怎麼樣",
+        "看起來很有趣吧"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701e0",
+      "screenshotIds": [
+        10,
+        11,
+        12
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-rock-puzzle.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 10
+        },
+        {
+          "file": "translations/ooeyama-rock-puzzle.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 11
+        },
+        {
+          "file": "translations/ooeyama-rock-puzzle.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 12
+        }
+      ],
+      "changedFrames": 66,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "來到四樓了啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "獎勵你一個好消息": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "謎題還剩下": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "五題呢": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "很開心吧": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "這一層的謎題": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就是移動岩石": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "造出一條路": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "怎麼樣": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "看起來很有趣吧": {
+          "frame": "frame-1980.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-rock-puzzle",
+      "firstIndex": 4,
+      "words": [
+        "調查了石板",
+        "讀起石板",
+        "將青色岩石左右滑動",
+        "開闢自己前進的道路"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x701e0",
+      "screenshotIds": [
+        13
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-rock-puzzle.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 13
+        }
+      ],
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了石板": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "讀起石板": {
+          "frame": "frame-1260.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "將青色岩石左右滑動": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "開闢自己前進的道路": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-direction-cipher",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "還以為你早就放棄",
+        "回啟程村種田了呢",
+        "倒是值得誇獎啊",
+        "順便讓你聽個奇妙的故事",
+        "三個故事之中",
+        "只能選一個"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x701e3",
+      "screenshotIds": [
+        14,
+        15,
+        16
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-direction-cipher.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 14
+        },
+        {
+          "file": "translations/ooeyama-direction-cipher.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 15
+        },
+        {
+          "file": "translations/ooeyama-direction-cipher.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 16
+        }
+      ],
+      "changedFrames": 57,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "還以為你早就放棄": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "回啟程村種田了呢": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "倒是值得誇獎啊": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "順便讓你聽個奇妙的故事": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "三個故事之中": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "只能選一個": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-direction-cipher",
+      "firstIndex": 1,
+      "words": [
+        "嘿嘿嘿",
+        "你本來該聽第二個故事的"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x701e3",
+      "screenshotIds": [
+        17
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-direction-cipher.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 17
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿嘿嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "你本來該聽第二個故事的": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-direction-cipher",
+      "firstIndex": 4,
+      "words": [
+        "調查了石板",
+        "讀起石板上的文字",
+        "又",
+        "佐",
+        "尚",
+        "夏"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x701e3",
+      "screenshotIds": [
+        19
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-direction-cipher.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 19
+        }
+      ],
+      "changedFrames": 56,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了石板": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "讀起石板上的文字": {
+          "frame": "frame-1320.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "又": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "佐": {
+          "frame": "frame-1500.ppm",
+          "x": 52,
+          "y": 112
+        },
+        "尚": {
+          "frame": "frame-1560.ppm",
+          "x": 52,
+          "y": 96
+        },
+        "夏": {
+          "frame": "frame-1560.ppm",
+          "x": 52,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 17,
+      "words": [
+        "的",
+        "下降了",
+        "點"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70048",
+      "screenshotIds": [
+        20,
+        87,
+        88,
+        90
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-battle-status-escape.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 20
+        },
+        {
+          "file": "translations/screenshot-battle-status-escape.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 87
+        },
+        {
+          "file": "translations/screenshot-battle-status-escape.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 88
+        },
+        {
+          "file": "translations/screenshot-battle-status-escape.draft.zh-Hant.json",
+          "reason": "ambiguous candidate",
+          "screenshotId": 90
+        },
+        {
+          "file": "translations/screenshot-battle-status-escape.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "下降了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 78,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "battle-messages",
+      "firstIndex": 153,
+      "words": [
+        "一溜煙地逃走了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70048",
+      "screenshotIds": [
+        21
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-battle-status-escape.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 21
+        },
+        {
+          "file": "translations/screenshot-battle-status-escape.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一溜煙地逃走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-direction-cipher",
+      "firstIndex": 5,
+      "words": [
+        "調查了石板",
+        "讀起石板上的文字",
+        "太陽升起之處",
+        "名曰",
+        "『冬』",
+        "借其聲",
+        "辨其方向",
+        "解開這些文字的謎",
+        "依照指示移動岩石",
+        "如此",
+        "道路便會敞開"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701e3",
+      "screenshotIds": [
+        22,
+        23
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-direction-cipher.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 22
+        },
+        {
+          "file": "translations/ooeyama-direction-cipher.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 23
+        }
+      ],
+      "changedFrames": 65,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了石板": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "讀起石板上的文字": {
+          "frame": "frame-1320.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "太陽升起之處": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "名曰": {
+          "frame": "frame-1560.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "『冬』": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "借其聲": {
+          "frame": "frame-1620.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "辨其方向": {
+          "frame": "frame-1620.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "解開這些文字的謎": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "依照指示移動岩石": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "如此": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "道路便會敞開": {
+          "frame": "frame-1980.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 126,
+      "words": [
+        "身手"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [
+        24
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-inline-animal-references.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 24
+        },
+        {
+          "file": "translations/screenshot-inline-animal-references.draft.zh-Hant.json",
+          "reason": "supplemental indexed label"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身手": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 131,
+      "words": [
+        "站立作揖"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [
+        25
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-inline-animal-references.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 25
+        },
+        {
+          "file": "translations/screenshot-inline-animal-references.draft.zh-Hant.json",
+          "reason": "supplemental indexed label"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "站立作揖": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "ooeyama-crushing-rocks",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅",
+        "哦",
+        "人類的智慧",
+        "竟然已經進步到這種程度",
+        "沒想到竟能來到六樓啊",
+        "嘿嘿嘿",
+        "那麼",
+        "這一層就靠",
+        "自己的力量闖過去吧",
+        "就連寫著線索的石板",
+        "也已經被本大爺拆掉了",
+        "最好趕快穿過去啊",
+        "要是被岩石夾住",
+        "等著你的就是死亡"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x701e6",
+      "screenshotIds": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-crushing-rocks.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 27
+        },
+        {
+          "file": "translations/ooeyama-crushing-rocks.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 28
+        },
+        {
+          "file": "translations/ooeyama-crushing-rocks.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 29
+        },
+        {
+          "file": "translations/ooeyama-crushing-rocks.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 30
+        }
+      ],
+      "changedFrames": 76,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "哦": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "人類的智慧": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "竟然已經進步到這種程度": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "沒想到竟能來到六樓啊": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "那麼": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "這一層就靠": {
+          "frame": "frame-1680.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "自己的力量闖過去吧": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就連寫著線索的石板": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "也已經被本大爺拆掉了": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "最好趕快穿過去啊": {
+          "frame": "frame-2340.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "要是被岩石夾住": {
+          "frame": "frame-2340.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "等著你的就是死亡": {
+          "frame": "frame-2400.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-karura-taunts",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "你看起來很累嘛",
+        "不過啊",
+        "再不趕快穿過大江山",
+        "可就要發生大事了",
+        "想知道原因嗎"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701e9",
+      "screenshotIds": [
+        32,
+        33
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-karura-taunts.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 32
+        },
+        {
+          "file": "translations/ooeyama-karura-taunts.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 33
+        }
+      ],
+      "changedFrames": 66,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你看起來很累嘛": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "不過啊": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "再不趕快穿過大江山": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "可就要發生大事了": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "想知道原因嗎": {
+          "frame": "frame-1920.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "ooeyama-rainbow-puzzle",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "真沒想到",
+        "你竟然能來到這裡",
+        "看來你的智慧",
+        "已經足以讓人放心",
+        "把一座村莊交給你了",
+        "那麼",
+        "這就是",
+        "最後一道謎題",
+        "重新排列前面的岩石",
+        "移動的順序",
+        "要按照彩虹的顏色",
+        "沒錯",
+        "你們的心願",
+        "就要化作彩虹消失了"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x701ec",
+      "screenshotIds": [
+        35,
+        36
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-rainbow-puzzle.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 35
+        },
+        {
+          "file": "translations/ooeyama-rainbow-puzzle.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 36
+        }
+      ],
+      "changedFrames": 78,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "真沒想到": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "你竟然能來到這裡": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "看來你的智慧": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "已經足以讓人放心": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "把一座村莊交給你了": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "那麼": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "這就是": {
+          "frame": "frame-1740.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "最後一道謎題": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "重新排列前面的岩石": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "移動的順序": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要按照彩虹的顏色": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "沒錯": {
+          "frame": "frame-2340.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你們的心願": {
+          "frame": "frame-2340.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "就要化作彩虹消失了": {
+          "frame": "frame-2400.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-rainbow-puzzle",
+      "firstIndex": 1,
+      "words": [
+        "調查了石板",
+        "讀起石板上的文字",
+        "懸掛天際的七色彩虹",
+        "依照它所指示的顏色",
+        "排列剩餘的五顆玉",
+        "如此",
+        "道路便會敞開"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701ec",
+      "screenshotIds": [
+        37
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-rainbow-puzzle.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 37
+        }
+      ],
+      "changedFrames": 65,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了石板": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "讀起石板上的文字": {
+          "frame": "frame-1320.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "懸掛天際的七色彩虹": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "依照它所指示的顏色": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "排列剩餘的五顆玉": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "如此": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "道路便會敞開": {
+          "frame": "frame-1920.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "ooeyama-exit-inn",
+      "firstIndex": 1,
+      "words": [
+        "啾啾",
+        "是",
+        "先生",
+        "旅人都不來",
+        "到處都是鬼",
+        "好可怕喔"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70111",
+      "screenshotIds": [
+        38
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-exit-inn.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 38
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啾啾": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "是": {
+          "frame": "frame-1020.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 80
+        },
+        "旅人都不來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "到處都是鬼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "好可怕喔": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-exit-inn",
+      "firstIndex": 4,
+      "words": [
+        "一直被困在這裡",
+        "哪裡都去不了",
+        "這下終於能繼續旅行了",
+        "這點東西",
+        "請你帶著上路吧"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70111",
+      "screenshotIds": [
+        39,
+        40
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-exit-inn.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 39
+        },
+        {
+          "file": "translations/ooeyama-exit-inn.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 40
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一直被困在這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "哪裡都去不了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "這下終於能繼續旅行了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "這點東西": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "請你帶著上路吧": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 2,
+      "words": [
+        "達伊達王子",
+        "迦樓羅",
+        "已經全都告訴我了",
+        "你用了多麼卑鄙的手段",
+        "才闖過這座大江山"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        41
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 41
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達王子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "迦樓羅": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "已經全都告訴我了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你用了多麼卑鄙的手段": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "才闖過這座大江山": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 3,
+      "words": [
+        "迦樓羅",
+        "正是如此",
+        "竟敢逼被打倒的鬼",
+        "硬是吐出謎題的答案",
+        "真是個卑鄙的傢伙",
+        "嘿嘿嘿"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        42,
+        43
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 42
+        },
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 43
+        }
+      ],
+      "changedFrames": 56,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "正是如此": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "竟敢逼被打倒的鬼": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "硬是吐出謎題的答案": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "真是個卑鄙的傢伙": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 4,
+      "words": [
+        "達伊達王子",
+        "看來是我",
+        "太高估你了",
+        "還是說",
+        "你有什麼話想說"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        44
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 44
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達王子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "看來是我": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "太高估你了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "還是說": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "你有什麼話想說": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 5,
+      "words": [
+        "達伊達王子",
+        "原來如此",
+        "你是說",
+        "這一切",
+        "都是迦樓羅的謊言嗎",
+        "既然你也算個武人",
+        "就別找藉口了",
+        "用你自己的劍來回答吧"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        45
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 45
+        }
+      ],
+      "changedFrames": 66,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達王子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "原來如此": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "你是說": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "這一切": {
+          "frame": "frame-1380.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "都是迦樓羅的謊言嗎": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "既然你也算個武人": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就別找藉口了": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "用你自己的劍來回答吧": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 8,
+      "words": [
+        "酒吞童子",
+        "吾名酒吞",
+        "我早已聽過你的傳聞",
+        "一直想和你較量一番",
+        "先讓我看看你的力量",
+        "不",
+        "是你們的力量",
+        "究竟有多厲害",
+        "出來吧",
+        "我的四天王"
+      ],
+      "frames": 6600,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        46
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 46
+        }
+      ],
+      "changedFrames": 85,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "酒吞童子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吾名酒吞": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我早已聽過你的傳聞": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "一直想和你較量一番": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "先讓我看看你的力量": {
+          "frame": "frame-1920.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "不": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "是你們的力量": {
+          "frame": "frame-2220.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "究竟有多厲害": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "出來吧": {
+          "frame": "frame-2520.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我的四天王": {
+          "frame": "frame-2520.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 10,
+      "words": [
+        "酒吞童子",
+        "來吧",
+        "和夥伴們",
+        "你們想和誰交手",
+        "我的四天王贏了兩場",
+        "就算我們獲勝",
+        "到時就把你們",
+        "吹回大江山的入口",
+        "要是你們贏了兩場",
+        "就讓你們見識我的力量"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        47,
+        48,
+        51
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 47
+        },
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 48
+        },
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 51
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "酒吞童子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "來吧": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "和夥伴們": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "你們想和誰交手": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我的四天王贏了兩場": {
+          "frame": "frame-1440.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就算我們獲勝": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "到時就把你們": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "吹回大江山的入口": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要是你們贏了兩場": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就讓你們見識我的力量": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 11,
+      "words": [
+        "酒吞童子",
+        "那我就問了",
+        "你要和誰交手"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        49
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 49
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "酒吞童子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "那我就問了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你要和誰交手": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 14,
+      "words": [
+        "再確認一次",
+        "對",
+        "金太郎對",
+        "浦島對",
+        "這樣就行了吧"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        50
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 50
+        }
+      ],
+      "changedFrames": 55,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "再確認一次": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "對": {
+          "frame": "frame-1260.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "金太郎對": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "浦島對": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "這樣就行了吧": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 27,
+      "words": [
+        "酒吞童子",
+        "真是精彩",
+        "這數百年來",
+        "從未有過一場戰鬥",
+        "讓我如此心滿意足",
+        "那毫不摻假的戰鬥",
+        "夥伴之間互補的打法",
+        "對我酒吞童子而言十分新鮮",
+        "看來",
+        "編造謊言的是迦樓羅大人啊",
+        "去吧",
+        "你們",
+        "可以通過這座大江山了"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        52
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 52
+        }
+      ],
+      "changedFrames": 78,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "酒吞童子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "真是精彩": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "這數百年來": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "從未有過一場戰鬥": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "讓我如此心滿意足": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "那毫不摻假的戰鬥": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "夥伴之間互補的打法": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "對我酒吞童子而言十分新鮮": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "看來": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "編造謊言的是迦樓羅大人啊": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "去吧": {
+          "frame": "frame-2280.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "你們": {
+          "frame": "frame-2340.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "可以通過這座大江山了": {
+          "frame": "frame-2400.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 28,
+      "words": [
+        "迦樓羅",
+        "嘰嘰嘰嘰嘰",
+        "你",
+        "你這個蠢貨",
+        "什麼武人",
+        "什麼精彩",
+        "不過是打輸了",
+        "竟然還扯出一堆藉口",
+        "沒用的鬼",
+        "只有死路一條",
+        "受死吧",
+        "酒吞童子"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        53
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 53
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘰嘰嘰嘰嘰": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "你這個蠢貨": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "什麼武人": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "什麼精彩": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "不過是打輸了": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "竟然還扯出一堆藉口": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "沒用的鬼": {
+          "frame": "frame-1920.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "只有死路一條": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "受死吧": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "酒吞童子": {
+          "frame": "frame-2040.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-shuten-confrontation",
+      "firstIndex": 29,
+      "words": [
+        "迦樓羅",
+        "啊",
+        "您是",
+        "阿闍世王子",
+        "嘰嘰嘰嘰嘰",
+        "事到如今",
+        "四處遊蕩的您還有什麼好說",
+        "您忘了嗎",
+        "伐折羅王大人的繼承人",
+        "是您這位正在此處的兄長",
+        "被定為達伊達王子的那天",
+        "從那天起",
+        "您不是說過",
+        "不再插手鬼族的政事嗎"
+      ],
+      "frames": 6600,
+      "pointerOffset": "0x701f5",
+      "screenshotIds": [
+        54
+      ],
+      "mappings": [
+        {
+          "file": "translations/ooeyama-shuten-confrontation.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 54
+        }
+      ],
+      "changedFrames": 83,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "啊": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "您是": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "阿闍世王子": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "嘰嘰嘰嘰嘰": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "事到如今": {
+          "frame": "frame-1380.ppm",
+          "x": 116,
+          "y": 112
+        },
+        "四處遊蕩的您還有什麼好說": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "您忘了嗎": {
+          "frame": "frame-1740.ppm",
+          "x": 116,
+          "y": 112
+        },
+        "伐折羅王大人的繼承人": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "是您這位正在此處的兄長": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "被定為達伊達王子的那天": {
+          "frame": "frame-2400.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "從那天起": {
+          "frame": "frame-2700.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "您不是說過": {
+          "frame": "frame-2700.ppm",
+          "x": 104,
+          "y": 112
+        },
+        "不再插手鬼族的政事嗎": {
+          "frame": "frame-2760.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-refuge-cave",
+      "firstIndex": 8,
+      "words": [
+        "冰之塔就如其名",
+        "是一座被冰封住的塔",
+        "穿成這樣是爬不上去的",
+        "要是有鉤繩就好了",
+        "不過",
+        "持有鉤繩的",
+        "是那個古怪的大太郎啊"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70141",
+      "screenshotIds": [
+        55
+      ],
+      "mappings": [
+        {
+          "file": "translations/netarou-refuge-cave.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 55
+        }
+      ],
+      "changedFrames": 52,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "冰之塔就如其名": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "是一座被冰封住的塔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "穿成這樣是爬不上去的": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要是有鉤繩就好了": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "不過": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "持有鉤繩的": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "是那個古怪的大太郎啊": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-refuge-cave",
+      "firstIndex": 9,
+      "words": [
+        "想叫醒寢太郎",
+        "用冰室刨冰",
+        "應該最有效吧",
+        "去找冰之塔的醜女大人",
+        "她應該會分給你一些",
+        "還會放進冰室袋裡",
+        "免得刨冰融化呢"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x70141",
+      "screenshotIds": [
+        56
+      ],
+      "mappings": [
+        {
+          "file": "translations/netarou-refuge-cave.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 56
+        }
+      ],
+      "changedFrames": 56,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "想叫醒寢太郎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "用冰室刨冰": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "應該最有效吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "去找冰之塔的醜女大人": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "她應該會分給你一些": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "還會放進冰室袋裡": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "免得刨冰融化呢": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "daitaro-rope-hermitage",
+      "firstIndex": 1,
+      "words": [
+        "俺叫大太郎",
+        "就是俺啦",
+        "啊啵",
+        "你想要鉤繩",
+        "它沉在這間庵後面",
+        "那座湖裡啦",
+        "只要是為了",
+        "先生",
+        "俺就幫你撈上來啦",
+        "跟俺來吧"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x7016e",
+      "screenshotIds": [
+        57,
+        58
+      ],
+      "mappings": [
+        {
+          "file": "translations/daitaro-rope-hermitage.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 57
+        },
+        {
+          "file": "translations/daitaro-rope-hermitage.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 58
+        }
+      ],
+      "changedFrames": 58,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "俺叫大太郎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就是俺啦": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "啊啵": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "你想要鉤繩": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "它沉在這間庵後面": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "那座湖裡啦": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "只要是為了": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "先生": {
+          "frame": "frame-1680.ppm",
+          "x": 140,
+          "y": 112
+        },
+        "俺就幫你撈上來啦": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "跟俺來吧": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "daitaro-rope-lake",
+      "firstIndex": 0,
+      "words": [
+        "就在這裡啦",
+        "啊啵",
+        "俺下去拿",
+        "你先等一下啊"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7016b",
+      "screenshotIds": [
+        59
+      ],
+      "mappings": [
+        {
+          "file": "translations/daitaro-rope-lake.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 59
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就在這裡啦": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "啊啵": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "俺下去拿": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你先等一下啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "daitaro-rope-lake",
+      "firstIndex": 1,
+      "words": [
+        "好",
+        "好冷啊",
+        "啊",
+        "啊啵",
+        "先生",
+        "鉤繩",
+        "拿",
+        "拿回來啦",
+        "抖抖抖",
+        "啊啵啵啵",
+        "冰"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x7016b",
+      "screenshotIds": [
+        60
+      ],
+      "mappings": [
+        {
+          "file": "translations/daitaro-rope-lake.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 60
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "好冷啊": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "啊": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "啊啵": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "先生": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "鉤繩": {
+          "frame": "frame-1380.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "拿": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "拿回來啦": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "抖抖抖": {
+          "frame": "frame-1440.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "啊啵啵啵": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "冰": {
+          "frame": "frame-1500.ppm",
+          "x": 140,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "daitaro-rope-lake",
+      "firstIndex": 2,
+      "words": [
+        "先生",
+        "快去冰之塔",
+        "用這個去救醜女大人吧",
+        "抖抖抖",
+        "啊啵"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7016b",
+      "screenshotIds": [
+        61
+      ],
+      "mappings": [
+        {
+          "file": "translations/daitaro-rope-lake.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 61
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "快去冰之塔": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "用這個去救醜女大人吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "抖抖抖": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "啊啵": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "daitaro-rope-lake",
+      "firstIndex": 3,
+      "words": [
+        "先生",
+        "快去冰之塔",
+        "用這個去救醜女大人吧",
+        "抖抖抖",
+        "啊啵"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7016b",
+      "screenshotIds": [
+        61
+      ],
+      "mappings": [
+        {
+          "file": "translations/daitaro-rope-lake.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 61
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "快去冰之塔": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "用這個去救醜女大人吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "抖抖抖": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "啊啵": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "netarou-refuge-cave",
+      "firstIndex": 11,
+      "words": [
+        "走到這個洞穴之前",
+        "不知有多少冰柱擦過耳邊",
+        "真是的",
+        "可惡的鬼族"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70141",
+      "screenshotIds": [
+        62
+      ],
+      "mappings": [
+        {
+          "file": "translations/netarou-refuge-cave.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 62
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "走到這個洞穴之前": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "不知有多少冰柱擦過耳邊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "真是的": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "可惡的鬼族": {
+          "frame": "frame-1200.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 1,
+      "words": [
+        "小偷銀次",
+        "先生",
+        "是小的",
+        "我是銀次",
+        "出大事了",
+        "讓巨大冰柱",
+        "落到寢太郎村的",
+        "果然就是迦樓羅",
+        "而且連醜女大人",
+        "都被抓起來了",
+        "快點",
+        "去救醜女大人吧",
+        "小的也陪您一起去"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        63,
+        64,
+        65
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 63
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 64
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 65
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "小偷銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "是小的": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "我是銀次": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "出大事了": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "讓巨大冰柱": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "落到寢太郎村的": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "果然就是迦樓羅": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "而且連醜女大人": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "都被抓起來了": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "快點": {
+          "frame": "frame-1980.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "去救醜女大人吧": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "小的也陪您一起去": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 7,
+      "words": [
+        "幹嘛",
+        "別來礙事"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        66
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 66
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "幹嘛": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "別來礙事": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 8,
+      "words": [
+        "嘿嘿嘿",
+        "來得好啊",
+        "到這邊來吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        67
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 67
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿嘿嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "來得好啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "到這邊來吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 9,
+      "words": [
+        "嘿嘿嘿",
+        "跟你打交道",
+        "也有好一陣子了啊",
+        "如何",
+        "差不多",
+        "也該當我的部下了吧",
+        "給你一萬兩也行"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        68,
+        69
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 68
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 69
+        }
+      ],
+      "changedFrames": 51,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿嘿嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "跟你打交道": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "也有好一陣子了啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "如何": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "差不多": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "也該當我的部下了吧": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "給你一萬兩也行": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 6,
+      "words": [
+        "醜女",
+        "謝謝你啊",
+        "要是你沒來",
+        "寢太郎村早就被冰柱淹沒",
+        "變成另一座冰之塔了",
+        "哈哈哈",
+        "你這孩子",
+        "雖然莽撞",
+        "眼神卻很溫柔",
+        "真是個好男兒"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        70,
+        71,
+        72
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 70
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 71
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 72
+        }
+      ],
+      "changedFrames": 57,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醜女": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "謝謝你啊": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "要是你沒來": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "寢太郎村早就被冰柱淹沒": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "變成另一座冰之塔了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "哈哈哈": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "你這孩子": {
+          "frame": "frame-1680.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "雖然莽撞": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "眼神卻很溫柔": {
+          "frame": "frame-1740.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "真是個好男兒": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 4,
+      "words": [
+        "對了",
+        "得把這個交給你才行"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        73
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 73
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對了": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "得把這個交給你才行": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 5,
+      "words": [
+        "把冰室袋拿到",
+        "寢太郎的面前",
+        "再使用就行了",
+        "他一定會嚇一跳",
+        "立刻醒過來",
+        "來",
+        "拿著吧"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        74,
+        75
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 74
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 75
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "把冰室袋拿到": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "寢太郎的面前": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "再使用就行了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "他一定會嚇一跳": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "立刻醒過來": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "來": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "拿著吧": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 13,
+      "words": [
+        "夜叉姬",
+        "醜女",
+        "我可不准妳",
+        "把那件東西交出去"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        76
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 76
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "醜女": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我可不准妳": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "把那件東西交出去": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 14,
+      "words": [
+        "醜女",
+        "夜叉姬大人",
+        "您是什麼時候",
+        "來到這裡的",
+        "您得到父王伐折羅王大人的",
+        "允許",
+        "才來這裡的嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        77,
+        78
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 77
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 78
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醜女": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "夜叉姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "您是什麼時候": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "來到這裡的": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "您得到父王伐折羅王大人的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "允許": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "才來這裡的嗎": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 15,
+      "words": [
+        "夜叉姬",
+        "醜女",
+        "妳也真是的",
+        "不用擺出那麼可怕的表情嘛",
+        "乖乖待在地獄裡",
+        "我早就膩了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        79,
+        80
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 79
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 80
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "醜女": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "妳也真是的": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "不用擺出那麼可怕的表情嘛": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "乖乖待在地獄裡": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我早就膩了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 16,
+      "words": [
+        "夜叉姬",
+        "為了打發時間",
+        "我才來看看",
+        "啊",
+        "因為酒吞童子說",
+        "從沒見過那麼強的男人"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        81,
+        82
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 81
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 82
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "為了打發時間": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我才來看看": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "啊": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 112
+        },
+        "因為酒吞童子說": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "從沒見過那麼強的男人": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 17,
+      "words": [
+        "夜叉姬",
+        "所以",
+        "醜女",
+        "妳先退下吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        83
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 83
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "所以": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "醜女": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "妳先退下吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 18,
+      "words": [
+        "夜叉姬",
+        "哦",
+        "原來如此",
+        "你就是",
+        "嗎",
+        "明明打倒過酒吞童子",
+        "和閻魔大人",
+        "個子卻小得很嘛",
+        "我還以為",
+        "你會是個大人呢",
+        "跟我打一場",
+        "我喜歡強壯的男人",
+        "要是因為我是女生",
+        "就故意手下留情",
+        "我可不會饒過你"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        84,
+        85,
+        86
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 84
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 85
+        },
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 86
+        }
+      ],
+      "changedFrames": 76,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "哦": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "原來如此": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "你就是": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 112
+        },
+        "明明打倒過酒吞童子": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 88
+        },
+        "和閻魔大人": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "個子卻小得很嘛": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我還以為": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你會是個大人呢": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "跟我打一場": {
+          "frame": "frame-1980.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "我喜歡強壯的男人": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "要是因為我是女生": {
+          "frame": "frame-2280.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就故意手下留情": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我可不會饒過你": {
+          "frame": "frame-2340.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 3,
+      "words": [
+        "搞什麼",
+        "以為我是女人",
+        "就故意手下留情嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [
+        89
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 89
+        },
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "搞什麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "以為我是女人": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "就故意手下留情嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 16,
+      "words": [
+        "不懂",
+        "我不懂",
+        "難道父王錯了",
+        "達伊達哥哥錯了嗎",
+        "還是迦樓羅錯了",
+        "誰來告訴我真相啊",
+        "我已經",
+        "不懂了",
+        "我不懂啊"
+      ],
+      "frames": 6600,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [
+        91,
+        92,
+        93
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 91
+        },
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 92
+        },
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 93
+        },
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 87,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不懂": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我不懂": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "難道父王錯了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "達伊達哥哥錯了嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "還是迦樓羅錯了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "誰來告訴我真相啊": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我已經": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "不懂了": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我不懂啊": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 17,
+      "words": [
+        "夜叉姬",
+        "原來我真的",
+        "什麼都不知道啊",
+        "在地獄深處",
+        "被大家捧著叫公主",
+        "只顧著玩樂而已",
+        "我從來沒有想過",
+        "身為父親的伐折羅王",
+        "竟然也可能會做錯事",
+        "但與",
+        "先生戰鬥後",
+        "我明白了一件事",
+        "現在的鬼族天下錯了",
+        "父王和達伊達哥哥",
+        "全都被迦樓羅",
+        "給欺騙了",
+        "我要擴張鬼族的天下",
+        "的確是很動聽的話",
+        "可是迦樓羅只是想藉此",
+        "讓自己爬到更高的位置",
+        "拜託你",
+        "請帶著我",
+        "一起踏上旅程",
+        "你對敗在手下的人",
+        "所展現的慈悲之心",
+        "改變了身為鬼族的我",
+        "先生的想法",
+        "我想讓鬼族的大家明白",
+        "帶我一起走吧"
+      ],
+      "frames": 10800,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [
+        94,
+        95,
+        96
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 94
+        },
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 95
+        },
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental record",
+          "screenshotId": 96
+        },
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 164,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "原來我真的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "什麼都不知道啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "在地獄深處": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "被大家捧著叫公主": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "只顧著玩樂而已": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我從來沒有想過": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "身為父親的伐折羅王": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "竟然也可能會做錯事": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "但與": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "先生戰鬥後": {
+          "frame": "frame-2040.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "我明白了一件事": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "現在的鬼族天下錯了": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "父王和達伊達哥哥": {
+          "frame": "frame-2400.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "全都被迦樓羅": {
+          "frame": "frame-2460.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "給欺騙了": {
+          "frame": "frame-2460.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我要擴張鬼族的天下": {
+          "frame": "frame-2700.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "的確是很動聽的話": {
+          "frame": "frame-2760.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "可是迦樓羅只是想藉此": {
+          "frame": "frame-2820.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "讓自己爬到更高的位置": {
+          "frame": "frame-3060.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "拜託你": {
+          "frame": "frame-3120.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "請帶著我": {
+          "frame": "frame-3180.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "一起踏上旅程": {
+          "frame": "frame-3360.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你對敗在手下的人": {
+          "frame": "frame-3480.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "所展現的慈悲之心": {
+          "frame": "frame-3540.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "改變了身為鬼族的我": {
+          "frame": "frame-3720.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "先生的想法": {
+          "frame": "frame-3780.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "我想讓鬼族的大家明白": {
+          "frame": "frame-3900.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "帶我一起走吧": {
+          "frame": "frame-4140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 3,
+      "words": [
+        "啊",
+        "夜叉姬大人",
+        "是個一旦決定就不退讓",
+        "活潑又固執的公主",
+        "就拜託你",
+        "多多照顧她了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        97
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 97
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啊": {
+          "frame": "frame-1020.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "夜叉姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "是個一旦決定就不退讓": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "活潑又固執的公主": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就拜託你": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "多多照顧她了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ice-tower-yashahime",
+      "firstIndex": 28,
+      "words": [
+        "俺想幫上",
+        "先生",
+        "的忙嘛",
+        "啊啵",
+        "討伐鬼族要加油啊",
+        "以後再見啦"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x701f8",
+      "screenshotIds": [
+        98
+      ],
+      "mappings": [
+        {
+          "file": "translations/ice-tower-yashahime.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 98
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "俺想幫上": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 80
+        },
+        "的忙嘛": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "啊啵": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "討伐鬼族要加油啊": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "以後再見啦": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "vajra-court-deceptions",
+      "firstIndex": 3,
+      "words": [
+        "迦樓羅",
+        "伐折羅王大人",
+        "大事不好了",
+        "萬萬沒想到",
+        "夜叉姬大人",
+        "竟被",
+        "拐走了",
+        "我迦樓羅拚上性命",
+        "想要阻止他",
+        "可是",
+        "卑鄙地",
+        "將刀刃抵住公主",
+        "以此威脅",
+        "害我",
+        "根本無法出手"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x702ca",
+      "screenshotIds": [
+        99
+      ],
+      "mappings": [
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 99
+        }
+      ],
+      "changedFrames": 76,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "伐折羅王大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "大事不好了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "萬萬沒想到": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "夜叉姬大人": {
+          "frame": "frame-1380.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "竟被": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "拐走了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我迦樓羅拚上性命": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "想要阻止他": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "可是": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "卑鄙地": {
+          "frame": "frame-1800.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "將刀刃抵住公主": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "以此威脅": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "害我": {
+          "frame": "frame-2040.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "根本無法出手": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "vajra-court-deceptions",
+      "firstIndex": 15,
+      "words": [
+        "迦樓羅",
+        "伐折羅王大人",
+        "大事不好了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x702ca",
+      "screenshotIds": [
+        99
+      ],
+      "mappings": [
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 99
+        }
+      ],
+      "changedFrames": 46,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "伐折羅王大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "大事不好了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "vajra-court-deceptions",
+      "firstIndex": 4,
+      "words": [
+        "怎麼會這樣",
+        "伐折羅王",
+        "閻魔啊",
+        "你所稱許的",
+        "竟是如此卑鄙的傢伙嗎",
+        "與我一同披荊斬棘",
+        "建立鬼族世界的閻魔啊",
+        "你的眼光",
+        "究竟為何變得如此糊塗",
+        "我",
+        "實在不願意",
+        "懷疑你"
+      ],
+      "frames": 7200,
+      "pointerOffset": "0x702ca",
+      "screenshotIds": [
+        100,
+        101,
+        107
+      ],
+      "mappings": [
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 100
+        },
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 101
+        },
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 107
+        }
+      ],
+      "changedFrames": 93,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎麼會這樣": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "伐折羅王": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "閻魔啊": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "你所稱許的": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "竟是如此卑鄙的傢伙嗎": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我": {
+          "frame": "frame-1860.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "與我一同披荊斬棘": {
+          "frame": "frame-1920.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "建立鬼族世界的閻魔啊": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你的眼光": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "究竟為何變得如此糊塗": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "實在不願意": {
+          "frame": "frame-2760.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "懷疑你": {
+          "frame": "frame-2820.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "vajra-court-deceptions",
+      "firstIndex": 6,
+      "words": [
+        "住口",
+        "阿闍世王子",
+        "伐折羅王",
+        "我不是告誡過你",
+        "不准插嘴嗎",
+        "忘了嗎"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x702ca",
+      "screenshotIds": [
+        102,
+        103
+      ],
+      "mappings": [
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 102
+        },
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 103
+        }
+      ],
+      "changedFrames": 55,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "住口": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "阿闍世王子": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "伐折羅王": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我不是告誡過你": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "不准插嘴嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "忘了嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "vajra-court-deceptions",
+      "firstIndex": 7,
+      "words": [
+        "阿闍世王子",
+        "請",
+        "您冷靜"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702ca",
+      "screenshotIds": [
+        104
+      ],
+      "mappings": [
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 104
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "阿闍世王子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "請": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "您冷靜": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "vajra-court-deceptions",
+      "firstIndex": 8,
+      "words": [
+        "迦樓羅",
+        "伐折羅王大人",
+        "就由我",
+        "來攔住阿闍世王子"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702ca",
+      "screenshotIds": [
+        105
+      ],
+      "mappings": [
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 105
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "伐折羅王大人": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就由我": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "來攔住阿闍世王子": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "vajra-court-deceptions",
+      "firstIndex": 9,
+      "words": [
+        "隨著時代改變",
+        "大家的心",
+        "也會逐漸改變嗎"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x702ca",
+      "screenshotIds": [
+        106
+      ],
+      "mappings": [
+        {
+          "file": "translations/vajra-court-deceptions.draft.zh-Hant.json",
+          "reason": "reviewed candidate",
+          "screenshotId": 106
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨著時代改變": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "大家的心": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 80
+        },
+        "也會逐漸改變嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 0,
+      "words": [
+        "嘴上倒是很厲害",
+        "鼓足了勇氣",
+        "也只有這點本事嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘴上倒是很厲害": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "鼓足了勇氣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "也只有這點本事嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 1,
+      "words": [
+        "地獄裡還有很多",
+        "比你強得多的男人喔"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "地獄裡還有很多": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "比你強得多的男人喔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 2,
+      "words": [
+        "連這種攻擊都躲不開",
+        "達伊達哥哥不把你當對手",
+        "也是理所當然的呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "連這種攻擊都躲不開": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "達伊達哥哥不把你當對手": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "也是理所當然的呢": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 4,
+      "words": [
+        "哦",
+        "原來你也",
+        "使得出這種攻擊啊"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哦": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "原來你也": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "使得出這種攻擊啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 5,
+      "words": [
+        "剛才那一下",
+        "倒是有點痛呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "剛才那一下": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "倒是有點痛呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 6,
+      "words": [
+        "看來迦樓羅應付不了你",
+        "也不全是在說謊呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "看來迦樓羅應付不了你": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "也不全是在說謊呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 7,
+      "words": [
+        "真沒想到",
+        "人類居然",
+        "這麼能打"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "真沒想到": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "人類居然": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "這麼能打": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 8,
+      "words": [
+        "為什麼",
+        "明明已經傷成這樣",
+        "還不肯停止戰鬥呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "為什麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "明明已經傷成這樣": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "還不肯停止戰鬥呢": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 9,
+      "words": [
+        "為什麼",
+        "不趁著還能逃跑",
+        "趕快逃走呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "為什麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "不趁著還能逃跑": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "趕快逃走呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 10,
+      "words": [
+        "為什麼",
+        "不把礙手礙腳的同伴",
+        "丟下不管呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "為什麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "不把礙手礙腳的同伴": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "丟下不管呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 11,
+      "words": [
+        "為什麼",
+        "不露出痛苦的表情",
+        "你早就筋疲力盡了吧"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "為什麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "不露出痛苦的表情": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你早就筋疲力盡了吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 12,
+      "words": [
+        "不懂",
+        "我不懂",
+        "這就是勇氣的力量嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不懂": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我不懂": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "這就是勇氣的力量嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 13,
+      "words": [
+        "不懂",
+        "我不懂",
+        "友情真的那麼重要嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不懂": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我不懂": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "友情真的那麼重要嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 14,
+      "words": [
+        "不懂",
+        "我不懂",
+        "果然是迦樓羅",
+        "在說謊嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不懂": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我不懂": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "果然是迦樓羅": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "在說謊嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 15,
+      "words": [
+        "不懂",
+        "我不懂",
+        "鬼族以外的生物",
+        "竟也能絞盡腦汁"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不懂": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我不懂": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "鬼族以外的生物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "竟也能絞盡腦汁": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 18,
+      "words": [
+        "你不相信我嗎",
+        "因為我是鬼族的女兒",
+        "我是真心想把",
+        "先生的想法",
+        "告訴所有人啊",
+        "拜託你",
+        "帶我一起走吧"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 56,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你不相信我嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "因為我是鬼族的女兒": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我是真心想把": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "先生的想法": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "告訴所有人啊": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "拜託你": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "帶我一起走吧": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 19,
+      "words": [
+        "咦",
+        "啊",
+        "謝謝您"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-yashahime-battle.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 58,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咦": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "謝謝您": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "battle-effects",
+      "firstIndex": 86,
+      "words": [
+        "的攻擊力",
+        "下降了",
+        "點"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x7004b",
+      "screenshotIds": [
+        90
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-review-20261003.json",
+          "reason": "other ambiguous attack-drop candidate",
+          "screenshotId": 90
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的攻擊力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 78,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 35,
+      "words": [
+        "的",
+        "提升了一點",
+        "變為",
+        "點"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70039",
+      "screenshotIds": [
+        24
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-review-20261003.json",
+          "reason": "dynamic animal sentence",
+          "screenshotId": 24
+        }
+      ],
+      "changedFrames": 46,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "提升了一點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "變為": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 36,
+      "words": [
+        "學會了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70039",
+      "screenshotIds": [
+        25
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-review-20261003.json",
+          "reason": "dynamic animal sentence",
+          "screenshotId": 25
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "學會了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 12,
+      "words": [
+        "攻擊力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [
+        20
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-review-20261003.json",
+          "reason": "dynamic attack label",
+          "screenshotId": 20
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 13,
+      "words": [
+        "防禦力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [
+        87
+      ],
+      "mappings": [
+        {
+          "file": "translations/screenshot-review-20261003.json",
+          "reason": "dynamic defense label",
+          "screenshotId": 87
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "防禦力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 14,
+      "words": [
+        "速度"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/screenshot-review-20261003.json",
+          "reason": "dynamic speed label"
+        }
+      ],
+      "changedFrames": 35,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "速度": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "hidden-passage-training",
+      "firstIndex": 0,
+      "words": [
+        "哇哈哈",
+        "嚇到了吧",
+        "從那裡回到老夫這裡",
+        "限時五分鐘",
+        "這就是老夫的修行",
+        "不過",
+        "想回到這裡",
+        "就得找出",
+        "隱藏的通道才行啊",
+        "那麼",
+        "老夫就",
+        "在上面等你啦",
+        "開始"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x700fc",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "release allocation regression",
+          "reason": "Huffman neighbor/relocation regression"
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哇哈哈": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "嚇到了吧": {
+          "frame": "frame-1080.ppm",
+          "x": 88,
+          "y": 96
+        },
+        "從那裡回到老夫這裡": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "限時五分鐘": {
+          "frame": "frame-1380.ppm",
+          "x": 40,
+          "y": 96
+        },
+        "這就是老夫的修行": {
+          "frame": "frame-1440.ppm",
+          "x": 40,
+          "y": 112
+        },
+        "不過": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "想回到這裡": {
+          "frame": "frame-1680.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "就得找出": {
+          "frame": "frame-1740.ppm",
+          "x": 40,
+          "y": 96
+        },
+        "隱藏的通道才行啊": {
+          "frame": "frame-1800.ppm",
+          "x": 40,
+          "y": 112
+        },
+        "那麼": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "老夫就": {
+          "frame": "frame-1980.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "在上面等你啦": {
+          "frame": "frame-2040.ppm",
+          "x": 40,
+          "y": 96
+        },
+        "開始": {
+          "frame": "frame-2100.ppm",
+          "x": 40,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-mirror-hints",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅的事啊",
+        "從伐折羅王手中",
+        "接下撫養達伊達王子的任務時",
+        "他可是高興極了",
+        "不許任何人插手",
+        "傾注了所有心血",
+        "結果",
+        "達伊達王子",
+        "雖然成了武勇之神",
+        "卻不懂世間的人情",
+        "真是太可惜了",
+        "本性並不壞啊"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x700ea",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "release allocation regression",
+          "reason": "Huffman neighbor/relocation regression"
+        }
+      ],
+      "changedFrames": 79,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅的事啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "從伐折羅王手中": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "接下撫養達伊達王子的任務時": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "達伊達王子": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "他可是高興極了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "不許任何人插手": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "傾注了所有心血": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "結果": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "雖然成了武勇之神": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "卻不懂世間的人情": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "真是太可惜了": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "本性並不壞啊": {
+          "frame": "frame-2340.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    }
+  ],
+  "manifest": "translations/screenshots-v44.release.json",
+  "screenshotCoverage": {
+    "reviewedScreenshots": 108,
+    "skipped": [
+      {
+        "screenshotId": 6,
+        "reason": "No game dialogue in this screenshot; emulator overlay is outside ROM translation scope."
+      },
+      {
+        "screenshotId": 9,
+        "reason": "Already-Chinese 花咲爺爺 dialogue. No new Japanese dialogue to translate."
+      },
+      {
+        "screenshotId": 18,
+        "reason": "Already-translated pheasant attack: indexed source 0x7004b record48. Saved pheasant name remains user data."
+      },
+      {
+        "screenshotId": 26,
+        "reason": "No game dialogue in this screenshot; emulator overlay is outside ROM translation scope."
+      },
+      {
+        "screenshotId": 31,
+        "reason": "No game dialogue in this screenshot; emulator overlay is outside ROM translation scope."
+      },
+      {
+        "screenshotId": 34,
+        "reason": "No game dialogue in this screenshot; emulator overlay is outside ROM translation scope."
+      }
+    ],
+    "external": [
+      {
+        "screenshotId": 16,
+        "file": "translations/screenshot-inline-animal-references.draft.zh-Hant.json",
+        "menu": "karura-three-stories",
+        "start": "0x4e782",
+        "end": "0x4e798",
+        "reason": "inline-menu verifier owns this mapping"
+      },
+      {
+        "screenshotId": 17,
+        "file": "translations/screenshot-inline-animal-references.draft.zh-Hant.json",
+        "menu": "karura-three-stories",
+        "start": "0x4e782",
+        "end": "0x4e798",
+        "reason": "inline-menu verifier owns this mapping"
+      },
+      {
+        "screenshotId": 49,
+        "file": "translations/screenshot-inline-animal-references.draft.zh-Hant.json",
+        "menu": "shuten-four-opponents",
+        "start": "0x4e7bc",
+        "end": "0x4e7f9",
+        "reason": "inline-menu verifier owns this mapping"
+      }
+    ],
+    "dynamicLabelLimitations": []
+  },
+  "screenshotOnly": true,
+  "isolatedRecords": true,
+  "plannedScenes": 100,
+  "exactCandidateRecordsVerified": 100
+}

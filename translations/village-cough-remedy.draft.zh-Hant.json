@@ -1,0 +1,33 @@
+{
+  "pointerOffset": "0x70123",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "village-cough-remedy",
+  "target": "0x320000",
+  "decodedBytes": 1344,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 17 original glyph records reviewed; add 15 records while preserving released records 2/6 and the existing target. Future integration must recheck capacity.",
+    "Preserve occasional full recovery from the water jar, failed sesame rejuvenation, northeast warding hermit, destroyed ship materials and the fragmented singing complaint.",
+    "Record 12 retains source display controls 08/05; no medicine, recovery, gift or shipbuilding event behavior is changed."
+  ],
+  "records": {
+    "0": "「迦樓羅從我家，\n搶走火把，放了一把火！\n真是個大壞蛋！」\n「被[02a0]感化的，\n閻魔大人怎麼了呢？\n不是鬼族裡最偉大的嗎？」",
+    "1": "「[02a0]先生！你知道，\n水缸裡的水，\n可以喝好幾次嗎？」\n「有時水裝得特別多，\n多到能完全回復呢。\n真的，我說的是真的喔！」",
+    "2": "「咳！咳！\n咳個不停啊！」\n",
+    "3": "「聽說你救了萬吉，\n真的，\n非常感謝您！」\n「托您的福，\n我的病也治好了！\n全都多虧了[02a0]呀！」\n「這雖然只是小意思，\n請在旅途中好好利用吧！」\n",
+    "4": "「等[02a0]先生討伐鬼族，\n回來之後，萬吉說要，\n為你慶功，送上紅豆飯呢！」",
+    "5": "「在花咲村拿到的，\n止咳藥終於，\n派上用場了！」",
+    "6": "「萬吉先生去花咲村\n拿止咳藥，\n卻一直沒有回來！」\n「難道在足柄山……啊？\n剛才那些話，你！\n應該沒有聽見吧！」",
+    "7": "「為了讓[02a0]先生，\n早一天完成討伐鬼族，\n我要去神社祈禱！」",
+    "8": "「[02a0]先生！想回春，\n吃這些芝麻，\n也許會有效喔！」\n「從前就有人把芝麻，\n當成回春的藥來吃呢！\n請務必試試看！」\n[02a0]等人，\n試著吃了芝麻！\n",
+    "9": "可是，沒有任何效果！\n\n\n「連芝麻也沒用啊……\n這下子該怎麼辦才好！」\n",
+    "10": "「村子東北方的，\n避鬼仙人庵，\n你去過了嗎？」\n「聽說那位仙人，\n能夠看穿，\n世間的一切呢！」",
+    "11": "「那　叫　樂師的！\n活　麼久，也　沒　過，\n這　跑　調　的！」\n「你沒聽清楚嗎？\n我再說一次！」\n\n「那個叫猿樂師的傢伙！\n我活了這麼多年，\n從沒聽過有人唱得這麼走音！」",
+    "12": "「[08]啊啊！累死了～\n熬夜工作到天亮，\n身體都快散掉啦～～～！！」[05]\n「不行！在這村子裡，\n住得久了，不知不覺，\n連自己也懶散起來了……」",
+    "13": "「迦樓羅來把這村子的，\n木材全都毀了，\n真是大家的生死關頭啊！」\n「得設法重建村子，\n替[02a0]等人，\n造出船來才行啊！」",
+    "14": "「自從被[02a0]，\n好好教訓過之後，山姥，\n已經變成好婆婆了呢！」\n「她還幫忙把洞窟挖大，\n騰出造船的空間，\n到底是為了什麼呢？」",
+    "15": "「這樣啊！這樣啊！山姥，\n也發現迦樓羅是壞人了嗎！\n那真是太好了！太好了！」",
+    "16": "「好可怕呀！[02a0]先生！\n房子正在，\n喀噠喀噠地搖晃呢！」"
+  }
+}

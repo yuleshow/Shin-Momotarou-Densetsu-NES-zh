@@ -1,0 +1,68 @@
+{
+  "version": "v30",
+  "status": "locally-verified-not-deployed",
+  "targetSha256": "09516b5fbc974d676db69c4aa861eacac5b3b835e0b38867bb409779737654a5",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV29": 51,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2260,
+    "untranslatedRecords": 5528,
+    "emptyRecords": 82
+  },
+  "glyphs": 1782,
+  "glyphCapacity": 2112,
+  "villageRecords": 35,
+  "travelLabels": 26,
+  "newIndexedLocationNames": 16,
+  "totalTranslatedIndexedLocations": 33,
+  "maximumVillageLine": 14,
+  "allocation": {
+    "festivalVillage": "0x2c0000",
+    "relocatedMoonPalaceGuard": "0x3dfe00",
+    "travelMenu": "0x23d900"
+  },
+  "verification": {
+    "fullMenuSuitePassed": true,
+    "travelLayoutCases": 14,
+    "travelCallbacksByteIdentical": true,
+    "nativeDialogueScenes": 77,
+    "exactWords": 116,
+    "originalRelocationFramesIdentical": true,
+    "allEnemyNameRegressionsPassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "screenshotReview": {
+    "sourceBackups": [
+      "opening-preview-v28/deployment-backup",
+      "opening-preview-v29/deployment-backup"
+    ],
+    "pendingVillageScreenshotsCovered": 5,
+    "villagePagesVisuallyReviewed": 5,
+    "travelMenuScreenshotsCovered": 2,
+    "enemyScreenshotCoveredByV29": 1
+  },
+  "localizationNote": "Festival calls are adapted as rhythmic Chinese interjections; dynamic names and original control sequences are preserved.",
+  "device": {
+    "deployed": false,
+    "lastVerifiedVersion": "v29",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Natural village event progression",
+    "Actual travel arrival at every destination",
+    "Full playthrough",
+    "Physical-device boot",
+    "All earlier dialogue suites on this exact hash"
+  ],
+  "remainingJapanese": [
+    "Other untranslated indexed locations and game dialogue",
+    "Other untranslated interface text"
+  ]
+}

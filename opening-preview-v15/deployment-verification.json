@@ -1,0 +1,15 @@
+{
+  "targetSha256": "fc00b3c71c11ddb2dcbcfe122b6ce2c94bc42d197cc7642b5966e18cc04f0765",
+  "previousDeviceSha256": "9a5529f4f360d89ab4da6fedc38dbc28711016bffd0e84f244d68835a7d3fed3",
+  "deviceReadbackVerified": true,
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "relatedDeviceRomCount": 1,
+  "removedRelatedScreenshots": 11,
+  "remainingRelatedScreenshots": 0,
+  "screenshotArchive": "/tmp/momotaro-device-screenshots-pre-v15",
+  "unrelatedScreenshotFilesRetained": 200,
+  "protectedArtworkCheatsAndGamelistUnchanged": 6,
+  "changedProtectedFiles": [],
+  "saveFilesWrittenByDeployment": false,
+  "saveFilesRestored": false
+}

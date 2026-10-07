@@ -1,0 +1,27 @@
+{
+  "pointerOffset": "0x70141",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "netarou-refuge-cave",
+  "decodedBytes": 809,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "Prioritized from 2026-10-03 screenshots of the refuge cave. All 13 records reviewed against original ROM glyphs, including branches absent from the screenshots.",
+    "Preserve the rope-and-stake climbing hint, western cape location, shaved-ice remedy and the distinction between 寢太郎 and 大太郎. No ROM generated."
+  ],
+  "records": {
+    "0": "「居然會下起冰柱雨，\n這到底是怎麼回事！\n村子這下全完了呀！」",
+    "1": "「[02a0]先生！\n冰柱是不是從，\n冰之塔那邊飛來的？」",
+    "2": "「[02a0]！寢太郎不在！\n他還在外面睡覺呢！拜託你！\n快救救寢太郎吧！」",
+    "3": "「嗚──！嗚──！\n我不要待在黑漆漆的地方！\n我想回家啦──！」\n「嗚──！嗚──！\n我好想出生在南國喔──！」\n",
+    "4": "「俺做的雪人，\n被砸得稀巴爛了！\n為什麼會下起冰柱雨啊！」",
+    "5": "「風聲變了，\n原來就是，\n這場災難的前兆啊！」",
+    "6": "「這可真是場災難！\n旅行途中真的，\n不知道會發生什麼事！」",
+    "7": "「聽說把鉤繩，\n朝冰之塔的木樁扔去，\n就能抓著繩子爬上去！」",
+    "8": "「冰之塔就如其名，\n是一座被冰封住的塔！\n穿成這樣是爬不上去的！」\n「要是有鉤繩就好了！\n不過，持有鉤繩的，\n是那個古怪的大太郎啊！」",
+    "9": "「想叫醒寢太郎，\n用冰室刨冰，\n應該最有效吧！」\n「去找冰之塔的醜女大人，\n她應該會分給你一些！」\n\n「還會放進冰室袋裡，\n免得刨冰融化呢！」\n",
+    "10": "「遇到困難時，找大太郎，\n他一定會，\n幫上忙的！」\n「大太郎的家，\n就在西邊的海岬喔！」\n",
+    "11": "「走到這個洞穴之前，\n不知有多少冰柱擦過耳邊！\n真是的！可惡的鬼族！」",
+    "12": "「村子被砸得稀巴爛了！\n老夫已經，\n回不了村子啦！」\n「老夫可不想死在，\n這種黑漆漆的洞裡啊！」\n"
+  }
+}

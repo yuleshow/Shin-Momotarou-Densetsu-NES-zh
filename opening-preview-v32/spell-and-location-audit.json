@@ -1,0 +1,4806 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "28d5335ee49d67ad0aa2e6ae5c11d86787cad004d784ffa41e5c5f2e40540aab",
+  "spellRecords": [
+    {
+      "index": 0,
+      "decodedOffset": 0,
+      "originalHex": "0909a90109a8181bbc50a3a4939f5c",
+      "status": "translated",
+      "source": "[角色]は\n[術名]の術を となえた！",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "施展了"
+        },
+        {
+          "hex": "0109"
+        },
+        {
+          "text": "之術！"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "decodedOffset": 16,
+      "originalHex": "090f",
+      "status": "untranslated"
+    },
+    {
+      "index": 2,
+      "decodedOffset": 19,
+      "originalHex": "0909a90109a8181bbc50a3a4939f5c",
+      "status": "translated",
+      "source": "[角色]は\n[術名]の術を となえた！",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "施展了"
+        },
+        {
+          "hex": "0109"
+        },
+        {
+          "text": "之術！"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "decodedOffset": 35,
+      "originalHex": "0f",
+      "status": "untranslated"
+    },
+    {
+      "index": 4,
+      "decodedOffset": 37,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "source": "しかし\nなにも おきなかった！\n",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "decodedOffset": 55,
+      "originalHex": "09a8181ba90191aea950a19593ae9dbd5c010f",
+      "status": "translated",
+      "source": "[術名]の術は\nいまは つかえません！\n",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "text": "之術"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "現在無法使用！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "decodedOffset": 75,
+      "originalHex": "060909a901a19593a491181bbc01a1959492a39bae9b9f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "060909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "試圖使用"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "無法施展的法術！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "decodedOffset": 101,
+      "originalHex": "060aa850181ba90102aca5a950a19593ae9dbd5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "060a"
+        },
+        {
+          "text": "之術，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "無法對鬼族使用！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "decodedOffset": 124,
+      "originalHex": "061881184aaebe01b9bdb6979ba202c55c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "06"
+        },
+        {
+          "text": "請聯絡"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "三上！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "decodedOffset": 144,
+      "originalHex": "9b959b5009a90119d5d05019cca497a4b8501a2a91a89d91be01181bd050a3a493b6b9a4915c0f",
+      "status": "translated",
+      "source": "しかし [角色]は\n声が 出なくなる 呪いのせいで\n術が となえられない！",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "09"
+        },
+        {
+          "text": "因為"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "無法出聲的詛咒，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "不能施展法術！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "decodedOffset": 184,
+      "originalHex": "09a950184098d0bc509ba291b8a8be01181bd050a3a493b6b9a4915c010f",
+      "status": "translated",
+      "source": "[角色]は 大けがを しているので\n術が となえられない！\n",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "text": "身受重傷，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "不能施展法術！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "decodedOffset": 215,
+      "originalHex": "1842194754be50192b1a2450aaa3b7a85018151816bc019c999b5019de19dfbe96ae9c5c010f",
+      "status": "translated",
+      "source": "技数3で 味方ひとりの体力を\nすこし 回復できます！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "少量回復一位夥伴的體力！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "decodedOffset": 254,
+      "originalHex": "1842194756be50192b1a2450aaa3b7a85018151816bc0195a4b75019de19dfbe96ae9c5c010f",
+      "status": "translated",
+      "source": "技数5で 味方ひとりの体力を\nかなり 回復できます！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "56"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "大量回復一位夥伴的體力！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "decodedOffset": 293,
+      "originalHex": "184219475251be50192b1a2450aaa3b7a85018151816bc0119e219de19dfbe96ae9c5c010f",
+      "status": "translated",
+      "source": "技数10で 味方ひとりの体力を\n全回復できます！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5251"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "完全回復一位夥伴的體力！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "decodedOffset": 331,
+      "originalHex": "184219475251be50192b1a24509ce1a2a85018151816bc019c999b5019de19dfbe96ae9c5c010f",
+      "status": "translated",
+      "source": "技数10で 味方すべての体力を\nすこし 回復できます！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5251"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "少量回復全體夥伴的體力！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "decodedOffset": 371,
+      "originalHex": "184219475259be50192b1a24509ce1a2a85018151816bc0195a4b75019de19dfbe96ae9c5c010f",
+      "status": "translated",
+      "source": "技数18で 味方すべての体力を\nかなり 回復できます！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5259"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "大量回復全體夥伴的體力！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "decodedOffset": 411,
+      "originalHex": "184219475453be50192b1a24509ce1a2a85018151816bc0119e219de19dfbe96ae9c5c010f",
+      "status": "translated",
+      "source": "技数32で 味方すべての体力を\n全回復できます！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5453"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "完全回復全體夥伴的體力！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "decodedOffset": 449,
+      "originalHex": "184219475251be50192b1a2450d8bd91bda85018151816bc019197b695d7a15019de19df9bae9c5c010f",
+      "status": "translated",
+      "source": "技数10で 味方ぜんいんの体力を\nいくらかずつ 回復します！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5251"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "逐漸回復全體夥伴的體力！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "decodedOffset": 492,
+      "originalHex": "0909a950b3bbb69591019594b7a550a1a1aeb99f5c010f",
+      "status": "translated",
+      "source": "[角色]は やわらかい\nかおりに つつまれた！\n",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "被柔和的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "香氣包圍了！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "decodedOffset": 516,
+      "originalHex": "184219475359be50192b1a2450aaa3b7a801184098d0bc50a4949b5019ff184018151816a801531af3a852aebe5019de19df9bae9c5c0f",
+      "status": "translated",
+      "source": "技数28で 味方ひとりの\n大けがを なおし 最大体力の\n2分の1まで 回復します！",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5359"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "治好一位夥伴的重傷，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "體力回復至上限的一半！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "decodedOffset": 572,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "source": "しかし\nなにも おきなかった！\n",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "decodedOffset": 590,
+      "originalHex": "0909d050949690d0f59f5c01010f",
+      "status": "translated",
+      "source": "[角色]が おきあがった！\n\n",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "站起來了！"
+        },
+        {
+          "hex": "01010f"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "decodedOffset": 605,
+      "originalHex": "0909a901919b96bc50a3b7b2dd9b9f5c010f",
+      "status": "translated",
+      "source": "[角色]は\nいしきを とりもどした！\n",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "恢復了意識！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "decodedOffset": 624,
+      "originalHex": "1842194753be50192b1a2450aaa3b7a801180ebc501acf9bae9c5c010f",
+      "status": "translated",
+      "source": "技数2で 味方ひとりの\n毒を 消します！\n",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "53"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "解除一位夥伴的中毒！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "decodedOffset": 654,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "decodedOffset": 672,
+      "originalHex": "1842194754be50192b1a2450aaa3b7a80104aeaa03bc50a4949dae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "解除一位夥伴的"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "麻痺"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "decodedOffset": 704,
+      "originalHex": "1842194754be50184e18cebcb5df509ce1a2a80118dba5501a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，召來小浪，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族造成傷害！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "decodedOffset": 743,
+      "originalHex": "1842194757be50184018cebcb5df509ce1a2a80118dba55095a4b7a8501a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "57"
+        },
+        {
+          "text": "點技力，召來巨浪，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族造成大量傷害！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "decodedOffset": 787,
+      "originalHex": "184219475253be501a5318cebcb5df509ce1a2a80118dba55018401a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5253"
+        },
+        {
+          "text": "點技力，召來海嘯，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族造成重創！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "decodedOffset": 829,
+      "originalHex": "1842194755be501a7e1a7fbc5019f4a39b0118c0bc5099bb9b9fb75018dba8505204d2b8038004e503a5011a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，降下閃電，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "可擊碎岩石，或對"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "組"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "鬼族"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成傷害！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "decodedOffset": 886,
+      "originalHex": "1842194755be5095afa4b7bc50b5df0118db521873a5501a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，召來雷電，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "隻鬼造成傷害！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "decodedOffset": 924,
+      "originalHex": "1842194759be5095afa4b7bcb5df5018db521873a50195a4b7a8501a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，雷擊"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "隻鬼，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成大量傷害！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "decodedOffset": 966,
+      "originalHex": "184219475257be5095afa4b7bcb5df5018db521873a50118401a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5257"
+        },
+        {
+          "text": "點技力，雷擊"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "隻鬼，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成重創！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "decodedOffset": 1006,
+      "originalHex": "1842194755be50a1b0d6180cbc5094999b019ce1a2a85018dba5501a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，掀起旋風，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族造成傷害！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "decodedOffset": 1048,
+      "originalHex": "1842194759be501ac3180cbc5094999b509ce1a2a80118dba55095a4b7a8501a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，掀起突風，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族造成大量傷害！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "decodedOffset": 1094,
+      "originalHex": "184219475255be50a9d39b91180cbc5094999b019ce1a2a85018dba50118401a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5255"
+        },
+        {
+          "text": "點技力，掀起烈風，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成重創！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "decodedOffset": 1139,
+      "originalHex": "1842194755be501a79bcb5df5018dba8015204d2b8038004e503a5501a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，召來烈焰，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "組"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "鬼族"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "造成傷害！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "decodedOffset": 1182,
+      "originalHex": "1842194759be50188f1a79bcb5df5018dba8015204d2b8038004e503a55095a4b7a8011a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，召來火焰，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "組"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "鬼族"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成大量傷害！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "decodedOffset": 1231,
+      "originalHex": "184219475257be50188f1a79bc1ac5b69d5018dba8015204d2b8038004e503a55018401a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5257"
+        },
+        {
+          "text": "點技力，火焰奔流，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "組"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "鬼族"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "造成重創！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "decodedOffset": 1281,
+      "originalHex": "04deb60318ae1807a8181ba95018151816d05096f8979fbda501acb6a491a350a3a493b6b9a4915c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "04"
+        },
+        {
+          "text": "玫瑰"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "吹雪之術，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "必須在體力極低時才能施展！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "decodedOffset": 1324,
+      "originalHex": "184219475253be5004deb60318ae1807bc50b5df019ce1a2a85018dba50195a4b7a8501a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5253"
+        },
+        {
+          "text": "技力，召來"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "玫瑰"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "吹雪，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成大量傷害！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "decodedOffset": 1373,
+      "originalHex": "0909a850181595b601194719e01a04a85004deb603d00118db9fa0a5b095f5a25018d9bdbe19bff59f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的身體裡，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "湧出數萬朵"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "玫瑰"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "朝著鬼族飛射而去！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "decodedOffset": 1417,
+      "originalHex": "1ac61a23a8181ba95018151816a3501842a81947d001a899f5a291a491a350a3a493b6b9a4915c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "忍冬之術，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "必須尚有體力與技力才能施展！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "decodedOffset": 1459,
+      "originalHex": "18151816a3501842a850ada3bdddbc01d19d91a59ba2509ce1a2a85018dba50118401a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "犧牲幾乎全部的體力與技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成重創！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "decodedOffset": 1507,
+      "originalHex": "1ac61a237b9c9195d7b67ca801198199a3dea9501a9118b27b98bd9bbd7c5c01010909a950a7b0b9b8501816a8019ce1a2bc5019cc9b96f5a2010909a55018b2bc509a9ad39f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "忍冬的花語，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "就是奉獻！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "釋放沉睡的力量，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "用盡所有潛能，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "向"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "獻出了自身！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "decodedOffset": 1580,
+      "originalHex": "19ff184018421947a850541af3a852d2b691be011a5fb91a60bc50b5df509ce1a2a85018dba50118401a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "約消耗技力上限的"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "分之"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "召來流星，對全體鬼族"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "造成重創！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "decodedOffset": 1635,
+      "originalHex": "7d18081a80a55095d0b397015091971883a8501a60b55c0150bbb9a5501816bc5002abae935c7e010909a8501815a5011a5fb91a60a8501816d0501a92bbf59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "「照耀夜空的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "萬千繁星啊！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "請賜予我力量！」"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的身體裡，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "增添了流星的力量！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "decodedOffset": 1703,
+      "originalHex": "19ff184018421947a850541af3a852d2b691be0102a0a8509ce1a2a81816bc50a9a4a0011adc1817a818801a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "約消耗技力上限的"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "分之"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "釋放"
+        },
+        {
+          "hex": "02a0"
+        },
+        {
+          "text": "的全部力量，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "使出會心一擊！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "decodedOffset": 1758,
+      "originalHex": "0909a801184ca9509cb8dd9abc50ae9b9f5c010f",
+      "status": "translated",
+      "source": "[角色]の刀はするどさを増した！",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "刀變得更加鋒利了！"
+        },
+        {
+          "hex": "010f"
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "decodedOffset": 1779,
+      "originalHex": "1842194756be509ce1a2a85018db95b601941803bc501aeeaf509ab6a50118dba5501a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "56"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "偷取全體鬼族的金錢，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "並對鬼族造成傷害！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "decodedOffset": 1827,
+      "originalHex": "0909a901090995b6010a1819501aeebdda5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "從"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "身上"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "偷到了"
+        },
+        {
+          "hex": "0a"
+        },
+        {
+          "text": "兩！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "decodedOffset": 1847,
+      "originalHex": "184219475253be509ce1a2a85018db95b60118401803bc501aeeaf509ab6a50195a4b7a8501a121a19bc50909f93ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5253"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "偷取全體鬼族的大筆金錢，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "並造成大量傷害！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "decodedOffset": 1898,
+      "originalHex": "184219475355be509ce1a2a85018dba501b2a89cd4915018401a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5355"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對全體鬼族造成猛烈重創！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "decodedOffset": 1938,
+      "originalHex": "18db9fa0a950dfdff5a20119e218b2a8501816d050a698a29baef59f5c01019c959ad7500909d00118151a83a8501816bc5090a1b1a20118db9fa0a550e0a1989f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "鬼族嚇得"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "渾身使不出力氣！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "立刻"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "凝聚全身的力量，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "向鬼族猛擊過去！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "decodedOffset": 2006,
+      "originalHex": "184219475351be5018dba9501816d0a69801192b1a249ce1a2a85018151816d0019c999b5019de19df9bae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5351"
+        },
+        {
+          "text": "點技力，削弱鬼族，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "並讓全體夥伴"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "回復少量體力！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "decodedOffset": 2053,
+      "originalHex": "a4bda35c5018db9fa05019e2191fa8011a181a191816a3501a1b18201816a3509cdeb39ad001184bd0f5a29baef59f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "竟然！全體鬼族的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "攻擊力、防禦力與速度，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "全都下降了！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "decodedOffset": 2103,
+      "originalHex": "9ab6a55c50192b1a2419e2191fa501afa402b0a8181bd0509595f59f5c0199bda4181b5090b7955c5b0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "此外！全體夥伴還受到"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "全體金丹之術的效果！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "竟然有這種法術！？"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "decodedOffset": 2146,
+      "originalHex": "19ff184018421947a8501af21af3d2b691be5018db521873a501b2a89cd4915018401a121a19bc50909f93ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "約消耗技力上限的一半，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "對"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "隻鬼造成猛烈重創！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "decodedOffset": 2195,
+      "originalHex": "7ddadadadadadadada50dbdbdbdbdbdbdbdb0150dcdcdcdcdcdcdcdc50bebebebebebebebe0150dddddddddddd50dddd8080808080bd5c7e0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "「達達達達，吉吉吉吉！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "嘟嘟嘟嘟，得得得得！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "咚咚咚咚，咚隆！」"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "decodedOffset": 2253,
+      "originalHex": "1842194757be50192b1a2450aaa3b7a8011a181a191816d050184ad0b7ae9c5c011a1c19211a8350a4bdddbeb250a19593ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "57"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "提升一位夥伴的攻擊力！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "戰鬥中可反覆使用！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "decodedOffset": 2307,
+      "originalHex": "1842194755be50192b1a24509ce1a2a8011a1b18201816d050184ad0b7ae9c5c011a1c19211a8350a4bdddbeb250a19593ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "提升全體夥伴的防禦力！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "戰鬥中可反覆使用！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "decodedOffset": 2361,
+      "originalHex": "1842194753be50192b1a24509ce1a2a8019cdeb39ad05090d0b7ae9c5c011a1c19211a8350a4bdddbeb250a19593ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "53"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "提升全體夥伴的速度！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "戰鬥中可反覆使用！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "decodedOffset": 2412,
+      "originalHex": "1842194754be50192b1a2419e2191fbc50a7b0b7b3019597b6bd95b650a39799a3d050be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，解除全體夥伴"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "睡眠與混亂的狀態！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "decodedOffset": 2455,
+      "originalHex": "1842194755be5018db95b6a850181ba81a121a19bc01b5bbb1ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "減輕鬼族法術造成的傷害！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "decodedOffset": 2486,
+      "originalHex": "1842194759be509bdeb697a819b6501a991a9a1a181a19d001be96b8b592a550a4b7ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，一段時間內"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "可使出連續攻擊！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "decodedOffset": 2526,
+      "originalHex": "19ff184018421947a850561af3a852d2b691be011a0f1af3a8501af318b2bc50a197b7011a1c91a5509abd95509a9dae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "約消耗技力上限的"
+        },
+        {
+          "hex": "56"
+        },
+        {
+          "text": "分之"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "創造自己的分身，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "讓分身參與戰鬥！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "decodedOffset": 2578,
+      "originalHex": "1af318b2a9505218159b950190b6bbb9a4915c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "分身只能有"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "個，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "無法再增加！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "decodedOffset": 2600,
+      "originalHex": "0909a8501815d0011a5df51893a55095d0b3919f5c01010909a8501af318b2d00190b6bbb99f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的身體"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "發出了純白的光芒！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的分身"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "出現了！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "decodedOffset": 2642,
+      "originalHex": "1842194753be501a181a19a950be96ae9dbdd00118db95b6a8501a181a19bc01aef59f97509298a497a4b7ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "53"
+        },
+        {
+          "text": "點技力，無法攻擊，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "但也完全不會受到"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "鬼族的攻擊！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "decodedOffset": 2690,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "decodedOffset": 2708,
+      "originalHex": "96f8da91a45004deb603d0010909bc50a1a1af99bdda5c010f0118dba9500909a5011a181a19d050be96a497a4f5a29baef59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "巨大的"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "玫瑰"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "包裹住了"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "鬼族無法對"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "發動攻擊了！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "decodedOffset": 2763,
+      "originalHex": "1842194757be5094a4b6bc9ba2019ce1a2a85018dba8501a181a191816bc50184bd3ae9c5c011a1c19211a8350a4bdddbeb250a19593ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "57"
+        },
+        {
+          "text": "點技力，放出臭屁，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "降低全體鬼族的攻擊力！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "戰鬥中可反覆使用！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "decodedOffset": 2822,
+      "originalHex": "7d02a0049abd0350979a91be9cb55c7e",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "「"
+        },
+        {
+          "hex": "02a0"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "先生"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "，好臭啊！」"
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "decodedOffset": 2839,
+      "originalHex": "1842194754be509ce1a2a85018dba8011a1b18201816bc50184bd3ae9c5c011a1c19211a8350a4bdddbeb250a19593ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "降低全體鬼族的防禦力！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "戰鬥中可反覆使用！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "decodedOffset": 2891,
+      "originalHex": "1842194754be509ce1a2a85018dba8019cdeb39abc509ad3ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "降低全體鬼族的速度！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "decodedOffset": 2921,
+      "originalHex": "1842194754be509ce1a2a85018dba8181bbc01ab92d6ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "封住全體鬼族的法術！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "decodedOffset": 2949,
+      "originalHex": "18db521873a85018421947bc509c999b01d6e0bda850b2a8a550be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "吸取"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "隻鬼的少量技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "化為自己的技力！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "decodedOffset": 2983,
+      "originalHex": "0909a901090995b6011842bc500a1aeebdda5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "從"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "身上"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "偷取了"
+        },
+        {
+          "hex": "0a"
+        },
+        {
+          "text": "點技力！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "decodedOffset": 3004,
+      "originalHex": "1842194757be5018db521873bc50a4d2b8da98a8011a181a199b9550be96a491b592a5509bae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "57"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "使"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "隻鬼只能揮拳攻擊！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "decodedOffset": 3047,
+      "originalHex": "1842194755be5018db521873a350521a9552a801186f1a96bc509cb899a3d050be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，與"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "隻鬼"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "進行"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "對"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "的決鬥！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "decodedOffset": 3087,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "decodedOffset": 3105,
+      "originalHex": "0909a9010909bc0192a1baaaa8189518d7aca35091d5a4f59f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "將"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "帶進了變幻的世界！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "decodedOffset": 3133,
+      "originalHex": "1842194759be509ce1a2a85018dba3192b1a24a8011a1b18201816bc50184bd3ae9c5c011a1c19211a8350a4bdddbeb250a19593ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "降低全體敵我雙方的防禦力！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "戰鬥中可反覆使用！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "decodedOffset": 3190,
+      "originalHex": "184219475251be501a0f1af35091d091a80118dba3192b1a24a8509ce1a2d0509bdeb697a819b60192d498a49750a4b7ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5251"
+        },
+        {
+          "text": "點技力，讓自身以外"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "所有敵人與夥伴，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "暫時無法動彈！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "decodedOffset": 3243,
+      "originalHex": "0909bc50a3b7ae970118dbb250192b1a24b2509ce1a2a80192d496d050a3aef5a29baef59f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "在"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "周圍，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "不論是敵人還是夥伴，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "全都停止了動作！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "decodedOffset": 3283,
+      "originalHex": "1842194757be509ce1a2a850b2a8bc01a7b0b7a5509a9e91ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "57"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "讓所有人陷入睡眠！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "decodedOffset": 3313,
+      "originalHex": "1842194759be5091aeaebea550199ca0b5f59f1814a50118d9e099a3d050be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "飛往曾經造訪的村莊！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "decodedOffset": 3351,
+      "originalHex": "09a8181ba90191aea950a19593ae9dbd5c01",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "text": "之術，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "現在無法使用！"
+        },
+        {
+          "hex": "01"
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "decodedOffset": 3370,
+      "originalHex": "1842194759be5019861987b3501991a81a8395b601a698da9c99a3d050be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "脫離洞窟或塔內！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "decodedOffset": 3407,
+      "originalHex": "9b959b509999bea9501854b29496a495f59f5c0101",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是，在這裡什麼也沒發生！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "01"
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "decodedOffset": 3429,
+      "originalHex": "1842194755be509bdeb697a819b6501a0f1af3b5b7b2011a9391190fd05019cca497a4b7ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，一段時間內，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "比自己弱的敵人不會出現！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "decodedOffset": 3471,
+      "originalHex": "b7f892b7bc509ba2b20199b991d6f89250b2a096b9a4915c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "就算做了料理，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "也已經拿不下了！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "decodedOffset": 3498,
+      "originalHex": "1842194759be5002c0bc01a197b899a3d050be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "59"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "製作飯糰！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "decodedOffset": 3524,
+      "originalHex": "09a90102c0bc50a197f59f5c01",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "做出了飯糰！"
+        },
+        {
+          "hex": "01"
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "decodedOffset": 3538,
+      "originalHex": "9b959b500909a901b7f892b7a5509bf5e3919b9f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是，"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "料理失敗了！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "decodedOffset": 3562,
+      "originalHex": "0909a90102c0bc50a197f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "做出了飯糰！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "decodedOffset": 3578,
+      "originalHex": "1842194755be501a1c1921a819b61a835018db95b6a8011a2a911a181a19bc501a51d1ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，在整場戰鬥中"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "防止鬼族的詛咒攻擊！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "decodedOffset": 3619,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "decodedOffset": 3637,
+      "originalHex": "0909a90118ac18eba41816bc509bb7d998b80119e8a550a1a1aeb99f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "被"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "能驅除邪惡力量的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "光芒包圍了！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "decodedOffset": 3668,
+      "originalHex": "1842194755be501815d050a0f792a5509291a201180ea81919189cbeb250ac9196be9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "55"
+        },
+        {
+          "text": "點技力，讓身體浮空，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "即使身在毒沼也不怕！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "decodedOffset": 3707,
+      "originalHex": "1109a8011815d050a0f792a55092919f5c01",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "1109"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "身體浮到了空中！"
+        },
+        {
+          "hex": "01"
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "decodedOffset": 3726,
+      "originalHex": "0909a8011815d050a0f792a55092919f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "身體浮到了空中！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "decodedOffset": 3746,
+      "originalHex": "1842194756be509ea81a1c91a850a3a0f79295b601b3b7a4949c99a3d050be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "56"
+        },
+        {
+          "text": "點技力，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "從這場戰鬥的途中重新來過！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "decodedOffset": 3784,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "decodedOffset": 3802,
+      "originalHex": "9ce1a2a950929f959fa80195a49fa5501acf93a219bff59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "一切都化為泡影，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "消失在遙遠的彼方！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "decodedOffset": 3830,
+      "originalHex": "90b3959ba8181ba9019999bea950a19593a4915c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "妖異之術，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "無法在這裡使用！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "decodedOffset": 3853,
+      "originalHex": "18d4a8184abe50a498b9de0119e718babc5094999da4915c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "不在海上，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "就無法掀起海上風暴！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "decodedOffset": 3880,
+      "originalHex": "1842194754be5019861987b3501991a81a8391d091a801188c1848bc509c96a4188c1848a5019593b899a3d050be96ae9c5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "54"
+        },
+        {
+          "text": "點技力，在洞窟與塔外"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "可隨心所欲"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "改變天氣！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "decodedOffset": 3932,
+      "originalHex": "184219475751be50a4bda35094abbaa501be9598b899a3d050be96ae9c5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "消耗"
+        },
+        {
+          "hex": "5751"
+        },
+        {
+          "text": "點技力，竟然能"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "出門泡澡！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "decodedOffset": 3965,
+      "originalHex": "d3d3f55c50a4bda350a8bd96a45c01a9b6da9ba95094bd9dbd199b19bfa501be9598a29baef59f5c",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "咦！竟然這麼悠閒！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "露肚怪居然"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "出發去泡溫泉了！"
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "decodedOffset": 4006,
+      "originalHex": "a4bda35c500909a80118151816d05052a550a4f5a29baef59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "竟然！"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "體力變成了"
+        },
+        {
+          "hex": "52"
+        },
+        {
+          "text": "！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "decodedOffset": 4035,
+      "originalHex": "a4bda35c500909a80118151816d0500aa550a4f5a29baef59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "竟然！"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "體力變成了"
+        },
+        {
+          "hex": "0a"
+        },
+        {
+          "text": "！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 112,
+      "decodedOffset": 4064,
+      "originalHex": "95d3ba92d0509fa099b1a2010909a8501a181a19d001909fb7dcb697a4f59f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "熱霧瀰漫，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的攻擊"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "變得難以命中了！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 113,
+      "decodedOffset": 4098,
+      "originalHex": "9b959b01a4a5b2509496a495f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "什麼也沒發生！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 114,
+      "decodedOffset": 4116,
+      "originalHex": "909fb7a850989b96d001b4d0bdbe5091975c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "周圍的景色"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "逐漸扭曲！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "decodedOffset": 4137,
+      "originalHex": "9b959b500909a8011842a81947a9509fb7a495f59f5c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但是，"
+        },
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "技力不足！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 116,
+      "decodedOffset": 4162,
+      "originalHex": "060909501842a899b7500a0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "060909"
+        },
+        {
+          "text": "剩餘技力："
+        },
+        {
+          "hex": "0a"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 117,
+      "decodedOffset": 4175,
+      "originalHex": "7d941a9ca9bd5c5018039fb7aeacbdbe5c7e0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "「客倌！您的錢不夠喔！」"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "decodedOffset": 4195,
+      "originalHex": "09a8011842a81947d0509fb7a4915c01",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "技力不足！"
+        },
+        {
+          "hex": "01"
+        }
+      ]
+    },
+    {
+      "index": 119,
+      "decodedOffset": 4212,
+      "originalHex": "0909a8011842a81947d0509fb7a4915c010f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "text": "的"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "技力不足！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 120,
+      "decodedOffset": 4231,
+      "originalHex": "06090950184250656d7074790f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "060909"
+        },
+        {
+          "text": "技力耗盡！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 121,
+      "decodedOffset": 4245,
+      "originalHex": "7d941a9ca9bd5c5018039fb7aeacbdbe5c7e0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "「客倌！您的錢不夠喔！」"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "decodedOffset": 4265,
+      "originalHex": "1adc1817a8181b5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "會心之術！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "decodedOffset": 4275,
+      "originalHex": "09d05009a8181bbc011a12a01acf9b9f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "text": "將"
+        },
+        {
+          "hex": "09"
+        },
+        {
+          "text": "之術"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "抵消了！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "decodedOffset": 4294,
+      "originalHex": "09d05009a8181ba80191969491bc501b009b9f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "text": "讓"
+        },
+        {
+          "hex": "09"
+        },
+        {
+          "text": "之術"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "威力增強了！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 125,
+      "decodedOffset": 4316,
+      "originalHex": "0909a90109a8181bbc01a3a493b592a39b9f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "試圖施展"
+        },
+        {
+          "hex": "09"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "之術！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 126,
+      "decodedOffset": 4337,
+      "originalHex": "9b959b5018c99bd3a419e8a89d91be0109a8181bbc01a3a493a29baef59f5c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "但在詭異光芒的影響下，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "卻施展了"
+        },
+        {
+          "hex": "09"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "之術！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "decodedOffset": 4370,
+      "originalHex": "188ca819881847017d02a85c0150bb9ba950188ca81988184702a7017d9794b7f65c5002a05c01501854bc50a8bd96a499a3bc01509bb592a39ba25094b8a802a7017da9b397509b9f97bc0150a3a3a893a2500495b8b603bc01509492a8dbf6808080808004f5035c7e",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "天之仙人"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "「哇哈哈！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "老夫是天之仙人！」"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "「喂，"
+        },
+        {
+          "hex": "02a0"
+        },
+        {
+          "text": "！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "你在這裡，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "還想悠哉地做什麼啊！」"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "「快點準備妥當，"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "去追"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "迦樓羅"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "啊！"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "text": "快"
+        },
+        {
+          "hex": "03"
+        },
+        {
+          "text": "！」"
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "decodedOffset": 4477,
+      "originalHex": "0909a5a90109a8181bd001a19593a4915c0f",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "0909"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "無法使用"
+        },
+        {
+          "hex": "09"
+        },
+        {
+          "hex": "01"
+        },
+        {
+          "text": "之術！"
+        },
+        {
+          "hex": "0f"
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "index": 0,
+      "decodedOffset": 0,
+      "originalHex": "02a0a8189a199a",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "02a0"
+        },
+        {
+          "text": "的老家"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "decodedOffset": 8,
+      "originalHex": "199b199ca0a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "啟程村"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "decodedOffset": 17,
+      "originalHex": "94b09cdf99bab7bd",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "滾飯糰洞"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "decodedOffset": 26,
+      "originalHex": "94b09cdf1814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "飯糰村"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "decodedOffset": 33,
+      "originalHex": "9c19feb1a89419b052",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "麻雀旅館一號店"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "decodedOffset": 43,
+      "originalHex": "9c19feb1a89419b053",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "麻雀旅館二號店"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "decodedOffset": 53,
+      "originalHex": "9c19feb1a89419b054",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "麻雀旅館三號店"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "decodedOffset": 63,
+      "originalHex": "9c19feb1a89419b055",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "麻雀旅館四號店"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "decodedOffset": 73,
+      "originalHex": "9c19feb1a89419b056",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "麻雀旅館五號店"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "decodedOffset": 83,
+      "originalHex": "9c19feb1a89419b057",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "麻雀旅館六號店"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "decodedOffset": 93,
+      "originalHex": "9c19feb1a89419b058",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "麻雀旅館七號店"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "decodedOffset": 103,
+      "originalHex": "184318f01889",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "松葉山"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "decodedOffset": 110,
+      "originalHex": "1981198295a81814a819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "花咲村洞窟"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "decodedOffset": 124,
+      "originalHex": "199d199ea8199f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "鹿角之里"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "decodedOffset": 132,
+      "originalHex": "1981198295a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "花咲村"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "decodedOffset": 141,
+      "originalHex": "198518f29ba819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "無聲洞窟"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "decodedOffset": 152,
+      "originalHex": "198a198b1889",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "足柄山"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "decodedOffset": 159,
+      "originalHex": "180318011802a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "金太郎村"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "decodedOffset": 169,
+      "originalHex": "18041805a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "浦島村"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "decodedOffset": 177,
+      "originalHex": "198c198da8198e",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "養老瀑布"
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "decodedOffset": 185,
+      "originalHex": "18de19a019a1",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "龍宮城"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "decodedOffset": 192,
+      "originalHex": "184019ea1889",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "大江山"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "decodedOffset": 199,
+      "originalHex": "180618011802a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "寢太郎村"
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "decodedOffset": 209,
+      "originalHex": "180618011802a819eb",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "寢太郎之穴"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "decodedOffset": 219,
+      "originalHex": "be9518011802a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "大太郎庵"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "decodedOffset": 229,
+      "originalHex": "1896a81991",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "冰之塔"
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "decodedOffset": 235,
+      "originalHex": "adad93afa81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "微笑村"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "decodedOffset": 243,
+      "originalHex": "19a419a5a819a6",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "希望之都"
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "decodedOffset": 251,
+      "originalHex": "dfba80bda81af0",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "伸長怪森林"
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "decodedOffset": 259,
+      "originalHex": "180d19a7a8199f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "眾神之里"
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "decodedOffset": 267,
+      "originalHex": "180c180da819ba",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "風神谷"
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "decodedOffset": 275,
+      "originalHex": "18a51910a819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "伏龍洞窟"
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "decodedOffset": 285,
+      "originalHex": "180b180da819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "雷神洞窟"
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "decodedOffset": 295,
+      "originalHex": "19f019f119f2a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "左源內庵"
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "decodedOffset": 305,
+      "originalHex": "18dba819ed1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "鬼族牢獄"
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "decodedOffset": 313,
+      "originalHex": "a9b6da9ba8199f",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "露肚怪之里"
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "decodedOffset": 321,
+      "originalHex": "049ab895a503a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "猴蟹村"
+        },
+        {
+          "hex": "04"
+        },
+        {
+          "hex": "03"
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "decodedOffset": 331,
+      "originalHex": "b3aebddea819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "山姥洞窟"
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "decodedOffset": 341,
+      "originalHex": "184419adb7a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "竹取村"
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "decodedOffset": 350,
+      "originalHex": "18e61999a81991",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "黃泉之塔"
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "decodedOffset": 358,
+      "originalHex": "19efa819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "彩虹洞窟"
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "decodedOffset": 366,
+      "originalHex": "19b195a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "寧靜村"
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "decodedOffset": 373,
+      "originalHex": "19b295a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "豐饒村"
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "decodedOffset": 380,
+      "originalHex": "1892a819a019b3",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "月之宮殿"
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "decodedOffset": 388,
+      "originalHex": "18f4a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "風暴村"
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "decodedOffset": 394,
+      "originalHex": "18dbd01805",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "鬼島"
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "decodedOffset": 400,
+      "originalHex": "189c190460188119fda819bb",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・三途川"
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "decodedOffset": 413,
+      "originalHex": "189c19046018e819f5189c1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・黑繩地獄"
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "decodedOffset": 427,
+      "originalHex": "189c190460189fa819f6189c1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・血池地獄"
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "decodedOffset": 442,
+      "originalHex": "189c19046019f719f8189c1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・眾合地獄"
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "decodedOffset": 456,
+      "originalHex": "189c19046019f919fa189c1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・焦熱地獄"
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "decodedOffset": 470,
+      "originalHex": "189c19046018f519fb189c1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・極寒地獄"
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "decodedOffset": 484,
+      "originalHex": "189c190460184019f919fa189c1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・大焦熱地獄"
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "decodedOffset": 500,
+      "originalHex": "189c19046018c619fc189c1904",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "地獄・阿鼻地獄"
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "decodedOffset": 514,
+      "originalHex": "1a871a6a19141841a819b6",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "伐折羅王之間"
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "decodedOffset": 526,
+      "originalHex": "1892a81af1",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "月之祠"
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "decodedOffset": 532,
+      "originalHex": "180d198819ae",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "神仙鄉"
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "decodedOffset": 539,
+      "originalHex": "19a919aaa81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "七夕村"
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "decodedOffset": 547,
+      "originalHex": "19eea81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "夢之村"
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "decodedOffset": 553,
+      "originalHex": "18d4a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "海之庵"
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "decodedOffset": 559,
+      "originalHex": "19881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "decodedOffset": 567,
+      "originalHex": "19c99b911814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "新村"
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "decodedOffset": 574,
+      "originalHex": "19f319f4a819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "奈落洞窟"
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "decodedOffset": 584,
+      "originalHex": "184718eea81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "人魚村"
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "decodedOffset": 592,
+      "originalHex": "02b019881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "金丹仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "decodedOffset": 602,
+      "originalHex": "1a7e1a7f19881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "稻妻仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "decodedOffset": 614,
+      "originalHex": "199d199e19881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "鹿角仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "decodedOffset": 626,
+      "originalHex": "dd97989b19881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "解毒仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "decodedOffset": 638,
+      "originalHex": "94a5b59819881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "避鬼仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "decodedOffset": 650,
+      "originalHex": "a698da9b19881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "脫身仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "decodedOffset": 662,
+      "originalHex": "188ca819881847a81991",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "天之仙人塔"
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "decodedOffset": 673,
+      "originalHex": "aeb59819881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "避魔仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "decodedOffset": 684,
+      "originalHex": "abb49219881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "浮游仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "decodedOffset": 695,
+      "originalHex": "ad92aa19881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "放屁仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "decodedOffset": 706,
+      "originalHex": "aebd96bd19881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "萬金仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "decodedOffset": 718,
+      "originalHex": "96bd9e9219881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "金瘡仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "decodedOffset": 730,
+      "originalHex": "18d4a819881847a81989",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "海之仙人庵"
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "decodedOffset": 741,
+      "originalHex": "0919a1",
+      "status": "translated",
+      "segments": [
+        {
+          "hex": "09"
+        },
+        {
+          "text": "城"
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "decodedOffset": 745,
+      "originalHex": "194c1994a81991",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "五重塔"
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "decodedOffset": 753,
+      "originalHex": "1892a819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "月之洞窟"
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "decodedOffset": 761,
+      "originalHex": "19ecafa819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "怨恨洞窟"
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "decodedOffset": 770,
+      "originalHex": "9aaeb5921805",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "漂泊之島"
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "decodedOffset": 777,
+      "originalHex": "1807185b",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "雪原"
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "decodedOffset": 782,
+      "originalHex": "95b697b7a81814",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "機關村"
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "decodedOffset": 790,
+      "originalHex": "1933185b",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "原野"
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "decodedOffset": 795,
+      "originalHex": "1892",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "月亮"
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "decodedOffset": 798,
+      "originalHex": "18ca1910a819861987",
+      "status": "translated",
+      "segments": [
+        {
+          "text": "臥龍洞窟"
+        }
+      ]
+    }
+  ],
+  "controlOnlySpellIndexes": [
+    1,
+    3
+  ],
+  "literalNumbersInNewSpellsPreserved": true,
+  "previousSpellTranslationsUnchanged": true
+}

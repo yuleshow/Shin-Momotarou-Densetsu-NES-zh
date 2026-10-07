@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x70240",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "blood-pool-resistance",
+  "decodedBytes": 139,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「[02a0]先生！在這血池裡，\n如果迷路了，\n最好從頭再來喔！」",
+    "1": "「嘻嘻嘻！我是山姥！\n老婆子上戰場，很奇怪嗎？」\n",
+    "2": "「拜託了！鬼族的同胞啊！\n快清醒過來！\n鬼族的世界正面臨危機啊！」"
+  }
+}

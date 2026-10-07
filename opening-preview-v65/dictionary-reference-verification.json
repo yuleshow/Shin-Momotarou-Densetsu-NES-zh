@@ -1,0 +1,53 @@
+{
+  "targetSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "shared-dictionary-remaining",
+      "firstIndex": 39,
+      "words": [
+        "村"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70000",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 30,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "村": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    }
+  ],
+  "manifest": "verification/fixed-nicknames-v65/resolved-translation-manifest.json",
+  "draftFiles": [
+    "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+    "translations/common-status-labels-remaining.draft.zh-Hant.json",
+    "translations/battle-messages-remaining.draft.zh-Hant.json",
+    "translations/boss-battle-final-message.draft.zh-Hant.json",
+    "translations/character-labels-remaining.draft.zh-Hant.json"
+  ],
+  "screenshotOnly": false,
+  "isolatedRecords": true,
+  "selectedBlocks": [
+    "shared-dictionary-remaining"
+  ],
+  "dictionaryReferenceProbes": [
+    {
+      "index": 39,
+      "referenceHex": "02c7"
+    }
+  ],
+  "plannedScenes": 1,
+  "exactCandidateRecordsVerified": 1
+}

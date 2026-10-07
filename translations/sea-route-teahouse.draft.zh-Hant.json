@@ -1,0 +1,22 @@
+{
+  "pointerOffset": "0x70117",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "sea-route-teahouse",
+  "decodedBytes": 576,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All eight original glyph records reviewed. Preserve the Hien navigation hint, mechanism village below Oni Claw Marks, dragon-shaped ship report and raised Taketori terrain blocking ships.",
+    "The Tanabata hint says to plant a seed so a tree grows and grants access; the mermaid village is on the sea floor and initially refuses visitors. No navigation or access rules are changed."
+  ],
+  "records": {
+    "0": "「大海很遼闊，[02a0]！\n遇到困難時，就用飛燕術，\n確認東南西北的方位吧！」",
+    "1": "「啾啾！機關村，\n似乎就在，\n鬼爪痕的下方喔！」",
+    "2": "「啾啾！海上有，\n好多各式各樣的村莊喔！」\n\n「仙人的村子！機關村！\n七夕村！人魚村！\n先去機關村看看吧！」",
+    "3": "「嚇了我一跳，[02a0]先生！\n正坐船悠閒賞景時，\n突然有艘龍形的船追上來！」\n「轉眼之間，\n我就撲通一聲，\n掉進海裡了！」",
+    "4": "「竹取村的地面，\n變得好高，\n就連船也無法抵達了！」\n「該不會是鬼族搞的鬼吧！\n來！[02a0]先生！\n帶著這些當旅途伴手禮吧！」",
+    "5": "「[02a0]先生！\n你去過七夕村嗎？」\n\n「聽說只要種下種子，\n就會長出大樹，通往村子，\n不知道是不是真的呢？」",
+    "6": "「啾啾！\n聽說海底，\n有人魚村呢！」\n「可是大家都很膽小，\n不太願意，\n讓外人進村子呢！」",
+    "7": "「啾啾！機關村，\n是為了協助討伐鬼族，\n而建造的秘密村莊呢！」"
+  }
+}

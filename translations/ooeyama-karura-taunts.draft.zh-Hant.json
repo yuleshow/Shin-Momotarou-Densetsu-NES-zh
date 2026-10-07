@@ -1,0 +1,14 @@
+{
+  "pointerOffset": "0x701e9",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "ooeyama-karura-taunts",
+  "target": "0x2ccc00",
+  "decodedBytes": 199,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "迦樓羅\n「嘿嘿嘿！[02a0]！\n你看起來很累嘛！」\n「不過啊！」\n\n\n「再不趕快穿過大江山，\n可就要發生大事了！」\n\n「想知道原因嗎？」\n\n",
+    "1": "「嘿嘿嘿！\n本大爺回地獄的時間，\n就要被你耽擱了！」",
+    "2": "「嘿嘿嘿！\n要是你回答想知道，\n本來就要告訴你真相了！」"
+  }
+}

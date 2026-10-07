@@ -1,0 +1,35 @@
+{
+  "pointerOffset": "0x700d2",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "castle-carpenter-services",
+  "decodedBytes": 929,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 20 original glyph records reviewed. Use existing 木匠阿留, 機關村 and 圈地絲 terminology.",
+    "Preserve one-time castle relocation, no building over trees or rivers, the unused-thread and full-inventory checks, and the dynamic facility name and price.",
+    "Facility descriptions include a doctor, tea shop, cypress bath and battle viewing; text only, with no changes to placement or construction rules."
+  ],
+  "records": {
+    "0": "「木匠阿留，\n什麼東西都會做呢！」\n\n「前陣子，他還替我家，\n做了間減肥室。\n真希望趕快瘦下來呀！」",
+    "1": "「阿留手藝那麼好，\n是因為曾在機關村修行。」\n\n「等我的手藝更好，\n也要到海那邊的機關村，\n好好修行一番！」",
+    "2": "「阿留從來不會，\n做兩次相同的東西呢！\n很厲害吧？！」",
+    "3": "「喂！喂！抱歉啊！\n我年紀也大了，\n沒辦法再做了！」",
+    "4": "「喂！我就是木匠阿留！\n什麼都能做喔！\n想做什麼呢？」",
+    "5": "「喂！喂！喂！\n圈地絲還沒用掉吧？\n用過之後再來！」",
+    "6": "「喂！喂！喂！\n你身上的東西已經滿了！\n先把道具袋騰出空間再來！」",
+    "7": "「喂！喂！想把城堡，\n搬到別的地方嗎？\n只有一次喔！可別後悔！」",
+    "8": "「那就把這個給你，\n在喜歡的地方，\n拉出圈地絲吧！」\n「你應該知道，\n城堡不能蓋在，\n樹木或河川上吧！」",
+    "9": "「想要我做[09]，\n對吧！\n請付[0a]兩喔！」",
+    "10": "「好！那就出發吧！\n店裡就拜託你看著啦！」\n",
+    "11": "「那就先這樣啦！」\n\n",
+    "12": "「喂！喂！喂！\n可不能欺騙，\n木匠阿留啊！」\n「沒錢就老實說沒錢！\n你這傢伙真不老實，\n真是的！喂！」",
+    "13": "「要看哪一項，\n設施的說明呢？」\n",
+    "14": "「可以在城堡裡，\n安排一位醫生！」\n",
+    "15": "「可以在城堡裡，\n開設一間茶店！」\n",
+    "16": "「可以在城堡裡，\n打造一座檜木浴池！\n這可是好東西喔！」",
+    "17": "可以在城堡裡，\n觀看[02a0]至今為止，\n與鬼族交戰的情景！",
+    "18": "可以把城堡，\n搬到別的地方，但僅限一次！\n",
+    "19": "「還要看其他設施嗎？」\n\n"
+  }
+}

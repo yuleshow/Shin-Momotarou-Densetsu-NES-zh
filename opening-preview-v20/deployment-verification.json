@@ -1,0 +1,20 @@
+{
+  "version": "v20",
+  "installedAt": "2026-10-01T03:14:40.411Z",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "previousSha256": "9a7552fd7bbf488ec3a16bcaf3e50e3b2834314c33f1823935bddfb175c0ab89",
+  "targetSha256": "7d4ec0ad7ae3ab3071c9e0424e48cc118b52e96276e3c2a06d9f327dcb4c3158",
+  "fullReadbackVerified": true,
+  "readbackBytes": 4194304,
+  "relatedRomCount": 1,
+  "screenshotsDeleted": 0,
+  "screenshotEntriesUnchanged": true,
+  "screenshotEntryCount": 200,
+  "relatedScreenshotsUnchanged": true,
+  "changedScreenshots": [],
+  "unchangedSaveFiles": 33,
+  "changedSaves": [],
+  "saveEntriesUnchanged": true,
+  "savesWrittenOrRestored": false,
+  "physicalDeviceBootVerified": false
+}

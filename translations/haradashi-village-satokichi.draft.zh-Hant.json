@@ -1,0 +1,33 @@
+{
+  "pointerOffset": "0x701a1",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "haradashi-village-satokichi",
+  "decodedBytes": 1379,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 19 source records reviewed. Preserve Satokichi/里吉's animal research and Biron-language skill, the western 金瘡仙人 hint and the ordinary 蜥蜴尾巴 recruitment requirement, not 金蜥蜴尾巴.",
+    "Keep the taro cake, unpleasant akebi-leaf tea, yam and flower dialogue as source claims; retain both meal pauses and the long recruitment request's exact hero-name line."
+  ],
+  "records": {
+    "0": "「這裡是露肚怪村！\n大家採集山產，\n悠閒地過日子喔！」",
+    "1": "「哈啦呵囉嘻咧！」\n\n\n「哦！哦！\n是人類呀！\n好久不見啦！」",
+    "2": "「哈啦呵囉嘻咧！」\n\n\n「從這村子一直往西，\n金瘡仙人，\n就住在那邊喔！」",
+    "3": "「哈啦呵囉嘻咧！」\n\n\n「里吉在研究動物，\n所以連比隆的話，\n也聽得懂呢！」",
+    "4": "「哈啦呵囉嘻咧！」\n\n\n「里吉竟敢，\n去討伐鬼族！\n真佩服他呀！」",
+    "5": "「哈啦呵囉嘻咧！」\n\n\n「有個傳說說，\n蜥蜴尾巴，\n擁有不可思議的力量喔！」",
+    "6": "「哈啦呵囉嘻咧！」\n\n\n「比隆竟然吃掉，\n神聖的蜥蜴尾巴！\n做這種事會遭天譴呀！」",
+    "7": "「哈啦呵囉嘻咧！」\n\n\n「芋頭的葉子很大，\n可以拿來，\n當我們的雨傘呢！」",
+    "8": "「哈啦呵囉嘻咧！」\n\n\n「為了替里吉慶祝，\n我做了芋頭麻糬！\n[02a0]先生也要吃嗎？」",
+    "9": "[02a0]，\n吃下了芋頭麻糬！\n[0b]",
+    "10": "[02a0]\n「嚼嚼嚼！」\n",
+    "11": "「想吃的時候，\n隨時都可以來喔！」\n",
+    "12": "「哈啦呵囉嘻咧！」\n\n\n「用木通葉，\n泡成茶，\n我們覺得好喝得不得了！」\n「要喝一杯看看嗎？」\n\n\n[02a0]，\n試著喝了露肚怪的茶！\n[0b]",
+    "13": "呸呸！呸呸！\n對[02a0]來說，這實在太難喝，\n根本喝不下去！",
+    "14": "「哈啦呵囉嘻咧！」\n\n\n「花的顏色，越熱的地方，\n紅色越多；越冷的地方，\n白色和黃色就越多喔！」\n「大家老說我，\n總是記住，\n這些無關緊要的事呢！」",
+    "15": "「哈啦呵囉嘻咧！」\n\n\n「我最喜歡山藥啦！\n磨成泥吃，\n可是會長壽喔！」",
+    "16": "「哈啦呵囉嘻咧！」\n\n\n「這裡開的花，\n全都是我種的！\n怎麼樣？漂亮吧？」",
+    "17": "「哈啦呵囉嘻咧！」\n\n\n「我是露肚怪，\n名叫里吉！」\n\n「鬼族四處搗亂，\n讓大家沒辦法採集山產，\n全村的人都很傷腦筋！」\n「請務必讓我，\n加入大名鼎鼎的[02a0]先生，\n所帶領的隊伍吧！」\n「我知道的！\n您腰間的蜥蜴尾巴，\n請給我一條！」\n「？？？？？」\n\n\n「咦？聽說這樣，\n就能加入隊伍了呀。」\n\n「請把蜥蜴尾巴，\n給我一條吧！」\n",
+    "18": "「哈啦呵囉嘻咧！」\n\n\n「是蜥蜴尾巴呀！」\n\n\n「非常感謝！\n有了這個，我也能，\n堂堂正正地踏上旅程了！」\n「來！\n我們快去，\n比隆森林吧！」"
+  }
+}

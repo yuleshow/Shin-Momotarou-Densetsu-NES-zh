@@ -1,0 +1,33 @@
+{
+  "targetSha256": "3195dee3f4676d40689b563f2d497727286332b9cdd57ee60a9fe0645a82332a",
+  "previousDeviceSha256": "7ce51506d0b0fa9582842c500324a3f3f35dda5c5a0106336e8eb6beefd8c574",
+  "deviceReadbackVerified": true,
+  "relatedDeviceRomCount": 1,
+  "removedScreenshots": [
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-114728.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-143704.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-143744.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-143847.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-143857.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-144222.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-144917.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145327.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145345.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145354.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145440.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145452.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145458.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145514.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145526.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145552.png",
+    "Shin Momotarou Densetsu (Traditional Chinese)-260930-145635.png"
+  ],
+  "removedScreenshotCount": 17,
+  "remainingRelatedScreenshots": 0,
+  "unrelatedScreenshotEntriesPreserved": 200,
+  "protectedFilesUnchanged": 206,
+  "screenshotBackupDirectory": "/tmp/momotaro-device-screenshots-pre-v17-1Rh7P8",
+  "saveFilesWrittenByDeployment": false,
+  "saveFilesRestored": false,
+  "physicalDeviceBootVerified": false
+}

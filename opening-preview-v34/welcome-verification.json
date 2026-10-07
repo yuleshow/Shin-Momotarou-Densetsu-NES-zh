@@ -1,0 +1,17 @@
+{
+  "targetSha256": "55a39e644e75011beeb66548a6e58c9ed6b958305a48e0904ed65886a77c75e6",
+  "baselineSha256": "7cb182b5ab465448f1f87bb2e3d53e70bf6b44f05a5ecfec9585ae361c9de48f",
+  "version": "v34",
+  "sourceImageSha256": "e6c535aeb4839209c577775be2f5ca723258db1d3b670e4ee68f3b931234ea04",
+  "exactCoverPixels": true,
+  "idleScreenStable": true,
+  "heldAtResetRequiresNewPress": true,
+  "waitsForStartRelease": true,
+  "otherButtonsIgnored": true,
+  "originalTitlePixelsIdentical": true,
+  "menuPixelsIdentical": true,
+  "initializedGameDataIdentical": true,
+  "existingStateBypassesWelcome": true,
+  "nonWelcomeRomBytesIdentical": true,
+  "physicalDeviceBootVerified": false
+}

@@ -1,0 +1,15 @@
+{
+  "pointerOffset": "0x702cd",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "red-sea-disaster",
+  "decodedBytes": 369,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「哇啊啊啊！\n櫻花樹啊！」\n",
+    "1": "「嗚哇！嗚哇！\n金太郎大哥！\n救救我啊！嗚哇！」",
+    "2": "「哇啊啊啊！\n海水一片血紅！\n是海神大人在發怒！」\n「浦島！快救救我！\n救命啊……！\n救……救……我……！」",
+    "3": "「哇啊啊啊！\n究竟，\n發生什麼事了！」\n「哇啊啊啊！\n俺的田！俺的家！\n全都沉下去了！」",
+    "4": "迦樓羅\n「咯咯咯！人魚之淚……\n真讓我聽到了好消息！」\n「咯咯咯！咯咯咯！」\n\n\n「咯咯咯！咯咯咯！\n咯咯咯！咯咯咯！\n咯咯咯！咯咯咯！」"
+  }
+}

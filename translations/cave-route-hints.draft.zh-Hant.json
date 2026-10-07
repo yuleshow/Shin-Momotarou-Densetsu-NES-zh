@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x70129",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "cave-route-hints",
+  "target": "0x3de300",
+  "decodedBytes": 181,
+  "status": "control-checked-draft",
+  "records": {
+    "0": "「[02a0]先生！您去過\n花咲爺爺家了嗎？那些鬼\n老是提起什麼水牢……」\n「還說牆壁怎麼樣……\n就是這些話！\n不知道能不能幫上您的忙？」",
+    "1": "「[02a0]先生！\n請在旅途中，\n好好利用這個吧！」",
+    "2": "「穿過無聲洞窟後，\n有三間仙人庵，\n別忘了去拜訪他們喔！」"
+  }
+}

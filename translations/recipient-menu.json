@@ -1,0 +1,20 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "status": "native-verified-scope-only-not-released",
+  "inlineMenus": [
+    {
+      "name": "item-recipient",
+      "start": "0x5bc16",
+      "end": "0x5bcb1",
+      "target": "0x236500",
+      "pointerOperand": "0x5bbed",
+      "bankOperand": "0x5bbf4",
+      "originalBank": "85",
+      "alternatePointers": [{ "pointerOperand": "0x5bc01", "bankOperand": "0x5bc08", "skip": 3 }],
+      "trailerHex": "045603045703045803045903",
+      "entries": [
+        { "offset": "0x5bc2a", "originalHex": "94ae959d", "source": "おまかせ", "translation": "自動", "padding": 3 }
+      ]
+    }
+  ]
+}

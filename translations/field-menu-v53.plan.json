@@ -1,0 +1,25 @@
+{
+  "version": "v53",
+  "baseDirectory": "verification/screenshots-v52",
+  "manifest": "translations/field-menu-v53.release.json",
+  "addedIndexedEntries": 0,
+  "status": "native-verified-scope-only-not-released",
+  "drafts": [],
+  "inlineMenuPadding": [
+    { "name": "special-menu", "offset": "0x1f09c", "padding": 2 }
+  ],
+  "inlineMenuAdditions": [
+    {
+      "name": "field-menu-expanded",
+      "entries": [
+        { "offset": "0x1efa2", "originalHex": "1993a01803", "source": "持ち金", "translation": "持有金" }
+      ]
+    },
+    {
+      "name": "special-menu",
+      "alternatePointers": [
+        { "pointerOperand": "0x1f06d", "bankOperand": "0x1f074", "skip": 3 }
+      ]
+    }
+  ]
+}

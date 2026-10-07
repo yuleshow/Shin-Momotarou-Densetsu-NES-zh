@@ -1,0 +1,1735 @@
+{
+  "targetSha256": "e752122a88c4371c94ae7d34ae5550449570f3ed0c29b2a8e184d0e83fd8669d",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 0,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "海龜": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "乙姬大人在裡面的房間": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "請快一點": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "重新準備一下呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 2,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "回到地上吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 3,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "穿過這道門": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請務必救出乙姬大人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "可惡的鬼族": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "穿著髒鞋踐踏這座龍宮": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 5,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救了乙姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 6,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "會躲在什麼地方": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請務必小心": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 7,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "打鬼的旅程": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "請加油喔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 8,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人的笑容": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我們的幸福奪走嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 9,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "聽說海底有時": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "會沉著意想不到的寶物": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "某處的海底呢": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 10,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "您在哪裡啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 11,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 12,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對於": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是不知該如何感謝": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請趁早吃掉喔": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 13,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "好氣派的城堡呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 14,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啊": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "浦島先生也一起來了嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "救出乙姬大人": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 15,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 16,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對於": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是不知該如何感謝": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請趁早吃掉喔": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 17,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "真沒想到": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是讓人驚訝了兩次": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 18,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人若有個萬一": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就會像泡沫一樣消失": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 19,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 20,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對於": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是不知該如何感謝": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請趁早吃掉喔": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 21,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人一直": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "見見乙姬大人": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 22,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎能把這座美麗的龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "交到鬼族手裡": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 23,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 24,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "對於": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是不知該如何感謝": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請趁早吃掉喔": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 25,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍形的船隻": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "好幾次靠近龍宮城了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "做好戰鬥的準備": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 26,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅的部下們": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我們究竟會怎麼樣啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 27,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 28,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好可怕": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我到現在還不敢相信": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請趁早吃掉喔": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 29,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "有座叫神仙鄉的仙人島": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "您要不要去拜訪看看": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 30,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族並不想要龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "搶奪海中寶物而已": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 31,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多謝您": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請收下這個吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 32,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好可怕": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我到現在還不敢相信": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請趁早吃掉喔": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 33,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "您去過人魚村了嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "不過左源內先生就沒問題": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 34,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍宮城四周": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "竟然如此美麗": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 35,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就算迦樓羅來到龍宮": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我們也有自己的骨氣": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 36,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "聽好了": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "迦樓羅大人一定會高興": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你是": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 37,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "以前我從沒覺得": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生之後": {
+          "frame": "frame-1200.ppm",
+          "x": 116,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 38,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "您說竹取島": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "正在一點一點升起來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "那究竟為何": {
+          "frame": "frame-1440.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 39,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅大人一定會把": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那位被稱為軍神的大人": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 40,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "說到鬼族的三軍神": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "所以最強的是羅生門大人": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 41,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "也一定能夠逃走": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 42,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅大人說": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "鬼族世界最大的要塞": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "務必小心": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 43,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族的三軍神雖然很強": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "可是繼承自伐折羅王大人啊": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 44,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "乙姬真的非常高興": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我的一支舞呢": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 45,
+      "frames": 1800,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請慢慢欣賞": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 46,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雖然沒有什麼": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "但請隨時再來坐坐": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 47,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哎呀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請務必帶浦島先生來這裡": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 48,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哎呀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "很適合浦島先生的東西": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "助您一臂之力": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 49,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬深信不疑": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "一定能夠完成討伐鬼族之事": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 50,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "還要再欣賞": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "一支舞嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 51,
+      "frames": 1800,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請慢慢欣賞": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-entry",
+      "firstIndex": 52,
+      "frames": 4800,
+      "changedFrames": 64,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "龍宮城那間緊閉的房間": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "請往這邊走": {
+          "frame": "frame-2640.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 0,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒用的東西就扔掉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "迦樓羅大人一定會高興": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你是": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 88
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 1,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "閣下": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "正在逼問乙姬大人月之謎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請快一點": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 2,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 3,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我聽說要進入神仙鄉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生應該沒問題吧": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 4,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "真不甘心": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "連救乙姬大人的力量都沒有": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就只有您了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 5,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 6,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我聽說要進入神仙鄉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生應該沒問題吧": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 7,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "究竟會變成怎樣啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 8,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 9,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "天之仙人大人真的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "擁有各式各樣的東西呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "呵呵呵": {
+          "frame": "frame-1500.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 10,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族根本不打算統治這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "海中的寶物而已": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 11,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "上次真是多謝您了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就在下面": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 12,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "左源內先生的庵": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "從冰之塔南邊附近潛下去": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "應該一下子就到了": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 13,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "這座龍宮若落入鬼族手中": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "請先稍作休息": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-rescue",
+      "firstIndex": 14,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "食水餓鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "本來正想逼乙姬": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "哇哈哈哈": {
+          "frame": "frame-1500.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 0,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "請讓我們跨越波浪吧": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 1,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "我會一直為各位敞開": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "祝你們平安": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 2,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "我一定會打聽得清清楚楚": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 3,
+      "frames": 1800,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎先生": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 4,
+      "frames": 1800,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島先生": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 5,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "請和": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救出輝夜姬大人吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "咱們後會有期": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 6,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "銀次先生只是害羞罷了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "總之先去月亮看看吧": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 7,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "搶了地上還不滿足": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "竟然連海底也不放過": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鬼族到底有多貪心啊": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 8,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人吩咐": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "龍宮這裡的寶物": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請各位儘管帶走": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 9,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "天之仙人大人真的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "擁有各式各樣的東西呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "呵呵呵": {
+          "frame": "frame-1500.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 10,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "您在哪裡啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 11,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "若要前往月亮": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請務必小心": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 12,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "左源內先生的庵": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "從冰之塔南邊附近潛下去": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "應該一下子就到了": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "dragon-palace-moon",
+      "firstIndex": 13,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "女人先別管": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "一定能討迦樓羅大人歡心": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你是": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "dragon-palace-entry",
+    "dragon-palace-rescue",
+    "dragon-palace-moon"
+  ]
+}

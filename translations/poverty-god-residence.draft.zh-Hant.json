@@ -1,0 +1,11 @@
+{
+  "pointerOffset": "0x7008d",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "poverty-god-residence",
+  "decodedBytes": 128,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "貧窮神\n[09]「窮窮！就是啦！」\n\n「被風神吹飛，\n就掉到這裡啦！」\n\n「這裡似乎很適合住啦！\n不過，現在，\n打鬼的旅程更重要啦！」\n「等打鬼結束，\n我就住這裡啦！」\n"
+  }
+}

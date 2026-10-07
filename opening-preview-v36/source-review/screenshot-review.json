@@ -1,0 +1,52 @@
+{
+  "screenshots": [
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-221752.png",
+      "sha256": "6ac943deb89647abb84028bb47d33af056981a02c8fb52f712531b88adf16946",
+      "block": "moon-crystal-guidance",
+      "index": 4,
+      "firstTranslatedVersion": "v33"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-221825.png",
+      "sha256": "02ab74ee692dd5cd18c4fa3e209219ba7765c504cc48764dc8bd7caac182f6f8",
+      "block": "moon-crystal-guidance",
+      "index": 7,
+      "firstTranslatedVersion": "v33"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-221831.png",
+      "sha256": "e6e74d0bea9fa7a7bd64665d914b46b42e4caa7f36f29349ace79d5ecf48c483",
+      "block": "moon-crystal-guidance",
+      "index": 7,
+      "firstTranslatedVersion": "v33"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-221958.png",
+      "sha256": "39a15bb99a95f125f0e5eca07427163aaa336b7332fe578a7420aded389838fb",
+      "block": "field-messages",
+      "index": 24,
+      "firstTranslatedVersion": "v36"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-222002.png",
+      "sha256": "21f937db15a2dedb8d57c409ed78818cc4aab32ad4cd45fa1f281613e752b4ab",
+      "block": "field-messages",
+      "index": 40,
+      "firstTranslatedVersion": "v36"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-261001-222301.png",
+      "sha256": "70513e780307a650924ccdec6a238f73737d71547db0a9085c00700d202c5b91",
+      "block": "urashima-aging",
+      "index": 6,
+      "firstTranslatedVersion": "v34"
+    }
+  ],
+  "deviceSha256": "bc3f8dfc9ededf9961d3d6bac28e7fd84e83acb3a59e78bfafa20555848e6bb8",
+  "deviceWrites": false,
+  "savesAccessed": false,
+  "screenshotsDeleted": 0,
+  "runningEmulatorVersionVerified": false,
+  "note": "Three screenshots show Japanese records already translated in the installed v33 file. The cause in the running emulator is not confirmed. Saved companion names are preserved."
+}

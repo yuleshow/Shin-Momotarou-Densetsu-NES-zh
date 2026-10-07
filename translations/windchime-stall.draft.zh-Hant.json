@@ -1,0 +1,17 @@
+{
+  "pointerOffset": "0x700b7",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "windchime-stall",
+  "decodedBytes": 96,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All four original glyph records reviewed; preserve the 30 ryo price and two trailing newlines in each short response."
+  ],
+  "records": {
+    "0": "「風鈴呀！賣風鈴喔！\n美麗又悅耳的風鈴，\n只要３０兩喔！」",
+    "1": "「錢不夠喔！」\n\n",
+    "2": "「來，請收下！」\n\n",
+    "3": "「隨時歡迎再來喔！」\n\n"
+  }
+}

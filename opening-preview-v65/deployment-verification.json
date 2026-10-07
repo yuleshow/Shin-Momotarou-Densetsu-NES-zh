@@ -1,0 +1,22 @@
+{
+  "version": "v65",
+  "status": "deployed-rom-readback-and-protected-files-verified",
+  "targetSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "previousSha256": "cdd864a94f3e058d4ff775e94f8aa76b311794e778221b2312376a762434bcf4",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "stagedPath": "/Volumes/share/roms/snes/.momotaro-v65-a4413726-08d8-4e3b-aa88-bcbae48506a7.tmp",
+  "backupDirectory": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/opening-preview-v65/deployment-backup",
+  "deletedScreenshots": [],
+  "savesWritten": false,
+  "cheatsWritten": false,
+  "physicalDeviceBootVerified": false,
+  "fullReadbackVerified": true,
+  "bytes": 4194304,
+  "completedAt": "2026-10-07T05:43:10.780Z",
+  "unchangedSaveFiles": 405,
+  "unchangedCheatFiles": 2,
+  "screenshotsDeleted": 0,
+  "unrelatedScreenshotEntriesPreserved": true,
+  "screenshotBackupsVerified": false,
+  "screenshotsPreserved": true
+}

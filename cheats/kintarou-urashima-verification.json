@@ -1,0 +1,105 @@
+{
+  "cheatSha256": "2bffd9555e39d508d97d9ce64cc5a4163554bea04ef824edb30ff4679b5efb8f",
+  "characterIds": [
+    2,
+    3
+  ],
+  "statIndexes": [
+    1,
+    2
+  ],
+  "codes": [
+    "7E16A2E7+7E16B703",
+    "7E16F6E7+7E170B03",
+    "7E16A3E7+7E16B803",
+    "7E16F7E7+7E170C03"
+  ],
+  "runs": [
+    {
+      "version": "original",
+      "romSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+      "mode": "kintarou-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "original",
+      "romSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+      "mode": "kintarou-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "original",
+      "romSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+      "mode": "urashima-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "original",
+      "romSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+      "mode": "urashima-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "original",
+      "romSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+      "mode": "all",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v40",
+      "romSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+      "mode": "kintarou-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v40",
+      "romSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+      "mode": "kintarou-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v40",
+      "romSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+      "mode": "urashima-hp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v40",
+      "romSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+      "mode": "urashima-mp",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    },
+    {
+      "version": "v40",
+      "romSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+      "mode": "all",
+      "frames": 360,
+      "checkedEvery": 60,
+      "otherActorBytesAndNaturalLimitsUnchanged": true
+    }
+  ],
+  "localStateSha256": "e5991a473f5181b212b1f08435ba33be210c05a1c8f4b4587469cbc76695493d",
+  "localStateUnchanged": true,
+  "deviceFilesAccessed": false,
+  "actualBattleAndSpellUseVerified": false,
+  "physicalDeviceActivationVerified": false,
+  "outputDirectory": "/tmp/momotaro-kintarou-urashima-cheats-JJ5UUm"
+}

@@ -1,0 +1,30 @@
+{
+  "pointerOffset": "0x7019e",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "biron-forest-crystal",
+  "decodedBytes": 1493,
+  "complete": false,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 23 source records visually reviewed. Intentionally translate only 15 comprehensible records; preserve original unintelligible Biron-script records 8,10,12,14,16,18,20,22 by leaving them unselected. These eight records are not missing translation work.",
+    "Do not replace the original invented-script glyphs with readable Chinese. The Haradashi language relationship and the ownership proof using collected moon-crystal fragments are part of the story mechanism.",
+    "Retain the chief's simplified grammar and duplicated refusal branches. Future integration must preserve all eight unselected source records."
+  ],
+  "records": {
+    "0": "「比囉比囉！比隆！\n我，比隆族長。」\n\n「這個發光東西，\n天上來的寶物。」\n\n「哈啦呵囉嘻咧！」\n\n",
+    "1": "「你們供奉的，\n那個發光的東西，\n是[02a0]先生的東西！」\n「沒有它就無法討伐鬼族！\n能不能，\n借給我們呢？」",
+    "2": "「這個，你的東西，\n真的嗎？」\n",
+    "3": "「那就，\n不能給你！」\n",
+    "4": "「那麼，你的東西，\n拿出證據。」\n\n要將目前收集的，\n月之水晶碎片，\n給比隆族長看嗎？",
+    "5": "「那就，\n不能給你！」\n",
+    "6": "「你，什麼都，\n沒有！騙人！」\n",
+    "7": "「哦！你！\n露肚怪，好朋友！」\n\n「發光東西，有！\n真的，主人！」\n\n「物品主人，\n持有，最當然！」\n\n「帶走，好！」\n\n",
+    "9": "「比囉比囉！比隆！\n你們東西，\n回到手裡，太好了！」",
+    "11": "「比囉比囉！比隆！\n還有寶物，\n會掉下來嗎？」",
+    "13": "「比囉比囉！比隆！」\n\n\n「前陣子，從天上，\n寶物，\n掉下來了！」",
+    "15": "「比囉比囉！比隆！\n天上寶物，\n不是，真可惜！」",
+    "17": "「比囉比囉！比隆！\n天上寶物，\n非常漂亮！」",
+    "19": "「比囉比囉！比隆！\n你們，\n天上使者？」",
+    "21": "「比囉比囉！比隆！\n天上寶物，\n好開心！」"
+  }
+}

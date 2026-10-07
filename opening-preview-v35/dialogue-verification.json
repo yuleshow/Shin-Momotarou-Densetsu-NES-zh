@@ -1,0 +1,5008 @@
+{
+  "targetSha256": "e77d8c2a6f96134e0d5c6769f770d94a890e93f8e89f43a44a6e8058dbee15bd",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 247,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "漂亮地拿下一分": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 248,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鹿角之術有多厲害": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鹿角啊啊啊啊": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 249,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "漂亮地拿下一分": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發動攻擊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鋼鐵身軀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "打擊加倍反彈": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼道吸收術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被吸走了一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "縮小了": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "攻擊力恢復原狀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "防禦力恢復原狀": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "熊熊怒火": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 7,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力變成兩倍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "防禦力變成兩倍": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出蜘蛛絲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "武器": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "黏稠的蜘蛛絲纏住了": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出蜘蛛絲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "耀眼的光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "詭異的光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 13,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "互相交換了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼道解咒術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 214,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "本大爺": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "實力相差太遠了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要施展哪種術": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就讓你來選吧": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 215,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "選的是": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "接招吧": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 225,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吸走了": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "達伊達": {
+          "frame": "frame-2520.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "擊飛了": {
+          "frame": "frame-3300.ppm",
+          "x": 28,
+          "y": 168
+        },
+        "阿闍世": {
+          "frame": "frame-6720.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "夜叉姬": {
+          "frame": "frame-7560.ppm",
+          "x": 16,
+          "y": 152
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 236,
+      "frames": 7800,
+      "changedFrames": 114,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "閻魔大人": {
+          "frame": "frame-1920.ppm",
+          "x": 38,
+          "y": 112
+        },
+        "同伴關係": {
+          "frame": "frame-2700.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 15,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "為了表示悔改": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "替": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "恢復了體力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 16,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "斷尾求生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "頭也不回地逃跑了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 17,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "開始祈雨了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 18,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力變成": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "防禦力變成": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 19,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "讓武器滑開了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 20,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "將": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "塗滿了全身": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 21,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "開始祈雨了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 22,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力變成": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "防禦力變成": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 23,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "收起了豎立的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "尖刺": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 24,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "豎起了全身的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "尖刺": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 25,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "反彈了一半的傷害": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 26,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "將傷害原封不動地反彈": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 27,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "將傷害變成": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "倍反彈": {
+          "frame": "frame-1080.ppm",
+          "x": 102,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 28,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "黑暗之中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的雙眼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "炯炯發光": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 29,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "的道具袋": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "偷走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 30,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "試圖從": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "的道具袋": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "偷走些什麼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 31,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "輕巧地": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "避開了攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 32,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了鬼道鬼界術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 33,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竟然": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被吸進了鬼界": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 34,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吞噬了火焰的威力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 35,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用了毅力玉": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "以": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "點體力撐了下來": {
+          "frame": "frame-1140.ppm",
+          "x": 54,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 36,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "為了表示悔改": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "恢復了技力與體力": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 37,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猛撞過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 38,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猛撞過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 39,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猛撞過來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 40,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "纏繞過來了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 41,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "此外": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力還被": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 78,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 42,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "撒出了片片樹葉": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 43,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "搞不清楚": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "自己這方的排列順序了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 44,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "對": {
+          "frame": "frame-1020.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "沒有產生效果": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 45,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了鬼道吸收術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 46,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被吸走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 90,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 47,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的龍": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "咬了過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 48,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被吸走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 90,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 49,
+      "frames": 2400,
+      "changedFrames": 22,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的龍發動攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 51,
+      "frames": 2400,
+      "changedFrames": 18,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "連續攻擊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 52,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迷惑了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 53,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的道具袋裡": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "物品全都亂了套": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "位置被胡亂調換了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 54,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "以尖銳的叫聲呼喚同伴": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 55,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "同伴沒有趕來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 56,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出火焰氣息": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 57,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出泡沫": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 58,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "落空了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 59,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "露出了詭異的笑容": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就是你嗎": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 60,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從海中浮了上來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 61,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "潛入了海中": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 62,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "躲進了海裡": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "的攻擊無法命中": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 63,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從海中發動攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 64,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "下令集中攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 65,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被選中了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 66,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "將法術的效果反彈回來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 67,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伏龍": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "你們的實力就只有這樣嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "從老夫面前消失吧": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 68,
+      "frames": 3600,
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不知為何": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "開始數起數字來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "一": {
+          "frame": "frame-1320.ppm",
+          "x": 41,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 69,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "二": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 70,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 71,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使盡渾身力氣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "揮舞著鐵棒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 72,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "福神出現了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 73,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "平常心地善良的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就讓老夫賜你獎賞吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 74,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "得到了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "兩": {
+          "frame": "frame-1080.ppm",
+          "x": 134,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 75,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大黑天出現了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 76,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哦": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "讓你們變得無敵吧": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你們就是無敵的": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 77,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "窮窮": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我是貧窮神啦": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 78,
+      "frames": 1800,
+      "changedFrames": 8,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "貧窮神發動攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 79,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被偷走了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "兩": {
+          "frame": "frame-1080.ppm",
+          "x": 90,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 80,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我想要孩子的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "拜託啦": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 81,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "今晚的飯菜": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "想再多加一道啦": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 82,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "偶爾也想奢侈一下": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "去吃迴轉壽司啦": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 83,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我想在": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "加顆生雞蛋啦": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 84,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "噗哇": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我是赤貧啦": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 85,
+      "frames": 3000,
+      "changedFrames": 33,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "赤貧發動攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的錢被偷走一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "兩": {
+          "frame": "frame-1140.ppm",
+          "x": 78,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 86,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "赤貧光是想到偷錢的快感": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "忘記偷錢了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 87,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "今晚要吃壽喜燒啦": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "壽喜燒啦": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 88,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "今晚要吃": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "配料大塊的": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "啦": {
+          "frame": "frame-1140.ppm",
+          "x": 116,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 89,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "車子": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "Sunny": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "期付款啦": {
+          "frame": "frame-1140.ppm",
+          "x": 64,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 90,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我想要": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "的啦": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 91,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "身無分文啦": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        },
+        "兩啦": {
+          "frame": "frame-1200.ppm",
+          "x": 108,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 92,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "活過今天而拚命呢": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "再見了": {
+          "frame": "frame-1500.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 93,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身無分文寂寞地": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "離開了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 94,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚嗚": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請你一定要收下啦": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 95,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "將": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "遞了出來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 96,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "明明沒有就別答應啊": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "這樣會讓我再也不敢相信人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不要變成那樣啊": {
+          "frame": "frame-1200.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 97,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身無分文滿臉難過": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "離開了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 98,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "不能投宿旅店了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 99,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "那就把": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "消掉吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 100,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "想變有錢": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "先要有闊氣的心情": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 101,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "覺得自己有錢了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的金錢": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 102,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就化為一陣風消失吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 103,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "醉個痛快吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "四處流浪去吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 104,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真的沒問題嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "段重新開始喔": {
+          "frame": "frame-1140.ppm",
+          "x": 78,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 105,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我可真的要動手囉": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你確定吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 106,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "段重新開始吧": {
+          "frame": "frame-1140.ppm",
+          "x": 66,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 107,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是個膽小的傢伙": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "再選一次吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 108,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就能把石頭坐暖呢": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "暫時無法動彈": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 109,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "道具袋真是髒亂啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "看看道具袋裡面吧": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 110,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "之前真是對不起啊": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你喜歡的吧": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 111,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "向": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "報了一箭之仇": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 112,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雪人出現了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 113,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雪人笑著": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "離開了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 114,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "模仿了猿樂師的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "動作": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 115,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了鬼道夢見術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 116,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "模仿了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "動作": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 117,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "竟然吸收了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "打擊的效果": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 118,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的身體": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "竟然吸收了法術的效果": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 119,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了鬼道吸取術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 120,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的防禦力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被吸走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 90,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 121,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的防禦力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 78,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 122,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "賭上性命的戰鬥": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "彼此就以自己的拳頭": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "一決勝負吧": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 123,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竟然": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的武器與防具": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我要上了": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 124,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "竟然吸收了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "打擊的效果": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 125,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拿起酒壺": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "咕嚕喝了一口": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 126,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拿起酒壺": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "咕嚕咕嚕喝了起來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 127,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拿起酒壺": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "咕嚕咕嚕咕嚕地猛灌": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 128,
+      "frames": 2400,
+      "changedFrames": 18,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "連續攻擊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 129,
+      "frames": 2400,
+      "changedFrames": 18,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "義": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 130,
+      "frames": 2400,
+      "changedFrames": 18,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "仁": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 131,
+      "frames": 2400,
+      "changedFrames": 19,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "禮": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 132,
+      "frames": 2400,
+      "changedFrames": 19,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "信": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 133,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "劍術如此高強的人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 134,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "互補弱點的戰法啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 135,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "所欠缺的劍中溫柔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 136,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三千世界": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "新時代的曙光": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 137,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "瞄準": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "的手": {
+          "frame": "frame-1020.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "發動了攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 138,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "失手掉落了武器": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "攻擊力降低了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "點": {
+          "frame": "frame-1140.ppm",
+          "x": 114,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 139,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "扔了一條蛇過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 140,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "奪衣婆": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘻嘻嘻嘻": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 141,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我就不客氣": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "嘻嘻嘻嘻": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 142,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "奪衣婆": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "這可是渡過三途川時": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "必須遵守的規矩啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 143,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就算是我": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "伐折羅王大人的": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "嘻嘻嘻嘻": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 144,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一邊詭異地笑著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一邊撲了過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 145,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "防禦力降低了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 114,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 146,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "有沒有調皮搗蛋的孩子啊": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "被擄走了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 147,
+      "frames": 1800,
+      "changedFrames": 13,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "攻擊力降低了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 114,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 148,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "防禦力降低了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 114,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 149,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "速度降低了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 102,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 150,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了鬼道吸取術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 151,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被吸走了一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 152,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗶": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "現在為您播報": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "明天的天氣": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 153,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "各位早安": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "今天的天氣是": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 154,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "哎呀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "沒這樣了呢": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你要接住喔": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 155,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這女人到底怎麼回事啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 156,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "真是的": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "這是我送給你的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "一點小小賠禮喔": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 157,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "明天萬里無雲": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "天氣晴朗又宜人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "了": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 158,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "明天是晴天": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "雖然適合洗衣服": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "啊": {
+          "frame": "frame-1140.ppm",
+          "x": 116,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 159,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "明天會下惱人的雨": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "天吧": {
+          "frame": "frame-1140.ppm",
+          "x": 102,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 160,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "明天一定會下雪": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "像你的心一樣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "潔白無瑕的雪": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 161,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吐出詭異的煙霧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "聽到了嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 162,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竟然": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "施展了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "之術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 163,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "用蒟蒻般的尾巴": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "黏答答": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "地拍打過來": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 164,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的背脊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "竄過了一股寒意": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 165,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "多虧了那條尾巴": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "又打起精神了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 166,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "正在默默忍耐": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 167,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "黑河童": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "你真是個大好人": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "加入你的隊伍吧": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 168,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "喀啪啪": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "也要洗心革面": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "為你而戰": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 169,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "喀啪啪": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "黑河童消失在河中了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 170,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "出現了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "大家熟悉的": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "咻咻": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 171,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竟然": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "把錢全都偷走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 172,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "出現了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "大家熟悉的": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "咻咻": {
+          "frame": "frame-1140.ppm",
+          "x": 128,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 173,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "竟然": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "所有東西都偷走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 174,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從道具袋裡": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "偷走了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "小黃瓜": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 175,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "施展了鬼道均等術": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 176,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全都變成一樣了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 177,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "出現了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "發動了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "停不下來的連續攻擊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 178,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "牽著的馬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "踢了過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 179,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "正在漂浮": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 180,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "張開了貝殼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 181,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "合上了貝殼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 182,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "將膨脹的身體恢復原狀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 183,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身體大大地膨脹了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 184,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猛然炸開了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 185,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發射了魚雷": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 186,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "聚集了月光": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 187,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "露出了詭異的笑容": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "最有精神的傢伙是誰啊": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就是你嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 188,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出寒冰氣息": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 189,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一邊詭異地笑著": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "一邊撲了過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 190,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力降低了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "點": {
+          "frame": "frame-1080.ppm",
+          "x": 114,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 191,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從眼中放出詭異的光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 192,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "無法隨心所欲地": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "施展法術了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 193,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "歷史之鬼消失在": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "歷史的彼端了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 194,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還沒完": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "繼續再戰": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 195,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咻": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "成功啦": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "啦": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 196,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "但是": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "同伴沒有趕來": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 197,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咻": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "別想靠": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "啊": {
+          "frame": "frame-1200.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 198,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咻": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "右上右上ＡＡ": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "嘿呀": {
+          "frame": "frame-1200.ppm",
+          "x": 116,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 199,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咻": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "你們怎麼會": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "硬成這樣啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 200,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "咻": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "已經沒有": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "了": {
+          "frame": "frame-1200.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 201,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "轟": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "之鬼復活了": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 202,
+      "frames": 1800,
+      "changedFrames": 14,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "要來個飯糰嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "在這裡": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 203,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "衝啊": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "集中攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 204,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我是角色扮演遊戲史上": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "請替我到處宣傳吧": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 205,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我不是跳蚤鬼喔": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我可是有換過顏色的": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請靠近一點看清楚喔": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 206,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我雖然個頭小": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "卻很難纏吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "大家都這麼說喔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 207,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要懲治我": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "可沒那麼容易喔": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "點體力呢": {
+          "frame": "frame-1140.ppm",
+          "x": 90,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 208,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一直跟我戰鬥": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "會覺得很無聊喔": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "畢竟我沒什麼特色嘛": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 209,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我不會法術": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "你還是繼續往前走吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 210,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要跟我聊聊家常嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "昨天我用肥皂洗了身體": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就聊聊這種洗澡瑣事吧": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 211,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "扔了泥巴過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 212,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "扔了鐵球過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 213,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "張開雙手": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "撲了過來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 216,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "用力拍動翅膀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "邪惡的狂風襲向": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 217,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "張大了嘴巴": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吐出火焰": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 218,
+      "frames": 10200,
+      "changedFrames": 154,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "啊": {
+          "frame": "frame-2160.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "把月之血喝個痛快": {
+          "frame": "frame-3300.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 219,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "使用了半河沙玉": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 220,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鼓起氣勢": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "引出體內的力量": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "哈啊啊啊啊啊啊啊啊啊": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 221,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "指向天空": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "電流聚集在": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "指尖": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 222,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有對": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "造成傷害": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 223,
+      "frames": 4800,
+      "changedFrames": 64,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "妳還在猶豫什麼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "那就由我先上": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 224,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "人類深愛的友情之力": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "所以我要戰鬥": {
+          "frame": "frame-1920.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 226,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 227,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吸走了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "術": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 228,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "破碎的月之水晶": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "向四面八方飛散": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 229,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "將": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "擊飛了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 230,
+      "frames": 6000,
+      "changedFrames": 84,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "根本不值得一戰": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "停止了戰鬥": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 231,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "你對施術時機的": {
+          "frame": "frame-1320.ppm",
+          "x": 38,
+          "y": 96
+        },
+        "停止了戰鬥": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 232,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "擋下了攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 233,
+      "frames": 4800,
+      "changedFrames": 64,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "阿闍世": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "沒想到人類也有": {
+          "frame": "frame-1380.ppm",
+          "x": 38,
+          "y": 96
+        },
+        "停止了攻擊": {
+          "frame": "frame-1680.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 234,
+      "frames": 3600,
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "我也好久沒有": {
+          "frame": "frame-1320.ppm",
+          "x": 38,
+          "y": 112
+        },
+        "認真戰鬥了呢": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 235,
+      "frames": 4800,
+      "changedFrames": 64,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬終於認真起來了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "夜叉姬的攻擊力變成兩倍": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "痛快地打一場吧": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 237,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "這可是伐折羅王大人的命令": {
+          "frame": "frame-2700.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "也只好如此了": {
+          "frame": "frame-3000.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 238,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "讓大海掀起滔天巨浪": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 239,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "掀起了龍捲風": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 240,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "咻嚕嚕嚕嚕": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你忘了鬼族的規矩嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 241,
+      "frames": 2400,
+      "changedFrames": 23,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "咻嚕嚕嚕嚕": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 242,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雷神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "轟隆轟隆": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "唯有戰鬥": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 243,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "自然清爽": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 244,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "激烈狂暴": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 245,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "溫柔": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "攻擊": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 246,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我要猛烈敲打囉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "攻擊": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 250,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "現在": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "光顧著恢復自己的體力": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "那就開始吧": {
+          "frame": "frame-2040.ppm",
+          "x": 92,
+          "y": 88
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 251,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "老夫早已": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "把技力用光了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你還在磨蹭什麼啊": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 252,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "那麼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "要恢復誰的體力呢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "萬──金──丹": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 253,
+      "frames": 2400,
+      "changedFrames": 24,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "修行": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "可沒那麼容易結束啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "金──瘡────": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "boss-battle-dialogue"
+  ]
+}

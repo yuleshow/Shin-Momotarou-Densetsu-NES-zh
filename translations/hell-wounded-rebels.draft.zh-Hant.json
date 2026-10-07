@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x7024c",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hell-wounded-rebels",
+  "decodedBytes": 116,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「不用管我們！\n現在，快去，\n迦樓羅大人那裡！」",
+    "1": "「……嗚！可恨的迦樓羅啊！\n我……我們的計策，\n竟以失敗告終……！」",
+    "2": "鬼已經失去意識了……！\n\n"
+  }
+}

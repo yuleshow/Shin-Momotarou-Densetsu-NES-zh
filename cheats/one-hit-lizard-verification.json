@@ -1,0 +1,3458 @@
+{
+  "status": "locally-verified-not-deployed",
+  "cheatSha256": "8b19037cc294fd15f13877f262a850a6cc88d28d0a4c472ed79be67aa5c5ee54",
+  "code": "82D09C40+82D09DFE+82FE4005+82FE4110+82FE42F0+82FE4312+82FE44BD+82FE45E5+82FE4619+82FE47F0+82FE480D+82FE49BD+82FE4AD5+82FE4B19+82FE4CC9+82FE4D19+82FE4EF0+82FE4F06+82FE50A9+82FE51FF+82FE5285+82FE530F+82FE5485+82FE5510+82FE564C+82FE57DE+82FE58D0",
+  "defaultEnabled": false,
+  "previousTenEntriesPreserved": true,
+  "romHashes": {
+    "original": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+    "v46": "bafeb819522b92aa1de9505329a9cbf319357cfe1b7057c4eeb83c2daedd12a2",
+    "v56": "cdd864a94f3e058d4ff775e94f8aa76b311794e778221b2312376a762434bcf4",
+    "v60": "1adb065eab4c8782817c59177316eae3f7442a61efbefc5fc9e9e9535bff0762"
+  },
+  "hook": {
+    "address": "82D09B",
+    "original": "20DED0",
+    "replacement": "2040FE",
+    "routineAddress": "82FE40",
+    "routineHex": "0510f012bde519f00dbdd519c919f006a9ff850f85104cded0",
+    "targetSide": "7E19E5 + X: zero is ally; nonzero is enemy group",
+    "targetEnemyId": "7E19D5 + X: ordinary lizard is 25; golden lizard is 26",
+    "excludedEnemyIds": [
+      25
+    ],
+    "behavior": "Preserve ordinary lizard and ally damage; raise other nonzero enemy damage to 65535; tail-call original immunity check before normal HP subtraction",
+    "directSaveOrRamCheatWrites": false
+  },
+  "checks": [
+    {
+      "version": "original",
+      "firstHitFrame": 840,
+      "firstTarget": 2,
+      "firstHitBaselineHp": 15,
+      "firstHitEnabledHp": 0,
+      "allyDamageIdenticalThroughFirstHit": true,
+      "enemiesUnchangedUntilHit": true,
+      "idleWramIdentical": true,
+      "lizardEnemyId": 25,
+      "lizardDamageObserved": true,
+      "lizardGameplayWramIdenticalFrames": 80,
+      "lizardExcludedExecutionBytes": [
+        "7E000F damage-work scratch",
+        "7E0100-7E01FF CPU stack"
+      ],
+      "lizardExecutionDifferences": [
+        {
+          "frame": 840,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1050,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 1
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1110,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1140,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1200,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1230,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1290,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1320,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1350,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1380,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1410,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1440,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1470,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1620,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1650,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1680,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1710,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1800,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1830,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1860,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1890,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1920,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 1,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2010,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2040,
+          "differences": [
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 75
+            }
+          ]
+        },
+        {
+          "frame": 2070,
+          "differences": [
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 73
+            }
+          ]
+        },
+        {
+          "frame": 2100,
+          "differences": [
+            {
+              "address": "7E000f",
+              "before": 192,
+              "after": 224
+            }
+          ]
+        },
+        {
+          "frame": 2130,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2160,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2190,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2250,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2280,
+          "differences": [
+            {
+              "address": "7E01cd",
+              "before": 231,
+              "after": 227
+            }
+          ]
+        },
+        {
+          "frame": 2310,
+          "differences": [
+            {
+              "address": "7E01cd",
+              "before": 231,
+              "after": 227
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 75
+            }
+          ]
+        },
+        {
+          "frame": 2340,
+          "differences": [
+            {
+              "address": "7E01cd",
+              "before": 231,
+              "after": 227
+            },
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2370,
+          "differences": [
+            {
+              "address": "7E01cd",
+              "before": 231,
+              "after": 227
+            }
+          ]
+        },
+        {
+          "frame": 2400,
+          "differences": [
+            {
+              "address": "7E01cd",
+              "before": 231,
+              "after": 227
+            },
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v46",
+      "firstHitFrame": 840,
+      "firstTarget": 2,
+      "firstHitBaselineHp": 15,
+      "firstHitEnabledHp": 0,
+      "allyDamageIdenticalThroughFirstHit": true,
+      "enemiesUnchangedUntilHit": true,
+      "idleWramIdentical": true,
+      "lizardEnemyId": 25,
+      "lizardDamageObserved": true,
+      "lizardGameplayWramIdenticalFrames": 80,
+      "lizardExcludedExecutionBytes": [
+        "7E000F damage-work scratch",
+        "7E0100-7E01FF CPU stack"
+      ],
+      "lizardExecutionDifferences": [
+        {
+          "frame": 870,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1200,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1230,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1290,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1320,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1350,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1380,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1440,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1470,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1500,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1530,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1560,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 4
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1590,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 1
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1680,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1740,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1770,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1830,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1890,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1920,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 1
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1980,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2070,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2220,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2280,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2310,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2340,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2400,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v56",
+      "firstHitFrame": 840,
+      "firstTarget": 2,
+      "firstHitBaselineHp": 15,
+      "firstHitEnabledHp": 0,
+      "allyDamageIdenticalThroughFirstHit": true,
+      "enemiesUnchangedUntilHit": true,
+      "idleWramIdentical": true,
+      "lizardEnemyId": 25,
+      "lizardDamageObserved": true,
+      "lizardGameplayWramIdenticalFrames": 80,
+      "lizardExcludedExecutionBytes": [
+        "7E000F damage-work scratch",
+        "7E0100-7E01FF CPU stack"
+      ],
+      "lizardExecutionDifferences": [
+        {
+          "frame": 1050,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 1
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1200,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1230,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1290,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1320,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1350,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1380,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1440,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1470,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1500,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1530,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1560,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 4
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1590,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 1
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1710,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1740,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1890,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1980,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2010,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2070,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2100,
+          "differences": [
+            {
+              "address": "7E01e7",
+              "before": 48,
+              "after": 200
+            },
+            {
+              "address": "7E01e8",
+              "before": 244,
+              "after": 235
+            }
+          ]
+        },
+        {
+          "frame": 2130,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2160,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2190,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2220,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2250,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2280,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2310,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2340,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2370,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2400,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v60",
+      "firstHitFrame": 840,
+      "firstTarget": 2,
+      "firstHitBaselineHp": 15,
+      "firstHitEnabledHp": 0,
+      "allyDamageIdenticalThroughFirstHit": true,
+      "enemiesUnchangedUntilHit": true,
+      "idleWramIdentical": true,
+      "lizardEnemyId": 25,
+      "lizardDamageObserved": true,
+      "lizardGameplayWramIdenticalFrames": 80,
+      "lizardExcludedExecutionBytes": [
+        "7E000F damage-work scratch",
+        "7E0100-7E01FF CPU stack"
+      ],
+      "lizardExecutionDifferences": [
+        {
+          "frame": 1050,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 1
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1200,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1230,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1290,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1320,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1350,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1380,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1440,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1470,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1500,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1530,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1560,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 4
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1590,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 1
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1710,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 1740,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1890,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 1980,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2010,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2070,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2100,
+          "differences": [
+            {
+              "address": "7E01e7",
+              "before": 48,
+              "after": 200
+            },
+            {
+              "address": "7E01e8",
+              "before": 244,
+              "after": 235
+            }
+          ]
+        },
+        {
+          "frame": 2130,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2160,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2190,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2220,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2250,
+          "differences": [
+            {
+              "address": "7E01e0",
+              "before": 15,
+              "after": 14
+            },
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 73
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2280,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 73,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2310,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        },
+        {
+          "frame": 2340,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2370,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 51,
+              "after": 176
+            },
+            {
+              "address": "7E01fa",
+              "before": 75,
+              "after": 3
+            },
+            {
+              "address": "7E01fb",
+              "before": 241,
+              "after": 99
+            },
+            {
+              "address": "7E01fc",
+              "before": 0,
+              "after": 160
+            }
+          ]
+        },
+        {
+          "frame": 2400,
+          "differences": [
+            {
+              "address": "7E01f9",
+              "before": 176,
+              "after": 51
+            },
+            {
+              "address": "7E01fa",
+              "before": 3,
+              "after": 75
+            },
+            {
+              "address": "7E01fb",
+              "before": 99,
+              "after": 241
+            },
+            {
+              "address": "7E01fc",
+              "before": 160,
+              "after": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "highHp": {
+    "original": 10000,
+    "firstHitFrame": 840,
+    "baselineAfterHit": 9997,
+    "enabledAfterHit": 0
+  },
+  "allThreeEnemiesDefeatedAndInactive": true,
+  "runs": [
+    {
+      "name": "original-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        958,
+        27,
+        15,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/original-baseline"
+    },
+    {
+      "name": "original-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        27,
+        0,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/original-enabled"
+    },
+    {
+      "name": "original-idle-baseline",
+      "enabled": false,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/original-idle-baseline"
+    },
+    {
+      "name": "original-idle-enabled",
+      "enabled": true,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/original-idle-enabled"
+    },
+    {
+      "name": "original-lizard-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/original-lizard-baseline"
+    },
+    {
+      "name": "original-lizard-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/original-lizard-enabled"
+    },
+    {
+      "name": "v46-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        958,
+        27,
+        15,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v46-baseline"
+    },
+    {
+      "name": "v46-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        27,
+        0,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v46-enabled"
+    },
+    {
+      "name": "v46-idle-baseline",
+      "enabled": false,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v46-idle-baseline"
+    },
+    {
+      "name": "v46-idle-enabled",
+      "enabled": true,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v46-idle-enabled"
+    },
+    {
+      "name": "v46-lizard-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v46-lizard-baseline"
+    },
+    {
+      "name": "v46-lizard-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v46-lizard-enabled"
+    },
+    {
+      "name": "v56-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        958,
+        27,
+        15,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v56-baseline"
+    },
+    {
+      "name": "v56-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        27,
+        0,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v56-enabled"
+    },
+    {
+      "name": "v56-idle-baseline",
+      "enabled": false,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v56-idle-baseline"
+    },
+    {
+      "name": "v56-idle-enabled",
+      "enabled": true,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v56-idle-enabled"
+    },
+    {
+      "name": "v56-lizard-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v56-lizard-baseline"
+    },
+    {
+      "name": "v56-lizard-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v56-lizard-enabled"
+    },
+    {
+      "name": "v60-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        958,
+        27,
+        15,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-baseline"
+    },
+    {
+      "name": "v60-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        27,
+        0,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-enabled"
+    },
+    {
+      "name": "v60-idle-baseline",
+      "enabled": false,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-idle-baseline"
+    },
+    {
+      "name": "v60-idle-enabled",
+      "enabled": true,
+      "frames": 120,
+      "finalHp": [
+        961,
+        35,
+        18,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-idle-enabled"
+    },
+    {
+      "name": "v60-lizard-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-lizard-baseline"
+    },
+    {
+      "name": "v60-lizard-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        10,
+        16,
+        18,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-lizard-enabled"
+    },
+    {
+      "name": "v60-high-hp-baseline",
+      "enabled": false,
+      "frames": 2400,
+      "finalHp": [
+        958,
+        27,
+        9997,
+        10000,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-high-hp-baseline"
+    },
+    {
+      "name": "v60-high-hp-enabled",
+      "enabled": true,
+      "frames": 2400,
+      "finalHp": [
+        961,
+        27,
+        0,
+        10000,
+        24
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-high-hp-enabled"
+    },
+    {
+      "name": "v60-finish",
+      "enabled": true,
+      "frames": 18000,
+      "finalHp": [
+        961,
+        40,
+        0,
+        0,
+        0
+      ],
+      "directory": "/tmp/momotaro-one-hit-lizard-verified/v60-finish"
+    }
+  ],
+  "statePath": "/tmp/momotaro-v60-sumo-fixture-v2/battle.bin",
+  "stateSha256": "2dd0630049ea9fba89a7ac7e3f188ae3fb562ed28d782ad890e413d05ef07062",
+  "sourceStateAndRomFilesUnchanged": true,
+  "deviceFilesAccessed": false,
+  "limitations": [
+    "Synthetic local battle fixture, not the current Fukuryuu Cave encounter",
+    "Lizard cases change enemy IDs in copies of the fixture; natural tail severing and item acquisition are not replayed",
+    "Only ordinary lizard ID 25 is excluded; golden lizard ID 26 remains eligible for one-hit damage",
+    "Not location-restricted; disable for scripted fights",
+    "Misses, zero damage and original special immunity checks are not bypassed",
+    "Not every skill, boss, reflected attack, or natural story route tested",
+    "Physical device activation not tested"
+  ]
+}

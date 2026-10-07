@@ -1,0 +1,21 @@
+{
+  "pointerOffset": "0x70165",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "castle-extension-mechanism-village",
+  "decodedBytes": 380,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All seven source glyph records visually reviewed. Explicitly affiliated with からくり村 (機關村), not Hope Capital proper; retained as the requested castle-construction extension.",
+    "Records direct castle improvements to 嘉市 and describe 左源內 living alone on the northern seabed. Preserve all source line controls; draft only."
+  ],
+  "records": {
+    "0": "「喂喂喂！走開啦！\n我正忙得團團轉，\n沒空理你啦！」",
+    "1": "「喂喂喂！別擋路！\n我正忙著製作討鬼的機關，\n沒空理你啦！」",
+    "2": "「喂喂喂！你說什麼？\n想把城堡變得更堅固？\n那就去找嘉市先生吧！」",
+    "3": "「機關村的工匠個個高明，\n但和住在海底的左源內，\n相比，還是差了一大截！」",
+    "4": "「機關村的工匠們，\n雖然脾氣暴躁，但每個人，\n都真心想為討鬼出一份力！」",
+    "5": "「喂喂喂！吵死啦！\n再不趕快討伐鬼族，\n這個世界就要完蛋啦！」",
+    "6": "「左源內先生，\n就住在北方的海底，\n聽說他獨自一人住在那裡！」"
+  }
+}

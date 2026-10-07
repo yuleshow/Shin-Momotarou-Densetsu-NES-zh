@@ -1,0 +1,27 @@
+{
+  "pointerOffset": "0x7018c",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "kaguya-bamboo-sword-search",
+  "decodedBytes": 603,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 13 source records reviewed. Preserve the original 120-year bamboo flowering account as dialogue, the prince's vigil and the dig/cancel/sword discovery states.",
+    "Records 9/10/11/12 retain west/east/north/south and dynamic step counts; north/south retain their trailing newlines."
+  ],
+  "records": {
+    "0": "輝夜姬看起來，\n就像睡著了一樣！\n",
+    "1": "竹取翁\n「啊！竹花竟然這麼多……」\n\n阿闍世王子\n「相傳竹子，\n寄宿著神靈！」\n「每隔１２０年，\n會一起開花，\n然後枯萎……」\n「但是！即使枯萎，\n竹子也有以驚人的速度，\n重新復甦的力量！」\n「輝夜姬，\n是從竹子裡誕生的公主！」\n\n「或許公主也……」\n\n",
+    "2": "「對不起！[02a0]！」\n\n\n「只要一移開目光，\n輝夜姬彷彿，\n就會立刻消失……！」\n「我雖流著鬼族的血，\n卻如此軟弱，\n你就盡情笑我吧！」\n「現在請讓我，\n陪在公主身旁……\n之後一定會追上你！」",
+    "3": "「[02a0]先生！\n請替輝夜報仇！」\n",
+    "4": "「[02a0]先生！您去討伐鬼吧！\n這是所有留下來的人，\n共同的心願！」",
+    "5": "哦！地面下，\n似乎埋著什麼！\n\n要挖挖看嗎？\n\n",
+    "6": "[02a0]，\n放棄挖掘了！\n",
+    "7": "從地裡挖出一把鏽刀！\n\n\n是勇氣之劍！\n\n",
+    "8": "看來勇氣之劍，\n就在這附近！\n",
+    "9": "向西[0a]步！",
+    "10": "向東[0a]步！",
+    "11": "向北[0a]步！\n",
+    "12": "向南[0a]步！\n"
+  }
+}

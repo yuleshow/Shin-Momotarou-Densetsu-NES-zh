@@ -1,0 +1,1730 @@
+{
+  "targetSha256": "43b4ec17a8db4eacb78876ff9d04f8314bba85b06a70833997b829743002b2ee",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "main-messages",
+      "firstIndex": 8,
+      "words": [
+        "體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 9,
+      "words": [
+        "最大體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 11,
+      "words": [
+        "最大技力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 15,
+      "words": [
+        "身高"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身高": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 16,
+      "words": [
+        "體重"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體重": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 20,
+      "words": [
+        "月之水晶"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之水晶": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 22,
+      "words": [
+        "最大體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 23,
+      "words": [
+        "最大技力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 24,
+      "words": [
+        "人氣度"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣度": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 27,
+      "words": [
+        "身體"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 35,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身體": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 28,
+      "words": [
+        "腳"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腳": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 32,
+      "words": [
+        "日"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 27,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "日": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 102,
+      "words": [
+        "裡面有",
+        "兩"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "裡面有": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "兩": {
+          "frame": "frame-1020.ppm",
+          "x": 78,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 107,
+      "words": [
+        "從箱子裡拿出了",
+        "兩"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從箱子裡拿出了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "兩": {
+          "frame": "frame-1080.ppm",
+          "x": 42,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 114,
+      "words": [
+        "丟掉了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "丟掉了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 115,
+      "words": [
+        "從",
+        "的袋裡",
+        "取出",
+        "丟掉了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的袋裡": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "取出": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "丟掉了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 116,
+      "words": [
+        "不能丟掉"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不能丟掉": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 117,
+      "words": [
+        "現在沒有動物伙伴"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "現在沒有動物伙伴": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 118,
+      "words": [
+        "用盡了力氣"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 26,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "用盡了力氣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 120,
+      "words": [
+        "你到底在",
+        "著急些什麼呀",
+        "不是要打倒鬼",
+        "而是要傳達愛與勇氣",
+        "用不著著急呀"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你到底在": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "著急些什麼呀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不是要打倒鬼": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "而是要傳達愛與勇氣": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "用不著著急呀": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 121,
+      "words": [
+        "再去好好教訓一次吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "再去好好教訓一次吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 122,
+      "words": [
+        "只要是你",
+        "一定辦得到",
+        "嗚哈哈"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只要是你": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "一定辦得到": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "嗚哈哈": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 123,
+      "words": [
+        "的道具袋",
+        "被詛咒了",
+        "打不開"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的道具袋": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被詛咒了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "打不開": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 124,
+      "words": [
+        "現在不能更換"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "現在不能更換": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 125,
+      "words": [
+        "沒學過特技"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒學過特技": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 128,
+      "words": [
+        "智慧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "智慧": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 129,
+      "words": [
+        "呼叫敵人"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呼叫敵人": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 130,
+      "words": [
+        "聞氣味"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "聞氣味": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 132,
+      "words": [
+        "狗爬式"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 30,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "狗爬式": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 133,
+      "words": [
+        "尿尿"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "尿尿": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 134,
+      "words": [
+        "叼回來"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "叼回來": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 135,
+      "words": [
+        "搜索"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "搜索": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 136,
+      "words": [
+        "在這挖"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在這挖": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 137,
+      "words": [
+        "空翻"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "空翻": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 138,
+      "words": [
+        "找東西"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "找東西": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 139,
+      "words": [
+        "呼叫猴子"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呼叫猴子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 140,
+      "words": [
+        "偵察"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "偵察": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 141,
+      "words": [
+        "存錢"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "存錢": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 142,
+      "words": [
+        "請醫生"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "請醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 143,
+      "words": [
+        "寶箱數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寶箱數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 144,
+      "words": [
+        "望前方"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 7,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "望前方": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 145,
+      "words": [
+        "跑腿"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "跑腿": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 146,
+      "words": [
+        "環視"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "環視": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 147,
+      "words": [
+        "選哪個"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "選哪個": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 148,
+      "words": [
+        "去哪裡"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "去哪裡": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 149,
+      "words": [
+        "糟了",
+        "旅途記錄消失了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "糟了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "旅途記錄消失了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 150,
+      "words": [
+        "鼓起勇氣",
+        "再試一次吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鼓起勇氣": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "再試一次吧": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 151,
+      "words": [
+        "中毒次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "中毒次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 152,
+      "words": [
+        "麻痺次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻痺次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 153,
+      "words": [
+        "受詛咒次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "受詛咒次數": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 154,
+      "words": [
+        "援助次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "援助次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 155,
+      "words": [
+        "命令次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "命令次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 156,
+      "words": [
+        "最大體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力": {
+          "frame": "frame-1080.ppm",
+          "x": 48,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 157,
+      "words": [
+        "最大技數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技數": {
+          "frame": "frame-1080.ppm",
+          "x": 48,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 158,
+      "words": [
+        "攻擊力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 159,
+      "words": [
+        "防禦力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "防禦力": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 160,
+      "words": [
+        "速度"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "速度": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 161,
+      "words": [
+        "住宿次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "住宿次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 162,
+      "words": [
+        "與人交談次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "與人交談次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 172,
+      "words": [
+        "懲戒次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "懲戒次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 173,
+      "words": [
+        "戰鬥次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 174,
+      "words": [
+        "逃離戰鬥次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "逃離戰鬥次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 175,
+      "words": [
+        "會心一擊次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "會心一擊次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 176,
+      "words": [
+        "痛恨一擊次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "痛恨一擊次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 178,
+      "words": [
+        "動畫"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "動畫": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    }
+  ],
+  "manifest": "translations/followup-v49.release.json",
+  "draftFiles": [
+    "translations/common-status-labels-remaining.draft.zh-Hant.json"
+  ],
+  "screenshotOnly": false,
+  "isolatedRecords": true,
+  "plannedScenes": 65,
+  "exactCandidateRecordsVerified": 65
+}

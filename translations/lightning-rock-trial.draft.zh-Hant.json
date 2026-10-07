@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x7017a",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "lightning-rock-trial",
+  "target": "0x3df800",
+  "decodedBytes": 218,
+  "status": "control-checked-draft",
+  "records": {
+    "0": "「時間到了！」\n\n",
+    "1": "「快點，時間就要不夠了！\n\n",
+    "2": "「這裡有八塊岩石。」\n\n\n「在老夫數到一百以前，\n試著打碎五塊以上吧！」\n\n「站在岩石前方，\n連按Ａ鈕，\n就能敲打岩石！」\n「每塊岩石的硬度不同！\n有些很脆，\n有些卻很堅硬！」\n「哪塊岩石比較脆弱？\n用心判斷吧！\n那麼，開始吧！」"
+  }
+}

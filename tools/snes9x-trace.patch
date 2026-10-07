@@ -1,0 +1,76 @@
+diff --git a/cpuexec.cpp b/cpuexec.cpp
+index ae00a5f..3c450e8 100644
+--- a/cpuexec.cpp
++++ b/cpuexec.cpp
+@@ -176,6 +176,14 @@ void S9xMainLoop (void)
+ 					Opcodes = S9xOpcodesSlow;
+ 			}
+ 
++			if (Registers.PBPC == 0x80bcfa)
++			{
++				MomotaroTraceRead(Memory.ROM, Memory.RAM[0x72] | (Memory.RAM[0x73] << 8) | (Memory.RAM[0x74] << 16), 0);
++			}
++			if (Registers.PBPC == 0x80bd36)
++			{
++				MomotaroTraceRead(Memory.ROM, Memory.RAM[0x200 + ((Memory.RAM[0x75] - 1) & 255)], 0x80000001);
++			}
+ 			Registers.PCw++;
+ 			(*Opcodes[Op].S9xOpcode)();
+ 		}
+diff --git a/dma.cpp b/dma.cpp
+index e1ad324..84007f7 100644
+--- a/dma.cpp
++++ b/dma.cpp
+@@ -22,6 +22,23 @@ extern SPC7110	s7emu;
+ 
+ static uint8	sdd1_decode_buffer[0x10000];
+ 
++void MomotaroTraceRead(const uint8 *source, uint32 value, uint32 size)
++{
++	static FILE *trace = getenv("MOMOTARO_TRACE") ? fopen(getenv("MOMOTARO_TRACE"), "wb") : nullptr;
++	const uintptr_t offset = reinterpret_cast<uintptr_t>(source) - reinterpret_cast<uintptr_t>(Memory.ROM);
++	if (trace && offset < 0x200000)
++	{
++		const uint32 record[] = {Registers.PBPC, static_cast<uint32>(offset), value, size};
++		fwrite(record, sizeof(record), 1, trace);
++	}
++	const uintptr_t ramOffset = reinterpret_cast<uintptr_t>(source) - reinterpret_cast<uintptr_t>(Memory.RAM);
++	if (trace && ramOffset < 0x20000 && (Registers.PBPC == 0x80bd30 || Registers.PBPC == 0x849e59))
++	{
++		const uint32 record[] = {Registers.PBPC, static_cast<uint32>(0x7e0000 + ramOffset), value, size};
++		fwrite(record, sizeof(record), 1, trace);
++	}
++}
++
+ static inline bool8 addCyclesInDMA (uint8);
+ static inline bool8 HDMAReadLineCount (int);
+ 
+diff --git a/getset.h b/getset.h
+index ec55ea9..32f2e4c 100644
+--- a/getset.h
++++ b/getset.h
+@@ -35,6 +35,8 @@
+ 
+ extern uint8	OpenBus;
+ 
++void MomotaroTraceRead(const uint8 *source, uint32 value, uint32 size);
++
+ static inline int32 memory_speed (uint32 address)
+ {
+ 	if (address & 0x408000)
+@@ -64,6 +66,7 @@ inline uint8 S9xGetByte (uint32 Address)
+ 	if (GetAddress >= (uint8 *) CMemory::MAP_LAST)
+ 	{
+ 		byte = *(GetAddress + (Address & 0xffff));
++		MomotaroTraceRead(GetAddress + (Address & 0xffff), byte, 1);
+ 		addCyclesInMemoryAccess;
+ 		return (byte);
+ 	}
+@@ -193,6 +196,7 @@ inline uint16 S9xGetWord (uint32 Address, enum s9xwrap_t w = WRAP_NONE)
+ 	if (GetAddress >= (uint8 *) CMemory::MAP_LAST)
+ 	{
+ 		word = READ_WORD(GetAddress + (Address & 0xffff));
++		MomotaroTraceRead(GetAddress + (Address & 0xffff), word, 2);
+ 		addCyclesInMemoryAccess_x2;
+ 		return (word);
+ 	}

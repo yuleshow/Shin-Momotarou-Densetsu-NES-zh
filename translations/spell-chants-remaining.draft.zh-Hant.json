@@ -1,0 +1,41 @@
+{
+  "pointerOffset": "0x70027",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "spell-chants-remaining",
+  "decodedBytes": 678,
+  "complete": false,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "Select exactly the 27 untranslated nonempty records in the frozen v45 catalog. The 15 released chants and 52 original empty records must remain unchanged; do not count empty records as new translations.",
+    "Original glyphs and same-index technique names reviewed. Follow the established chant style, keeping spell distinctions and comic sound effects; semantic Chinese exclamations replace stretched Japanese syllables."
+  ],
+  "records": {
+    "5": "全體全體千丹啊啊啊！",
+    "6": "全體全體全體萬丹啊啊啊！",
+    "12": "大大波啊啊啊！",
+    "13": "海嘯啊啊啊！",
+    "18": "咻嚕嚕旋風啊啊啊！",
+    "19": "轟隆隆突風啊啊啊！",
+    "20": "咻咻咻烈風啊啊啊！",
+    "21": "翻騰的烈炎啊啊啊！",
+    "22": "紅蓮的火焰啊啊啊！",
+    "23": "爆裂火走啊啊啊！",
+    "27": "鹿角啊啊啊！",
+    "28": "奪取啊啊啊！",
+    "29": "搜刮啊啊啊！",
+    "30": "屁股露出來啊啊啊！啪！",
+    "31": "全露啊啊啊！",
+    "33": "倍力啊啊啊！",
+    "34": "守護啊啊啊！",
+    "35": "咻嚕嚕啊啊啊！",
+    "36": "醒醒啊啊啊！",
+    "37": "守望封魔啊啊啊！",
+    "41": "噗噗噗！",
+    "42": "軟綿綿啊啊啊！",
+    "44": "術啊停下來！",
+    "45": "術快來！快到這裡來！",
+    "48": "全體軟綿綿啊啊啊！",
+    "50": "哈啦呵囉嘻啦哈啦！",
+    "59": "那裡也全露出來啊啊啊！啪！"
+  }
+}

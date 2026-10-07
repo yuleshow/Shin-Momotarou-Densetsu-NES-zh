@@ -1,0 +1,23 @@
+{
+  "pointerOffset": "0x70189",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "kaguya-family-sword-clue",
+  "decodedBytes": 725,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All nine source records reviewed. Keep the village rescue, bereaved family, rusty sword and lunar reforging clues as separate event states.",
+    "Record 4 enlarged: 勇気の鏡, matching inventory 勇氣之鏡, not a flute or bell. Retain all dynamic hero-name positions in the entrusted-item dialogue."
+  ],
+  "records": {
+    "0": "「啊！[02a0]先生！\n村民們喊著要救輝夜，\n全都去了黃泉之塔……！」\n「您說勇氣之劍嗎……」\n\n\n「聽說飛到了，\n這村子附近，\n但我實在不知道在哪裡。」",
+    "1": "「是嗎……勇氣之劍，\n已經生鏽了嗎……」\n\n「要是我們，\n能再早一點，\n把它找出來的話……」",
+    "2": "「嗚嗚……！輝夜──！」\n\n\n「沒想到輝夜，\n竟是支撐大地的，\n如此偉大的公主……」\n「她是個個性活潑，\n到處都能見到的開朗孩子啊！\n輝夜──！嗚嗚……！」",
+    "3": "「[02a0]先生！\n您來了啊！」\n\n「輝夜託我給[02a0]先生，\n轉交一件東西！」\n\n「她說勇氣之劍若有意外，\n就把這個交給[02a0]先生！」\n",
+    "4": "「使用勇氣之鏡，\n應該就能找到勇氣之劍……\n輝夜是這麼說的！」",
+    "5": "「聽輝夜說過，\n可以在月上的某座村子，\n重新鍛造勇氣之劍。」\n「不知道確切地點，\n真是抱歉，[02a0]先生！」\n",
+    "6": "「輝夜──！輝夜──！\n妳只是回月亮的話，\n啊啊……還有回來的一天！」\n「像往常一樣，\n笑著回家吧！\n啊啊……！」",
+    "7": "竹取翁\n「輝夜！輝夜！」\n\n老奶奶\n「怎麼會這樣……\n一定很痛苦吧！嗚嗚……」",
+    "8": "阿闍世王子\n「老爺爺！老奶奶！」\n\n「請告訴我，\n輝夜姬誕生的，\n那片竹林在哪裡！」"
+  }
+}

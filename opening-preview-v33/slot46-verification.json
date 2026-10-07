@@ -1,0 +1,71 @@
+{
+  "targetSha256": "bc3f8dfc9ededf9961d3d6bac28e7fd84e83acb3a59e78bfafa20555848e6bb8",
+  "sourceSaveSha256": "10e33d3c48db8b6f6583c58914df00eb854533a1532623eaecde7e72db60e610",
+  "slot": 46,
+  "replayedFromUnmodifiedLocalSaveCopy": true,
+  "cheatsEnabled": false,
+  "yesBranch": "Chinese repeat prompt, complete six-page crystal explanation, then returns to field",
+  "noBranch": "Chinese mirror-location hint",
+  "captures": [
+    {
+      "branch": "yes",
+      "frame": 300,
+      "filename": "slot46-yes-300.png",
+      "sha256": "c97095ff8d5b7044c0ed31727a647515944218a75a8c4e30af9512c11274c1aa"
+    },
+    {
+      "branch": "yes",
+      "frame": 900,
+      "filename": "slot46-yes-900.png",
+      "sha256": "3c4fac46e38ac9a968f3d44668ed48cbfdf9e691bb8a328d6a4a2e217926b842"
+    },
+    {
+      "branch": "yes",
+      "frame": 2100,
+      "filename": "slot46-yes-2100.png",
+      "sha256": "753fd4ce395e9c45dbb2bb145fcf20616f6ba88830c366fbfa26a211b48afdf0"
+    },
+    {
+      "branch": "yes",
+      "frame": 3300,
+      "filename": "slot46-yes-3300.png",
+      "sha256": "5d13accb5ee880e3293d08da874ddd16dff0ca6176268158ad57aae509fb334a"
+    },
+    {
+      "branch": "yes",
+      "frame": 4500,
+      "filename": "slot46-yes-4500.png",
+      "sha256": "1cc6eafa6bcb383f8b826d818565c676c5f50ada16ff02f2f27d12a4c0d73251"
+    },
+    {
+      "branch": "yes",
+      "frame": 5700,
+      "filename": "slot46-yes-5700.png",
+      "sha256": "24e7da17aa6c729e5c3abb19e55b6e7bdb096d6078a29b1f4b138f3399097700"
+    },
+    {
+      "branch": "yes",
+      "frame": 6900,
+      "filename": "slot46-yes-6900.png",
+      "sha256": "6bbcb0ad186df749c71f433d13b4f73a3eef56d251804b609e180aeccc8f05d6"
+    },
+    {
+      "branch": "yes",
+      "frame": 8100,
+      "filename": "slot46-yes-8100.png",
+      "sha256": "3e87972a66e087226543369b6a758ce2b6b35cc55905bf52656df4dbadf81b18"
+    },
+    {
+      "branch": "no",
+      "frame": 900,
+      "filename": "slot46-no-900.png",
+      "sha256": "f27675460824acf18c99cbf2f2c236be54568773d5efc346b9bfee01f2f0259b"
+    }
+  ],
+  "visuallyReviewed": true,
+  "originalFirstTimeGreetingVerifiedBySyntheticReplayOnly": true,
+  "deviceSaveFilesUnchanged": 93,
+  "deviceRomUnchanged": true,
+  "reviewedDeviceScreenshotsUnchanged": 7,
+  "deviceWrites": false
+}

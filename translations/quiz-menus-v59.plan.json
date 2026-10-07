@@ -1,0 +1,9 @@
+{
+  "version": "v59",
+  "baseDirectory": "verification/castle-battle-v57",
+  "manifest": "translations/quiz-menus-v59.release.json",
+  "addedIndexedEntries": 0,
+  "status": "native-verified-scope-only-not-released",
+  "drafts": [],
+  "inlineMenuFiles": ["translations/quiz-menus.json"]
+}

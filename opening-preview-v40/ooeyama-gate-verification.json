@@ -1,0 +1,61 @@
+{
+  "status": "confirmed-missing-dog-in-slot72",
+  "targetSha256": "bdd11c37f3338a121972091e4a0725f0f3c6584c6aa46152b0b2f41d570123b1",
+  "saveSlot": 72,
+  "saveSha256": "d30794839754f145da8cd3fb40d10c59117863793286344b9b472eed37e36e21",
+  "partyWramOffset": "0x1569",
+  "partyIds": [1, 2, 3, 24, 25, 0, 0, 0, 0, 0],
+  "missingCompanion": {
+    "id": 23,
+    "name": "Pochi",
+    "kind": "dog"
+  },
+  "unmodifiedGameRefusesEntry": true,
+  "gateScriptMatchesJapaneseOriginal": {
+    "start": "0x0d00ef",
+    "endExclusive": "0x0d0190"
+  },
+  "conditionInterpreterMatchesJapaneseOriginal": {
+    "start": "0x048bf0",
+    "endExclusive": "0x048d60"
+  },
+  "localProbe": {
+    "method": "Replace only the dog-presence operand with the already-present monkey identifier; recompute ROM header checksum.",
+    "operandOffset": "0x0d0111",
+    "originalOperand": 23,
+    "testOperand": 24,
+    "originalContextHex": "170817e7",
+    "gateOpens": true,
+    "successDialogueVisuallyReviewed": true,
+    "comparisonImage": "ooeyama-gate-comparison.png",
+    "installedOnDevice": false,
+    "saveStatePatched": false
+  },
+  "normalGameplayNextStep": {
+    "location": "Hanasaka village, in front of the shrine",
+    "action": "Talk to Pochi and agree to give him one kibi dango; return to Ooeyama with him following the party.",
+    "dialogueSource": "translations/hanasaka-village.draft.zh-Hant.json",
+    "dialogueRecords": [32, 33, 34, 35],
+    "routeReference": "https://tvgamedb.com/snec/shinmomoden/kouryaku-1/",
+    "recruitmentReplayedFromSlot72": false
+  },
+  "followUpSlot73": {
+    "saveSha256": "b6eb25cfc4a98b009b134be54a00466e6f4c6eab2fb68b9b3f6166eebf8ec8f4",
+    "savedLocation": "Inside the Hanasaka shrine",
+    "outsideShrineDogAbsent": true,
+    "activeVillagerDialogue": {
+      "source": "translations/hanasaka-village.draft.zh-Hant.json",
+      "index": 17,
+      "meaning": "Without cherry blossoms, this village cannot survive; what will happen to us?",
+      "image": "hanasaka-slot73-pre-rescue.png"
+    },
+    "villageRestorationNotCompleted": true,
+    "nextStep": "Complete the Hanasaka grandfather rescue and cherry-blossom restoration events, then recruit Pochi with one kibi dango.",
+    "bossDefeatFlagDecoded": false,
+    "rescueRouteReplayedToCompletion": false,
+    "deviceSaveWritten": false
+  },
+  "deviceRomWritten": false,
+  "deviceSavesWritten": false,
+  "deviceCheatsWritten": false
+}

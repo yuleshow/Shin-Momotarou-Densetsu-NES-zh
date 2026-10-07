@@ -1,0 +1,32 @@
+{
+  "version": "v42-sumo-fix",
+  "status": "deployed-rom-readback-and-protected-files-verified",
+  "targetSha256": "598c791126d88360435c4c37e5d3c06b8902a1f95d8ded12add8b5d8596c604a",
+  "previousSha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+  "devicePath": "/Volumes/share/roms/snes/Shin Momotarou Densetsu (Traditional Chinese).sfc",
+  "backupDirectory": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/opening-preview-v42-sumo-fix/deployment-backup",
+  "stagedPath": "/Volumes/share/roms/snes/.momotaro-v42-sumo-fix-ec694ed9-4394-4dcb-aea6-2e288bf26df4.tmp",
+  "savesWrittenOrRestored": false,
+  "cheatsWritten": false,
+  "screenshotsDeleted": 0,
+  "physicalDeviceBootVerified": false,
+  "fullReadbackVerified": true,
+  "finalDeviceSha256": "598c791126d88360435c4c37e5d3c06b8902a1f95d8ded12add8b5d8596c604a",
+  "bytes": 4194304,
+  "completedAt": "2026-10-03T06:45:21.006Z",
+  "unchangedSaveFiles": 205,
+  "unchangedScreenshots": 52,
+  "screenshotEntriesUnchanged": true,
+  "unchangedCheatFiles": [
+    {
+      "filename": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "sha256": "24da9008fd058c9395dd61b2a7a2e6489c238fad2f10e39a7aba272b61c6288f"
+    },
+    {
+      "filename": "/Volumes/share/cheats/cht/0QuickLoad/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "sha256": "6ced06173dc407187c19f2c3d68e374beacf8a04e8ce4320533d0cc7b6724a7e"
+    }
+  ],
+  "relatedRomCount": 1,
+  "backupReadbackVerified": true
+}

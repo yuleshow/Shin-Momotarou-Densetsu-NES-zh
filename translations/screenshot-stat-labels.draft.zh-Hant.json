@@ -1,0 +1,18 @@
+{
+  "name": "screenshot-stat-labels",
+  "pointerOffset": "0x70003",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "sourceType": 0,
+  "complete": false,
+  "records": {
+    "12": "攻擊力",
+    "13": "防禦力",
+    "14": "速度"
+  },
+  "sourceRecords": {
+    "12": { "offset": "0x70522", "originalHex": "1a181a191816", "source": "攻撃力" },
+    "13": { "offset": "0x70529", "originalHex": "1a1b18201816", "source": "守備力" },
+    "14": { "offset": "0x70530", "originalHex": "a9b39a", "source": "はやさ" }
+  },
+  "note": "Dynamic stat-name references used by the generic battle decrease message. Translate the referenced labels as well as its surrounding sentence; preserve the indexed record numbers and player-saved actor names."
+}

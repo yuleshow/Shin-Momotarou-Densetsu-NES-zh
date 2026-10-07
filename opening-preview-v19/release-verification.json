@@ -1,0 +1,62 @@
+{
+  "version": "v19",
+  "status": "deployed-and-readback-verified",
+  "targetSha256": "9a7552fd7bbf488ec3a16bcaf3e50e3b2834314c33f1823935bddfb175c0ab89",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV18": 43,
+  "addedIndexedRecordsThisBatch": 27,
+  "glyphs": 1471,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 971,
+    "untranslatedRecords": 6817,
+    "emptyRecords": 82
+  },
+  "translatedScope": [
+    "Teacher enemy name and fifteen training taunts",
+    "Four enemy-count labels",
+    "Compact HP label: 血",
+    "Fourteen cave NPC records",
+    "Four cave-entrance records",
+    "Four offering-event records",
+    "Teacher location name",
+    "Search and empty-search messages",
+    "Both full-recovery message records"
+  ],
+  "verification": {
+    "dialogueScenes": 34,
+    "exactDialogueWords": 80,
+    "dialogueSuitePartial": true,
+    "fullMenuSuitePassed": true,
+    "nativeSearchPassed": true,
+    "localSlot15ConversationPassed": true,
+    "actorDataMatchesOriginal": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true
+  },
+  "slot15": {
+    "deviceContainerSha256": "5373641096b2efcb68cbdb25868fc694836bd68318d7d5b58d5e7cb8678aa66b",
+    "localCoreSha256": "050c9ca178db51737d3d55e5eff51e6333177c02aeb3685693f09713e128a2cd",
+    "deviceSaveWrittenOrRestored": false
+  },
+  "device": {
+    "deployed": true,
+    "lastVerifiedVersion": "v19",
+    "fullReadbackVerified": true,
+    "deploymentReport": "deployment-verification.json",
+    "screenshotsDeleted": 23,
+    "remainingRelatedScreenshots": 0,
+    "unchangedSaveFiles": 31,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Full playthrough",
+    "Physical device boot",
+    "Actual training-battle completion",
+    "Complete offering-event route and rewards",
+    "Every cave NPC through natural gameplay"
+  ]
+}

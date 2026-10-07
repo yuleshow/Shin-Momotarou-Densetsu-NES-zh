@@ -1,0 +1,60 @@
+{
+  "version": "v36",
+  "status": "locally-verified-not-deployed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "c6f789cdcc11fab6e0dda249bd1599d69cdfa143f40c0c6806eb4142c06d5708",
+  "addedIndexedRecordsSinceV35": 22,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 2791,
+    "untranslatedRecords": 4997,
+    "emptyRecords": 82
+  },
+  "glyphs": 1968,
+  "glyphCapacity": 2112,
+  "previousTranslationsPreserved": true,
+  "fieldRecordsTranslated": 50,
+  "fieldRecordsTotal": 192,
+  "stagedCompanionRecordsNotIncludedInRom": 69,
+  "relocatedBlocks": [
+    "field-messages",
+    "ooeyama-puzzles"
+  ],
+  "verification": {
+    "nativeDialogueScenes": 128,
+    "exactWords": 261,
+    "originalRelocationFramesIdentical": true,
+    "previewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNameRegressionsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "allSixScreenshotsMapped": true
+  },
+  "device": {
+    "deployed": false,
+    "lastVerifiedVersion": "v33",
+    "sha256": "bc3f8dfc9ededf9961d3d6bac28e7fd84e83acb3a59e78bfafa20555848e6bb8",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "All prior dialogue suites on this exact hash",
+    "Natural companion feeding and event progression",
+    "All dynamic name and item values in synthetic probes",
+    "Cause of Japanese text already translated in installed v33"
+  ],
+  "remainingJapanese": [
+    "Untranslated dialogue and interface text",
+    "Companion default and saved names",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph"
+  ]
+}

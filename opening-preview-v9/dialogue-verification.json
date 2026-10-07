@@ -1,0 +1,148 @@
+{
+  "targetSha256": "55cb219f24b9a4dadca8b4ec65750e30c016374dd75021ca6ebd5b1572f72a5d",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "moon-challenge-dialogue",
+      "firstIndex": 0,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "鬼神": {
+          "frame": "frame-2040.ppm",
+          "x": 134,
+          "y": 96
+        },
+        "達伊達": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "輝夜姬": {
+          "frame": "frame-4620.ppm",
+          "x": 58,
+          "y": 152
+        },
+        "鳳凰": {
+          "frame": "frame-12120.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "awakening-dialogue",
+      "firstIndex": 0,
+      "frames": 12000,
+      "changedFrames": 184,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "奶奶": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "振作一點": {
+          "frame": "frame-1140.ppm",
+          "x": 98,
+          "y": 96
+        },
+        "爺爺": {
+          "frame": "frame-1680.ppm",
+          "x": 64,
+          "y": 152
+        },
+        "銀次": {
+          "frame": "frame-3540.ppm",
+          "x": 40,
+          "y": 152
+        },
+        "天之仙人": {
+          "frame": "frame-6420.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "愛與勇氣": {
+          "frame": "frame-8520.ppm",
+          "x": 134,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-challenge-dialogue",
+      "firstIndex": 13,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "靜村": {
+          "frame": "frame-3060.ppm",
+          "x": 16,
+          "y": 168
+        },
+        "夢村": {
+          "frame": "frame-3060.ppm",
+          "x": 76,
+          "y": 168
+        },
+        "珍寶": {
+          "frame": "frame-3660.ppm",
+          "x": 76,
+          "y": 184
+        },
+        "龍宮城": {
+          "frame": "frame-4440.ppm",
+          "x": 16,
+          "y": 168
+        },
+        "乙姬": {
+          "frame": "frame-4440.ppm",
+          "x": 64,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "awakening-dialogue",
+      "firstIndex": 12,
+      "frames": 14400,
+      "changedFrames": 223,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "愛與勇氣": {
+          "frame": "frame-1140.ppm",
+          "x": 110,
+          "y": 96
+        },
+        "旅途中": {
+          "frame": "frame-3180.ppm",
+          "x": 52,
+          "y": 184
+        },
+        "銀次加入了隊伍": {
+          "frame": "frame-4620.ppm",
+          "x": 16,
+          "y": 176
+        },
+        "三天": {
+          "frame": "frame-6480.ppm",
+          "x": 82,
+          "y": 168
+        },
+        "平安無事": {
+          "frame": "frame-7200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    }
+  ]
+}

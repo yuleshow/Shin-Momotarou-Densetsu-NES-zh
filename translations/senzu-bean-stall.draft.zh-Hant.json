@@ -1,0 +1,17 @@
+{
+  "pointerOffset": "0x700b4",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "senzu-bean-stall",
+  "decodedBytes": 212,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All three original glyph records reviewed; the product is 仙豆, not rice crackers.",
+    "Retain the speed, constitution and 神仙鄉 claims without changing item effects."
+  ],
+  "records": {
+    "0": "「仙豆對身體很有用喔！\n我吃了以後速度提升，\n跑起來都變快了呢！」",
+    "1": "「我家孩子身體虛弱，\n吃了這家店的仙豆後，\n體力就變好了呢！」",
+    "2": "「來喔！來喔！\n這是從遙遠的神仙鄉，\n流傳下來的神奇仙豆！」\n「只有本店才買得到喔！\n這可是非常珍貴的商品！\n不買一定會後悔喔！」"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "pointerOffset": "0x70150",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hope-capital-temple",
+  "decodedBytes": 351,
+  "complete": true,
+  "status": "native-verified-v45",
+  "reviewNotes": [
+    "All 6 records visually reviewed against original-ROM glyph renders and checked against source bytes. Draft only; no ROM or manifest changes.",
+    "The source temple name is written in kana as しょじょ寺. 證城寺 is a consistent provisional Traditional Chinese rendering shared with taketori-refugees, not a verified kanji equivalence.",
+    "水アメ is rendered 麥芽糖. Preserve the gift/refusal branches and the residents' concern about destroying thousand-year-old houses."
+  ],
+  "records": {
+    "0": "「老衲是證城寺的，\n和尚呀！\n啊──！好想吃麥芽糖呀！」",
+    "1": "「喔！喔！你右手，\n拿著的不是老衲，\n最愛吃的麥芽糖嗎？」\n「能不能把那，\n黏稠又甜滋滋的麥芽糖，\n分給老衲一點呢──？」",
+    "2": "「小氣鬼可活不長喔！\n南無阿彌陀佛！阿彌陀佛！」\n",
+    "3": "「喔！真是太高興了！\n這個就當作回禮，\n請你收下吧！」",
+    "4": "「都裡有很多，\n已經超過一千年的老屋呢！\n鬼族卻想把它們全部燒掉！」\n「新的東西就一定好嗎？\n舊的東西就不需要了嗎？」\n",
+    "5": "「我很擔心，往後會不會，\n出現幫鬼族做事的人，\n真讓人不安啊。」"
+  }
+}

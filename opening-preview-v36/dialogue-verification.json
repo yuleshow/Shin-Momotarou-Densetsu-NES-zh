@@ -1,0 +1,2470 @@
+{
+  "targetSha256": "c6f789cdcc11fab6e0dda249bd1599d69cdfa143f40c0c6806eb4142c06d5708",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "urashima-aging",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊和防禦": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "格外小心": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復原狀": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "真辛苦": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "大江山十分險峻": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "多爬幾次": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "老夫還老": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "來接你的海龜": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "龍宮城": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飛燕之術": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "北邊的橋": {
+          "frame": "frame-1380.ppm",
+          "x": 140,
+          "y": 104
+        },
+        "半島的盡頭": {
+          "frame": "frame-1500.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "白髮蒼蒼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 7,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "變年輕了": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "養老瀑布": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 8,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "很吃力": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "黍糰上路": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "當成累贅": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 10,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "養老瀑布的水": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "送水過去": {
+          "frame": "frame-1500.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 11,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不太對勁": {
+          "frame": "frame-1380.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "這個給你": {
+          "frame": "frame-1500.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "與月亮有關": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "祕密": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "去過月亮": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 14,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "送瀑布水": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "使喚別人": {
+          "frame": "frame-1680.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 15,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "魚叉": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "連續攻擊兩次": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 16,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "救了乙姬": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        },
+        "趁新鮮": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 17,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "靠捕魚維生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "守護這片大海": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 18,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "源頭": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "滑溜溜": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "老人家": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 19,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "是親戚": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "襲擊龍宮城": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 20,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "浦島回來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "撐不住": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 21,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "勇氣": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "可不敢上戰場": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 22,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "代表我們村": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 23,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "全村的人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "掛心": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 24,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "三隻鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "養老瀑布": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 25,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "往返地面": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "那條路": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "和月亮相通": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 27,
+      "frames": 6000,
+      "changedFrames": 84,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "赤松葉": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "煎煮成茶": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 28,
+      "frames": 4200,
+      "changedFrames": 52,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有任何效果": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "還是不行": {
+          "frame": "frame-1260.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 29,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "長翅膀的鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "好東西": {
+          "frame": "frame-1440.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 30,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "改過自新": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "部下的刀": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "裝作沒事": {
+          "frame": "frame-1500.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 31,
+      "frames": 6000,
+      "changedFrames": 84,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "南瓜": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "十到十五年": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 104
+        },
+        "老化": {
+          "frame": "frame-1440.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 32,
+      "frames": 4200,
+      "changedFrames": 52,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有任何效果": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "還是不行": {
+          "frame": "frame-1260.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 33,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乙姬大人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "海邊": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 34,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最珍貴的寶物": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 35,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "再拿起刀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "早點到來": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 36,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一視同仁": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "閻魔大人": {
+          "frame": "frame-1500.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 37,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "仰慕浦島": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 38,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "胡作非為": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "一直欺騙大家": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 39,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "騙得團團轉": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 40,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "搬到這個村子": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "心曠神怡": {
+          "frame": "frame-1440.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 41,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "太害怕": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "不敢說出口": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 42,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "找到好東西": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 43,
+      "frames": 10200,
+      "changedFrames": 154,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "玉手箱": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "鬼族卻不會": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "陪本大爺玩玩": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "老人": {
+          "frame": "frame-1800.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 44,
+      "frames": 1620,
+      "changedFrames": 5,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一行人": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 45,
+      "frames": 6600,
+      "changedFrames": 91,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "煙霧籠罩": {
+          "frame": "frame-1560.ppm",
+          "x": 76,
+          "y": 152
+        },
+        "老爺爺": {
+          "frame": "frame-1620.ppm",
+          "x": 64,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 46,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "煙霧籠罩": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "老爺爺": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "上山砍柴": {
+          "frame": "frame-1440.ppm",
+          "x": 68,
+          "y": 104
+        },
+        "回春之泉": {
+          "frame": "frame-1740.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 47,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怪鬼": {
+          "frame": "frame-1380.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "魅鬼": {
+          "frame": "frame-1380.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "魃鬼三兄弟": {
+          "frame": "frame-1440.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "瀑布弄乾": {
+          "frame": "frame-1500.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "恢復年輕": {
+          "frame": "frame-1800.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "過活": {
+          "frame": "frame-2040.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 48,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不服老爺爺": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "沖水": {
+          "frame": "frame-1320.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 49,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "平安順利": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "澆上": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 50,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨時都可以來": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 51,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "恢復生機": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "出海討生活": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "沖一沖": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 52,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "部下們來了": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "登月之路": {
+          "frame": "frame-1500.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "我在海邊等你": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 53,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "出發去龍宮城": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "urashima-aging",
+      "firstIndex": 54,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "隨時來找我": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "老夫是天之仙人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "有件事要告訴你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 1,
+      "frames": 13800,
+      "changedFrames": 212,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之水晶": {
+          "frame": "frame-1080.ppm",
+          "x": 140,
+          "y": 80
+        },
+        "八顆": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "也就是": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "新月": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "三日月": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "上弦": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "下弦": {
+          "frame": "frame-1860.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "臥待": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "居待": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "十六夜": {
+          "frame": "frame-2100.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "滿月": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鬼族都不知道的力量": {
+          "frame": "frame-2520.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還想再聽一次": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "月之水晶": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一面鏡子": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "八顆水晶的所在": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "變成老爺爺": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "比我還慢": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這個給你": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "討伐惡鬼要加油": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 7,
+      "frames": 4200,
+      "changedFrames": 53,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腰痛得很": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "瀑布竟然停了": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "其他村的人": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 8,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "武器也弱": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "認真努力": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "討伐惡鬼結束": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "什麼都別說": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "帶上吧": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒有": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "祈求你們平安": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "moon-crystal-guidance",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "神明": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "救出都城": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 0,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼族設下的陷阱": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "三個人與三隻夥伴": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "平安穿越大江山": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "通往二樓": {
+          "frame": "frame-1980.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 1,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只能幫到這裡": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "保佑你們平安": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 2,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "尚未完成的事情": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "切莫心急": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "再回到這裡": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 3,
+      "frames": 23400,
+      "changedFrames": 374,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "當作敵人對待": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "連小孩都會玩": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就會出現新的樓梯": {
+          "frame": "frame-2460.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "配對文字": {
+          "frame": "frame-3000.ppm",
+          "x": 128,
+          "y": 112
+        },
+        "翻開兩塊石板": {
+          "frame": "frame-3240.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "還想再聽一次": {
+          "frame": "frame-3660.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 4,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "我們之間的較量": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "愚蠢的生物": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 5,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "還在逞強": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "都不會告訴你": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 6,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了石板": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "配對相同的文字": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "消除所有石板": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 7,
+      "frames": 11400,
+      "changedFrames": 174,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "小試身手": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "龍勝虎": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 88
+        },
+        "虎勝龜": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "龜勝龍": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "還想知道更多": {
+          "frame": "frame-2280.ppm",
+          "x": 44,
+          "y": 104
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "誰要告訴你": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "乖乖回答想知道": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "ooeyama-puzzles",
+      "firstIndex": 10,
+      "frames": 13800,
+      "changedFrames": 214,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍為水": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "龜為風": {
+          "frame": "frame-1560.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "火能喚起風": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "風能聚集水": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "逐一移動藍色石板": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 24,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "交給了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 25,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪汪": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是太好吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 26,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "汪汪": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "剛才吃得好滿足": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 27,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱吱": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是太好吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 28,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吱吱": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "剛才吃得好滿足": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 29,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啾啾": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真是太好吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 30,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啾啾": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "剛才吃得好滿足": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 31,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好吃得快融化了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 32,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好吃得停不下來": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 33,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "滋味真是高雅極了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 34,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "剛才給誰了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 35,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "提升了一點": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "變為": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 36,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "學會了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 37,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "已達到最高值": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "無法再提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 38,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "能長大到今天": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "一直細心養育": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "賜給你吧": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 39,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "已經無法再提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 40,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "並沒有帶": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "同行": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 41,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣低於三十": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "已經不肯吃了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 42,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣低於三十": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "不肯聽從指示了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 43,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "先生的壞話": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "不想聽你的命令": {
+          "frame": "frame-1200.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 44,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "充滿愛與勇氣": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "跑到哪裡去了": {
+          "frame": "frame-1200.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 45,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最近是不是忘了": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "討伐惡鬼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 61,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的人氣提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 62,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣達到一百": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "崑崙之玉": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "不能再提升": {
+          "frame": "frame-1440.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 63,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "超過八十": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "好事發生": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的人氣下降了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 65,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "降到三十以下": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "快去做好事": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 66,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的人氣變為": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 76,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "狗兒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入了隊伍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 77,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "猴子": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入了隊伍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 78,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "雉雞": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入了隊伍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 122,
+      "frames": 6600,
+      "changedFrames": 94,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "有了夥伴": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "攻擊力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "防禦力提升了": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "速度提升了": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 53,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "進入了絕佳狀態": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 67,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發現背包": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        },
+        "已經裝滿了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 68,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要丟棄背包裡的道具嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 69,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要丟棄誰的背包裡的道具": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 70,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "放棄了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 71,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不能丟棄": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 72,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "丟棄了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "得到了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 73,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "得到了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 74,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "要丟棄": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "確定嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 0,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "升到了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "體力變為": {
+          "frame": "frame-1260.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "升到了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "技力變為": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "防禦力提升了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "速度提升了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 56,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了眼前": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "field-messages",
+    "ooeyama-puzzles",
+    "moon-crystal-guidance",
+    "urashima-aging"
+  ]
+}

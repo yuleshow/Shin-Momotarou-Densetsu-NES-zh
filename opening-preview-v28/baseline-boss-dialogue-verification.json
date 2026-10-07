@@ -1,0 +1,347 @@
+{
+  "targetSha256": "6c97b5cb918fd3efe0ef0b6e962cee21af377a4f200fbd234dab33b01e019e12",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "發動攻擊": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 2,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鋼鐵身軀": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "打擊加倍反彈": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼道吸收術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "被吸走了一半": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 5,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "縮小了": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "攻擊力恢復原狀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "防禦力恢復原狀": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 6,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "熊熊怒火": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 7,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力變成兩倍": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "防禦力變成兩倍": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 8,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出蜘蛛絲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "武器": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "黏稠的蜘蛛絲纏住了": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從口中吐出蜘蛛絲": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "耀眼的光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "詭異的光芒": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 13,
+      "frames": 3000,
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "互相交換了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 14,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鬼道解咒術": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 214,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "本大爺": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "實力相差太遠了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要施展哪種術": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就讓你來選吧": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 215,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "選的是": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "接招吧": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 225,
+      "frames": 14400,
+      "changedFrames": 224,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "伐折羅王": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "吸走了": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "達伊達": {
+          "frame": "frame-2520.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "擊飛了": {
+          "frame": "frame-3300.ppm",
+          "x": 28,
+          "y": 168
+        },
+        "阿闍世": {
+          "frame": "frame-6720.ppm",
+          "x": 16,
+          "y": 152
+        },
+        "夜叉姬": {
+          "frame": "frame-7560.ppm",
+          "x": 16,
+          "y": 152
+        }
+      }
+    },
+    {
+      "name": "boss-battle-dialogue",
+      "firstIndex": 236,
+      "frames": 7800,
+      "changedFrames": 114,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "風神": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "閻魔大人": {
+          "frame": "frame-1920.ppm",
+          "x": 38,
+          "y": 112
+        },
+        "同伴關係": {
+          "frame": "frame-2700.ppm",
+          "x": 92,
+          "y": 96
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "boss-battle-dialogue"
+  ]
+}

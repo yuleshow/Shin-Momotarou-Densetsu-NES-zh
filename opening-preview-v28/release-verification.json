@@ -1,0 +1,65 @@
+{
+  "version": "v28",
+  "status": "deployed-readback-verified-screenshots-removed",
+  "targetSha256": "7b25d20e6192297155fcc3f69e7971b790fbbcb02ad0cd4e6bd4a8c5c5f6e09f",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "glyphs": 1698,
+  "glyphCapacity": 2112,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 1730,
+    "untranslatedRecords": 6058,
+    "emptyRecords": 82
+  },
+  "usableItemNames": 142,
+  "usableEquipmentNames": 166,
+  "itemDescriptions": 204,
+  "equipmentEffects": 37,
+  "verification": {
+    "fullMenuSuitePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "bossRuntimeBaselineSha256": "6c97b5cb918fd3efe0ef0b6e962cee21af377a4f200fbd234dab33b01e019e12",
+    "bossScenes": 18,
+    "nonWelcomeRomBytesIdentical": true,
+    "descriptionChecks": [
+      {
+        "name": "item-descriptions",
+        "records": 204,
+        "textControlsAndGlyphPixelsIdentical": true,
+        "priorRuntimeSha256": "6a40aaedc924ec37d135d6a74358803771e88aaca91199b593c32857afb56ad6"
+      },
+      {
+        "name": "equipment-effects",
+        "records": 37,
+        "textControlsAndGlyphPixelsIdentical": true,
+        "priorRuntimeSha256": "6a40aaedc924ec37d135d6a74358803771e88aaca91199b593c32857afb56ad6"
+      }
+    ],
+    "allDescriptionsRerunOnExactReleaseHash": false
+  },
+  "remainingJapanese": [
+    "Five dialogue screenshots taken at 151025 through 151609",
+    "Shop 薬を作る",
+    "Top-level storage お金/やめる",
+    "Other untranslated game text"
+  ],
+  "notVerified": [
+    "Full playthrough",
+    "Physical device boot",
+    "Every natural item effect",
+    "Spell-choice activation callbacks",
+    "Actual dynamic plural-suffix path"
+  ],
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v28",
+    "sha256": "7b25d20e6192297155fcc3f69e7971b790fbbcb02ad0cd4e6bd4a8c5c5f6e09f",
+    "screenshotsDeleted": 14,
+    "savesWritten": false,
+    "deploymentReport": "deployment-verification.json"
+  }
+}

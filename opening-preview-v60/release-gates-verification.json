@@ -1,0 +1,416 @@
+{
+  "targetSha256": "1adb065eab4c8782817c59177316eae3f7442a61efbefc5fc9e9e9535bff0762",
+  "status": "passed",
+  "jobs": [
+    {
+      "name": "baseline",
+      "status": "passed",
+      "args": [
+        "tools/build-menu-patch.mjs",
+        "build",
+        "/tmp/momotaro-NotoSansCJKtc-Regular.otf",
+        "/tmp/momotaro-v60-release-baseline",
+        "translations/opening.zh-Hant.json"
+      ],
+      "environment": {},
+      "started": "2026-10-06T18:17:40.775Z",
+      "finished": "2026-10-06T18:18:23.682Z"
+    },
+    {
+      "name": "control",
+      "status": "passed",
+      "args": [
+        "tools/build-menu-patch.mjs",
+        "build-roundtrip",
+        "/tmp/momotaro-NotoSansCJKtc-Regular.otf",
+        "/tmp/momotaro-v60-release-control",
+        "translations/opening.zh-Hant.json"
+      ],
+      "environment": {},
+      "started": "2026-10-06T18:59:57.346Z",
+      "finished": "2026-10-06T19:00:26.224Z"
+    },
+    {
+      "name": "font-final",
+      "status": "passed",
+      "args": [
+        "tools/verify-font-dispatch.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-font-final"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:00:26.225Z",
+      "finished": "2026-10-06T19:00:47.911Z"
+    },
+    {
+      "name": "menu",
+      "status": "passed",
+      "args": [
+        "tools/verify-menu.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-menu",
+        "/tmp/momotaro-v60-release-control",
+        "/tmp/momotaro-v60-release-fixtures/slot7.bin",
+        "/tmp/momotaro-v60-release-fixtures/slot15.bin"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:00:47.912Z",
+      "finished": "2026-10-06T19:02:24.286Z"
+    },
+    {
+      "name": "sumo",
+      "status": "passed",
+      "args": [
+        "tools/verify-menu.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-sumo",
+        "/tmp/momotaro-v60-release-control"
+      ],
+      "environment": {
+        "MOMOTARO_SUMO_STATE": "/tmp/momotaro-v60-sumo-fixture-v2/ready/state.bin",
+        "MOMOTARO_SUMO_BROKEN_ROM": "opening-preview-v42-sumo-fix/deployment-backup/previous-v42.sfc"
+      },
+      "started": "2026-10-06T19:05:30.801Z",
+      "finished": "2026-10-06T19:05:38.015Z"
+    },
+    {
+      "name": "welcome",
+      "status": "passed",
+      "args": [
+        "tools/verify-welcome.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-baseline",
+        "/tmp/momotaro-v60-release-welcome"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:05:38.015Z",
+      "finished": "2026-10-06T19:05:40.328Z"
+    },
+    {
+      "name": "battle",
+      "status": "passed",
+      "args": [
+        "tools/verify-battle-status.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "opening-preview-v47",
+        "/tmp/momotaro-v60-release-fixtures/slot18.bin",
+        "/tmp/momotaro-v60-release-battle"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:05:40.328Z",
+      "finished": "2026-10-06T19:06:06.841Z"
+    },
+    {
+      "name": "screenshot-labels",
+      "status": "passed",
+      "args": [
+        "tools/verify-chart-labels.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "opening-preview-v48",
+        "verification/followup-v51/chart-input-state.bin",
+        "/tmp/momotaro-v60-release-screenshot-labels"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:06:06.842Z",
+      "finished": "2026-10-06T19:06:09.691Z"
+    },
+    {
+      "name": "animal-names",
+      "status": "passed",
+      "args": [
+        "tools/verify-chart-labels.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "verification/residual-v55",
+        "verification/followup-v51/chart-input-state.bin",
+        "/tmp/momotaro-v60-release-animal-names",
+        "--pochi"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:06:09.691Z",
+      "finished": "2026-10-06T19:06:13.934Z"
+    },
+    {
+      "name": "field",
+      "status": "passed",
+      "args": [
+        "tools/verify-field-menu-labels.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "verification/screenshots-v52",
+        "verification/field-menu-v53/fixture.bin",
+        "/tmp/momotaro-v60-release-field"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:06:13.934Z",
+      "finished": "2026-10-06T19:06:18.880Z"
+    },
+    {
+      "name": "formation",
+      "status": "passed",
+      "args": [
+        "tools/verify-field-menu-labels.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "verification/field-menu-v53",
+        "verification/field-menu-v53/fixture.bin",
+        "/tmp/momotaro-v60-release-formation",
+        "--formation"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:06:18.880Z",
+      "finished": "2026-10-06T19:06:23.533Z"
+    },
+    {
+      "name": "injury",
+      "status": "passed",
+      "args": [
+        "tools/verify-field-menu-labels.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "verification/formation-menu-v54",
+        "verification/residual-v55/fixture.bin",
+        "/tmp/momotaro-v60-release-injury",
+        "--injury"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:06:23.533Z",
+      "finished": "2026-10-06T19:06:25.938Z"
+    },
+    {
+      "name": "dictionary-reference",
+      "status": "passed",
+      "args": [
+        "tools/verify-dialogue.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-dictionary-reference"
+      ],
+      "environment": {
+        "MOMOTARO_DIALOGUE_PLAN": "translations/release-v60.plan.json",
+        "MOMOTARO_DIALOGUE_DICTIONARY_REFERENCE": "1",
+        "MOMOTARO_DIALOGUE_BLOCKS": "shared-dictionary-remaining",
+        "MOMOTARO_DIALOGUE_INDEX": "39",
+        "MOMOTARO_DIALOGUE_CLEANUP": "1"
+      },
+      "started": "2026-10-06T19:07:20.607Z",
+      "finished": "2026-10-06T19:07:27.703Z"
+    },
+    {
+      "name": "tests",
+      "status": "passed",
+      "args": [
+        "--test",
+        "tests/battle-status.test.mjs",
+        "tests/chart-labels.test.mjs",
+        "tests/deploy-release.test.mjs",
+        "tests/font-dispatch.test.mjs",
+        "tests/glyph-alignment.test.mjs",
+        "tests/inline-text.test.mjs",
+        "tests/text-draft.test.mjs",
+        "tools/screenshot-dialogue-cases.test.mjs"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:07:27.704Z",
+      "finished": "2026-10-06T19:07:30.594Z"
+    },
+    {
+      "name": "rom-codec",
+      "status": "passed",
+      "args": [
+        "tools/inspect-rom.mjs",
+        "self-test"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:07:30.595Z",
+      "finished": "2026-10-06T19:07:30.652Z"
+    },
+    {
+      "name": "font-codec",
+      "status": "passed",
+      "args": [
+        "tools/font-codec.mjs",
+        "verify"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:07:30.652Z",
+      "finished": "2026-10-06T19:07:30.704Z"
+    },
+    {
+      "name": "text-codec",
+      "status": "passed",
+      "args": [
+        "tools/text-codec.mjs",
+        "self-test"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:07:30.705Z",
+      "finished": "2026-10-06T19:07:30.761Z"
+    },
+    {
+      "name": "lz-fixtures",
+      "status": "passed",
+      "args": [
+        "tools/text-codec.mjs",
+        "verify-fixtures",
+        "tests/lz-runtime.json"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:07:30.761Z",
+      "finished": "2026-10-06T19:07:30.818Z"
+    },
+    {
+      "name": "catalog",
+      "status": "passed",
+      "args": [
+        "tools/text-catalog.mjs",
+        "self-test"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:07:30.819Z",
+      "finished": "2026-10-06T19:07:30.872Z"
+    },
+    {
+      "name": "builder",
+      "status": "passed",
+      "args": [
+        "tools/build-menu-patch.mjs",
+        "self-test"
+      ],
+      "environment": {},
+      "started": "2026-10-06T19:07:30.872Z",
+      "finished": "2026-10-06T19:07:30.954Z"
+    },
+    {
+      "name": "dialogue-0",
+      "status": "passed",
+      "args": [
+        "tools/verify-dialogue.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-dialogue-0"
+      ],
+      "environment": {
+        "MOMOTARO_DIALOGUE_PLAN": "translations/release-v60.plan.json",
+        "MOMOTARO_DIALOGUE_SHARD": "0/3",
+        "MOMOTARO_DIALOGUE_CLEANUP": "1"
+      },
+      "started": "2026-10-06T19:07:30.955Z",
+      "finished": "2026-10-06T19:11:11.307Z"
+    },
+    {
+      "name": "dialogue-1",
+      "status": "passed",
+      "args": [
+        "tools/verify-dialogue.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-dialogue-1"
+      ],
+      "environment": {
+        "MOMOTARO_DIALOGUE_PLAN": "translations/release-v60.plan.json",
+        "MOMOTARO_DIALOGUE_SHARD": "1/3",
+        "MOMOTARO_DIALOGUE_CLEANUP": "1"
+      },
+      "started": "2026-10-06T19:11:11.309Z",
+      "finished": "2026-10-06T19:14:51.029Z"
+    },
+    {
+      "name": "dialogue-2",
+      "status": "passed",
+      "args": [
+        "tools/verify-dialogue.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-dialogue-2"
+      ],
+      "environment": {
+        "MOMOTARO_DIALOGUE_PLAN": "translations/release-v60.plan.json",
+        "MOMOTARO_DIALOGUE_SHARD": "2/3",
+        "MOMOTARO_DIALOGUE_CLEANUP": "1"
+      },
+      "started": "2026-10-06T19:14:51.031Z",
+      "finished": "2026-10-06T19:18:25.308Z"
+    }
+  ],
+  "failedAttempts": [
+    {
+      "name": "sumo",
+      "status": "failed",
+      "args": [
+        "tools/verify-menu.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-sumo"
+      ],
+      "environment": {
+        "MOMOTARO_SUMO_STATE": "/tmp/momotaro-v60-release-fixtures/sumo-command/state.bin",
+        "MOMOTARO_SUMO_BROKEN_ROM": "opening-preview-v42-sumo-fix/deployment-backup/previous-v42.sfc"
+      },
+      "started": "2026-10-06T19:02:24.287Z",
+      "error": "tools/verify-menu.mjs failed; inspect /tmp/momotaro-v60-release-sumo.log: \n\n1 !== 0\n",
+      "finished": "2026-10-06T19:02:24.355Z"
+    },
+    {
+      "name": "sumo",
+      "status": "failed",
+      "args": [
+        "tools/verify-menu.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-sumo",
+        "/tmp/momotaro-v60-release-control"
+      ],
+      "environment": {
+        "MOMOTARO_SUMO_STATE": "/tmp/momotaro-v60-release-fixtures/sumo-command/state.bin",
+        "MOMOTARO_SUMO_BROKEN_ROM": "opening-preview-v42-sumo-fix/deployment-backup/previous-v42.sfc"
+      },
+      "started": "2026-10-06T19:02:56.958Z",
+      "error": "tools/verify-menu.mjs failed; inspect /tmp/momotaro-v60-release-sumo.log: \n\n1 !== 0\n",
+      "finished": "2026-10-06T19:02:57.465Z"
+    },
+    {
+      "name": "dictionary-reference",
+      "status": "failed",
+      "args": [
+        "tools/verify-dialogue.mjs",
+        "/tmp/momotaro-v58-run-rom",
+        "/tmp/momotaro-v58-snes9x/libretro/snes9x_libretro.dylib",
+        "/tmp/momotaro-v60-release-candidate",
+        "/tmp/momotaro-v60-release-dictionary-reference"
+      ],
+      "environment": {
+        "MOMOTARO_DIALOGUE_PLAN": "translations/release-v60.plan.json",
+        "MOMOTARO_DIALOGUE_DICTIONARY_REFERENCE": "1",
+        "MOMOTARO_DIALOGUE_BLOCKS": "shared-dictionary",
+        "MOMOTARO_DIALOGUE_INDEX": "39",
+        "MOMOTARO_DIALOGUE_CLEANUP": "1"
+      },
+      "started": "2026-10-06T19:06:25.938Z",
+      "error": "tools/verify-dialogue.mjs failed; inspect /tmp/momotaro-v60-release-dictionary-reference.log: \n\n1 !== 0\n",
+      "finished": "2026-10-06T19:06:26.032Z"
+    }
+  ]
+}

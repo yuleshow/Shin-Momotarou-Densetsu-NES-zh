@@ -1,0 +1,11 @@
+{
+  "version": "v51",
+  "familyChart": true,
+  "baseDirectory": "opening-preview-v50",
+  "manifest": "translations/followup-v51.release.json",
+  "addedIndexedEntries": 1,
+  "status": "native-verified-scope-only-not-released",
+  "drafts": [
+    "translations/item-readings-remaining.draft.zh-Hant.json"
+  ]
+}

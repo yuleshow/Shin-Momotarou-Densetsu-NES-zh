@@ -1,0 +1,722 @@
+{
+  "targetSha256": "9a7552fd7bbf488ec3a16bcaf3e50e3b2834314c33f1823935bddfb175c0ab89",
+  "synthetic": true,
+  "actualStoryRouteVerified": false,
+  "scenes": [
+    {
+      "name": "rice-ball-entrance",
+      "firstIndex": 0,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "地藏菩薩": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "哪裡出去": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-entrance",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "會噴毒的青鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "請小心": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-offering",
+      "firstIndex": 1,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "飯糰": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "供品": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-offering",
+      "firstIndex": 2,
+      "frames": 5400,
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "供上了飯糰": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "滾進了洞裡": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "也跟著進去了": {
+          "frame": "frame-1380.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "咚咚跳": {
+          "frame": "frame-1680.ppm",
+          "x": 104,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-offering",
+      "firstIndex": 3,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "根本就沒帶": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "冒失傢伙": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-offering",
+      "firstIndex": 4,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "敬重神明": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "天譴": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "screenshot-locations",
+      "firstIndex": 64,
+      "frames": 1620,
+      "changedFrames": 9,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金丹仙人庵": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 10,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "field-messages",
+      "firstIndex": 56,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了眼前": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      }
+    },
+    {
+      "name": "item-descriptions",
+      "firstIndex": 195,
+      "frames": 1620,
+      "changedFrames": 10,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力與技力": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "全部回復了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "rice-ball-cave",
+      "firstIndex": 0,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "危險": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "沒帶耙鋤": {
+          "frame": "frame-1320.ppm",
+          "x": 68,
+          "y": 104
+        },
+        "地裂": {
+          "frame": "frame-1380.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "rice-ball-cave",
+      "firstIndex": 3,
+      "frames": 10200,
+      "changedFrames": 151,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "甚八": {
+          "frame": "frame-1380.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "旅人": {
+          "frame": "frame-1680.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "土蜘蛛": {
+          "frame": "frame-2400.ppm",
+          "x": 116,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-cave",
+      "firstIndex": 9,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "好可怕": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "地裂的底下": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "rice-ball-cave",
+      "firstIndex": 11,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蓋村莊": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "回不了家": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-cave",
+      "firstIndex": 12,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "解毒藥": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 80
+        },
+        "土蜘蛛的毒": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "rice-ball-cave",
+      "firstIndex": 13,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "女人家": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "獨自一人旅行": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "行不通": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 126,
+      "frames": 9000,
+      "changedFrames": 134,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "羅生門": {
+          "frame": "frame-1200.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "同伴的力量": {
+          "frame": "frame-3240.ppm",
+          "x": 52,
+          "y": 184
+        },
+        "蘆葦": {
+          "frame": "frame-3840.ppm",
+          "x": 100,
+          "y": 184
+        },
+        "真正的強大": {
+          "frame": "frame-7440.ppm",
+          "x": 98,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 138,
+      "frames": 12000,
+      "changedFrames": 183,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "左魂鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "身為鬼的尊嚴": {
+          "frame": "frame-6300.ppm",
+          "x": 28,
+          "y": 184
+        },
+        "永世長存": {
+          "frame": "frame-6720.ppm",
+          "x": 40,
+          "y": 184
+        },
+        "月亮之王": {
+          "frame": "frame-6900.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "地獄之王": {
+          "frame": "frame-7260.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "大地之王": {
+          "frame": "frame-8340.ppm",
+          "x": 70,
+          "y": 168
+        },
+        "天上之王": {
+          "frame": "frame-8580.ppm",
+          "x": 70,
+          "y": 168
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 152,
+      "frames": 4200,
+      "changedFrames": 54,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腳越來越硬": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "村民的聲音": {
+          "frame": "frame-1740.ppm",
+          "x": 82,
+          "y": 168
+        },
+        "強烈的怨恨": {
+          "frame": "frame-1800.ppm",
+          "x": 64,
+          "y": 184
+        },
+        "達伊達": {
+          "frame": "frame-2280.ppm",
+          "x": 16,
+          "y": 184
+        },
+        "別再叫了": {
+          "frame": "frame-2760.ppm",
+          "x": 16,
+          "y": 184
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 201,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎麼回事": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "腰勢": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 202,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "刀揮得這麼慢": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "蒼蠅": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 203,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "一點力氣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "黍糰": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 204,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這點身手": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "惡鬼打倒": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 205,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "手臂揮動": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "越來越快": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 206,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "進步不少": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 207,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "剛才那一擊": {
+          "frame": "frame-1080.ppm",
+          "x": 38,
+          "y": 80
+        },
+        "真夠勁": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 208,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就是這樣": {
+          "frame": "frame-1020.ppm",
+          "x": 38,
+          "y": 80
+        },
+        "哇哈哈": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 209,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "差不多": {
+          "frame": "frame-1080.ppm",
+          "x": 74,
+          "y": 80
+        },
+        "認真上了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 210,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "依賴術法": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "打不贏": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 211,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "消滅惡鬼": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "懲治牠們": {
+          "frame": "frame-1140.ppm",
+          "x": 44,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 212,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "了解對手": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "找到出路": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 213,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "冷靜": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "辦不成": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 214,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這一招": {
+          "frame": "frame-1080.ppm",
+          "x": 74,
+          "y": 80
+        },
+        "承受得住": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 96
+        }
+      }
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 215,
+      "frames": 1620,
+      "changedFrames": 11,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "就是這樣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      }
+    }
+  ],
+  "selectedBlocks": [
+    "rice-ball-cave",
+    "rice-ball-entrance",
+    "rice-ball-offering",
+    "screenshot-locations",
+    "field-messages",
+    "item-descriptions",
+    "prince-and-karura-dialogue"
+  ]
+}

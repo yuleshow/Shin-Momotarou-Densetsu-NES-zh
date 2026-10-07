@@ -1,0 +1,76 @@
+cheats = 15
+
+cheat0_desc = "Momotarou HP fixed at 999 - OFF for scripted defeats"
+cheat0_code = "7E16A1E7+7E16B603"
+cheat0_enable = false
+cheat0_handler = 0
+
+cheat1_desc = "Momotarou technique points fixed at 999"
+cheat1_code = "7E16F5E7+7E170A03"
+cheat1_enable = false
+cheat1_handler = 0
+
+cheat2_desc = "Money fixed at 65535"
+cheat2_code = "7E1621FF+7E1622FF"
+cheat2_enable = false
+cheat2_handler = 0
+
+cheat3_desc = "No random encounters - preserves cave digging trail"
+cheat3_code = "7E1D6705"
+cheat3_enable = false
+cheat3_handler = 0
+
+cheat4_desc = "Ginji HP fixed at 999 - OFF for scripted defeats"
+cheat4_code = "7E16ADE7+7E16C203"
+cheat4_enable = false
+cheat4_handler = 0
+
+cheat5_desc = "Ginji technique points fixed at 999"
+cheat5_code = "7E1701E7+7E171603"
+cheat5_enable = false
+cheat5_handler = 0
+
+cheat6_desc = "Kintarou HP fixed at 999 - OFF for scripted defeats"
+cheat6_code = "7E16A2E7+7E16B703"
+cheat6_enable = false
+cheat6_handler = 0
+
+cheat7_desc = "Kintarou technique points fixed at 999"
+cheat7_code = "7E16F6E7+7E170B03"
+cheat7_enable = false
+cheat7_handler = 0
+
+cheat8_desc = "Urashima HP fixed at 999 - OFF for scripted defeats"
+cheat8_code = "7E16A3E7+7E16B803"
+cheat8_enable = false
+cheat8_handler = 0
+
+cheat9_desc = "Urashima technique points fixed at 999"
+cheat9_code = "7E16F7E7+7E170C03"
+cheat9_enable = false
+cheat9_handler = 0
+
+cheat10_desc = "One-hit defeat except normal lizard (tail) - OFF for scripted battles"
+cheat10_code = "82D09C40+82D09DFE+82FE4005+82FE4110+82FE42F0+82FE4312+82FE44BD+82FE45E5+82FE4619+82FE47F0+82FE480D+82FE49BD+82FE4AD5+82FE4B19+82FE4CC9+82FE4D19+82FE4EF0+82FE4F06+82FE50A9+82FE51FF+82FE5285+82FE530F+82FE5485+82FE5510+82FE564C+82FE57DE+82FE58D0"
+cheat10_enable = false
+cheat10_handler = 0
+
+cheat11_desc = "Ashura HP fixed at 999 - OFF for scripted defeats"
+cheat11_code = "7E16A5E7+7E16BA03"
+cheat11_enable = false
+cheat11_handler = 0
+
+cheat12_desc = "Ashura technique points fixed at 999"
+cheat12_code = "7E16F9E7+7E170E03"
+cheat12_enable = false
+cheat12_handler = 0
+
+cheat13_desc = "Yashahime HP fixed at 999 - OFF for scripted defeats"
+cheat13_code = "7E16A4E7+7E16B903"
+cheat13_enable = false
+cheat13_handler = 0
+
+cheat14_desc = "Yashahime technique points fixed at 999"
+cheat14_code = "7E16F8E7+7E170D03"
+cheat14_enable = false
+cheat14_handler = 0

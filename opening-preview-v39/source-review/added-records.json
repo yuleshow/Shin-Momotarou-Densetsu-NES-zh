@@ -1,0 +1,2609 @@
+[
+  {
+    "name": "prince-and-karura-dialogue",
+    "pointerOffset": "0x70051",
+    "index": 183,
+    "offset": "0x81baa",
+    "originalHex": "18041805017d04a9f0035f5004a9f0035f0150119abd5c7e0f017d02c9be9c5c5018041805be9c5c7e0f017d9cafae9dbd5c5018db9fa0a5015095bd9fbda550daae9ab9a0f6f5a25c7e0f017da3a595975099b9bc015090dfa202c55c7e010f0118041805a95018441ac8bc50a3b7da9b01198c198da8198ea81890bc50abb7ae919f5c010f",
+    "segments": [
+      {
+        "text": "浦島"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "呼"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "……"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "呼"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "……"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "11"
+      },
+      {
+        "text": "先生！」"
+      },
+      {
+        "hex": "0f"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「是我！我是浦島！」"
+      },
+      {
+        "hex": "0f"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「對不起！居然這麼輕易"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就被那些鬼給騙了！」"
+      },
+      {
+        "hex": "0f"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「總之，請先"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "淋上這些水吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "浦島拿出了竹筒，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "灑出了養老瀑布的水！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "prince-and-karura-dialogue",
+    "pointerOffset": "0x70051",
+    "index": 184,
+    "offset": "0x81c31",
+    "originalHex": "18041805017d94a7d091be9c5c5002c9b2015091f59bf8a5501a1cbb9da202c55c7e0f",
+    "segments": [
+      {
+        "text": "浦島"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「拜託！也請讓我"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "和你們一起戰鬥吧！」"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-messages",
+    "pointerOffset": "0x70048",
+    "index": 21,
+    "offset": "0x7c97e",
+    "originalHex": "0909a901ab91bc50a195b99f5c010f",
+    "segments": [
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "遭到了突襲！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 36,
+    "offset": "0x7de0b",
+    "originalHex": "04bbbd035004bbbd035c500909d001190fa550a3df9595f59f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "撲向了敵人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 37,
+    "offset": "0x7de28",
+    "originalHex": "04bbbd035004bbbd035c500909d001190fa55095afa1919f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "咬住了敵人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 38,
+    "offset": "0x7de44",
+    "originalHex": "04bbbd035004bbbd035c500909a901a9d39b9750190fa5501815909fb79b9f5c0f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "猛烈撞向了敵人！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 39,
+    "offset": "0x7de66",
+    "originalHex": "0909a950a9b691a8989f5c0f",
+    "segments": [
+      {
+        "hex": "0909"
+      },
+      {
+        "text": "擋開了攻擊！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 40,
+    "offset": "0x7de73",
+    "originalHex": "0909a950abf5a3bdda5c0f",
+    "segments": [
+      {
+        "hex": "0909"
+      },
+      {
+        "text": "被打飛了！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 41,
+    "offset": "0x7de7f",
+    "originalHex": "04bbbd035004bbbd035c500909a90192a4b719d5bc5090d39f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "發出了低吼！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 42,
+    "offset": "0x7de9c",
+    "originalHex": "04bbbd035004bbbd035c500909a9010909a80118bfbc5004e6bae6ba0350a4b19f5c0f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "汪"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "把"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "text": "的臉"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "舔呀舔"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 43,
+    "offset": "0x7dec0",
+    "originalHex": "0496f6f503500496f6f5035c500909d001190fa550a3df9595f59f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "撲向了敵人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 44,
+    "offset": "0x7dedf",
+    "originalHex": "0496f6f503500496f6f5035c500909d001190fbc50aaf595919f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "抓傷了敵人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 45,
+    "offset": "0x7defd",
+    "originalHex": "0496f6f503500496f6f5035c500909a901049ab80318e0bc50190fa55090df9d9f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "把"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "猴"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "酒潑向了敵人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 46,
+    "offset": "0x7df22",
+    "originalHex": "0496f6f503500496f6f5035c500909a90118d9df9595f5a250190fa85018191af4bc1ac3919f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "跳起來，戳中了敵人的眼睛！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 47,
+    "offset": "0x7df4c",
+    "originalHex": "0496f6f503500496f6f5035c500909a9011adf19ce50049ab8a8999b959803bc010909a550a8ae9d9f5c0f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "吱"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "把藥用的"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "猴坐菇"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "餵給了"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 48,
+    "offset": "0x7df78",
+    "originalHex": "0498bd03500498bd035c500909d001190fa55018d9df9595f59f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "飛撲向了敵人！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 49,
+    "offset": "0x7df96",
+    "originalHex": "0498bd03500498bd035c500909a901aeb2b7a8181bbc50a3a4939f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "施展了守護之術！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 50,
+    "offset": "0x7dfb5",
+    "originalHex": "0498bd03500498bd035c500909a90102b0a8181bbc50a3a4939f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "施展了金丹之術！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 51,
+    "offset": "0x7dfd3",
+    "originalHex": "0498bd03500498bd035c500909a9019dbd02b0a8181bbc50a3a4939f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "施展了千金丹之術！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 52,
+    "offset": "0x7dff3",
+    "originalHex": "0498bd03500498bd035c500909a90197a0de9bbe5004a1e203bc50a1919f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "用鳥喙啄中了"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "穴位"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "battle-effects",
+    "pointerOffset": "0x7004b",
+    "index": 53,
+    "offset": "0x7e015",
+    "originalHex": "0498bd03500498bd035c0909a901180e1acf9ba8181bbc50a3a4939f5c010f",
+    "segments": [
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "text": "咯"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "text": "！"
+      },
+      {
+        "hex": "0909"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "施展了解毒之術！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "spell-chants",
+    "pointerOffset": "0x70027",
+    "index": 51,
+    "offset": "0x220",
+    "originalHex": "9eb6aa938080808080bd5c",
+    "segments": [
+      {
+        "text": "飛呀飛燕——！"
+      }
+    ]
+  },
+  {
+    "name": "spell-chants",
+    "pointerOffset": "0x70027",
+    "index": 52,
+    "offset": "0x22c",
+    "originalHex": "a698da9b8080808080bd5c",
+    "segments": [
+      {
+        "text": "穿牆脫身——！"
+      }
+    ]
+  },
+  {
+    "name": "spell-chants",
+    "pointerOffset": "0x70027",
+    "index": 53,
+    "offset": "0x238",
+    "originalHex": "02acb5988080808080bd5c",
+    "segments": [
+      {
+        "text": "避鬼退散——！"
+      }
+    ]
+  },
+  {
+    "name": "spell-chants",
+    "pointerOffset": "0x70027",
+    "index": 54,
+    "offset": "0x244",
+    "originalHex": "b7f880b7bab78080808080bd5c",
+    "segments": [
+      {
+        "text": "哩喲哩囉哩——！"
+      }
+    ]
+  },
+  {
+    "name": "spell-chants",
+    "pointerOffset": "0x70027",
+    "index": 55,
+    "offset": "0x252",
+    "originalHex": "91d5b598aeb5988080808080bd5c",
+    "segments": [
+      {
+        "text": "避災避邪——！"
+      }
+    ]
+  },
+  {
+    "name": "spell-chants",
+    "pointerOffset": "0x70027",
+    "index": 56,
+    "offset": "0x261",
+    "originalHex": "a991abb48080808080bd5c",
+    "segments": [
+      {
+        "text": "海流——！"
+      }
+    ]
+  },
+  {
+    "name": "field-messages",
+    "pointerOffset": "0x70039",
+    "index": 12,
+    "offset": "0x90",
+    "originalHex": "09a90109a8181bbc0194e2939f5c0f",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "學會了"
+      },
+      {
+        "hex": "09"
+      },
+      {
+        "text": "之術！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "0f"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "7d9380bd509380bd5c5099bb91b5805c015096afbbb89150186ca30150184096a45018dbd05099bb91b5805c7e",
+    "segments": [
+      {
+        "text": "「嗚嗚！嗚嗚！好可怕喔！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那隻怪鳥和"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "大鬼好可怕喔！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 1,
+    "offset": "0x2e",
+    "originalHex": "7d9380bd509380bd5c5099bb91b5805c015096afbbb89150186cd050198a198b1889a8ad92a5015018d9bdbe91f59fb5805c7e",
+    "segments": [
+      {
+        "text": "「嗚嗚！嗚嗚！好可怕喔！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那隻怪鳥朝著"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "足柄山飛走了！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 2,
+    "offset": "0x62",
+    "originalHex": "7d02a09abd5c5002a09abd5c0150049491b603a75c509af596aebe01509597b9bde2509ba29fbdda5c7e017d049491b603509597b9b8a8015092ae9195b650afbda4015018b0a198b6b9a491bddab55c7e017d9e9b9fb6509ea892a0a501501a6ba8a9939f5018dba3955099bb9118dbd0015091f5e3915018b9a2a75c7e017dafbda450afbda450941889a50150a1b9a2f5a0f6f59fbdda5c7e01017d049491b6035091ae0150aaa3b7e2f5a0be01509adf9b91bddab5805c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我啊！剛才一直"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "在玩捉迷藏呢！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我很會躲藏，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "所以大家"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "都找不到我喔！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「結果就在那時候，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "長翅膀的鬼和可怕的鬼，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "來了好多好多！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「牠們把大家，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "全部都帶到山上去了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「現在只剩我"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "孤零零一個人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "好寂寞啊！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 3,
+    "offset": "0x11d",
+    "originalHex": "7d9992a4f59fb6509b959fa495a35c01509ce1a25094181a9cb8da5c7e01017d1814a8501b0f91b2bda9015099ddb2a818d2501899b8d9a35094dd9ab9a20150198a198b1889a550a1b9a295b99fa3b55f7e017d9ebdbeb2f5a250ddba1890be0150a8dda85095bb96bc91b39cb592a40150a1b6919bd4a3bc509a9db6b9a2b8da5c7e017d1b0f91501871d05091a496f601501814a950adbabdd6ae925c015002a09abd5c50195b98a297da9d805c7e",
+    "segments": [
+      {
+        "text": "「事到如今，也沒辦法了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就全都告訴你吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「鬼族威脅村裡的年輕人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "說要砍下孩子的頭，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "把他們都抓去足柄山了……」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「還逼他們做苦工，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "口渴時只能喝泥水，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "日子過得好苦啊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「沒有年輕男人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "村子就要滅亡了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！救救我們吧！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 4,
+    "offset": "0x1ce",
+    "originalHex": "7d02a09abd5c50180318011802a90150bbbde397d6f6d0501814a850187dd6f65c0150aaa3a150b5ba9b97509fa8afae9cb55c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！金太郎"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "雖然頑皮，卻是村裡的寶！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就拜託你多多照顧了！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 5,
+    "offset": "0x203",
+    "originalHex": "7d02a09abd5c50180318011802a90150bbbde397d6f6d0501814a850187dd6f65c0150aaa3a150b5ba9b97509fa8afae9cb55c7e",
+    "segments": [
+      {
+        "text": "「"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！金太郎"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "雖然頑皮，卻是村裡的寶！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就拜託你多多照顧了！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 6,
+    "offset": "0x238",
+    "originalHex": "7d1935188ba9501a0f182d95b6a801509497b7b2a8a4a8b55c501890df9f9ba50150a4f59fb650188bb25095bb919e925c7e",
+    "segments": [
+      {
+        "text": "「木材是大自然"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "送給我們的禮物！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "泡在水裡，木頭也很可憐！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 7,
+    "offset": "0x26b",
+    "originalHex": "7d99a8184018cdbea9501935188bd0015004dab103a550a4f5a0ae92b55c7e01017d18efa502b3a5a9501854951892b2015095bd9e929a9da496f601509198a491bdda95b69a5c7e",
+    "segments": [
+      {
+        "text": "「下這麼大的雨，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "木材都要泡壞了！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「要拿來造船，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就得先乾燥好幾個月"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "才行啊！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 8,
+    "offset": "0x2b4",
+    "originalHex": "7d937fbd5c50937fbd5c01509492a0aebe5018d9de9ab9a0f692b57f5c7e01",
+    "segments": [
+      {
+        "text": "「嗚嗚！嗚嗚！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "連房子都要被吹走了！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 9,
+    "offset": "0x2d4",
+    "originalHex": "7d18b6a0f6bd501acb184895a4905b7e0101",
+    "segments": [
+      {
+        "text": "「爹爹還好嗎？」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 10,
+    "offset": "0x2e7",
+    "originalHex": "7d90905c5018b6a0f6bdda5c5018b6a0f6bdda5c0150bb80915c50bb80915c50bb80915c7e01",
+    "segments": [
+      {
+        "text": "「啊！是爹爹！是爹爹！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "太好了！太好了！太好了！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 11,
+    "offset": "0x30e",
+    "originalHex": "7d18b6a0f6bd509893f5a250969fd95c7e0101017d18ad18985c50180418059abdf5a291920150a3f5a2b25093b6911847a850181a9cf595b601509abb91bea793be50b5f597509698b55c7e",
+    "segments": [
+      {
+        "text": "「爹爹回來囉！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「小子！我要說說"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "浦島先生這位大人物的事！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "別吵了，仔細聽好！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 12,
+    "offset": "0x35b",
+    "originalHex": "7d96b7da9b9f501935188ba9509999be015095bd9e929a9da250b3aebddea819861987be015018efa55002b3bdd6f6b55c7e017d909e99a950188c1848bc501848a59ba491be015091a1beb25018efbc5019cfb9b895b6a75c0150d6f6d050b292949bae91d6f65c7e",
+    "segments": [
+      {
+        "text": "「砍好的木材在這裡"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "晾乾後，就送去山姥洞窟，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "拿來造船啊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「那裡不受天氣影響，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "隨時都能造船呢！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "可是，一切都完了！」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 13,
+    "offset": "0x3c5",
+    "originalHex": "7d19861987a818479fa0a9501840186a186bd6f6ba955b015018d1e119cda8509f97bb930150aef59f97a491a35094b292bdd6f6d05f7e",
+    "segments": [
+      {
+        "text": "「洞窟裡的人們還好嗎？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "他們應該根本沒有"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "儲存食物才對……」"
+      }
+    ]
+  },
+  {
+    "name": "village-rescue-rumors",
+    "pointerOffset": "0x70126",
+    "index": 14,
+    "offset": "0x3fd",
+    "originalHex": "7d18d4a5a9509f979abda850ab9bd1a499a3d00150aea095ae93a291b850a9d7d6f65c0150b4f597b75095ae93a25019bf96a49ab95c7e",
+    "segments": [
+      {
+        "text": "「大海裡一定有許多"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "不可思議的事等著你！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "沉住氣，慢慢前進吧！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 0,
+    "offset": "0x0",
+    "originalHex": "0495b8b601037d0498038004f598f598f5035c50b597a59092d95c015002a0d6919abda85094beae9bda5c7e017d1924186ea4d0b650198ea81890a9015099b95099a8a394b75c015018801b817b91f5a2967cb2a4915c7e017ddd92da5b500494b9031907a8015019b8184ba550a4b6bd955b0150a4b9de501890bc509598a2b3b85c7e",
+    "segments": [
+      {
+        "text": "迦樓羅"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「嘎哈哈哈！真適合你啊！"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "老爺爺駕到啦！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「很可惜，瀑布的水"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就像你看到的這樣！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "連一滴也沒有！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「怎麼樣？要不要"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "當本大爺的手下？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "答應的話，就替你澆水！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 1,
+    "offset": "0x85",
+    "originalHex": "7db39dd0aebda9501815a550b597a491d95c01509ab9de509b959f90b8ae915c7e01",
+    "segments": [
+      {
+        "text": "「逞強對身體不好喔！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "既然如此，那也沒辦法了！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 2,
+    "offset": "0xa8",
+    "originalHex": "0495b8b601037d049803800498f598f5035c5002a05c7e01017d0494b9031907a85019b8184ba50150a3b79fa2a2b3b895b601505251515118195019cc9d5c7e",
+    "segments": [
+      {
+        "text": "迦樓羅"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「嘎哈哈哈！"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「本大爺要提拔你"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "當我的手下！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "先交出一千兩來！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 3,
+    "offset": "0xe9",
+    "originalHex": "7d1803a55018bca8a491b3a1a9015019cc18959ba491d95c015091beb55c505418bd18be5c7e",
+    "segments": [
+      {
+        "text": "「不貪財的傢伙，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "可沒辦法飛黃騰達喔！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "現身吧！三兄弟！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 4,
+    "offset": "0x110",
+    "originalHex": "7d52515151181950b2f5a2a491bea9a491955c0150929eaebea197b592a550a4f5a2a90150949bae91daa45c5002a05c7e",
+    "segments": [
+      {
+        "text": "「你根本沒有一千兩嘛！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "居然連謊話都說得出口，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "你完蛋了！"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 5,
+    "offset": "0x142",
+    "originalHex": "02a0a9501993a01803509ce1a2bc010495b8b603a55092debbb99f5c01",
+    "segments": [
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "身上所有的錢，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "都被迦樓羅搶走了！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 6,
+    "offset": "0x160",
+    "originalHex": "7d049803800498f598f5035c50941803da98015090b7d09f9750919fda91a294975c015091beb55c505418bd18be5c7e",
+    "segments": [
+      {
+        "text": "「嘎哈哈哈！你的錢，"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "本大爺就不客氣地收下了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "現身吧！三兄弟！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 7,
+    "offset": "0x191",
+    "originalHex": "7d18c918db7b98967c5c0150190c18db7baf967c5c0150190b18db7bdef5967c5c7e",
+    "segments": [
+      {
+        "text": "「怪鬼！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "魅鬼！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "魃鬼！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 8,
+    "offset": "0x1b4",
+    "originalHex": "0495b8b601037d049803800498f598f5035c015018c918db5c50190c18db5c50190b18dbb55c7e017d02a0a550186fa2de015018e018a218f318887b9bf7a2bddd92d67ca801501a88188c1841a550a3b79fa2a2b3b85c7e",
+    "segments": [
+      {
+        "text": "迦樓羅"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「嘎哈哈哈！"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "怪鬼！魅鬼！魃鬼啊！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「只要打贏"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就提拔你們成為"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "酒吞童子的四天王！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 9,
+    "offset": "0x20d",
+    "originalHex": "18c918db60190c18db60190b18db017d0495b8b60319075c7e01017dbbb9b65c501816a85095d1b701501a1cbb9da25002d3b85c7e01",
+    "segments": [
+      {
+        "text": "怪鬼、魅鬼、魃鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「迦樓羅大人！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我們必定"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "竭盡全力戰鬥！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 10,
+    "offset": "0x244",
+    "originalHex": "0495b8b601037d02a05c509eba9eba01501966dfa950949bae91da5c7e017d184019ea1889be501886f5a291b85c7e0101017d184019ea1889be5002b6bc01501a041a30a850190fa39ba201509091a2bc509ba2b3b85c7e017d9fa89bafa5509ba291b8d95c0150049803800498f598f5035c50049803800498f598f5035c7e01",
+    "segments": [
+      {
+        "text": "迦樓羅"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "！差不多"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "該結束這場遊戲了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我在大江山等你！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「到了大江山，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "我就把你當作真正的敵人，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "認真陪你較量！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我可是很期待喔！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "嘎哈哈哈！嘎哈哈哈！」"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 11,
+    "offset": "0x2c6",
+    "originalHex": "18c918db7b98967c017dae5f50ae9a955f5018dba8a495beb201501918180da35019ac1a52915018e018a218f318881907a85c7e",
+    "segments": [
+      {
+        "text": "怪鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「莫……莫非是鬼族的名軍神，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "那位酒吞童子大人！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 12,
+    "offset": "0x2fb",
+    "originalHex": "190c18db7baf967c017d9b95b2501a88188c1841a55c5018a61a0b5019471883a8015018db95b65093b6deb9b8501a88188c1841a55c7e",
+    "segments": [
+      {
+        "text": "魅鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「每年從數千個鬼中選出的，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "居然是那四天王！」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 13,
+    "offset": "0x333",
+    "originalHex": "190b18db7bdef5967c017d18bd18be501816bc5090bb9db9de01501a88188c1841a5a35019eeafa2969f5f7e",
+    "segments": [
+      {
+        "text": "魃鬼"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我們兄弟同心協力，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "夢想成為四天王至今……」"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 14,
+    "offset": "0x360",
+    "originalHex": "7d04a9f0035f5004a9f0035f015002a09abd5c7e01017d02c9be9c5c5018041805be9c5c7e0101017d9cafae9dbd5c5018db9fa0a5015095bd9fbda550daae9ab9a0f6f5a25c7e01017da3a595975099b9bc015090dfa202c55c7e010118041805a95018441ac8bc5019adb719cc9b01198c198da8198ea81890bc50abb7ae919f5c01",
+    "segments": [
+      {
+        "text": "「呼……呼……"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「是我！我是浦島！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「對不起！居然這麼輕易"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "就被那些鬼給騙了！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「總之，請先"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "淋上這些水吧！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "浦島拿出了竹筒，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "灑出了養老瀑布的水！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 15,
+    "offset": "0x3e4",
+    "originalHex": "7d94a7d091be9c5c5002c9b2015091f59bf8a5501a1cbb9da202c55c7e01",
+    "segments": [
+      {
+        "text": "「拜託！也請讓我"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "和你們一起戰鬥吧！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 16,
+    "offset": "0x403",
+    "originalHex": "09a950bb95d093f59f5c0101011a181a191816d0500a184ad0f59f5c0101011a1b18201816d0500a184ad0f59f5c0101",
+    "segments": [
+      {
+        "hex": "09"
+      },
+      {
+        "text": "恢復年輕了！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "攻擊力提升了"
+      },
+      {
+        "hex": "0a"
+      },
+      {
+        "text": "點！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "防禦力提升了"
+      },
+      {
+        "hex": "0a"
+      },
+      {
+        "text": "點！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "waterfall-confrontation",
+    "pointerOffset": "0x701d4",
+    "index": 17,
+    "offset": "0x434",
+    "originalHex": "7d94f5a35c50aeda0150b3b6b9a0f691a793955c7e01017d90f59bb25097bbbbb7ae9cd85c015002a09abd5c50aed7a950afa49abda5015094919b915094afb3d3da5c7e01049cb703a818501851a9011acb1848a81accbc5002c401",
+    "segments": [
+      {
+        "text": "「哎呀！你們還"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "沒被打倒嘛！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「我也來幫忙啦！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "hex": "02a0"
+      },
+      {
+        "text": "先生！先送大家"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "一份好吃的伴手禮！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "小偷銀次"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "使用了元氣玉！"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "village-cough-remedy",
+    "pointerOffset": "0x70123",
+    "index": 2,
+    "offset": "0xc9",
+    "originalHex": "7d04d4ad035c5004d4ad035c01509d96d0501876aeb6bda8d6f65c7e01",
+    "segments": [
+      {
+        "text": "「咳！咳！"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "04"
+      },
+      {
+        "hex": "03"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "咳個不停啊！」"
+      },
+      {
+        "hex": "01"
+      }
+    ]
+  },
+  {
+    "name": "village-cough-remedy",
+    "pointerOffset": "0x70123",
+    "index": 6,
+    "offset": "0x1bb",
+    "originalHex": "7d9d96ddb1a85019cebc01501981198295a81814aebe5019adb7a591f59f015019e018529abdd0509593f5a25018b9a4915c7e017dae9a9550198a198b1889a55f5fa9f55b0150187ba850181a5090a49f5c0150190995a495f59fbe9bf892a75c7e",
+    "segments": [
+      {
+        "text": "「萬吉先生去花咲村"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "拿止咳藥，"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "卻一直沒有回來！」"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "「難道在足柄山……啊？"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "剛才那些話，你！"
+      },
+      {
+        "hex": "01"
+      },
+      {
+        "text": "應該沒有聽見吧！」"
+      }
+    ]
+  }
+]

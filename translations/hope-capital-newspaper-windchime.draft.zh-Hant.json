@@ -1,0 +1,29 @@
+{
+  "pointerOffset": "0x70156",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hope-capital-newspaper-windchime",
+  "decodedBytes": 829,
+  "complete": true,
+  "status": "native-verified-v45",
+  "reviewNotes": [
+    "All 14 records visually reviewed against original-ROM glyph renders and checked against source bytes. Draft only; no ROM or manifest changes.",
+    "The source restaurant sign is 料亭い志ゐ, rendered 志井料亭. The source temple name is written in kana as しょじょ寺. 證城寺 is a consistent provisional Traditional Chinese rendering shared with taketori-refugees, not a verified kanji equivalence.",
+    "Preserve the newspaper's 68-year-old wind-chime collector, 100-ryo sale, fish buyback, northern route, Narabi Jizo directions and carpenter Tome's relocation advice. Dynamic [09] is retained and width-tested as a five-glyph name."
+  ],
+  "records": {
+    "0": "「去一趟澡堂，\n洗個澡，沖掉身上的汗吧！」\n",
+    "1": "「俺是賣瓦版報的！\n有篇有趣的消息喔！\n怎麼樣？要不要瞧瞧呀？」",
+    "2": "[02a0]讀了瓦版報！\n\n\n「我是喜愛風鈴的，\n浪漫老爺爺，今年六十八歲。」\n\n「稀奇的風鈴，\n願意高價收購。\n請到我家來找我吧！」",
+    "3": "「明明是個好消息嘛！」\n\n",
+    "4": "「[02a0]先生！知道嗎？\n志井料亭會向你，\n收購新鮮的魚喔！」",
+    "5": "「出了都城，穿過北方森林，\n就又回到雪國啦！」\n\n「再往北走，就能見到，\n旅人的守護神並列地藏大人！\n一定要去拜訪祂們喔！」",
+    "6": "「蒐集風鈴，\n就是老夫活著的樂趣呀！」\n\n「就當是老年人的玩物，\n笑笑就好啦！」\n",
+    "7": "「喔！你帶著的風鈴，\n聲音真是好聽呀！」\n\n「那、那個風鈴，\n能不能以一百兩，\n賣給老夫呢？」",
+    "8": "[09]以一百兩，\n賣掉了風鈴！\n\n「喔！太感謝啦！\n以後若還有拿到風鈴，\n也拜託你拿來喔！」",
+    "9": "「這樣啊，真可惜呀！」\n\n",
+    "10": "「我家兒子，\n正在證城寺修行呢！」\n",
+    "11": "「和尚他呀，\n非常愛吃麥芽糖呢！」\n\n「得買些麥芽糖，\n當作返鄉探親的伴手禮！」\n",
+    "12": "「[02a0]先生！\n有把城堡蓋在，\n交通方便的地方嗎？」\n「實在有困難的話，\n木匠阿留先生，\n會替你想辦法的喔！」",
+    "13": "「你去過，\n志井料亭了嗎？」\n\n「偶爾在那裡用餐，\n能夠聽到，\n非常實用的消息喔！」"
+  }
+}

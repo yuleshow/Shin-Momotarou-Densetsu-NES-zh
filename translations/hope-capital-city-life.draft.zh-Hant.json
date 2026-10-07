@@ -1,0 +1,26 @@
+{
+  "pointerOffset": "0x70153",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "hope-capital-city-life",
+  "decodedBytes": 810,
+  "complete": true,
+  "status": "native-verified-v45",
+  "reviewNotes": [
+    "All 12 records visually reviewed against original-ROM glyph renders and checked against source bytes. Draft only; no ROM or manifest changes.",
+    "Preserve 順安 pickling, the child's lottery joke, silk shopping and the contrast between the capital and Karura's fearful underworld."
+  ],
+  "records": {
+    "0": "「[02a0]先生！待在，\n希望之都太過放鬆的話，\n討伐鬼族會變得很辛苦喔！」",
+    "1": "「就算只有白飯和味噌湯，\n這麼簡單的一餐……」\n\n「只要有順安的醃菜，\n老夫就什麼都不需要啦！」\n",
+    "2": "「醃菜店順安，\n會把你帶去的白蘿蔔，\n醃得很好吃喔！」\n「老爺爺也很愛吃，\n我又不拿手……\n有人幫忙醃菜，真是太好了！」",
+    "3": "「嗯──！脆脆的！\n第一次吃醃菜，\n不過真是好吃呀──！」",
+    "4": "「近來的孩子學得真快！\n在寺子屋學會了識字、\n寫字和打算盤，什麼都會呢！」\n「我家那小子，\n說不定還是個天才呢？\n哈哈哈哈！怎麼可能嘛！」",
+    "5": "「喂！小鬼！\n快給我好好念書！」\n\n「不好好念書，\n以後就會像你爸一樣，\n變成窮光蛋喔！」",
+    "6": "「可惡──！臭老媽！\n每天、每天，\n都在念書念書，煩死了！」\n「我受夠了──！\n翹掉寺子屋的課，\n跑去抽彩券吧──！」",
+    "7": "「貓咪剛剛洗臉了，\n今天說不定會下雨呢！」\n",
+    "8": "「如今的地獄裡，\n沒有這座都城的熱鬧與溫暖！」\n\n「每個人都提防著周遭，\n終日提心吊膽地過活！\n全都是迦樓羅害的！」",
+    "9": "「小姐！妳瞧瞧！\n多麼漂亮的布料啊！\n這可是頂級的絲綢呢！」",
+    "10": "「哎呀！好漂亮的花紋呢！」\n\n\n「不過，能像這樣，\n悠哉地來店裡逛逛，\n全多虧了[02a0]先生呢！」\n「[02a0]先生，這個，\n請帶在旅途上用吧！」\n",
+    "11": "「嗯──！絲綢是不錯，\n可是價錢嘛，就有點……！」\n"
+  }
+}

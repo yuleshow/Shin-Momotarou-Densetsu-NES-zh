@@ -1,0 +1,14 @@
+{
+  "version": "v65",
+  "baseDirectory": "opening-preview-v60",
+  "manifest": "verification/fixed-nicknames-v65/resolved-translation-manifest.json",
+  "addedIndexedEntries": 43,
+  "nativeMenuFollowups": true,
+  "drafts": [
+    "translations/shared-dictionary-remaining.draft.zh-Hant.json",
+    "translations/common-status-labels-remaining.draft.zh-Hant.json",
+    "translations/battle-messages-remaining.draft.zh-Hant.json",
+    "translations/boss-battle-final-message.draft.zh-Hant.json",
+    "translations/character-labels-remaining.draft.zh-Hant.json"
+  ]
+}

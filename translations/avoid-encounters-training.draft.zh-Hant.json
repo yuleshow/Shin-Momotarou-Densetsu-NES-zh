@@ -1,0 +1,12 @@
+{
+  "pointerOffset": "0x700ff",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "avoid-encounters-training",
+  "target": "0x3df600",
+  "status": "control-checked-draft",
+  "records": {
+    "0": "「哇哈哈！[02a0]啊！\n 最裡面有一棵\n 大樹，看到了吧！」",
+    "1": "「一路避開鬼，\n 走到那棵樹那裡，\n 再回來吧！」",
+    "2": "「怎麼樣！\n 這修行很簡單吧？哇哈哈！」\n"
+  }
+}

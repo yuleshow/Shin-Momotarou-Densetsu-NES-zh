@@ -1,0 +1,73 @@
+{
+  "version": "v45",
+  "status": "deployed-and-related-screenshots-removed",
+  "targetSha256": "d20959b6de3c0e27df204887829ed4385718c7f2c7c301b1798f55c9397a63c7",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "baseVersion": "v44",
+  "addedIndexedEntries": 112,
+  "glyphs": 2187,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 3486,
+    "untranslatedRecords": 4302,
+    "emptyRecords": 82
+  },
+  "nativeDialoguePassed": true,
+  "menuRegressionPassed": true,
+  "welcomePassed": true,
+  "glyphRegressionPassed": true,
+  "sumoRegressionPassed": true,
+  "ipsRoundtripPassed": true,
+  "checksumPassed": true,
+  "previousTranslationsPreserved": true,
+  "previousGlyphsPreserved": 2141,
+  "nativeDialogueScenes": 112,
+  "exactPhraseChecks": 621,
+  "previewsVisuallyReviewed": true,
+  "tests": [
+    "--test tests/text-draft.test.mjs tools/screenshot-dialogue-cases.test.mjs",
+    "tools/inspect-rom.mjs self-test",
+    "tools/font-codec.mjs verify",
+    "tools/text-codec.mjs self-test",
+    "tools/text-codec.mjs verify-fixtures tests/lz-runtime.json",
+    "tools/text-catalog.mjs self-test",
+    "tools/build-menu-patch.mjs self-test"
+  ],
+  "limitations": [
+    "Synthetic native scenes, not a full natural story playthrough",
+    "Runtime custom-name bounds and all event branches not exhaustively tested",
+    "Only the seven specified Hope Capital blocks are newly integrated; other drafts remain separate",
+    "Physical device boot not verified"
+  ],
+  "deviceWrites": false,
+  "artifactSha256": {
+    "opening-zh-Hant.sfc": "d20959b6de3c0e27df204887829ed4385718c7f2c7c301b1798f55c9397a63c7",
+    "opening-zh-Hant.ips": "cf752dfa5e478a25f687621c44339a43264f430abee5996f2405bb92e5be94e6",
+    "build.json": "3d8531f8e6d696352380b1de5534d635b2d17e9723f5512061b9d6ad301b4351",
+    "welcome-preview.png": "271b715ec507ab1e953275c304790d154bb794da24caeb77fe47d392e3347114",
+    "resolved-translation-manifest.json": "b849067f2fc23f535b4a960ba2a6e862ddeef5aa2b7efb7129beec43021258f0",
+    "release-plan.json": "b9603b94d2da89e1e1bc75d57808e7d626545d20a22e90d993d1f0f2dcc17d47",
+    "FONT-LICENSE.txt": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+    "source-verification.json": "126aa29e15655fa7f22a0719f7962987ffb16a6b78fff0aca3385759a39307b8",
+    "dialogue-verification.json": "fca12b3631f1334cd8c6f0f8fae69a083f33916e5a0c64f7a690837f3245f4c0",
+    "menu-verification.json": "f488714ae1a1eb50aed3e069ad6e1d6b91568e725b44ad30f962682b85846ab7",
+    "welcome-verification.json": "f8aaa7422e84bb4867ba2f8b61245d7e5e6b4aea158ec934b6b6477aaaca99e3",
+    "font-verification.json": "8dad110570b5db79042fdd8f16761261a26f07eecb4e6fec6cc504e633031cbb",
+    "sumo-verification.json": "6460f4f2167d1af93dd9755fcc7ee0329375ebe67f0edc2ab090535017b79672",
+    "dialogue-first-pages.png": "96077031d2d86542c73f9c4ed744e75c355816a4486209e481aee92332b9a84a",
+    "dialogue-last-pages.png": "626ca142844242ea5625bce28d071fe33dbcc3ba0b832d5fe64994b65813758c"
+  },
+  "device": {
+    "deployed": true,
+    "targetSha256": "d20959b6de3c0e27df204887829ed4385718c7f2c7c301b1798f55c9397a63c7",
+    "fullReadbackVerified": true,
+    "screenshotsDeleted": 37,
+    "savesWritten": false,
+    "cheatsWritten": false,
+    "deploymentReport": "deployment-verification.json",
+    "physicalDeviceBootVerified": false
+  }
+}

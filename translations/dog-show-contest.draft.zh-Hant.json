@@ -1,0 +1,36 @@
+{
+  "pointerOffset": "0x700d5",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "dog-show-contest",
+  "decodedBytes": 1206,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All 20 original glyph records reviewed. Preserve the three-minute announcement, forty-year judging career, ten-kilogram daily feeding boast, judging categories and 10000/1000 ryo rewards.",
+    "Use existing 狗兒最愛 and provisional 突風布里太夫. The source explains the name reading とっぷう / ぶりたいゆう with a top-breeder pun; the host's playful broken-English speech is localized as clipped Chinese.",
+    "Pet-name transliterations 諾莉碧 (ノリピー) and 米卡敏 (ミカミン) are provisional; do not infer identities of real people from the joke names.",
+    "Keep contestant-name fields, winner-name fields, the separate recipient field and all three bark records; no contest timing or judging logic is changed."
+  ],
+  "records": {
+    "0": "「這裡是，\n犬隻品評會的，\n比賽會場！」\n「要不要讓您家的狗狗，\n也來參賽呢？」\n",
+    "1": "「不知道突風布里太夫，\n名字怎麼念嗎？姓突風，\n名字叫布里太夫呀！」\n「他可是當了四十年裁判，\n鼎鼎有名的人物啊，\n不知道可就丟臉囉！」",
+    "2": "「今年一定要讓諾莉碧，\n拿到冠軍！我餵了牠，\n好多狗兒最愛呢！」",
+    "3": "「裁判突風布里太夫，\n不愧是頂尖飼育家，\n評分嚴格得不得了呢！」",
+    "4": "「我家的米卡敏，\n今年也非拿冠軍不可！」\n\n「每天都餵牠吃，\n十公斤鯖魚壽司呢！\n喔呵呵呵！我很有錢的！」",
+    "5": "「每年都很期待，\n這個比賽，所以總要來……\n咕！嗚！腰閃到了！」",
+    "6": "「還沒還沒，比賽，\n還沒開始的啦！」\n\n「討伐鬼怪，\n到底辦得怎樣啦！\n現在不是玩的時候喔！」",
+    "7": "「女士、先生們！\n我的名字是突風布里太夫！\n名字，很古典的啦！」\n「距離比賽開始，\n還有三分鐘！三分啦！\n參賽，要不要？你！」",
+    "8": "「那就，再見，比賽！\n可惜的啦！」\n",
+    "9": "「來得正好呢！\n比賽馬上，開始的啦！」\n\n「你的狗狗，名字是，\n[09]對吧！\n漂亮！漂亮的啦！」",
+    "10": "「今年的，\n第一名狗狗大賽！\n首先，智慧部門的啦！」\n「頭腦好不好，部門！」\n\n",
+    "11": "「接著，好奇心部門！」\n\n",
+    "12": "「接著，儀態部門！」\n\n",
+    "13": "「最後，\n總冠軍是……！？」\n",
+    "14": "「總冠軍，\n決定是[09]啦！」\n\n「冠軍獎金，\n１００００兩送給你！」\n",
+    "15": "[11]，\n獲得了１００００兩！\n",
+    "16": "[11]，\n１０００兩，\n到手了！",
+    "17": "「汪汪！」\n\n",
+    "18": "「汪！汪汪！」\n\n",
+    "19": "「汪汪！汪！」\n\n"
+  }
+}

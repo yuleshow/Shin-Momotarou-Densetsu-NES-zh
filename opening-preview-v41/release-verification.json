@@ -1,0 +1,53 @@
+{
+  "version": "v41",
+  "status": "locally-verified-not-deployed",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "e752122a88c4371c94ae7d34ae5550449570f3ed0c29b2a8e184d0e83fd8669d",
+  "addedRecordsSinceV40": 72,
+  "completeDragonPalaceRecords": 82,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 3114,
+    "untranslatedRecords": 4674,
+    "emptyRecords": 82
+  },
+  "glyphs": 2069,
+  "glyphCapacity": 2112,
+  "previousTranslationsPreserved": true,
+  "verification": {
+    "nativeDialogueScenes": 82,
+    "exactWords": 197,
+    "allAddedRecordsTested": true,
+    "originalRelocationFramesIdentical": true,
+    "representativePreviewsVisuallyReviewed": true,
+    "fullMenuSuitePassed": true,
+    "allEnemyNamesAndReadingsPassed": true,
+    "savedShopAndCavePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "ipsRoundtripPassed": true
+  },
+  "device": {
+    "deployed": false,
+    "lastKnownVersion": "v40",
+    "deviceWrites": false,
+    "screenshotsDeleted": 0,
+    "savesWritten": false,
+    "cheatsWritten": false
+  },
+  "notVerified": [
+    "Physical-device boot",
+    "Full playthrough",
+    "Every prior dialogue scene on this hash",
+    "Natural event branches and all dynamic names and values"
+  ],
+  "remainingJapanese": [
+    "4674 indexed records",
+    "Saved companion names",
+    "Battle curse and weather labels",
+    "Battle compact HP glyph"
+  ]
+}

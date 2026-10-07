@@ -1,0 +1,32 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "status": "native-verified-scope-only-not-released",
+  "inlineMenus": [
+    {
+      "name": "castle-battle-actions",
+      "start": "0x2f121",
+      "end": "0x2f14f",
+      "target": "0x236200",
+      "pointerOperand": "0x2f106",
+      "bankOperand": "0x2f10d",
+      "originalBank": "82",
+      "entries": [
+        { "offset": "0x2f12e", "originalHex": "1ac31a19", "source": "突撃", "translation": "突擊" },
+        { "offset": "0x2f149", "originalHex": "1a1dd3b8", "source": "逃げる", "translation": "逃跑", "padding": 2 }
+      ]
+    },
+    {
+      "name": "castle-battle-status",
+      "start": "0x2f0ce",
+      "end": "0x2f0fd",
+      "trailerHex": "021503011603001803",
+      "target": "0x236240",
+      "pointerOperand": "0x2f0b5",
+      "bankOperand": "0x2f0bc",
+      "originalBank": "82",
+      "entries": [
+        { "offset": "0x2f0e7", "originalHex": "1acc", "source": "玉", "translation": "彈" }
+      ]
+    }
+  ]
+}

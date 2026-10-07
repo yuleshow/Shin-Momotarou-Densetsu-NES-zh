@@ -1,0 +1,4622 @@
+{
+  "targetSha256": "8430627185a7bebf8cf369e5c663a70498a26c2cc02f210d93f3a5d89edb74a3",
+  "exactCandidateRecordsVerified": 106,
+  "scenes": [
+    {
+      "name": "main-messages",
+      "firstIndex": 8,
+      "words": [
+        "體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 15,
+      "words": [
+        "身高"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身高": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 22,
+      "words": [
+        "最大體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 27,
+      "words": [
+        "身體"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 35,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "身體": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 102,
+      "words": [
+        "裡面有",
+        "兩"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "裡面有": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "兩": {
+          "frame": "frame-1020.ppm",
+          "x": 78,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 115,
+      "words": [
+        "從",
+        "的袋裡",
+        "取出",
+        "丟掉了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "的袋裡": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "取出": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "丟掉了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 118,
+      "words": [
+        "用盡了力氣"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 26,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "用盡了力氣": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 122,
+      "words": [
+        "只要是你",
+        "一定辦得到",
+        "嗚哈哈"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "只要是你": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "一定辦得到": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "嗚哈哈": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 125,
+      "words": [
+        "沒學過特技"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "沒學過特技": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 130,
+      "words": [
+        "聞氣味"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "聞氣味": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 134,
+      "words": [
+        "叼回來"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "叼回來": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 137,
+      "words": [
+        "空翻"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "空翻": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 140,
+      "words": [
+        "偵察"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "偵察": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 143,
+      "words": [
+        "寶箱數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "寶箱數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 146,
+      "words": [
+        "環視"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "環視": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 149,
+      "words": [
+        "糟了",
+        "旅途記錄消失了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "糟了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "旅途記錄消失了": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 152,
+      "words": [
+        "麻痺次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "麻痺次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 155,
+      "words": [
+        "命令次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "命令次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 158,
+      "words": [
+        "攻擊力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "攻擊力": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 161,
+      "words": [
+        "住宿次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "住宿次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 173,
+      "words": [
+        "戰鬥次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "戰鬥次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 176,
+      "words": [
+        "痛恨一擊次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "痛恨一擊次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 9,
+      "words": [
+        "最大體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 16,
+      "words": [
+        "體重"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "體重": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 23,
+      "words": [
+        "最大技力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 28,
+      "words": [
+        "腳"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "腳": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 107,
+      "words": [
+        "從箱子裡拿出了",
+        "兩"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "從箱子裡拿出了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "兩": {
+          "frame": "frame-1080.ppm",
+          "x": 42,
+          "y": 112
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 116,
+      "words": [
+        "不能丟掉"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不能丟掉": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 120,
+      "words": [
+        "你到底在",
+        "著急些什麼呀",
+        "不是要打倒鬼",
+        "而是要傳達愛與勇氣",
+        "用不著著急呀"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你到底在": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "著急些什麼呀": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不是要打倒鬼": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "而是要傳達愛與勇氣": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "用不著著急呀": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 123,
+      "words": [
+        "的道具袋",
+        "被詛咒了",
+        "打不開"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "的道具袋": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "被詛咒了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "打不開": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 128,
+      "words": [
+        "智慧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "智慧": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 132,
+      "words": [
+        "狗爬式"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 30,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "狗爬式": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 135,
+      "words": [
+        "搜索"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "搜索": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 138,
+      "words": [
+        "找東西"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "找東西": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 141,
+      "words": [
+        "存錢"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 39,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "存錢": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 144,
+      "words": [
+        "望前方"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 7,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "望前方": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 147,
+      "words": [
+        "選哪個"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "選哪個": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 150,
+      "words": [
+        "鼓起勇氣",
+        "再試一次吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "鼓起勇氣": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "再試一次吧": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 153,
+      "words": [
+        "受詛咒次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "受詛咒次數": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 156,
+      "words": [
+        "最大體力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大體力": {
+          "frame": "frame-1080.ppm",
+          "x": 48,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 159,
+      "words": [
+        "防禦力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "防禦力": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 162,
+      "words": [
+        "與人交談次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "與人交談次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 174,
+      "words": [
+        "逃離戰鬥次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "逃離戰鬥次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 178,
+      "words": [
+        "動畫"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "動畫": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 11,
+      "words": [
+        "最大技力"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技力": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 20,
+      "words": [
+        "月之水晶"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "月之水晶": {
+          "frame": "frame-1080.ppm",
+          "x": 40,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 24,
+      "words": [
+        "人氣度"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "人氣度": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 32,
+      "words": [
+        "日"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 27,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "日": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 114,
+      "words": [
+        "丟掉了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "丟掉了": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 117,
+      "words": [
+        "現在沒有動物伙伴"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "現在沒有動物伙伴": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 121,
+      "words": [
+        "再去好好教訓一次吧"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "再去好好教訓一次吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 124,
+      "words": [
+        "現在不能更換"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "現在不能更換": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 129,
+      "words": [
+        "呼叫敵人"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呼叫敵人": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 133,
+      "words": [
+        "尿尿"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "尿尿": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 136,
+      "words": [
+        "在這挖"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "在這挖": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 139,
+      "words": [
+        "呼叫猴子"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呼叫猴子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 142,
+      "words": [
+        "請醫生"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "請醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 145,
+      "words": [
+        "跑腿"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 37,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "跑腿": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 148,
+      "words": [
+        "去哪裡"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "去哪裡": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 151,
+      "words": [
+        "中毒次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "中毒次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 154,
+      "words": [
+        "援助次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "援助次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 157,
+      "words": [
+        "最大技數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 3,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "最大技數": {
+          "frame": "frame-1080.ppm",
+          "x": 48,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 160,
+      "words": [
+        "速度"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 34,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "速度": {
+          "frame": "frame-1080.ppm",
+          "x": 56,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 172,
+      "words": [
+        "懲戒次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 38,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "懲戒次數": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "main-messages",
+      "firstIndex": 175,
+      "words": [
+        "會心一擊次數"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70003",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/common-status-labels-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 40,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "會心一擊次數": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 80
+        }
+      },
+      "category": "common"
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 189,
+      "words": [
+        "呵呵呵",
+        "先生",
+        "你的動作",
+        "看起來只像",
+        "在天空翩翩飛舞的蝴蝶"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/battle-events-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 45,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呵呵呵": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 140,
+          "y": 80
+        },
+        "你的動作": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "看起來只像": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "在天空翩翩飛舞的蝴蝶": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 192,
+      "words": [
+        "呵呵呵",
+        "堅持不懈",
+        "和死纏爛打",
+        "意思可不一樣喔"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/battle-events-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "呵呵呵": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "堅持不懈": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 80
+        },
+        "和死纏爛打": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "意思可不一樣喔": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "prince-and-karura-dialogue",
+      "firstIndex": 200,
+      "words": [
+        "怎麼可能",
+        "荒唐",
+        "騙人的吧",
+        "如此美麗的我",
+        "戰敗",
+        "我不承認",
+        "怎能承認",
+        "要我使用那個術",
+        "這樣的對手",
+        "我從來沒有遇見過",
+        "你們",
+        "究竟",
+        "咿咿咿",
+        "你們讓我亂了方寸",
+        "看阿修羅的渾身絕技",
+        "玫瑰吹雪之術"
+      ],
+      "frames": 16200,
+      "pointerOffset": "0x70051",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/battle-events-remaining.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 247,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "怎麼可能": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "荒唐": {
+          "frame": "frame-1260.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "騙人的吧": {
+          "frame": "frame-1500.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "如此美麗的我": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "戰敗": {
+          "frame": "frame-1980.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "我不承認": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "怎能承認": {
+          "frame": "frame-2460.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "要我使用那個術": {
+          "frame": "frame-2700.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "這樣的對手": {
+          "frame": "frame-2940.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我從來沒有遇見過": {
+          "frame": "frame-3000.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你們": {
+          "frame": "frame-3000.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "究竟": {
+          "frame": "frame-3060.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "咿咿咿": {
+          "frame": "frame-3240.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "你們讓我亂了方寸": {
+          "frame": "frame-3300.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "看阿修羅的渾身絕技": {
+          "frame": "frame-3540.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "玫瑰吹雪之術": {
+          "frame": "frame-3600.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-weight-gate",
+      "firstIndex": 0,
+      "words": [
+        "迦樓羅",
+        "喀喀喀",
+        "沒想到你們",
+        "連阿修羅",
+        "都拉攏過去了",
+        "用了什麼手段",
+        "錢",
+        "女人",
+        "土地",
+        "你為什麼在笑"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x7018f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-weight-gate.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 55,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "喀喀喀": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "沒想到你們": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "連阿修羅": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "都拉攏過去了": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "用了什麼手段": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "錢": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "女人": {
+          "frame": "frame-1680.ppm",
+          "x": 56,
+          "y": 96
+        },
+        "土地": {
+          "frame": "frame-1680.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "你為什麼在笑": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-snow-rescue",
+      "firstIndex": 0,
+      "words": [
+        "啾啾",
+        "有個女人",
+        "倒在雪地裡了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70264",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-snow-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "啾啾": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "有個女人": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "倒在雪地裡了": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 0,
+      "words": [
+        "龍鱗啊",
+        "以我的本領",
+        "能否煎好這藥",
+        "真令人擔心"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "龍鱗啊": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "以我的本領": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "能否煎好這藥": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "真令人擔心": {
+          "frame": "frame-1140.ppm",
+          "x": 116,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "fukuryuu-trial",
+      "firstIndex": 0,
+      "words": [
+        "吼",
+        "欲將吾從永恆沉眠中",
+        "喚醒的渺小之人啊",
+        "吾名伏龍",
+        "遵循古老的訓示",
+        "守護龍鱗之人正是吾",
+        "汝等小小的手中",
+        "可曾掌握真正的男子氣概",
+        "與友情",
+        "若是如此",
+        "就在吾面前",
+        "展現汝等的力量吧"
+      ],
+      "frames": 6600,
+      "pointerOffset": "0x70204",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/fukuryuu-trial.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 83,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "吼": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "欲將吾從永恆沉眠中": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "喚醒的渺小之人啊": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "吾名伏龍": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "遵循古老的訓示": {
+          "frame": "frame-1800.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "守護龍鱗之人正是吾": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "汝等小小的手中": {
+          "frame": "frame-2100.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "可曾掌握真正的男子氣概": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "與友情": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "若是如此": {
+          "frame": "frame-2460.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "就在吾面前": {
+          "frame": "frame-2460.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "展現汝等的力量吧": {
+          "frame": "frame-2520.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 0,
+      "words": [
+        "蛇骨婆",
+        "嘿嘻",
+        "你可來啦",
+        "迦樓羅大人告訴了我",
+        "一件天大的好事啊",
+        "只要吸食人類的鮮血",
+        "鬼族就能返老還童呢",
+        "你的鮮血",
+        "看起來真美味啊"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 66,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "蛇骨婆": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘻": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "你可來啦": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "迦樓羅大人告訴了我": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "一件天大的好事啊": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "只要吸食人類的鮮血": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "鬼族就能返老還童呢": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你的鮮血": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "看起來真美味啊": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-secret-passage",
+      "firstIndex": 0,
+      "words": [
+        "這裡就是密道",
+        "接下來都是毒沼",
+        "要善用浮游之術",
+        "看來迦樓羅正暗中",
+        "設法取得",
+        "水軍的力量",
+        "查到詳情後",
+        "我會再通知你",
+        "不過",
+        "地獄的戒備已變嚴了"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x7021f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-secret-passage.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 59,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "這裡就是密道": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "接下來都是毒沼": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "要善用浮游之術": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "看來迦樓羅正暗中": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "設法取得": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "水軍的力量": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "查到詳情後": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我會再通知你": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "不過": {
+          "frame": "frame-1740.ppm",
+          "x": 116,
+          "y": 104
+        },
+        "地獄的戒備已變嚴了": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-weight-gate",
+      "firstIndex": 2,
+      "words": [
+        "迦樓羅",
+        "什",
+        "什麼",
+        "你說什麼",
+        "不",
+        "不可能",
+        "你們難道",
+        "完全不求回報",
+        "就採取行動嗎",
+        "別開玩笑",
+        "哪有這種傢伙",
+        "那我就來考驗你們",
+        "這扇門設計成",
+        "只要４８公斤的人類或鬼",
+        "站在前面就會打開",
+        "一個人也行",
+        "兩個人",
+        "三個人",
+        "四個人也會開",
+        "體重４８公斤",
+        "動動腦筋再來",
+        "我就替你們開門",
+        "要是你們不能",
+        "真正同心協力",
+        "就解不開這道謎題"
+      ],
+      "frames": 7800,
+      "pointerOffset": "0x7018f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-weight-gate.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 105,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "什": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "什麼": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "你說什麼": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "不": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "不可能": {
+          "frame": "frame-1140.ppm",
+          "x": 56,
+          "y": 112
+        },
+        "你們難道": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "完全不求回報": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就採取行動嗎": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "別開玩笑": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "哪有這種傢伙": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "那我就來考驗你們": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 88
+        },
+        "這扇門設計成": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "只要４８公斤的人類或鬼": {
+          "frame": "frame-2280.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "站在前面就會打開": {
+          "frame": "frame-2340.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "一個人也行": {
+          "frame": "frame-2580.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "兩個人": {
+          "frame": "frame-2580.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "三個人": {
+          "frame": "frame-2640.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "四個人也會開": {
+          "frame": "frame-2700.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "體重４８公斤": {
+          "frame": "frame-2880.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "動動腦筋再來": {
+          "frame": "frame-2940.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我就替你們開門": {
+          "frame": "frame-3000.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要是你們不能": {
+          "frame": "frame-3240.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "真正同心協力": {
+          "frame": "frame-3240.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就解不開這道謎題": {
+          "frame": "frame-3300.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "mashira-pun-contest",
+      "firstIndex": 11,
+      "words": [
+        "拜",
+        "託",
+        "樂",
+        "師",
+        "教",
+        "他",
+        "不",
+        "然",
+        "那",
+        "歌",
+        "喜",
+        "歡",
+        "先生",
+        "沒聽清楚嗎",
+        "我再說一次",
+        "拜託教訓猿樂師吧",
+        "不然我都快要",
+        "喜歡上那首歌啦"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x7012c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/mashira-pun-contest.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 57,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "拜": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "託": {
+          "frame": "frame-1020.ppm",
+          "x": 72,
+          "y": 80
+        },
+        "樂": {
+          "frame": "frame-1080.ppm",
+          "x": 100,
+          "y": 80
+        },
+        "師": {
+          "frame": "frame-1080.ppm",
+          "x": 128,
+          "y": 80
+        },
+        "教": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "他": {
+          "frame": "frame-1080.ppm",
+          "x": 60,
+          "y": 96
+        },
+        "不": {
+          "frame": "frame-1140.ppm",
+          "x": 84,
+          "y": 96
+        },
+        "然": {
+          "frame": "frame-1140.ppm",
+          "x": 112,
+          "y": 96
+        },
+        "那": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "歌": {
+          "frame": "frame-1140.ppm",
+          "x": 60,
+          "y": 112
+        },
+        "喜": {
+          "frame": "frame-1200.ppm",
+          "x": 88,
+          "y": 112
+        },
+        "歡": {
+          "frame": "frame-1200.ppm",
+          "x": 116,
+          "y": 112
+        },
+        "先生": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "沒聽清楚嗎": {
+          "frame": "frame-1440.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "我再說一次": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "拜託教訓猿樂師吧": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "不然我都快要": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "喜歡上那首歌啦": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "mashira-stage-tournament",
+      "firstIndex": 16,
+      "words": [
+        "嘿",
+        "謝謝大家今天又來到",
+        "天使猿樂師與",
+        "藍猴群的舞台",
+        "各位",
+        "今天也要",
+        "留下美好的汗水再回去喔",
+        "在演奏第一首之前",
+        "想不想聽聽",
+        "我輝煌的經歷呀"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x7012f",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/mashira-stage-tournament.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "謝謝大家今天又來到": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "天使猿樂師與": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "藍猴群的舞台": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "各位": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "今天也要": {
+          "frame": "frame-1740.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "留下美好的汗水再回去喔": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "在演奏第一首之前": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "想不想聽聽": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "我輝煌的經歷呀": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 16,
+      "words": [
+        "像我這種小嘍囉",
+        "就算講迦樓羅的壞話也沒事",
+        "大人物可就麻煩了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "像我這種小嘍囉": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就算講迦樓羅的壞話也沒事": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "大人物可就麻煩了": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 16,
+      "words": [
+        "金太郎",
+        "太過分了",
+        "實在太過分",
+        "俺這次可是真的生氣了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "金太郎": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "太過分了": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "實在太過分": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "俺這次可是真的生氣了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "gods-village-hints",
+      "firstIndex": 4,
+      "words": [
+        "嘿",
+        "要好好做人啊",
+        "當政治人物",
+        "１０歲就可以",
+        "投票權要６０歲才有呀"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70198",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/gods-village-hints.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "要好好做人啊": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "當政治人物": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "１０歲就可以": {
+          "frame": "frame-1140.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "投票權要６０歲才有呀": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-snow-rescue",
+      "firstIndex": 4,
+      "words": [
+        "銀次",
+        "是小的",
+        "小的是銀次啊",
+        "果然",
+        "那不好的",
+        "預感成真了嗎",
+        "小的一直心神不寧",
+        "所以追著趕過來了",
+        "先生",
+        "總之",
+        "先把夜叉姬",
+        "送到那邊的旅店去吧"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x70264",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-snow-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 65,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "是小的": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "小的是銀次啊": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "果然": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "那不好的": {
+          "frame": "frame-1320.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "預感成真了嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "小的一直心神不寧": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "所以追著趕過來了": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "先生": {
+          "frame": "frame-1920.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "總之": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "先把夜叉姬": {
+          "frame": "frame-1980.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "送到那邊的旅店去吧": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 4,
+      "words": [
+        "醫生",
+        "唔",
+        "要保住她的命",
+        "恐怕很困難"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 47,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "唔": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "要保住她的命": {
+          "frame": "frame-1260.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "恐怕很困難": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "raijin-companion-rescue",
+      "firstIndex": 4,
+      "words": [
+        "不",
+        "別著急",
+        "只是讓",
+        "大意",
+        "好讓你趁機打倒他"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7020d",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/raijin-companion-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "不": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "別著急": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "只是讓": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "大意": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "好讓你趁機打倒他": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "gods-village-hints",
+      "firstIndex": 1,
+      "words": [
+        "嗚嘻嘻",
+        "我可不會",
+        "加入人氣不高的人",
+        "所帶領的隊伍",
+        "你現在的",
+        "人氣是",
+        "嗎"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70198",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/gods-village-hints.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 49,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嗚嘻嘻": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我可不會": {
+          "frame": "frame-1080.ppm",
+          "x": 92,
+          "y": 80
+        },
+        "加入人氣不高的人": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "所帶領的隊伍": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你現在的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "人氣是": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "嗎": {
+          "frame": "frame-1380.ppm",
+          "x": 78,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "castle-interior-companions",
+      "firstIndex": 97,
+      "words": [
+        "唔",
+        "俺",
+        "會努力不睡著"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7015c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/castle-interior-companions.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "唔": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "俺": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "會努力不睡著": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "castle-interior-companions",
+      "firstIndex": 75,
+      "words": [
+        "俺也想和",
+        "先生一起討伐鬼族呀",
+        "啊啵"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7015c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/castle-interior-companions.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "俺也想和": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "先生一起討伐鬼族呀": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "啊啵": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 5,
+      "words": [
+        "銀次",
+        "先生",
+        "是我呀",
+        "我問過不少人",
+        "但大家都不太清楚",
+        "鬼族的身體呀",
+        "不過",
+        "前面有個",
+        "叫伏龍洞窟的地方",
+        "聽說呀",
+        "只要取來那裡伏龍的",
+        "鱗片煎成藥喝",
+        "就能治好她"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 67,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "是我呀": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "我問過不少人": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "但大家都不太清楚": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鬼族的身體呀": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "不過": {
+          "frame": "frame-1620.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "前面有個": {
+          "frame": "frame-1620.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "叫伏龍洞窟的地方": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "聽說呀": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "只要取來那裡伏龍的": {
+          "frame": "frame-1980.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "鱗片煎成藥喝": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "就能治好她": {
+          "frame": "frame-2040.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-prince-and-prisoners",
+      "firstIndex": 5,
+      "words": [
+        "夜叉姬",
+        "達伊達哥哥",
+        "快清醒過來吧",
+        "現在的地獄走錯路了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70207",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prince-and-prisoners.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 48,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "達伊達哥哥": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "快清醒過來吧": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "現在的地獄走錯路了": {
+          "frame": "frame-1380.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 5,
+      "words": [
+        "迦樓羅",
+        "人類這些傢伙",
+        "最適合待在毒沼裡了"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 41,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "人類這些傢伙": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "最適合待在毒沼裡了": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 6,
+      "words": [
+        "醫生",
+        "喔",
+        "先生",
+        "難道您要去伏龍洞窟",
+        "據說去過那裡的人",
+        "沒有一個能活著回來"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 47,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "喔": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "難道您要去伏龍洞窟": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "據說去過那裡的人": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "沒有一個能活著回來": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 6,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "不了解本大爺野心的",
+        "那些傢伙",
+        "全都是螻蟻",
+        "閻魔",
+        "伐折羅",
+        "夜叉",
+        "阿闍世",
+        "阿修羅",
+        "風神",
+        "雷神",
+        "醜女",
+        "酒吞童子",
+        "浦島",
+        "金太郎",
+        "還有那個可悲的",
+        "不知自己愚蠢的",
+        "你們這群螻蟻",
+        "全都狼狽地死去吧"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 78,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "不了解本大爺野心的": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "那些傢伙": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "全都是螻蟻": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "閻魔": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "伐折羅": {
+          "frame": "frame-1680.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "夜叉": {
+          "frame": "frame-1680.ppm",
+          "x": 128,
+          "y": 96
+        },
+        "阿闍世": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "阿修羅": {
+          "frame": "frame-1740.ppm",
+          "x": 80,
+          "y": 104
+        },
+        "風神": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "雷神": {
+          "frame": "frame-1800.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "醜女": {
+          "frame": "frame-1800.ppm",
+          "x": 104,
+          "y": 112
+        },
+        "酒吞童子": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 104
+        },
+        "浦島": {
+          "frame": "frame-2040.ppm",
+          "x": 104,
+          "y": 104
+        },
+        "金太郎": {
+          "frame": "frame-2040.ppm",
+          "x": 140,
+          "y": 104
+        },
+        "還有那個可悲的": {
+          "frame": "frame-2100.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "不知自己愚蠢的": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "你們這群螻蟻": {
+          "frame": "frame-2400.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "全都狼狽地死去吧": {
+          "frame": "frame-2460.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 7,
+      "words": [
+        "銀次",
+        "先生",
+        "您當然",
+        "會去",
+        "對吧",
+        "這才像您嘛",
+        "伏龍洞窟",
+        "我記得就在這裡",
+        "東南方的山谷裡",
+        "快去一趟",
+        "把那個什麼龍鱗",
+        "給找出來吧",
+        "我也來幫忙"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 74,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "您當然": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "會去": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "對吧": {
+          "frame": "frame-1140.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "這才像您嘛": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "伏龍洞窟": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我記得就在這裡": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "東南方的山谷裡": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "快去一趟": {
+          "frame": "frame-1860.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "把那個什麼龍鱗": {
+          "frame": "frame-1920.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "給找出來吧": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "我也來幫忙": {
+          "frame": "frame-2220.ppm",
+          "x": 44,
+          "y": 80
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-prince-and-prisoners",
+      "firstIndex": 7,
+      "words": [
+        "達伊達王子",
+        "看來你們並不了解",
+        "迦樓羅所追求的鬼族世界",
+        "要是我們沒有力量",
+        "人類就會高高在上",
+        "鬼族就只能任人踐踏",
+        "就算不是人類",
+        "也會有其他動物凌駕鬼族",
+        "這麼簡單的道理",
+        "你們怎麼就是不明白",
+        "戰鬥吧"
+      ],
+      "frames": 6000,
+      "pointerOffset": "0x70207",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prince-and-prisoners.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 76,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "達伊達王子": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "看來你們並不了解": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "迦樓羅所追求的鬼族世界": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要是我們沒有力量": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "人類就會高高在上": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "鬼族就只能任人踐踏": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就算不是人類": {
+          "frame": "frame-1740.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "也會有其他動物凌駕鬼族": {
+          "frame": "frame-1860.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "這麼簡單的道理": {
+          "frame": "frame-2040.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "你們怎麼就是不明白": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "戰鬥吧": {
+          "frame": "frame-2340.ppm",
+          "x": 44,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 7,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "聽得見嗎",
+        "待在毒沼的滋味如何",
+        "現在再讓你們看看",
+        "更有趣的東西",
+        "右魂鬼",
+        "左魂鬼",
+        "去給那些蠢貨",
+        "最後一擊吧"
+      ],
+      "frames": 4800,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 55,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "聽得見嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "待在毒沼的滋味如何": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "現在再讓你們看看": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "更有趣的東西": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "右魂鬼": {
+          "frame": "frame-1680.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "左魂鬼": {
+          "frame": "frame-1680.ppm",
+          "x": 92,
+          "y": 112
+        },
+        "去給那些蠢貨": {
+          "frame": "frame-1740.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "最後一擊吧": {
+          "frame": "frame-1800.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "yashahime-dragon-scale-treatment",
+      "firstIndex": 8,
+      "words": [
+        "醫生",
+        "先生",
+        "您無論如何",
+        "都要去伏龍洞窟是吧",
+        "那麼",
+        "至少",
+        "把這個帶上吧"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70093",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/yashahime-dragon-scale-treatment.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 49,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "醫生": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "先生": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "您無論如何": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "都要去伏龍洞窟是吧": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "那麼": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "至少": {
+          "frame": "frame-1380.ppm",
+          "x": 80,
+          "y": 96
+        },
+        "把這個帶上吧": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "raijin-companion-rescue",
+      "firstIndex": 8,
+      "words": [
+        "嘿嘿嘿",
+        "來吧",
+        "雷神啊",
+        "打倒",
+        "吧",
+        "只要打倒",
+        "我保證會替閻魔王",
+        "向伐折羅王大人求情"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x7020d",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/raijin-companion-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 50,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "嘿嘿嘿": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "來吧": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "雷神啊": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "吧": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "打倒": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "只要打倒": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我保證會替閻魔王": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "向伐折羅王大人求情": {
+          "frame": "frame-1500.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 26,
+      "words": [
+        "木屐",
+        "木屐木屐木屐",
+        "要不要買木屐呀",
+        "要不要拿你的糖塑",
+        "和我的木屐",
+        "交換一下呢"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 49,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "木屐": {
+          "frame": "frame-1020.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "木屐木屐木屐": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "要不要買木屐呀": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "要不要拿你的糖塑": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "和我的木屐": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "交換一下呢": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 27,
+      "words": [
+        "你哪裡有糖塑呀",
+        "真過分",
+        "你真的有心討伐鬼族嗎"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 44,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "你哪裡有糖塑呀": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "真過分": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "你真的有心討伐鬼族嗎": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "snow-country-barter",
+      "firstIndex": 30,
+      "words": [
+        "調查了雪人",
+        "發現雪人",
+        "似乎稍微動了一下",
+        "唔",
+        "是",
+        "嗎",
+        "快救俺出去",
+        "冷得身體都不能動了",
+        "打碎了雪人",
+        "把金太郎拉了出來"
+      ],
+      "frames": 5400,
+      "pointerOffset": "0x70147",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/snow-country-barter.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 66,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "調查了雪人": {
+          "frame": "frame-1080.ppm",
+          "x": 68,
+          "y": 80
+        },
+        "發現雪人": {
+          "frame": "frame-1260.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "似乎稍微動了一下": {
+          "frame": "frame-1320.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "唔": {
+          "frame": "frame-1560.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "是": {
+          "frame": "frame-1560.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "嗎": {
+          "frame": "frame-1560.ppm",
+          "x": 128,
+          "y": 112
+        },
+        "快救俺出去": {
+          "frame": "frame-1620.ppm",
+          "x": 32,
+          "y": 104
+        },
+        "冷得身體都不能動了": {
+          "frame": "frame-1680.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "打碎了雪人": {
+          "frame": "frame-1920.ppm",
+          "x": 68,
+          "y": 96
+        },
+        "把金太郎拉了出來": {
+          "frame": "frame-1980.ppm",
+          "x": 32,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-prince-and-prisoners",
+      "firstIndex": 14,
+      "words": [
+        "您還記得嗎",
+        "我是以前",
+        "在花咲村",
+        "被",
+        "先生",
+        "打倒的銀鬼啊",
+        "閻魔大人出事以後",
+        "我不肯當迦樓羅的部下",
+        "就落得這個下場了"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x70207",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prince-and-prisoners.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 52,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "您還記得嗎": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "我是以前": {
+          "frame": "frame-1080.ppm",
+          "x": 116,
+          "y": 80
+        },
+        "在花咲村": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "被": {
+          "frame": "frame-1140.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "先生": {
+          "frame": "frame-1140.ppm",
+          "x": 140,
+          "y": 96
+        },
+        "打倒的銀鬼啊": {
+          "frame": "frame-1200.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "閻魔大人出事以後": {
+          "frame": "frame-1380.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我不肯當迦樓羅的部下": {
+          "frame": "frame-1440.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "就落得這個下場了": {
+          "frame": "frame-1560.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "raijin-companion-rescue",
+      "firstIndex": 9,
+      "words": [
+        "洗清閻魔大人的污名",
+        "就是我的心願",
+        "原諒我"
+      ],
+      "frames": 4200,
+      "pointerOffset": "0x7020d",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/raijin-companion-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 48,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "洗清閻魔大人的污名": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 80
+        },
+        "就是我的心願": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "原諒我": {
+          "frame": "frame-1320.ppm",
+          "x": 44,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 9,
+      "words": [
+        "右魂鬼",
+        "咕嚕嚕嚕嚕"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 32,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "右魂鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "咕嚕嚕嚕嚕": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 3,
+      "words": [
+        "迦樓羅",
+        "嘿嘿嘿",
+        "海中",
+        "山中",
+        "地上",
+        "天空",
+        "河川",
+        "森林",
+        "火中",
+        "水中",
+        "風中",
+        "蠢動掙扎的數億",
+        "徘徊之魂啊",
+        "此刻就聚集到我身上",
+        "一同揭開狂亂與毀滅的",
+        "盛宴吧",
+        "讓現世那些",
+        "鬱鬱度日的愚蠢",
+        "行屍走肉們",
+        "也分到詛咒",
+        "毀滅",
+        "以及你們所承受的",
+        "痛苦吧",
+        "出來吧",
+        "我的魂魄",
+        "右魂鬼",
+        "左魂鬼"
+      ],
+      "frames": 8400,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 124,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "迦樓羅": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘿嘿嘿": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "海中": {
+          "frame": "frame-2100.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "山中": {
+          "frame": "frame-2100.ppm",
+          "x": 80,
+          "y": 112
+        },
+        "地上": {
+          "frame": "frame-2160.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "天空": {
+          "frame": "frame-2160.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "河川": {
+          "frame": "frame-2160.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "森林": {
+          "frame": "frame-2220.ppm",
+          "x": 104,
+          "y": 96
+        },
+        "火中": {
+          "frame": "frame-2220.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "水中": {
+          "frame": "frame-2220.ppm",
+          "x": 68,
+          "y": 112
+        },
+        "風中": {
+          "frame": "frame-2280.ppm",
+          "x": 104,
+          "y": 112
+        },
+        "蠢動掙扎的數億": {
+          "frame": "frame-2460.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "徘徊之魂啊": {
+          "frame": "frame-2520.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "此刻就聚集到我身上": {
+          "frame": "frame-2760.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "一同揭開狂亂與毀滅的": {
+          "frame": "frame-2820.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "毀滅": {
+          "frame": "frame-2820.ppm",
+          "x": 116,
+          "y": 96
+        },
+        "盛宴吧": {
+          "frame": "frame-2880.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "讓現世那些": {
+          "frame": "frame-3060.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "鬱鬱度日的愚蠢": {
+          "frame": "frame-3120.ppm",
+          "x": 32,
+          "y": 96
+        },
+        "行屍走肉們": {
+          "frame": "frame-3180.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "也分到詛咒": {
+          "frame": "frame-3360.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "以及你們所承受的": {
+          "frame": "frame-3420.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "痛苦吧": {
+          "frame": "frame-3480.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "出來吧": {
+          "frame": "frame-3660.ppm",
+          "x": 44,
+          "y": 112
+        },
+        "我的魂魄": {
+          "frame": "frame-3720.ppm",
+          "x": 92,
+          "y": 96
+        },
+        "右魂鬼": {
+          "frame": "frame-3720.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "左魂鬼": {
+          "frame": "frame-3780.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "karura-soul-summoning",
+      "firstIndex": 10,
+      "words": [
+        "左魂鬼",
+        "嘎嚕嚕嚕嚕"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x70210",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/karura-soul-summoning.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 32,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "左魂鬼": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "嘎嚕嚕嚕嚕": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 18,
+      "words": [
+        "夜叉姬",
+        "迦樓羅",
+        "我再也不會原諒你"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 42,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "夜叉姬": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "迦樓羅": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "我再也不會原諒你": {
+          "frame": "frame-1140.ppm",
+          "x": 32,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    },
+    {
+      "name": "hell-prison-rescue",
+      "firstIndex": 20,
+      "words": [
+        "銀次",
+        "怎麼會這樣",
+        "小的",
+        "再也"
+      ],
+      "frames": 3600,
+      "pointerOffset": "0x7021c",
+      "screenshotIds": [],
+      "mappings": [
+        {
+          "file": "translations/hell-prison-rescue.draft.zh-Hant.json",
+          "reason": "supplemental section"
+        }
+      ],
+      "changedFrames": 43,
+      "originalRelocationFramesIdentical": true,
+      "renderedWords": {
+        "銀次": {
+          "frame": "frame-1020.ppm",
+          "x": 32,
+          "y": 80
+        },
+        "怎麼會這樣": {
+          "frame": "frame-1080.ppm",
+          "x": 44,
+          "y": 96
+        },
+        "小的": {
+          "frame": "frame-1080.ppm",
+          "x": 32,
+          "y": 112
+        },
+        "再也": {
+          "frame": "frame-1080.ppm",
+          "x": 80,
+          "y": 112
+        }
+      },
+      "category": "screenshot"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pointerOffset": "0x70036",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "credits-role-labels",
+  "sourceType": 1,
+  "decodedBytes": 855,
+  "complete": false,
+  "status": "source-reviewed-draft-only",
+  "reviewNotes": [
+    "All 93 non-empty original credit records visually reviewed. Select 14 records containing role labels that need localization, including the two combined role/name lines. Names on those two lines retain their identity, using Traditional Chinese glyph forms.",
+    "Preserve the other 79 non-empty records, including personal-name-only entries, already intelligible Han role labels, both original 1993 copyright notices and the spacing record. Preserve the empty record 0. Do not replace kana pen names with guessed legal-name kanji.",
+    "No new translation credits or copyright claims are added. Native title-credit and ending-credit layout and timing remain to be verified."
+  ],
+  "records": {
+    "3": "原畫 土居孝幸",
+    "4": "音樂 關口和之",
+    "15": "原畫",
+    "17": "音樂",
+    "25": "遊戲設計",
+    "35": "製作進度",
+    "37": "技術人員",
+    "56": "宣傳",
+    "59": "技術支援",
+    "82": "總監",
+    "83": "製作人",
+    "91": "程式",
+    "92": "設計",
+    "93": "音效"
+  }
+}

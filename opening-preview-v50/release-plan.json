@@ -1,0 +1,10 @@
+{
+  "version": "v50",
+  "scope": "font-alignment-preview",
+  "baseDirectory": "opening-preview-v48",
+  "translationBaseDirectory": "opening-preview-v49",
+  "manifest": "translations/font-alignment-v50.release.json",
+  "addedIndexedEntries": 0,
+  "glyphAlignment": "baseline",
+  "drafts": ["translations/common-status-labels-remaining.draft.zh-Hant.json"]
+}

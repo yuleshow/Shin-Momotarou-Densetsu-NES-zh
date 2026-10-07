@@ -1,0 +1,103 @@
+{
+  "targetSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "baselineSha256": "62f0c3e37d589cc54c25819e446d9c9f19e9192d29797b483c53e14def7b27b9",
+  "fixtureSha256": "00d8a2c0e200e08d96ddf2804a3b20d31751a54e51ef00fe4e54a0c9ba957dc3",
+  "defaultNameCases": [
+    {
+      "name": "default-pochi",
+      "index": 23,
+      "address": 15669,
+      "hex": "04e7a000",
+      "translated": true,
+      "label": "波奇",
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "custom-suffix",
+      "index": 23,
+      "address": 15669,
+      "hex": "04e7a0a000",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "custom-name",
+      "index": 23,
+      "address": 15669,
+      "hex": "0495969700",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "other-character",
+      "index": 24,
+      "address": 15675,
+      "hex": "04e7a000",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "default-monta",
+      "index": 24,
+      "address": 15675,
+      "hex": "04b2bd9f00",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "default-kiko",
+      "index": 25,
+      "address": 15681,
+      "hex": "0496809900",
+      "translated": true,
+      "label": "琪可",
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "kiko-custom-suffix",
+      "index": 25,
+      "address": 15681,
+      "hex": "049680999900",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "kiko-custom-name",
+      "index": 25,
+      "address": 15681,
+      "hex": "0495969700",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    },
+    {
+      "name": "kiko-other-character",
+      "index": 23,
+      "address": 15669,
+      "hex": "0496809900",
+      "translated": false,
+      "passed": true,
+      "nameRamUnchanged": true,
+      "outsideNamePixelsIdentical": true
+    }
+  ],
+  "fixtureUnchanged": true,
+  "limitations": [
+    "Scoped native dynamic-name probes, not all menus, natural battles, naming input or physical-device boot."
+  ]
+}

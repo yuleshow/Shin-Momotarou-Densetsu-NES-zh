@@ -1,0 +1,18 @@
+{
+  "pointerOffset": "0x700cc",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "mizuame-stall",
+  "decodedBytes": 179,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All five original glyph records reviewed. Preserve the 30 ryo price, duplicate sales pitch and original line endings; use the existing 麥芽糖 item name."
+  ],
+  "records": {
+    "0": "「黏稠又香甜的麥芽糖，\n要不要來一份？３０兩喔！」\n",
+    "1": "「黏稠又香甜的麥芽糖，\n非常好吃喔！」\n",
+    "2": "「您的錢不夠喔！\n去討伐鬼族賺些錢，\n再來吧，[02a0]先生！」",
+    "3": "「來！小心別滴下來，\n慢慢吃喔！很好吃的！」\n",
+    "4": "「黏稠又香甜的麥芽糖，\n非常好吃喔！」\n"
+  }
+}

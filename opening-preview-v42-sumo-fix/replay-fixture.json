@@ -1,0 +1,31 @@
+{
+  "synthetic": true,
+  "source": "local slot18 battle",
+  "changes": [
+    {
+      "address": "7E156A",
+      "from": 13,
+      "to": 2
+    },
+    {
+      "address": "7E19D6",
+      "from": 13,
+      "to": 2
+    },
+    {
+      "address": "7E1A16",
+      "from": 3,
+      "to": 30
+    }
+  ],
+  "deviceWrites": false,
+  "preSumoState": "/tmp/momotaro-sumo-direct-fixture-v2/sumo-command/state.bin",
+  "preSumoStateSha256": "8ef009ba8941711351a13480de676ed7a8dd573c4fa3287d5c64cbb44929dfe6",
+  "preparationInputs": [
+    "300 frames: 30:3:a,120:3:a",
+    "300 frames: 30:3:b"
+  ],
+  "runtimeCheats": [],
+  "runnerSha256": "f82b8e371c0d1622e62535c7cfe5c1a7df46b564b5e43582a81a6693f5d57755",
+  "coreSha256": "3b9a28bbb2b6c203ad06845cde7b8414186dcf20a80ce2eec86d9489424a40ef"
+}

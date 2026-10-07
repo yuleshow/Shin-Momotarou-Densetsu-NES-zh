@@ -1,0 +1,11 @@
+{
+  "version": "v64",
+  "baseDirectory": "verification/moon-labels-v63",
+  "manifest": "translations/fixed-nicknames-v64.release.json",
+  "addedIndexedEntries": 27,
+  "drafts": [
+    "translations/character-labels-remaining.draft.zh-Hant.json"
+  ],
+  "status": "source-reviewed-pending-native-verification",
+  "scope": "Phonetic localization of fixed ROM nickname labels 29-55 only. Default animal names, player-customized storage, suggested-name copying and keyboard mappings are unchanged."
+}

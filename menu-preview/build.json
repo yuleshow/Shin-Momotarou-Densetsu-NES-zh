@@ -1,0 +1,55 @@
+{
+  "status": "partial-menu-proof-of-concept",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "ed11c16a28fffcf4883f88daf97d0964c1d8e4e074c9f061a4a329358530eb45",
+  "fontSha256": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4",
+  "font": "momotaro-NotoSansCJKtc-Regular.otf",
+  "glyphs": [
+    {
+      "character": "無",
+      "code": "1bc0"
+    },
+    {
+      "character": "存",
+      "code": "1bc1"
+    },
+    {
+      "character": "檔",
+      "code": "1bc2"
+    },
+    {
+      "character": "繼",
+      "code": "1bc3"
+    },
+    {
+      "character": "續",
+      "code": "1bc4"
+    },
+    {
+      "character": "開",
+      "code": "1bc5"
+    },
+    {
+      "character": "始",
+      "code": "1bc6"
+    },
+    {
+      "character": "複",
+      "code": "1bc7"
+    },
+    {
+      "character": "製",
+      "code": "1bc8"
+    },
+    {
+      "character": "刪",
+      "code": "1bc9"
+    },
+    {
+      "character": "除",
+      "code": "1bca"
+    }
+  ],
+  "checksum": "f292",
+  "newFontGroupOffset": "20cd98"
+}

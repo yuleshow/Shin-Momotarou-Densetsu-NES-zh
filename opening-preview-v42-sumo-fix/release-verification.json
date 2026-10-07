@@ -1,0 +1,83 @@
+{
+  "status": "deployed-rom-readback-and-protected-files-verified",
+  "version": "v42-sumo-fix",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "baseSha256": "f28e1a47b4b4534ce3f38dff0bae92d92080db96b6b2e355f051a5eab4642b78",
+  "targetSha256": "598c791126d88360435c4c37e5d3c06b8902a1f95d8ded12add8b5d8596c604a",
+  "changedOffsets": [
+    65500,
+    65501,
+    65502,
+    65503,
+    2343204,
+    2343205,
+    2343206,
+    2343207,
+    2343208,
+    2343209,
+    2343210,
+    2343211,
+    2343212
+  ],
+  "callbackTable": "27e98227e98227e982",
+  "callbackSourceRange": [
+    "0x2e91e",
+    "0x2e927"
+  ],
+  "callbackTargetRange": [
+    "0x23c124",
+    "0x23c12d"
+  ],
+  "ipsAppliedTo": "Japanese Rev 1 original ROM, not an already patched ROM",
+  "ipsRoundtripPassed": true,
+  "checksumPassed": true,
+  "nonCallbackAndChecksumBytesIdenticalToV42": true,
+  "translationsAndFontUnchanged": true,
+  "welcomeStillDisplays": "v42",
+  "nativeRuns": 18,
+  "nativeReport": "verification.json",
+  "fixture": "replay-fixture.json",
+  "originalAndTranslatedActions": [
+    "B2",
+    "B3",
+    "B4"
+  ],
+  "cancelledMenuReopened": true,
+  "oldFailureReproduced": true,
+  "codecChecksPassed": [
+    "inspect-rom self-test",
+    "font-codec verify (1111 glyphs)",
+    "text-codec self-test",
+    "text-codec verify-fixtures (166 fixtures)",
+    "build-menu-patch self-test"
+  ],
+  "fullMenuSuiteRerun": false,
+  "priorV42Verification": "../opening-preview-v42/release-verification.json",
+  "limitations": [
+    "Synthetic battle fixture with actor identity and level changed locally",
+    "Battle HP progression checked, not every technique effect or damage formula",
+    "No complete playthrough or physical device validation"
+  ],
+  "deviceWrites": true,
+  "artifactSha256": {
+    "FONT-LICENSE.txt": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+    "build.json": "5775582df86488d99fd96488cf3bee833c60d516ac31e12ef3f754bdaa09dc8a",
+    "opening-zh-Hant.ips": "6ffe6fa197ec257c5fcd210edf46bca6a944bd379ed4240b5e57a2be59c91fb1",
+    "opening-zh-Hant.sfc": "598c791126d88360435c4c37e5d3c06b8902a1f95d8ded12add8b5d8596c604a",
+    "replay-fixture.json": "f2cde212be7eb8c1fa4c8fc0fd567271b47f1611ac8ed4ce307ca7aec8955761",
+    "resolved-translation-manifest.json": "c2412aa9aed69c092582c87537651f984f39838aded8581552f671633a924829",
+    "sumo-regression.png": "f2997b0ca06022cd2f2a6de6592161d84b4c1116a67754e519dfe556524fad52",
+    "verification.json": "9dc79b0c07ce2dd44db0530772dbad09798ae9996fad108ef13c33e328e409e3"
+  },
+  "device": {
+    "deployed": true,
+    "version": "v42-sumo-fix",
+    "sha256": "598c791126d88360435c4c37e5d3c06b8902a1f95d8ded12add8b5d8596c604a",
+    "fullReadbackVerified": true,
+    "deploymentReport": "deployment-verification.json",
+    "savesWritten": false,
+    "cheatsWritten": false,
+    "screenshotsDeleted": 0,
+    "physicalDeviceBootVerified": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": "v61",
+  "baseDirectory": "opening-preview-v60",
+  "manifest": "translations/remaining-v61.release.json",
+  "addedIndexedEntries": 11,
+  "drafts": [
+    "translations/battle-messages-remaining.draft.zh-Hant.json",
+    "translations/boss-battle-final-message.draft.zh-Hant.json"
+  ],
+  "status": "source-reviewed-pending-native-verification",
+  "scope": "Remaining mixed-language battle diagnostic strings; no completion claim for other unselected records."
+}

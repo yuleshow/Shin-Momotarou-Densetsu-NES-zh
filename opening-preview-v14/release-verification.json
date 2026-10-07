@@ -1,0 +1,36 @@
+{
+  "targetSha256": "9a5529f4f360d89ab4da6fedc38dbc28711016bffd0e84f244d68835a7d3fed3",
+  "deployed": true,
+  "deviceVersion": "v14",
+  "deviceSha256": "9a5529f4f360d89ab4da6fedc38dbc28711016bffd0e84f244d68835a7d3fed3",
+  "deviceReadbackVerified": true,
+  "relatedDeviceRomCount": 1,
+  "removedRelatedScreenshots": 10,
+  "remainingRelatedScreenshots": 0,
+  "saveChangedDuringVerification": true,
+  "saveFilesWrittenByDeployment": false,
+  "saveFilesRestored": false,
+  "additionalRecordsSinceV13": 56,
+  "glyphs": 1341,
+  "glyphCapacity": 1600,
+  "dialogueScenes": 92,
+  "exactWords": 152,
+  "fullMenuRegressionPassed": true,
+  "codecGatePassed": true,
+  "indexedCoverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 771,
+    "untranslatedRecords": 7017,
+    "emptyRecords": 82
+  },
+  "scope": "Known indexed text table only; inline menus, image text and undiscovered text are not included.",
+  "actualStoryRouteVerified": false,
+  "unverified": [
+    "Full playthrough and actual companion naming, item exchanges and evacuation events",
+    "Complete proofreading of proper names and contextual dialogue, including the restaurant name",
+    "Physical device boot of this build"
+  ]
+}

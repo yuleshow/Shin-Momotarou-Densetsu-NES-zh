@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x70060",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "festival-water-balloon",
+  "decodedBytes": 65,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "records": {
+    "0": "「越下面的水球，\n就越難釣到喔！\n那麼，開始吧！」[0b]",
+    "1": "呱\n呱呱\n呱呱呱",
+    "2": "「隨時再來玩喔！[0b]"
+  }
+}

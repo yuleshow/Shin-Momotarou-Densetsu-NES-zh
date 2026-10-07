@@ -1,0 +1,207 @@
+{
+  "status": "partial-menu-opening-and-first-dialogue",
+  "romFilename": "opening-zh-Hant.sfc",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "targetSha256": "14e8ed708885b7abfbfa65022164b8b0274d00d2fa3560efb450de0623c7df87",
+  "fontSha256": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4",
+  "font": "momotaro-NotoSansCJKtc-Regular.otf",
+  "glyphs": [
+    {
+      "character": "無",
+      "code": "1bc0"
+    },
+    {
+      "character": "存",
+      "code": "1bc1"
+    },
+    {
+      "character": "檔",
+      "code": "1bc2"
+    },
+    {
+      "character": "繼",
+      "code": "1bc3"
+    },
+    {
+      "character": "續",
+      "code": "1bc4"
+    },
+    {
+      "character": "開",
+      "code": "1bc5"
+    },
+    {
+      "character": "始",
+      "code": "1bc6"
+    },
+    {
+      "character": "複",
+      "code": "1bc7"
+    },
+    {
+      "character": "製",
+      "code": "1bc8"
+    },
+    {
+      "character": "刪",
+      "code": "1bc9"
+    },
+    {
+      "character": "除",
+      "code": "1bca"
+    },
+    {
+      "character": "在",
+      "code": "1bcb"
+    },
+    {
+      "character": "鬼",
+      "code": "1bcc"
+    },
+    {
+      "character": "島",
+      "code": "1bcd"
+    },
+    {
+      "character": "懲",
+      "code": "1bce"
+    },
+    {
+      "character": "治",
+      "code": "1bcf"
+    },
+    {
+      "character": "閻",
+      "code": "1bd0"
+    },
+    {
+      "character": "魔",
+      "code": "1bd1"
+    },
+    {
+      "character": "後",
+      "code": "1bd2"
+    },
+    {
+      "character": "，",
+      "code": "1bd3"
+    },
+    {
+      "character": "已",
+      "code": "1bd4"
+    },
+    {
+      "character": "經",
+      "code": "1bd5"
+    },
+    {
+      "character": "過",
+      "code": "1bd6"
+    },
+    {
+      "character": "了",
+      "code": "1bd7"
+    },
+    {
+      "character": "六",
+      "code": "1bd8"
+    },
+    {
+      "character": "年",
+      "code": "1bd9"
+    },
+    {
+      "character": "…",
+      "code": "1bda"
+    },
+    {
+      "character": "迦",
+      "code": "1bdb"
+    },
+    {
+      "character": "樓",
+      "code": "1bdc"
+    },
+    {
+      "character": "羅",
+      "code": "1bdd"
+    },
+    {
+      "character": "嘿",
+      "code": "1bde"
+    },
+    {
+      "character": "伐",
+      "code": "1bdf"
+    },
+    {
+      "character": "折",
+      "code": "1be0"
+    },
+    {
+      "character": "王",
+      "code": "1be1"
+    },
+    {
+      "character": "大",
+      "code": "1be2"
+    },
+    {
+      "character": "人",
+      "code": "1be3"
+    },
+    {
+      "character": "請",
+      "code": "1be4"
+    },
+    {
+      "character": "看",
+      "code": "1be5"
+    },
+    {
+      "character": "我",
+      "code": "1be6"
+    },
+    {
+      "character": "的",
+      "code": "1be7"
+    },
+    {
+      "character": "面",
+      "code": "1be8"
+    },
+    {
+      "character": "子",
+      "code": "1be9"
+    },
+    {
+      "character": "上",
+      "code": "1bea"
+    },
+    {
+      "character": "饒",
+      "code": "1beb"
+    },
+    {
+      "character": "恕",
+      "code": "1bec"
+    },
+    {
+      "character": "吧",
+      "code": "1bed"
+    }
+  ],
+  "checksum": "6aaf",
+  "newFontGroupOffset": "20cd98",
+  "opening": {
+    "translated": true,
+    "pointerOffset": "0x702c4",
+    "sourceStart": 682801,
+    "originalDecodedBytes": 1428,
+    "originalParagraphBytes": 141,
+    "replacementParagraphBytes": 143,
+    "suffixPreserved": true,
+    "relocatedOffset": "0x220000",
+    "compressedBytes": 1609
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "version": "v21",
+  "status": "deployed-readback-verified-screenshots-removed",
+  "targetSha256": "413ed9d937a94a9783e31caa0efb33c0c818f723f5f673a011ba3b3d2eea504f",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "addedIndexedRecordsSinceV20": 18,
+  "glyphs": 1487,
+  "glyphCapacity": 1600,
+  "coverage": {
+    "blocks": 249,
+    "extractedBlocks": 249,
+    "reviewBlocks": 0,
+    "extractedRecords": 7870,
+    "translatedRecords": 1022,
+    "untranslatedRecords": 6766,
+    "emptyRecords": 82
+  },
+  "translatedScope": {
+    "inventoryMessages": 8,
+    "chestMessages": 5,
+    "itemDescriptions": 2,
+    "enemyNames": 2,
+    "itemNames": 1
+  },
+  "screenshots": [
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-201941.png",
+      "source": "0x7000f:11,15",
+      "subject": "Spirit and spider enemy names",
+      "sha256": "8019024a6f46552c8e0c4ef8545f3470c042f2bb14f5fc778a9e90dd4368a667"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203704.png",
+      "source": "0x70039:73;0x70015:131",
+      "subject": "Digging tool acquired",
+      "sha256": "338fc3816a34e919cb78da0ecad3580c3c445fca024966167d06917c1d2a6c64"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203745.png",
+      "source": "0x7003c:147",
+      "subject": "Digging tool description",
+      "sha256": "5a416bb50c7cfc8e1128a66d92045ba16a141ae94002e85bf4c97c04c5da01ec"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203828.png",
+      "source": "0x70039:67",
+      "subject": "Full inventory",
+      "sha256": "bd3baaa42420eadfce2d7723ffb91a2df613ba49a60a91b5675b6137f1bc7fc3"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203845.png",
+      "source": "0x70003:105",
+      "subject": "Antidote taken from chest",
+      "sha256": "b56689b7ba802ef23c6d02410a6f015db603bd6bcc9d65b2e8a86b9540c3500c"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-203918.png",
+      "source": "0x70039:67",
+      "subject": "Full inventory",
+      "sha256": "e8523be87a39d1a097bee0ceb9ff4d03ca777311ef52f79fdf97a62116d5788b"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-204735.png",
+      "source": "0x70039:67",
+      "subject": "Full inventory",
+      "sha256": "47ba2135980d408c0473da576dca697203b162e4ef421e356f92b1504a5f28e0"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-204738.png",
+      "source": "0x70039:68",
+      "subject": "Discard prompt",
+      "sha256": "88d700bb25521a0db9a43fe236c18b7bf6bdf221634ff9d54b5894d7c2dcac4e"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-204831.png",
+      "source": "0x70039:67",
+      "subject": "Full inventory",
+      "sha256": "b6644895eb234b474e90ac839410c1effcae0a787d306f6a63c3fe410092a03f"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210337.png",
+      "source": "0x7003c:186",
+      "subject": "Cannot use here",
+      "sha256": "a00c3f85f598be4635e06c46d2b8d1aa96b06d25a3944b73064a88361530a1fd"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210525.png",
+      "source": "0x70039:73;0x70015:131",
+      "subject": "Digging tool acquired",
+      "sha256": "0d00d74d58a9b5d9ded985f5fcf331da2e4878553ac12f71fb7b24700f668b29"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210637.png",
+      "source": "0x7003c:147",
+      "subject": "Digging tool description",
+      "sha256": "1ef0030028d627fae22c0447488e8e5e4f2f3f6912e05147f5deacbcfc0ef2ef"
+    },
+    {
+      "filename": "Shin Momotarou Densetsu (Traditional Chinese)-260930-210646.png",
+      "source": "0x7003c:147",
+      "subject": "Digging tool description",
+      "sha256": "a4b3dc15e3a9ed1b14bb05cda0747e65a88937e3f66668188c16b819b4068acd"
+    }
+  ],
+  "screenshotReview": "Local Vision OCR matched to original ROM glyphs and indexed records; emulator notifications excluded.",
+  "verification": {
+    "dialogueScenes": 24,
+    "exactDialogueWords": 34,
+    "dialogueSuitePartial": true,
+    "newlyAddedMessageCases": 15,
+    "sourceControlFramesIdentical": true,
+    "unselectedMainRecordsUnchanged": true,
+    "dynamicNameAndItemControlsPreserved": true,
+    "fullMenuSuitePassed": true,
+    "welcomePassed": true,
+    "codecSuitePassed": true,
+    "newNameIndexesAndSyntheticLayoutsPassed": true,
+    "localSlot15ConversationPassed": true
+  },
+  "device": {
+    "deployed": true,
+    "verifiedVersion": "v21",
+    "sha256": "413ed9d937a94a9783e31caa0efb33c0c818f723f5f673a011ba3b3d2eea504f",
+    "fullReadbackVerified": true,
+    "deploymentReport": "deployment-verification.json",
+    "screenshotsDeleted": 13,
+    "remainingRelatedScreenshots": 0,
+    "unchangedSaveFiles": 39,
+    "savesWritten": false
+  },
+  "notVerified": [
+    "Full playthrough",
+    "Physical device boot",
+    "Actual new enemy battles",
+    "Natural full-inventory discard and chest-reward flows",
+    "Digging-tool gameplay effects"
+  ]
+}

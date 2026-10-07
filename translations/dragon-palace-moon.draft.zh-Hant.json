@@ -1,0 +1,13 @@
+{
+  "pointerOffset": "0x702a3",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "dragon-palace-moon",
+  "target": "0x2c5000",
+  "decodedBytes": 992,
+  "complete": false,
+  "records": {
+    "0": "乙姬\n「掌管龍宮的\n海神啊！」\n「請讓我們跨越波浪吧！」\n\n",
+    "1": "乙姬\n「請前往\n月亮吧！」\n「聽說寧靜村裡，\n住著一條\n名叫臥龍的龍！」\n「我聽說只要能夠\n通過臥龍的試煉，\n就能得到月之鏡。」\n「這扇門，\n我會一直為各位敞開！\n祝你們平安！」",
+    "10": "「乙姬大人！\n您在哪裡啊！」\n"
+  }
+}

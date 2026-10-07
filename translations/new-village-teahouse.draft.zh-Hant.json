@@ -1,0 +1,22 @@
+{
+  "pointerOffset": "0x70114",
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "name": "new-village-teahouse",
+  "decodedBytes": 499,
+  "complete": true,
+  "status": "source-reviewed-pending-build-and-native-verification",
+  "reviewNotes": [
+    "All eight source glyph records reviewed. Preserve the black-kappa cucumber hint, the village beyond Oni Claw Marks and cooperation between humans and rebels against Enma.",
+    "Use existing 新村 and 鬼爪痕 place names; the food gift and hero-name positions retain original control order."
+  ],
+  "records": {
+    "0": "「對付黑河童很辛苦吧！\n不過牠們的心可不少！\n戰鬥也能學到不少東西呢！」",
+    "1": "「啾啾！穿過鬼爪痕後，\n有一座名叫新村的村子，\n正在興建呢！」\n「受到閻魔大人壓迫的鬼，\n終於，\n挺身而出了呢！」",
+    "2": "「啾啾！是[02a0]先生呀！\n黑河童啊，\n最喜歡小黃瓜了！」",
+    "3": "「[02a0]先生！\n穿過鬼爪痕後的地方，\n新村就快要蓋好了呢！」\n「而且，真令人高興呀！\n那是人類和鬼族，\n同心協力建造的村子喔！」",
+    "4": "「這間茶店賣的小黃瓜，\n真的很好吃呢！\n都城的順安也肯收購吧？」\n「[02a0]先生也，\n請吃一根吧！」\n",
+    "5": "「啊！配著醃菜，\n大口大口吃飯吧！」\n",
+    "6": "「啾啾！新村！\n聽起來多麼光明呀！\n大家都要好好珍惜它呢！」",
+    "7": "「啾啾！但願新村，\n不會遭到迦樓羅的，\n破壞呀！」"
+  }
+}
