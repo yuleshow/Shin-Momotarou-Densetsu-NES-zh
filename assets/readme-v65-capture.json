@@ -1,0 +1,82 @@
+{
+  "version": "v65",
+  "romSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "runnerSha256": "03604e23be9d0ad9bb1786661ed95656ecbc559b140a6ca9b70d36369a7b09f8",
+  "coreSha256": "241473252322eb9e9d5c9d419c26fc7abc9d6a42a875c6d2805ecae5c0b327e3",
+  "captureMethod": "Fresh reset followed only by scheduled joypad input; subsequent states were produced by this same clean run.",
+  "cheatsEnabled": false,
+  "environmentVariablesRemoved": [
+    "MOMOTARO_CHEATS",
+    "MOMOTARO_TRACE"
+  ],
+  "externalSaveLoaded": false,
+  "romModified": false,
+  "ramModified": false,
+  "deviceFilesAccessed": false,
+  "scale": {
+    "factor": 2,
+    "filter": "point",
+    "width": 512,
+    "height": 448
+  },
+  "steps": [
+    {
+      "id": "boot",
+      "frames": 1380,
+      "inputs": "30:3:start,1201:2:start",
+      "parent": null,
+      "outputStateSha256": "7e3db563770849fad8bb3e1c90962b6631cdfd519d619f976ff3b5f82d8a57cf",
+      "inputStateSha256": null
+    },
+    {
+      "id": "opening",
+      "frames": 24000,
+      "inputs": "1:2:a",
+      "parent": "boot",
+      "outputStateSha256": "6edf669a00d2ce7c7b06affe1c8705d79a10f3b32abf9ef5ba31e4d671dd53b3",
+      "inputStateSha256": "7e3db563770849fad8bb3e1c90962b6631cdfd519d619f976ff3b5f82d8a57cf"
+    },
+    {
+      "id": "menu",
+      "frames": 180,
+      "inputs": "30:3:a,90:3:a",
+      "parent": "opening",
+      "outputStateSha256": "84e904ee07e59a048512ef953f56e5fbcc97d9bebf438025bebaf6fa104219f8",
+      "inputStateSha256": "6edf669a00d2ce7c7b06affe1c8705d79a10f3b32abf9ef5ba31e4d671dd53b3"
+    }
+  ],
+  "images": [
+    {
+      "step": "boot",
+      "frame": 1380,
+      "name": "title",
+      "file": "assets/readme-v65-title.png",
+      "sourceFrameSha256": "57a3a10f3d2787044755e524fdcca3a4b9a82c5f0f297813ba2e53dc6c78c436",
+      "sha256": "4f75a34f1000cd74c1e5a28c0cf40f77fe1f0be0cadc6416339d827cc07a34ea"
+    },
+    {
+      "step": "opening",
+      "frame": 3600,
+      "name": "opening",
+      "file": "assets/readme-v65-opening.png",
+      "sourceFrameSha256": "e28eff7c5673473f86dfba88d7a0dacfa03b0121b2ef04bfc5823b1a105fc7ec",
+      "sha256": "2a4af8b5879d5749ffabcf1cef061264e81670c268dab1573c91be1c702ddbea"
+    },
+    {
+      "step": "opening",
+      "frame": 24000,
+      "name": "moon-palace",
+      "file": "assets/readme-v65-moon-palace.png",
+      "sourceFrameSha256": "eca9f4330d09029841ca10240fc27020c74aa23cdb3d8251295d68cc7923eb32",
+      "sha256": "3f8878892c29685b2594df24b3b724499705f82253027ec300262ede13590978"
+    },
+    {
+      "step": "menu",
+      "frame": 180,
+      "name": "field-menu",
+      "file": "assets/readme-v65-field-menu.png",
+      "sourceFrameSha256": "fb1685ec187aa65568bfb32a3038ab09ab356c06ad4b6e10b8381c7548f34530",
+      "sha256": "c3b4b67b5d7502a54187b7b518b97b864bc8975c8c2a11fc94d8586d88836084"
+    }
+  ]
+}
