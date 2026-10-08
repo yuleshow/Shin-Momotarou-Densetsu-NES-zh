@@ -1,0 +1,57 @@
+{
+  "baselineDirectory": "opening-preview-v65",
+  "status": "source-reviewed-runtime-followup-pending",
+  "countsAsAdditionalTranslations": false,
+  "sameTextLabels": {
+    "0x70000": {"0": "桃太郎", "54": "道具袋"},
+    "0x70003": {
+      "3": "段", "4": "心", "5": "位", "6": "回", "7": "心", "10": "技",
+      "17": "Kg", "18": "Cm", "19": "／", "21": "時間", "25": "武器", "26": "頭",
+      "30": " 段", "31": "段", "33": "（", "34": "）", "35": "伐折羅王",
+      "127": "好奇心", "163": "＋", "164": "新月", "166": "上弦", "167": "下弦",
+      "170": "十六夜", "177": "金", "179": "段"
+    },
+    "0x70009": {
+      "1": "桃太郎", "2": "金太郎", "3": "浦島", "6": "風神", "7": "雷神", "13": "銀次",
+      "21": "分身", "56": "    ", "57": "玉一", "58": "花子", "59": "兵太郎",
+      "60": "竹丸", "61": "小太郎", "62": "源太", "64": "牛太", "66": "福太",
+      "68": "沙夜", "69": "綾", "70": "龍兵", "71": "菊五郎", "73": "嵐", "74": "前次郎"
+    },
+    "0x7000c": {
+      "12": "大砲", "22": "雷雨", "25": "段", "27": "技", "32": "心", "34": "／",
+      "52": "70度", "53": "80度", "54": "90度", "58": "79", "59": "89", "60": "99",
+      "70": "3", "71": "6", "72": "9", "73": "12", "74": "18", "75": "24",
+      "88": "2", "89": "11", "91": "武器", "92": "頭"
+    }
+  },
+  "fixedNameDrafts": {
+    "0x70009": {
+      "63": {"sourceHex": "19b1", "source": "静", "translation": "靜"},
+      "67": {"sourceHex": "19f319a7", "source": "奈々", "translation": "奈奈"},
+      "72": {"sourceHex": "18c0194e", "source": "岩鉄", "translation": "岩鐵"}
+    }
+  },
+  "retainedDefaultAnimalLabels": {
+    "0x70009": {"22": "ポチ", "23": "モンタ", "24": "キーコ"}
+  },
+  "fragmentsNeedingCallerReview": {
+    "0x70000": {
+      "7": "ちゃ！」", "10": "ももたろう", "11": "あたえた", "23": "まえ", "28": "なか",
+      "29": "ありがとうございま", "30": "たから", "33": "おきゃく", "34": "「おお！",
+      "35": "ポイントの", "37": "ください", "38": "きんたろう", "43": "うらしま",
+      "49": "お客さん！", "50": "ごようで？」", "51": "いただきます", "52": "ございますか？",
+      "53": "「どなたが ", "55": " 道具袋が", "56": "なりますか？", "57": " きょうは "
+    },
+    "0x70003": {"100": "ももたろ"},
+    "0x70048": {"11": "END [09][09] かばわれる [09][09][0f]"}
+  },
+  "chartFragments": {"pointerOffset": "0x70003", "firstIndex": 36, "lastIndex": 99},
+  "limitations": [
+    "Source labels describe visible text only; their original dynamic controls and font-mode prefixes must remain intact.",
+    "Same-text retention does not add translations or claim all runtime callers were exercised.",
+    "Chart classification requires reviewChartFragmentCallers to verify actual released ROM writes.",
+    "Default animal dynamic display hooks do not prove all fixed-label callers use Chinese; keep these three records open for caller review.",
+    "Fragments are transcribed for caller review, not standalone translation proposals. In particular, たから can be a causal suffix rather than the noun treasure.",
+    "This inventory excludes keyboard/answer implementation and protected data; those still belong to the integrated completion effort."
+  ]
+}

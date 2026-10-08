@@ -3,8 +3,52 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
-import { catalog } from './text-catalog.mjs';
+import { catalog, splitRecords } from './text-catalog.mjs';
 import { isGlyphPrefix } from './chinese-font.mjs';
+import { commandChartLabels, familyChartLabels, patchCommandChart } from './chart-labels.mjs';
+import { patchDefaultMonta, patchDefaultPochi, patchDefaultKiko } from './default-names.mjs';
+
+export function reviewDefaultNameCallers(source, target, characters) {
+  const expected = Buffer.alloc(target.length, 0xff);
+  source.copy(expected);
+  const definitions = [patchDefaultMonta, patchDefaultPochi, patchDefaultKiko].map(patch => patch(source, expected, characters));
+  const writes = new Map(definitions.flatMap(definition => definition.writes.map(write => [write.offset, write.hex])));
+  for (const [offset, hex] of writes) {
+    assert.equal(target.subarray(offset, offset + hex.length / 2).toString('hex'), hex,
+      `Default-name display hook differs at ${offset.toString(16)}`);
+  }
+  assert.equal(source.subarray(0x4ae06, 0x4ae18).toString('hex'), '04e7a000000004b2bd9f0000049680990000');
+  assert.deepEqual(target.subarray(0x4ae06, 0x4ae18), source.subarray(0x4ae06, 0x4ae18));
+  assert.deepEqual(target.subarray(0x4ae7e, 0x4aeb1), source.subarray(0x4ae7e, 0x4aeb1));
+  return definitions.map(definition => {
+    const dispatchIndex = [0x7e3d41, 0x7e3d3b, 0x7e3d35].indexOf(definition.nameAddress);
+    assert.equal(source[0x4ae89 + dispatchIndex], 4);
+    assert.equal(source.readUIntLE(0x4ae94 + dispatchIndex * 3, 3), definition.nameAddress);
+    return { pointerOffset: '0x70009', index: source[0x4ae7e + dispatchIndex] - 1,
+      disposition: 'preserve-fallback-known-dynamic-default-localized', label: definition.label,
+      nameAddress: definition.nameAddress, originalHex: definition.originalHex,
+      knownDisplayHookVerified: true, initialNamesUnchanged: true, allNativeCallersVerified: false,
+      countedAsNewTranslation: false };
+  }).sort((first, second) => first.index - second.index);
+}
+
+export function reviewChartFragmentCallers(source, target, characters) {
+  const expected = Buffer.alloc(target.length, 0xff);
+  source.copy(expected);
+  const chart = patchCommandChart(source, expected, characters, { familyChart: true });
+  for (const write of chart.writes) {
+    const bytes = Buffer.from(write.hex, 'hex');
+    assert.deepEqual(target.subarray(write.offset, write.offset + bytes.length), bytes,
+      `Released chart differs at ${write.offset.toString(16)}`);
+  }
+  const labels = [...commandChartLabels, ...familyChartLabels];
+  const indexes = [...new Set(labels.flatMap(label => label.indexes))].sort((first, second) => first - second);
+  assert.deepEqual(indexes, Array.from({ length: 64 }, (_, index) => index + 36));
+  return indexes.map(index => ({ pointerOffset: '0x70003', index,
+    disposition: 'preserve-shared-source-known-chart-callers-localized',
+    localizedLabels: labels.filter(label => label.indexes.includes(index)).map(label => label.text.trim()),
+    knownChartWritesVerified: true, allNativeCallersVerified: false, countedAsNewTranslation: false }));
+}
 
 export function dictionaryReferences(bytes) {
   const references = [];
@@ -20,6 +64,66 @@ export function dictionaryReferences(bytes) {
     }
   }
   return references;
+}
+
+export function reviewResidualFragmentCallers(source, target, manifest, opening, inventory, metadata) {
+  const review = reviewRemainingText(source, manifest, opening);
+  const dictionary = review.tables.find(table => table.pointerOffset === '0x70000');
+  const records = [];
+  for (const [pointerOffset, entries] of Object.entries(inventory.fragmentsNeedingCallerReview)) {
+    const table = review.tables.find(table => table.pointerOffset === pointerOffset);
+    assert.ok(table, `Missing residual table: ${pointerOffset}`);
+    const start = target.readUIntLE(Number(pointerOffset), 3) - 0xc00000;
+    assert.ok(start >= 0 && start < target.length && target[start] === 0, 'Residual table must use raw indexed records');
+    const sourceStart = source.readUIntLE(Number(pointerOffset), 3) - 0xc00000;
+    const block = [...(metadata?.nameBlocks ?? []), ...(metadata?.textBlocks ?? [])]
+      .find(block => Number(block.sourceStart) === sourceStart && Number(block.relocatedOffset) === start);
+    const commonMenu = pointerOffset === '0x70003' && start === 0x210000;
+    assert.ok(start === sourceStart || block || commonMenu, 'Relocated residual table requires exact build metadata');
+    let end = block ? start + 1 + block.decodedBytes : source.readUIntLE(Number(pointerOffset) + 3, 3) - 0xc00000;
+    if (commonMenu) {
+      assert.equal(sourceStart, 0x704f2);
+      assert.equal(end, 0x70a0a);
+      end = start + end - sourceStart + manifest.entries.reduce((difference, entry) => {
+        const replacementBytes = entry.segments
+          ? entry.segments.reduce((length, segment) => length + (segment.hex ? segment.hex.length / 2 : [...segment.text].length * 2), 0)
+          : [...entry.translation].length * 2;
+        return difference + replacementBytes - entry.originalHex.length / 2;
+      }, 0);
+    }
+    const current = splitRecords(target.subarray(start + 1, end));
+    for (const [index, text] of Object.entries(entries)) {
+      const record = table.records.find(record => record.index === Number(index));
+      assert.ok(record, `Residual record is no longer unselected: ${pointerOffset}:${index}`);
+      assert.equal(current[record.index].originalHex, record.originalHex, 'Preserved residual fragment changed');
+      const visited = new Set();
+      const roots = new Map();
+      const visit = fragment => {
+        if (visited.has(fragment.index)) return;
+        visited.add(fragment.index);
+        for (const caller of fragment.retainedIndexedCallers ?? []) {
+          if (caller.pointerOffset !== '0x70000') roots.set(`${caller.pointerOffset}:${caller.index}`, caller);
+          else {
+            const parent = dictionary.records.find(entry => entry.index === caller.index);
+            assert.ok(parent, 'Translated dictionary caller requires explicit effective-record tracing');
+            visit(parent);
+          }
+        }
+      };
+      if (pointerOffset === '0x70000') visit(record);
+      records.push({ pointerOffset, index: record.index, source: text, originalHex: record.originalHex,
+        disposition: pointerOffset === '0x70000' ? 'preserve-fragment-indexed-callers-reviewed' : 'preserve-label-direct-callers-pending',
+        sourceIndexedCallerCount: record.sourceIndexedCallers?.length,
+        retainedIndexedCallers: record.retainedIndexedCallers,
+        retainedNonDictionaryRoots: pointerOffset === '0x70000' ? [...roots.values()] : undefined,
+        preservedBytesVerified: true, nativeDirectCallersVerified: false, countedAsNewTranslation: false });
+    }
+  }
+  assert.equal(records.length, 23);
+  return { status: 'indexed-callers-reviewed-native-direct-callers-pending', records,
+    completeTranslation: false, countedAsNewTranslation: false,
+    limitations: ['Retained indexed roots include nested dictionary references, but exclude native-generated strings, inline scripts and opening-script references.',
+      'No retained indexed root does not establish that a fragment is globally unused. Original bytes remain preserved.'] };
 }
 
 function remainingWorkKind(block, record, blocks) {

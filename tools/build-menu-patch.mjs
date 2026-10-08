@@ -12,6 +12,8 @@ import { installWelcomeScreen, welcomeOffset } from './welcome-screen.mjs';
 import { commandChartLabels, familyChartLabels, patchCommandChart } from './chart-labels.mjs';
 import { encodeInlineLabel } from './inline-text.mjs';
 import { patchDefaultMonta, patchDefaultPochi, patchDefaultKiko } from './default-names.mjs';
+import { patchEnglishNameEntry } from './english-name-entry.mjs';
+import { patchChineseNameQuiz } from './name-quiz.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const manifestPath = path.resolve(process.env.MOMOTARO_MANIFEST ?? path.join(root, 'translations/menu.zh-Hant.json'));
@@ -213,6 +215,10 @@ function patchBattleStatusFont(source, target, font, hpRows) {
 
 function build(source, font, opening, translateOpening = true, welcome) {
   assert.equal(createHash('sha256').update(source).digest('hex'), manifest.sourceSha256, 'Unsupported source ROM');
+  assert.ok(manifest.chineseNameQuizExperimental === undefined || typeof manifest.chineseNameQuizExperimental === 'boolean');
+  assert.ok(!manifest.chineseNameQuizExperimental || manifest.englishNameEntryExperimental, 'Chinese quiz requires experimental English naming');
+  const quizDraft = manifest.chineseNameQuizExperimental
+    ? JSON.parse(fs.readFileSync(path.join(root, 'translations/name-quiz.zh-Hant.json'))) : undefined;
   const sections = opening ? [opening, ...(opening.continuation ?? [])] : [];
   const textBlocks = [...(manifest.textBlocks ?? []), ...(manifest.textDrafts ?? []).map(filename =>
     compileTextDraft(source, JSON.parse(fs.readFileSync(path.join(root, 'translations', filename)))))];
@@ -256,6 +262,7 @@ function build(source, font, opening, translateOpening = true, welcome) {
     ...(manifest.defaultPochi ? ['波', '奇'] : []),
     ...(manifest.defaultKiko ? ['琪', '可'] : []),
     ...textBlocks.flatMap(block => block.entries.flatMap(entry => entry.segments.flatMap(segment => [...(segment.text ?? '')]))),
+    ...(quizDraft?.questions ?? []).flatMap(question => [...question.clue, ...question.answer]),
   ])];
   assert.ok(characters.length <= chineseGlyphCapacity, 'Chinese font capacity exceeded');
   const groupCount = Math.ceil(characters.length / 64);
@@ -443,9 +450,20 @@ function build(source, font, opening, translateOpening = true, welcome) {
   const defaultPochi = manifest.defaultPochi ? patchDefaultPochi(source, target, characters) : undefined;
   assert.ok(!manifest.defaultKiko || manifest.defaultPochi, 'Default Kiko requires the Pochi display hook');
   const defaultKiko = manifest.defaultKiko ? patchDefaultKiko(source, target, characters) : undefined;
+  assert.ok(manifest.englishNameEntryExperimental === undefined || typeof manifest.englishNameEntryExperimental === 'boolean');
+  const englishNameEntry = manifest.englishNameEntryExperimental ? patchEnglishNameEntry(source, target) : undefined;
+  if (englishNameEntry) {
+    const keyboardBlock = nameBlockReports.find(block => block.sourceStart === source.readUIntLE(0x70033, 3) - 0xc00000);
+    assert.ok(keyboardBlock, 'English keyboard requires its indexed text block in the manifest');
+    keyboardBlock.relocatedOffset = `0x${englishNameEntry.textOffset.toString(16)}`;
+    keyboardBlock.decodedBytes = englishNameEntry.textBytes - 1;
+    keyboardBlock.storedBytes = englishNameEntry.textBytes;
+    keyboardBlock.englishKeyboardRows = englishNameEntry.replacedRowIndexes;
+  }
+  const chineseNameQuiz = quizDraft ? patchChineseNameQuiz(source, target, characters, quizDraft) : undefined;
   const welcomeScreen = welcome ? installWelcomeScreen(target, { ...welcome, font }) : undefined;
   const sum = checksum(target);
-  return { target, characters, checksum: sum, newGroup, groupCount, openingReport, nameBlockReports, welcomeScreen, compactHpFont, battleStatusFont, commandChart, defaultMonta, defaultPochi, defaultKiko };
+  return { target, characters, checksum: sum, newGroup, groupCount, openingReport, nameBlockReports, welcomeScreen, compactHpFont, battleStatusFont, commandChart, defaultMonta, defaultPochi, defaultKiko, englishNameEntry, chineseNameQuiz };
 }
 
 const [command, font, destination, openingPath, cover, version] = process.argv.slice(2);
@@ -559,7 +577,9 @@ if (command === 'self-test') {
     assert.equal(preview.status, 0, preview.stderr?.toString() || 'Welcome preview conversion failed');
   }
   fs.writeFileSync(path.join(destination, 'build.json'), JSON.stringify({
-    status: command === 'build-roundtrip' ? 'opening-roundtrip-control' : opening?.status ?? manifest.status,
+    status: result.chineseNameQuiz ? 'experimental-english-input-chinese-quiz-not-release-verified'
+      : result.englishNameEntry ? 'experimental-english-input-not-release-verified'
+      : command === 'build-roundtrip' ? 'opening-roundtrip-control' : opening?.status ?? manifest.status,
     manifestPath,
     romFilename: `${prefix}.sfc`,
     sourceSha256: manifest.sourceSha256,
@@ -584,6 +604,8 @@ if (command === 'self-test') {
     defaultMonta: result.defaultMonta,
     defaultPochi: result.defaultPochi,
     defaultKiko: result.defaultKiko,
+    englishNameEntry: result.englishNameEntry,
+    chineseNameQuiz: result.chineseNameQuiz,
   }, null, 2));
   console.log(`Built ${prefix} and verified IPS patch in ${destination}`);
 } else {

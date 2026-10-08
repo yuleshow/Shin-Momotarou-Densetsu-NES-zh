@@ -11,7 +11,7 @@
 | 尚未收錄 | 662 筆，包含輸入字表、保留欄位及技術資料 |
 | 中文字形 | 2,660 個 |
 | 發布驗證 | 23 項發布工作、164 項測試、301 個原生文字場景通過 |
-| 尚未完成 | 中文命名輸入、完整自然流程與通關驗證、實體裝置啟動確認 |
+| 尚未完成 | 英文命名與中文選擇題整合、完整自然流程與通關驗證、實體裝置啟動確認 |
 
 索引比例**不是整體遊戲完成度**，未收錄記錄也不等於同等數量的未譯對話。這仍是持續開發中的中文化版本。
 
@@ -25,9 +25,22 @@
 
 **已由 v56 升級為 v65，4 MiB 裝置 ROM 完整回讀相符。** 舊 v56 ROM、405 個存檔及兩份作弊檔均已[備份](opening-preview-v65/deployment-backup/backup-manifest.json)。存檔與作弊設定保持原雜湊，包含新錄影在內的全部 215 個截圖目錄項目保留，刪除數為零。[部署紀錄](opening-preview-v65/deployment-verification.json)與[獨立複核](opening-preview-v65/deployment-audit.json)確認 448 個發布檔案、所有受保護檔案及備份均相符。先前因錄影仍在寫入而中斷的備份也另外保留，未覆蓋退出遊戲後的新檔案。
 
-請完全退出遊戲／核心後重新啟動，歡迎畫面應顯示 **v65**。即時存檔會略過歡迎畫面，其中已繪製的舊文字需重新開啟對話／選單才會更新。尚未確認實體裝置啟動；中文命名輸入、自然事件流程及完整通關仍待驗證。下方舊版本的「未安裝」及裝置版本敘述是當時紀錄，現況以上方 v65 部署驗證為準。
+請完全退出遊戲／核心後重新啟動，歡迎畫面應顯示 **v65**。即時存檔會略過歡迎畫面，其中已繪製的舊文字需重新開啟對話／選單才會更新。尚未確認實體裝置啟動；英文命名改版、自然事件流程及完整通關仍待驗證。下方舊版本的「未安裝」及裝置版本敘述是當時紀錄，現況以上方 v65 部署驗證為準。
 
 ![v65 歡迎畫面](opening-preview-v65/welcome-preview.png)
+
+## 整合開發候選（未發布）
+
+後續採用英文姓名輸入，不擴充存檔格式；原作五字日文讀音測驗已接入中文選擇題候選，完整流程仍在驗證。v65 仍是正式版本。
+
+- [本機實驗 ROM](verification/remaining-completion/experimental-quiz-build-v7/opening-zh-Hant.sfc)與 [IPS](verification/remaining-completion/experimental-quiz-build-v7/opening-zh-Hant.ips)包含三筆固定姓名修正、實驗英文鍵盤及中文選擇題。**自然命名畫面、測驗整輪流程與最終獎勵尚未驗證，不應取代正式版。** 此候選未封裝新版歡迎畫面；路徑中的 v7 是實驗修訂序號，不是發布版本。
+- [逐筆文字審核](translations/remaining-source-review.json)：164 筆分為同文保留 71 筆、已核對中文圖表用途 64 筆、預設動物名稱替代用途 3 筆、姓名修正 3 筆，以及仍需追蹤的片段 23 筆。保留與分類不計入新增翻譯。
+- [片段索引追蹤](verification/remaining-completion/residual-fragment-callers.json)已核對 23 筆的保留位元組與巢狀索引引用；未找到現有索引譯句的引用根節點，不代表已排除原生直接呼叫。[整合選單回歸](verification/remaining-completion/integrated-menu-verification.json)通過，完整發布回歸仍未完成。
+- [姓名原生文字驗證](verification/remaining-completion/fixed-name-dialogue.json)通過 48 個測試場景；[英文按鍵驗證](verification/remaining-completion/english-input-native.json)通過 36 鍵、12 種模式與 144 次容量取樣。均為局部測試，非自然流程證明。
+- [完整姓名存檔驗證](verification/remaining-completion/name-storage-native.json)涵蓋三槽的全英文、英日混合與原有姓名，共九組、每組 11 個永久姓名；原生存讀檔、六方向複製、逐槽刪除及九次未掛鉤候選冷啟動均通過。存檔來自合成測試狀態；自然命名、存檔／複製／刪除選單及舊姓名字形仍未驗證。
+- [中文選擇題資料](translations/name-quiz.zh-Hant.json)保留 44 個原抽題位置。[原生驗證](verification/remaining-completion/chinese-quiz-native.json)通過全部題目與答案像素、220 次作答／取消，以及原事件答對加 10 分、答錯／取消不加分的處理；姓名與 SRAM 不變。測試使用人工事件入口，不代表自然場景或整輪測驗已完成。
+
+建置工具的 `englishNameEntryExperimental: true` 與 `chineseNameQuizExperimental: true` 僅供明確啟用的實驗 manifest 使用，會將產物標示為未發布驗證；原有 v65 manifest 不啟用這些選項。舊有 2,660 個字碼保留，新候選只追加三個字形。完整狀態見[整合計畫](translations/remaining-completion.plan.json)，本機 `verification` 產物不會上傳 GitHub。
 
 ## 遊戲畫面
 
@@ -122,7 +135,7 @@ MOMOTARO_MANIFEST=opening-preview-v65/resolved-translation-manifest.json \
 
 ## 已知限制
 
-- 中文命名輸入尚未實作完成。原作姓名欄位的單位元組容量已建立測試基準，不代表可直接輸入中文字。
+- 命名改版採用英文字母、數字與空格，不提供中文輸入，也不擴充存檔格式。實驗候選的自然命名畫面及所有存讀檔流程仍待驗證。
 - 原生測試包含合成場景，未涵蓋所有自然事件分支、動態姓名與數值上限、完整商店交易或通關流程。
 - 畫面逐像素相符只能支持顯示驗證，不能單獨證明譯意正確。v65 已修正 v64 的「アオマヤ」誤讀，譯為「阿歐瑪亞」。
 - 部署回讀通過不等於實體裝置啟動已確認；目前沒有完整實機遊玩驗證。

@@ -3,6 +3,7 @@
 #include <cstdarg>
 #include <cstdio>
 #include <cstdlib>
+#include <cstring>
 #include <filesystem>
 #include <fstream>
 #include <iostream>
@@ -166,6 +167,15 @@ int main(int argc, char **argv) {
         const retro_game_info game = {argv[2], rom.data(), rom.size(), nullptr};
         if (!symbol<decltype(&retro_load_game)>(library, "retro_load_game")(&game)) throw std::runtime_error("Core rejected ROM");
         symbol<decltype(&retro_set_controller_port_device)>(library, "retro_set_controller_port_device")(0, RETRO_DEVICE_JOYPAD);
+        const auto memory = symbol<decltype(&retro_get_memory_data)>(library, "retro_get_memory_data");
+        const auto memorySize = symbol<decltype(&retro_get_memory_size)>(library, "retro_get_memory_size");
+        if (const char *saveFile = std::getenv("MOMOTARO_SRAM_FILE")) {
+            if (argc == 7) throw std::runtime_error("SRAM input cannot be combined with an emulator state");
+            const auto save = readBytes(saveFile);
+            const auto size = memorySize(RETRO_MEMORY_SAVE_RAM);
+            if (!size || !memory(RETRO_MEMORY_SAVE_RAM) || save.size() != size) throw std::runtime_error("SRAM size does not match ROM");
+            std::memcpy(memory(RETRO_MEMORY_SAVE_RAM), save.data(), size);
+        }
         if (argc == 7) {
             const auto state = readBytes(argv[6]);
             if (!symbol<decltype(&retro_unserialize)>(library, "retro_unserialize")(state.data(), state.size())) throw std::runtime_error("Core rejected state");
@@ -181,8 +191,6 @@ int main(int argc, char **argv) {
             }
         }
         const auto run = symbol<decltype(&retro_run)>(library, "retro_run");
-        const auto memory = symbol<decltype(&retro_get_memory_data)>(library, "retro_get_memory_data");
-        const auto memorySize = symbol<decltype(&retro_get_memory_size)>(library, "retro_get_memory_size");
         for (currentFrame = 1; currentFrame <= lastFrame; currentFrame++) {
             run();
             if (currentFrame % captureInterval == 0 || currentFrame == lastFrame) {
@@ -196,6 +204,8 @@ int main(int argc, char **argv) {
         std::vector<char> state(stateSize);
         if (!symbol<decltype(&retro_serialize)>(library, "retro_serialize")(state.data(), state.size())) throw std::runtime_error("State capture failed");
         writeBytes(output / "state.bin", state.data(), state.size());
+        const auto saveSize = memorySize(RETRO_MEMORY_SAVE_RAM);
+        if (saveSize && memory(RETRO_MEMORY_SAVE_RAM)) writeBytes(output / "sram.bin", memory(RETRO_MEMORY_SAVE_RAM), saveSize);
         symbol<decltype(&retro_unload_game)>(library, "retro_unload_game")();
         symbol<decltype(&retro_deinit)>(library, "retro_deinit")();
         dlclose(library);

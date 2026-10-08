@@ -166,7 +166,7 @@ for (const [name, count, complete = true] of [
   ['shared-dictionary-remaining', 35, false],
   ['boss-battle-final-message', 2, false],
   ['battle-command-labels-remaining', 62, false],
-  ['character-labels-remaining', 45, false],
+  ['character-labels-remaining', 48, false],
   ['common-status-labels-remaining', 69, false],
   ['item-readings-remaining', 142, false],
   ['equipment-readings-remaining', 166, false],
@@ -734,8 +734,14 @@ test('character labels reuse story names without changing default animal names',
   for (const index of [1, 2, 3, 6, 7, 13, 21, 22, 23, 24]) assert.ok(!Object.hasOwn(draft.records, index));
   assert.equal(source.records[8].originalHex, '0496bde2df03');
   assert.equal(draft.records[8], '貧窮大王');
+  assert.equal(source.records[63].originalHex, '19b1');
+  assert.equal(draft.records[63], '靜');
   assert.equal(source.records[65].originalHex, '941891');
   assert.equal(draft.records[65], '阿文');
+  assert.equal(source.records[67].originalHex, '19f319a7');
+  assert.equal(draft.records[67], '奈奈');
+  assert.equal(source.records[72].originalHex, '18c0194e');
+  assert.equal(draft.records[72], '岩鐵');
   assert.equal(draft.records[11], '寢太郎');
   assert.equal(draft.records[12], '大太郎');
   assert.equal(draft.records[14], '露肚怪');
@@ -778,6 +784,78 @@ test('item readings match released item names without replacing released reading
     else assert.equal(text, releasedText(previous.records[Number(index)]));
   }
   assert.equal(names.records[40].translation, '修城工具');
+});
+
+test('remaining chart-fragment review verifies localized callers without claiming global unreachability', async () => {
+  const { reviewChartFragmentCallers } = await import('../tools/remaining-text-review.mjs');
+  const { patchCommandChart, commandChartLabels, familyChartLabels } = await import('../tools/chart-labels.mjs');
+  const characters = [...new Set([...commandChartLabels, ...familyChartLabels].flatMap(label => [...label.text]))];
+  const target = Buffer.alloc(0x400000, 0xff);
+  rom.copy(target);
+  patchCommandChart(rom, target, characters, { familyChart: true });
+  const reviewed = reviewChartFragmentCallers(rom, target, characters);
+  assert.equal(reviewed.length, 64);
+  assert.ok(reviewed.every(record => record.knownChartWritesVerified && !record.allNativeCallersVerified && !record.countedAsNewTranslation));
+  assert.ok(reviewed.find(record => record.index === 36).localizedLabels.includes('迦樓羅'));
+  target[0x3c2240] ^= 1;
+  assert.throws(() => reviewChartFragmentCallers(rom, target, characters), /Released chart differs/);
+});
+
+test('default-name review verifies fallback dispatch and preserves original stored names', async () => {
+  const { reviewDefaultNameCallers } = await import('../tools/remaining-text-review.mjs');
+  const { patchDefaultMonta, patchDefaultPochi, patchDefaultKiko } = await import('../tools/default-names.mjs');
+  const target = Buffer.alloc(0x400000, 0xff);
+  rom.copy(target);
+  const characters = [...'蒙太波奇琪可'];
+  for (const patch of [patchDefaultMonta, patchDefaultPochi, patchDefaultKiko]) patch(rom, target, characters);
+  const reviewed = reviewDefaultNameCallers(rom, target, characters);
+  assert.deepEqual(reviewed.map(record => record.index), [22, 23, 24]);
+  assert.deepEqual(reviewed.map(record => record.label), ['波奇', '蒙太', '琪可']);
+  assert.ok(reviewed.every(record => record.initialNamesUnchanged && !record.allNativeCallersVerified && !record.countedAsNewTranslation));
+  target[0x3c2300] ^= 1;
+  assert.throws(() => reviewDefaultNameCallers(rom, target, characters), /display hook differs/);
+});
+
+test('source review accounts for every residual text record without changing translation counts', async () => {
+  const { reviewRemainingText } = await import('../tools/remaining-text-review.mjs');
+  const inventory = read('translations/remaining-source-review.json');
+  const review = reviewRemainingText(rom, read('opening-preview-v65/resolved-translation-manifest.json'), read('translations/opening.zh-Hant.json'));
+  const textKinds = new Set(['shared-fragment-caller-review', 'label-and-caller-review', 'name-and-caller-review', 'diagnostic-caller-review']);
+  const expected = review.tables.flatMap(table => table.records.filter(record => textKinds.has(record.workKind)).map(record => `${table.pointerOffset}:${record.index}`));
+  const actual = [];
+  for (const kind of ['sameTextLabels', 'fixedNameDrafts', 'retainedDefaultAnimalLabels', 'fragmentsNeedingCallerReview']) {
+    for (const [pointer, records] of Object.entries(inventory[kind])) {
+      for (const index of Object.keys(records)) actual.push(`${pointer}:${index}`);
+    }
+  }
+  for (let index = inventory.chartFragments.firstIndex; index <= inventory.chartFragments.lastIndex; index++) {
+    actual.push(`${inventory.chartFragments.pointerOffset}:${index}`);
+  }
+  assert.equal(actual.length, new Set(actual).size);
+  assert.deepEqual(actual.sort(), expected.sort());
+  assert.equal(actual.length, 164);
+  assert.equal(inventory.countsAsAdditionalTranslations, false);
+  const draft = read('translations/character-labels-remaining.draft.zh-Hant.json');
+  for (const [index, entry] of Object.entries(inventory.fixedNameDrafts['0x70009'])) {
+    assert.equal(draft.records[index], entry.translation);
+    assert.equal(review.tables.find(table => table.pointerOffset === '0x70009').records.find(record => record.index === Number(index)).originalHex, entry.sourceHex);
+  }
+});
+
+test('residual fragment review traces nested callers and guards preserved source bytes', async () => {
+  const { reviewResidualFragmentCallers } = await import('../tools/remaining-text-review.mjs');
+  const manifest = read('opening-preview-v65/resolved-translation-manifest.json');
+  const opening = read('translations/opening.zh-Hant.json');
+  const inventory = read('translations/remaining-source-review.json');
+  const review = reviewResidualFragmentCallers(rom, rom, manifest, opening, inventory);
+  assert.equal(review.records.length, 23);
+  const nested = review.records.find(record => record.pointerOffset === '0x70000' && record.index === 33);
+  assert.deepEqual(nested.retainedIndexedCallers.map(caller => caller.index), [49]);
+  assert.deepEqual(nested.retainedNonDictionaryRoots, []);
+  assert.ok(review.records.every(record => !record.nativeDirectCallersVerified && !record.countedAsNewTranslation));
+  const changed = Buffer.from(rom);
+  changed[0x703db] ^= 1;
+  assert.throws(() => reviewResidualFragmentCallers(rom, changed, manifest, opening, inventory), /fragment changed/);
 });
 
 test('v51 remaining review counts unresolved callers without treating absent references as unused', async () => {
