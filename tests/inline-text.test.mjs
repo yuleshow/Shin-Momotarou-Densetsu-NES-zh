@@ -31,6 +31,25 @@ test('shop follow-up and recipient headings preserve source, party fields and bo
   assert.equal(source.subarray(0x5bc1c, 0x5bc24).toString('hex'), '334dbd853847bd85');
 });
 
+test('restaurant cancellation preserves dish fields, prices and native callback', () => {
+  const menu = JSON.parse(fs.readFileSync(new URL('translations/restaurant-menu.json', root))).inlineMenus[0];
+  assert.equal(source.readUInt16LE(Number(menu.pointerOperand)), Number(menu.start) & 65535);
+  assert.equal(source[Number(menu.bankOperand)], 0x83);
+  assert.equal(source.readUIntLE(Number(menu.start) + 4, 3), 0x83cb69);
+  const original = source.subarray(Number(menu.start), Number(menu.end));
+  const trailer = Buffer.from(menu.trailerHex, 'hex');
+  assert.deepEqual(original.subarray(-trailer.length), trailer);
+  assert.equal(original[original.length - trailer.length - 1], 0);
+  const entry = menu.entries[0], offset = Number(entry.offset) - Number(menu.start);
+  assert.equal(entry.translation, '取消');
+  assert.equal(original.subarray(offset, offset + 3).toString('hex'), entry.originalHex);
+  const translated = Buffer.concat([original.subarray(0, offset), encodeInlineLabel(entry, glyphCode), original.subarray(offset + 3)]);
+  assert.equal(translated.length, original.length + 1);
+  assert.deepEqual(translated.subarray(0, offset), original.subarray(0, offset));
+  assert.deepEqual(translated.subarray(offset + 4), original.subarray(offset + 3));
+  assert.equal(source.subarray(Number(menu.end), Number(menu.end) + 6).toString('hex'), 'ade4123a8d65');
+});
+
 test('recipient party-size probes clear only trailing party slots and are opt-in', () => {
   const verifier = fs.readFileSync(new URL('tools/verify-workshop-menus.mjs', root), 'utf8');
   const start = verifier.indexOf('    const partySetup = ');

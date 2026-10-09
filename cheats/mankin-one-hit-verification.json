@@ -1,0 +1,95 @@
+{
+  "status": "synthetic-native-verified-not-deployed",
+  "code": "82D09C60+82D09DFE+82FE60BD+82FE61E5+82FE6219+82FE63F0+82FE640F+82FE65BD+82FE66D5+82FE6719+82FE6809+82FE6901+82FE6AC9+82FE6BF5+82FE6CD0+82FE6D06+82FE6EA9+82FE6FFF+82FE7085+82FE710F+82FE7285+82FE7310+82FE744C+82FE75DE+82FE76D0",
+  "targetEnemyIds": [
+    244,
+    245
+  ],
+  "romPath": "verification/remaining-completion/restaurant-cancel-build-v1/opening-zh-Hant.sfc",
+  "romSha256": "b74ddb417f2cb5936c75c9046e21b731c3b8658788617a66deb2bf07d33f5a1e",
+  "statePath": "/tmp/momotaro-one-hit-lizard-final/original-idle-baseline/state.bin",
+  "stateSha256": "aef6318294fb7939c86643c26c52ae3774c563fab09745ab2738f9a7e58c344d",
+  "coreSha256": "241473252322eb9e9d5c9d419c26fc7abc9d6a42a875c6d2805ecae5c0b327e3",
+  "runnerSha256": "9552601a7a00817a07bf8028d98d40979de46afb71434616b7ed3812836b6dcb",
+  "checks": [
+    {
+      "enemy": 244,
+      "firstHit": 2460,
+      "target": 2,
+      "baselineHp": 9997,
+      "enabledHp": 0,
+      "alliesUnchangedThroughFirstHit": true,
+      "allEnemiesDefeatedAndInactive": true
+    },
+    {
+      "enemy": 245,
+      "firstHit": 1560,
+      "target": 2,
+      "baselineHp": 9997,
+      "enabledHp": 0,
+      "alliesUnchangedThroughFirstHit": true,
+      "allEnemiesDefeatedAndInactive": true
+    },
+    {
+      "enemy": 25,
+      "firstHit": 1560,
+      "target": 2,
+      "baselineHp": 9997,
+      "enabledHp": 9997,
+      "alliesUnchangedThroughFirstHit": true,
+      "allEnemiesDefeatedAndInactive": false
+    }
+  ],
+  "runs": [
+    {
+      "name": "244-baseline",
+      "enabled": false,
+      "frames": 2700
+    },
+    {
+      "name": "244-enabled",
+      "enabled": true,
+      "frames": 2700
+    },
+    {
+      "name": "244-finish",
+      "enabled": true,
+      "frames": 18000
+    },
+    {
+      "name": "245-baseline",
+      "enabled": false,
+      "frames": 2700
+    },
+    {
+      "name": "245-enabled",
+      "enabled": true,
+      "frames": 2700
+    },
+    {
+      "name": "245-finish",
+      "enabled": true,
+      "frames": 18000
+    },
+    {
+      "name": "25-baseline",
+      "enabled": false,
+      "frames": 2700
+    },
+    {
+      "name": "25-enabled",
+      "enabled": true,
+      "frames": 2700
+    }
+  ],
+  "originalRomAndStateUnchanged": true,
+  "deviceFilesWritten": false,
+  "naturalTrainingCompletionVerified": false,
+  "spellLearningVerified": false,
+  "limitations": [
+    "Synthetic enemy IDs and HP in a copied ordinary-battle fixture, not the natural hermit training event",
+    "Shared hook with the general one-hit cheat: never enable both at once",
+    "A hit that reaches the damage hook is required; no automatic victory on entering battle",
+    "Physical device activation and natural spell reward are not verified"
+  ]
+}

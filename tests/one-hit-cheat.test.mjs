@@ -14,6 +14,17 @@ const writes = code.split('+').map(part => {
 });
 const routine = Buffer.from(writes.slice(2).map(write => write.value));
 
+test('Nozuchi reporting cheat meets the native fifty-defeat threshold', () => {
+  const threshold = Buffer.from('9c5719a93238ef97637e90038d5719a901', 'hex');
+  assert.deepEqual(source.subarray(0x4c5e3, 0x4c5e3 + threshold.length), threshold);
+  const nozuchiCode = JSON.parse(text.match(/^cheat15_code = (.+)$/m)[1]);
+  assert.equal(nozuchiCode, '7E639732');
+  assert.equal(parseInt(nozuchiCode.slice(6), 16), source[0x4c5e7]);
+  assert.match(text, /^cheat15_enable = false$/m);
+  assert.match(text, /^cheat15_handler = 0$/m);
+  assert.doesNotMatch(text, /apply once then disable before battle|through one Nozuchi defeat/);
+});
+
 test('one-hit exception targets the ordinary tail lizard and fits one cheat item', () => {
   const manifest = read('opening-preview-v60/resolved-translation-manifest.json');
   const names = catalog(source, manifest, read('translations/opening.zh-Hant.json')).blocks.find(block => block.pointerOffset === '0x7000f');
@@ -37,7 +48,7 @@ test('one-hit hook receives damage in A and tail-calls the untouched immunity ro
   }
 });
 
-function execute(damage, side, enemy) {
+function execute(damage, side, enemy, instructions = routine) {
   const ram = new Uint8Array(65536);
   const target = 3;
   ram[0x0f] = damage & 255;
@@ -48,15 +59,19 @@ function execute(damage, side, enemy) {
   let zero = accumulator === 0;
   let cursor = 0;
   for (let steps = 0; steps < 20; steps++) {
-    const opcode = routine[cursor++];
-    if (opcode === 0x05) { accumulator |= ram[routine[cursor++]]; zero = accumulator === 0; }
-    else if (opcode === 0xf0) { const displacement = routine.readInt8(cursor++); if (zero) cursor += displacement; }
-    else if (opcode === 0xbd) { accumulator = ram[routine.readUInt16LE(cursor) + target]; cursor += 2; zero = accumulator === 0; }
-    else if (opcode === 0xc9) zero = accumulator === routine[cursor++];
-    else if (opcode === 0xa9) { accumulator = routine[cursor++]; zero = accumulator === 0; }
-    else if (opcode === 0x85) ram[routine[cursor++]] = accumulator;
+    const opcode = instructions[cursor++];
+    if (opcode === 0x05) { accumulator |= ram[instructions[cursor++]]; zero = accumulator === 0; }
+    else if (opcode === 0x09) { accumulator |= instructions[cursor++]; zero = accumulator === 0; }
+    else if (opcode === 0xf0 || opcode === 0xd0) {
+      const displacement = instructions.readInt8(cursor++);
+      if (opcode === 0xf0 ? zero : !zero) cursor += displacement;
+    }
+    else if (opcode === 0xbd) { accumulator = ram[instructions.readUInt16LE(cursor) + target]; cursor += 2; zero = accumulator === 0; }
+    else if (opcode === 0xc9) zero = accumulator === instructions[cursor++];
+    else if (opcode === 0xa9) { accumulator = instructions[cursor++]; zero = accumulator === 0; }
+    else if (opcode === 0x85) ram[instructions[cursor++]] = accumulator;
     else if (opcode === 0x4c) {
-      assert.equal(routine.readUInt16LE(cursor), 0xd0de);
+      assert.equal(instructions.readUInt16LE(cursor), 0xd0de);
       return ram[0x0f] + (ram[0x10] << 8);
     } else assert.fail(`Unexpected opcode: ${opcode}`);
   }
@@ -80,4 +95,68 @@ test('one-hit deployment preserves quoted toggles, other fields and CRLF bytes',
   assert.throws(() => updateOneHitCheat(`${before}cheat1_code = "OLD"\r\n`, update), /exactly one/);
   assert.throws(() => updateOneHitCheat(`${before}cheat2_enable = false\r\n`, update), /Duplicate/);
   assert.throws(() => updateOneHitCheat(before.replace('cheat2_handler = "0"', 'cheat2_handler = "1"'), update));
+});
+
+test('Mankin recovery item only boosts hero healing during the native recovery contest', () => {
+  const manifest = read('opening-preview-v60/resolved-translation-manifest.json');
+  const names = catalog(source, manifest, read('translations/opening.zh-Hant.json')).blocks.find(block => block.pointerOffset === '0x7000f');
+  for (const enemy of [244, 245]) assert.equal(names.records[enemy].translation, '萬金仙人');
+  const mankinCode = JSON.parse(text.match(/^cheat16_code = (.+)$/m)[1]);
+  assert.ok(mankinCode.length <= 255);
+  assert.match(text, /^cheats = 17$/m);
+  assert.match(text, /^cheat16_enable = false$/m);
+  assert.match(text, /^cheat16_handler = 0$/m);
+  const parts = mankinCode.split('+');
+  assert.deepEqual(parts.slice(0, 2), ['82D03860', '82D039FE']);
+  const instructions = Buffer.from(parts.slice(2).map((part, index) => {
+    assert.match(part, /^[0-9A-F]{8}$/);
+    assert.equal(parseInt(part.slice(0, 6), 16), 0x82fe60 + index);
+    return parseInt(part.slice(6), 16);
+  }));
+  assert.equal(instructions.toString('hex'), 'adb819f00dae531fd008a9ff8dc81f8dc91f4c64d0');
+  assert.ok(source.subarray(0x2fe60, 0x2fe60 + instructions.length).every(byte => byte === 255));
+  assert.equal(source.subarray(0x292c2, 0x292c9).toString('hex'), 'c9f4d003eeb819');
+  assert.equal(source.subarray(0x2d037, 0x2d063).toString('hex'),
+    '2064d0c220adc81f48e22020d6cfc220adc81f851e688dc81fc51e900aa51e8dc81fe22020edd1e22020c4cf');
+  assert.ok(parts.every(part => !writes.some(write => write.address === parseInt(part.slice(0, 6), 16))));
+  for (const amount of [0, 1, 255, 256, 10000, 65535]) {
+    for (const training of [0, 1, 2, 255]) {
+      for (let target = 0; target < 16; target++) {
+        const ram = Buffer.alloc(65536, 0x5a);
+        ram[0x19b8] = training;
+        ram[0x1f53] = target;
+        ram.writeUInt16LE(amount, 0x1fc8);
+        const expected = Buffer.from(ram);
+        if (training && target === 0) expected.writeUInt16LE(65535, 0x1fc8);
+        let accumulator = 0;
+        let zero = false;
+        let cursor = 0;
+        let returned = false;
+        for (let steps = 0; steps < 12; steps++) {
+          const opcode = instructions[cursor++];
+          if (opcode === 0xad || opcode === 0xae) {
+            const value = ram[instructions.readUInt16LE(cursor)];
+            cursor += 2;
+            if (opcode === 0xad) accumulator = value;
+            zero = value === 0;
+          } else if (opcode === 0xf0 || opcode === 0xd0) {
+            const displacement = instructions.readInt8(cursor++);
+            if (opcode === 0xf0 ? zero : !zero) cursor += displacement;
+          } else if (opcode === 0xa9) {
+            accumulator = instructions[cursor++];
+            zero = accumulator === 0;
+          } else if (opcode === 0x8d) {
+            ram[instructions.readUInt16LE(cursor)] = accumulator;
+            cursor += 2;
+          } else if (opcode === 0x4c) {
+            assert.equal(instructions.readUInt16LE(cursor), 0xd064);
+            returned = true;
+            break;
+          } else assert.fail(`Unexpected recovery opcode: ${opcode}`);
+        }
+        assert.ok(returned, 'Must tail-call native HP addition and return to its maximum clamp');
+        assert.deepEqual(ram, expected, 'Only the guarded recovery amount may change');
+      }
+    }
+  }
 });

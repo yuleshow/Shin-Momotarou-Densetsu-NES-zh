@@ -1,0 +1,18 @@
+{
+  "sourceSha256": "3f79f2f44303e316994fad9d0b2ae6dc96146c5f2efc3f095a632c04c4fbbf7c",
+  "inlineMenus": [
+    {
+      "name": "restaurant-dishes",
+      "start": "0x3cb16",
+      "end": "0x3cb69",
+      "target": "0x23d040",
+      "pointerOperand": "0x3cb07",
+      "bankOperand": "0x3cb0e",
+      "originalBank": "83",
+      "trailerHex": "121503012503121703012703121903012903",
+      "entries": [
+        { "offset": "0x3cb52", "originalHex": "b3b1b8", "source": "やめる", "translation": "取消" }
+      ]
+    }
+  ]
+}

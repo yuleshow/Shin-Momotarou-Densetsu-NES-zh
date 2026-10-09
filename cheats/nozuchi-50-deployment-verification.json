@@ -1,0 +1,28 @@
+{
+  "status": "nozuchi-50-deployed-readback-and-protected-files-verified",
+  "code": "7E639732",
+  "count": 50,
+  "coreCountVerified": true,
+  "nativeThresholdBytesVerified": true,
+  "naturalHermitRewardVerified": false,
+  "oldBattleAdviceWithdrawn": true,
+  "romWritten": false,
+  "savesWritten": false,
+  "unchangedSaveEntries": 465,
+  "otherCheatsAndTogglesPreserved": true,
+  "files": [
+    {
+      "filename": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "backup": "cheats/deployment-backup-nozuchi-50/Snes9x.cht",
+      "sha256": "cd6787cb050f4a621da332a9c6273b843d641d6d389ffffc5bf15e5bd07d407c",
+      "targetSha256": "f2f61cec55841c30047506e34c8af132dec17e2b42db8045af08c799fbabaedb"
+    },
+    {
+      "filename": "/Volumes/share/cheats/cht/0QuickLoad/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "backup": "cheats/deployment-backup-nozuchi-50/0QuickLoad.cht",
+      "sha256": "43bee798f8d093c083150c1d1444aaefb4bce187affd3993071724e66aec0125",
+      "targetSha256": "3f33a76c90044bfa45f6f65b4d0704b8ddbffc311371cb4d5e53b324922c9e3e"
+    }
+  ],
+  "completedAt": "2026-10-09T06:16:02.988Z"
+}

@@ -3,10 +3,34 @@ import fs from 'node:fs';
 import test from 'node:test';
 import { encodeEnglishName, nativeSaveContract, readLegacySaveSlot } from '../tools/name-storage.mjs';
 import { patchEnglishNameEntry } from '../tools/english-name-entry.mjs';
-import { splitRecords } from '../tools/text-catalog.mjs';
+import { renderRecord, splitRecords } from '../tools/text-catalog.mjs';
+import { decodeGlyph } from '../tools/font-codec.mjs';
 import { chineseQuizChoices, chineseQuizResult, encodeChineseQuiz, patchChineseNameQuiz } from '../tools/name-quiz.mjs';
+import { chineseNameDefaults, defaultNameToken, patchChineseNameDefaults } from '../tools/default-name-entry.mjs';
+import { patchDefaultMonta, patchDefaultPochi, patchDefaultKiko } from '../tools/default-names.mjs';
+import { chineseCode } from '../tools/chinese-font.mjs';
 
 const rom = fs.readFileSync(new URL('../assets/Shin Momotarou Densetsu (Japan) (Rev 1).sfc', import.meta.url));
+
+test('legacy kana diacritic outlines replace underlying ink in source previews', () => {
+  let coveredInk = 0;
+  for (const katakana of [false, true]) for (let index = 0; index < 24; index++) {
+    const base = decodeGlyph(rom, katakana ? 5 : 2, rom[0x4a949 + index]);
+    const marks = decodeGlyph(rom, katakana ? 6 : 3, index);
+    const rendered = renderRecord(rom, Buffer.from([katakana ? 4 : 3, 0xd0 + index]), []);
+    const header = Buffer.from('P5\n304 36\n255\n');
+    assert.deepEqual(rendered.subarray(0, header.length), header);
+    for (let pixel = 0; pixel < 192; pixel++) {
+      const offset = header.length + (8 + Math.floor(pixel / 12)) * 304 + 8 + pixel % 12;
+      if ((base[pixel] & 2) && marks[pixel] === 1) {
+        coveredInk++;
+        assert.equal(rendered[offset], 255, 'Mark outline must clear base ink');
+      }
+      if (marks[pixel] === 3) assert.equal(rendered[offset], 0, 'Mark ink must remain visible');
+    }
+  }
+  assert.ok(coveredInk > 0, 'The test must exercise overlapping outline and ink');
+});
 
 test('Chinese quiz covers all original question slots with four unique choices and strict scoring', () => {
   const draft = JSON.parse(fs.readFileSync(new URL('../translations/name-quiz.zh-Hant.json', import.meta.url)));
@@ -108,6 +132,63 @@ test('English keyboard changes emitted bytes and rows while preserving legacy na
   assert.throws(() => patchEnglishNameEntry(rom, target));
 });
 
+test('Chinese preset patch adds eleven names and a preset command without extending saved fields', () => {
+  const target = Buffer.alloc(0x400000, 255);
+  rom.copy(target);
+  const characters = [...new Set(chineseNameDefaults.join('') + '預設')];
+  patchDefaultMonta(rom, target, characters);
+  patchDefaultPochi(rom, target, characters);
+  patchDefaultKiko(rom, target, characters);
+  const english = patchEnglishNameEntry(rom, target);
+  const before = splitRecords(target.subarray(english.textOffset + 1, english.textOffset + english.textBytes));
+  const report = patchChineseNameDefaults(rom, target, characters, english);
+  assert.equal(report.definitions.length, 11);
+  assert.deepEqual(report.definitions.map(entry => entry.label), chineseNameDefaults);
+  assert.equal(report.definitions.find(entry => entry.mode === 7).label, '梅璽大閣');
+  assert.equal([...'梅璽大閣'].length, 4);
+  const castleLabel = Buffer.from([...'梅璽大閣'].flatMap(character => chineseCode(characters.indexOf(character))));
+  const castleLabelOffset = 0x3cc600 + 6 * 16;
+  assert.deepEqual(target.subarray(castleLabelOffset, castleLabelOffset + castleLabel.length), castleLabel);
+  const castleCellsOffset = 0x3cc800 + 6 * 8;
+  assert.deepEqual(target.subarray(castleCellsOffset, castleCellsOffset + 8), castleLabel);
+  for (const [index, label] of ['粉紅蛆', '惡臭列表', '五毛黨', '梅璽閣主'].entries()) {
+    const mode = index + 8;
+    assert.equal(report.definitions.find(entry => entry.mode === mode).label, label);
+    assert.ok([...label].length <= 4);
+    const encoded = Buffer.from([...label].flatMap(character => chineseCode(characters.indexOf(character))));
+    const offset = 0x3cc600 + (mode - 1) * 16;
+    assert.deepEqual(target.subarray(offset, offset + encoded.length), encoded);
+  }
+  assert.deepEqual(report.presetKeyIndexes, [36, 37]);
+  assert.equal(new Set(report.definitions.map(entry => entry.tokenHex)).size, 11);
+  for (const definition of report.definitions) {
+    assert.equal(definition.tokenHex, defaultNameToken(definition.mode).toString('hex'));
+    assert.equal(defaultNameToken(definition.mode).length, 5);
+    assert.ok(!english.keyboardKeys.includes(defaultNameToken(definition.mode)[0]));
+    const originalOffset = 0x4adfc + definition.address - 0x3d2b;
+    const tableOffset = 0x3cc900 + (definition.mode - 1) * 8;
+    assert.deepEqual(target.subarray(tableOffset, tableOffset + 5), rom.subarray(originalOffset, originalOffset + 5));
+  }
+  const redraw = target.subarray(0x3ccc00, 0x3cce00);
+  assert.ok(redraw.includes(Buffer.from('8507e8bf00c8fc8506', 'hex')));
+  assert.ok(!redraw.includes(Buffer.from('38e917', 'hex')));
+  assert.ok(redraw.includes(Buffer.from('2220e3fc', 'hex')));
+  assert.throws(() => defaultNameToken(0));
+  assert.throws(() => defaultNameToken(12));
+  const after = splitRecords(target.subarray(english.textOffset + 1, english.textOffset + english.textBytes));
+  const presetLabel = Buffer.from([...'預設'].flatMap(character => chineseCode(characters.indexOf(character))));
+  for (const record of before) {
+    if ([202, 211].includes(record.index)) assert.ok(Buffer.from(after[record.index].originalHex, 'hex').includes(presetLabel));
+    else assert.equal(after[record.index].originalHex, record.originalHex);
+  }
+  assert.deepEqual(nativeSaveContract(target), nativeSaveContract(rom));
+  assert.deepEqual(target.subarray(0x58000, 0x58675), rom.subarray(0x58000, 0x58675));
+  assert.deepEqual(target.subarray(0x5d9f7, 0x5daa6), rom.subarray(0x5d9f7, 0x5daa6));
+  assert.equal(target.subarray(0x5d1ad, 0x5d1b3).toString('hex'), '2200d0fceaea');
+  assert.equal(target.subarray(0x5d278, 0x5d27c).toString('hex'), '5c00cefc');
+  assert.throws(() => patchChineseNameDefaults(rom, target, characters, english), /overlaps/);
+});
+
 test('native save contract preserves three slots and locates saved name fields', () => {
   const contract = nativeSaveContract(rom);
   assert.equal(contract.payloadBytes + contract.extensionBytes, contract.slotBytes);
@@ -120,6 +201,18 @@ test('native save contract preserves three slots and locates saved name fields',
   const changed = Buffer.from(rom);
   changed[0x582db] ^= 1;
   assert.throws(() => nativeSaveContract(changed));
+});
+
+test('default naming must keep the native four-cell fields and exclude quiz input', () => {
+  const { modes } = nativeSaveContract(rom);
+  assert.deepEqual(modes.slice(0, 11).map(mode => mode.legacyBytes), [6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5]);
+  for (const mode of modes.slice(0, 11)) {
+    assert.equal(mode.capacity, 4);
+    assert.equal(mode.persistent, true);
+    assert.equal(mode.address + mode.capacity, mode.legacyAddress + mode.legacyBytes - 1);
+  }
+  assert.equal(modes[11].persistent, false);
+  assert.equal(modes[11].address, 0x5f4a);
 });
 
 test('legacy slot reader validates original checksum and does not mutate SRAM', () => {

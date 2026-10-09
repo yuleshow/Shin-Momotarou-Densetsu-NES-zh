@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { chineseCode } from './chinese-font.mjs';
 
-function patchDefaultName(source, target, characters, definition) {
+export function patchDefaultName(source, target, characters, definition) {
   assert.equal(source.subarray(0x4ae6f, 0x4ae7d).toString('hex'), 'a7b1f0069caa123880011868fa7a');
   const label = Buffer.from([...[...definition.label].flatMap(character => {
     const index = characters.indexOf(character);

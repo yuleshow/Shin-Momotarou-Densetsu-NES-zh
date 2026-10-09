@@ -1,0 +1,61 @@
+{
+  "status": "natural-recovery-training-and-spell-award-verified",
+  "code": "82D03860+82D039FE+82FE60AD+82FE61B8+82FE6219+82FE63F0+82FE640D+82FE65AE+82FE6653+82FE671F+82FE68D0+82FE6908+82FE6AA9+82FE6BFF+82FE6C8D+82FE6DC8+82FE6E1F+82FE6F8D+82FE70C9+82FE711F+82FE724C+82FE7364+82FE74D0",
+  "romPath": "verification/remaining-completion/restaurant-cancel-build-v1/opening-zh-Hant.sfc",
+  "romSha256": "b74ddb417f2cb5936c75c9046e21b731c3b8658788617a66deb2bf07d33f5a1e",
+  "statePath": "/Volumes/share/saves/snes/Shin Momotarou Densetsu (Traditional Chinese).state239",
+  "stateSha256": "22ab2a4ec882a302f95660135b685cc63d3d11c224dc165d615060182727560f",
+  "coreSha256": "241473252322eb9e9d5c9d419c26fc7abc9d6a42a875c6d2805ecae5c0b327e3",
+  "runnerSha256": "9552601a7a00817a07bf8028d98d40979de46afb71434616b7ed3812836b6dcb",
+  "inputs": "2140:3:down,30:3:a,210:3:a,390:3:a,570:3:a,750:3:a,930:3:a,1110:3:a,1290:3:a,1470:3:a,1650:3:a,1830:3:a,2010:3:a,2190:3:a,2370:3:a,2550:3:a,2730:3:a,2910:3:a,3090:3:a,3270:3:a,3450:3:a,3630:3:a,3810:3:a,3990:3:a,4170:3:a,4350:3:a,4530:3:a,4710:3:a,4890:3:a,5070:3:a,5250:3:a,5430:3:a,5610:3:a,5790:3:a,5970:3:a",
+  "runs": [
+    {
+      "enabled": false,
+      "frames": 6000,
+      "directory": "/tmp/momotaro-mankin-recovery-verified-v2/baseline",
+      "health": {
+        "current": 999,
+        "maximum": 127
+      },
+      "awardFrame": "/tmp/momotaro-mankin-recovery-verified-v2/baseline/frame-4800.ppm",
+      "awardFrameSha256": "ca40c8f03db4921ba568316cfa92eec95b8483d4718d8869b521955d1d4081b8"
+    },
+    {
+      "enabled": true,
+      "frames": 6000,
+      "directory": "/tmp/momotaro-mankin-recovery-verified-v2/enabled",
+      "health": {
+        "current": 127,
+        "maximum": 127
+      },
+      "awardFrame": "/tmp/momotaro-mankin-recovery-verified-v2/enabled/frame-4800.ppm",
+      "awardFrameSha256": "14b283b511bc8a0e057472ccd512327c754d2101cae7e41d1b325706946c33c4"
+    }
+  ],
+  "sourceStateUnmodified": true,
+  "syntheticRamWrites": false,
+  "originalRomAndStateUnchanged": true,
+  "deviceFilesWritten": false,
+  "naturalTrainingCompletionVerified": true,
+  "spellLearningVerified": true,
+  "limitations": [
+    "Requires using a recovery action such as Kintan, not an attack",
+    "Award-frame regression is specific to the natural slot-239 fixture, current ROM and core",
+    "Physical device activation is not verified; restart the core to discard the obsolete damage patch"
+  ],
+  "slot242": {
+    "filename": "/Volumes/share/saves/snes/Shin Momotarou Densetsu (Traditional Chinese).state242",
+    "sourceSha256": "a862d1cd06f5ad33091b21c2c87e662ccbe2308814c84ddcc8af400f0ce96ecc",
+    "sourceUnchanged": true,
+    "code": "82D03860+82D039FE+82FE60AD+82FE61B8+82FE6219+82FE63F0+82FE640D+82FE65AE+82FE6653+82FE671F+82FE68D0+82FE6908+82FE6AA9+82FE6BFF+82FE6C8D+82FE6DC8+82FE6E1F+82FE6F8D+82FE70C9+82FE711F+82FE724C+82FE7364+82FE74D0",
+    "duration": "6000",
+    "inputs": "30:3:a,210:3:a,390:3:a,570:3:a,750:3:a,930:3:a,1110:3:a,1290:3:a,1470:3:a,1650:3:a,1830:3:a,2010:3:a,2190:3:a,2370:3:a,2550:3:a,2730:3:a,2910:3:a,3090:3:a,3270:3:a,3450:3:a,3630:3:a,3810:3:a,3990:3:a,4170:3:a,4350:3:a,4530:3:a,4710:3:a,4890:3:a,5070:3:a,5250:3:a,5430:3:a,5610:3:a,5790:3:a,5970:3:a",
+    "naturalTrainingCompletionVerified": true,
+    "spellLearningVerified": true,
+    "reviewedAwardFrame": "/tmp/momotaro-mankin-242-UL3tNl/enabled/frame-1500.ppm",
+    "reviewedAwardFrameSha256": "5d6a1a2e1e5d8d373e766e46e327a0c0d8cdb1d45d7daab137a12f2ee16fe320",
+    "archivedAwardImage": "cheats/mankin-recovery-242-learned.png",
+    "evidence": "Visually reviewed teacher award and Momotarou learned Mankin message; native HP 134 after battle",
+    "syntheticRamWrites": false
+  }
+}

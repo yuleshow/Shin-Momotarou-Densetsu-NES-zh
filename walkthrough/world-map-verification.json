@@ -1,0 +1,1573 @@
+{
+  "description": "Native Moon Mirror surface-world BG2, not a reconstructed or imagined geography map",
+  "romSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "snapshotVersion": 12,
+  "snapshotSha256": "2788bbd1203bbeff88d3d61e5ad65160d9e471a70b01c6a2db69b32a420a9495",
+  "captureSha256": "cdb8b7d45ffc210651b12bdad3be861bf58e2541feb76f117a066033d0bb66db",
+  "vramSha256": "c0be9f8c98daeb7e52e2f45ca2455a9c25d488e588b7e0ce11c2e691868b10f2",
+  "ppuSha256": "18469dcd638c608a6abc80778589c6a191d36c91e1b2565d9e8d2db4a8d03a64",
+  "background": {
+    "screen": 4096,
+    "horizontal": 0,
+    "vertical": 0,
+    "size": 0,
+    "base": 0,
+    "layout": 1
+  },
+  "crop": {
+    "x": 64,
+    "y": 47,
+    "width": 128,
+    "height": 128
+  },
+  "matchingPixels": 16248,
+  "nativeSpriteDifferences": 136,
+  "differencesOutsideNativeMarkers": 0,
+  "markers": [
+    {
+      "x": 141,
+      "y": 108,
+      "tile": 121,
+      "size": 0,
+      "palette": 2
+    },
+    {
+      "x": 80,
+      "y": 143,
+      "tile": 105,
+      "size": 0,
+      "palette": 2
+    },
+    {
+      "x": 164,
+      "y": 86,
+      "tile": 105,
+      "size": 0,
+      "palette": 2
+    },
+    {
+      "x": 164,
+      "y": 67,
+      "tile": 105,
+      "size": 0,
+      "palette": 2
+    },
+    {
+      "x": 96,
+      "y": 60,
+      "tile": 105,
+      "size": 0,
+      "palette": 2
+    },
+    {
+      "x": 97,
+      "y": 113,
+      "tile": 105,
+      "size": 0,
+      "palette": 2
+    },
+    {
+      "x": 121,
+      "y": 102,
+      "tile": 105,
+      "size": 0,
+      "palette": 2
+    }
+  ],
+  "terrainRgbSha256": "fe83273f048373862a123ad825590f36b4ca0819130ee20e1784c2f54c1ff551",
+  "nativePngRoundTripExact": true,
+  "originalInputsUnchanged": true,
+  "snapshotModifiedByRenderer": false,
+  "naturalPlaythroughCapture": false,
+  "fixtureLimitation": "Read-only existing formation fixture has previously altered character stats; normal inputs open the map. No stats are included in these map images.",
+  "placeLabels": {
+    "catalogNames": 87,
+    "hermits": 13,
+    "inns": 7,
+    "layouts": [
+      {
+        "layer": "surface",
+        "width": 4400,
+        "height": 3020,
+        "points": 63,
+        "placeIndexes": [
+          56,
+          82,
+          7,
+          22,
+          23,
+          25,
+          29,
+          31,
+          30,
+          24,
+          28,
+          26,
+          73,
+          21,
+          6,
+          32,
+          80,
+          72,
+          68,
+          62,
+          27,
+          78,
+          33,
+          74,
+          67,
+          17,
+          16,
+          70,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          8,
+          15,
+          5,
+          66,
+          13,
+          40,
+          11,
+          65,
+          71,
+          83,
+          14,
+          12,
+          4,
+          76,
+          9,
+          61,
+          39,
+          20,
+          34,
+          69,
+          10,
+          18,
+          19,
+          37,
+          36,
+          38,
+          2,
+          3,
+          75,
+          64,
+          35,
+          0,
+          1,
+          63,
+          57
+        ],
+        "labels": [
+          {
+            "text": "57 神仙鄉",
+            "layer": "surface",
+            "x": 80,
+            "y": 2,
+            "placeIndexes": [
+              56
+            ]
+          },
+          {
+            "text": "83 雪原",
+            "layer": "surface",
+            "x": 113,
+            "y": 10,
+            "placeIndexes": [
+              82
+            ]
+          },
+          {
+            "text": "【海底入口投影】\n海底洞窟（勇氣之鎧）",
+            "layer": "undersea",
+            "x": 52,
+            "y": 13,
+            "placeIndexes": []
+          },
+          {
+            "text": "08 麻雀旅館四號店",
+            "layer": "surface",
+            "x": 115,
+            "y": 15,
+            "placeIndexes": [
+              7
+            ]
+          },
+          {
+            "text": "23 寢太郎村\n24 寢太郎之穴（內）",
+            "layer": "surface",
+            "x": 70,
+            "y": 16,
+            "placeIndexes": [
+              22,
+              23
+            ]
+          },
+          {
+            "text": "23 寢太郎村\n24 寢太郎之穴（內）",
+            "layer": "surface",
+            "x": 72,
+            "y": 16,
+            "placeIndexes": [
+              22,
+              23
+            ]
+          },
+          {
+            "text": "26 冰之塔",
+            "layer": "surface",
+            "x": 19,
+            "y": 17,
+            "placeIndexes": [
+              25
+            ]
+          },
+          {
+            "text": "30 眾神之里",
+            "layer": "surface",
+            "x": 108,
+            "y": 17,
+            "placeIndexes": [
+              29
+            ]
+          },
+          {
+            "text": "32 伏龍洞窟",
+            "layer": "surface",
+            "x": 118,
+            "y": 18,
+            "placeIndexes": [
+              31
+            ]
+          },
+          {
+            "text": "31 風神谷",
+            "layer": "surface",
+            "x": 99,
+            "y": 19,
+            "placeIndexes": [
+              30
+            ]
+          },
+          {
+            "text": "25 大太郎庵",
+            "layer": "surface",
+            "x": 46,
+            "y": 24,
+            "placeIndexes": [
+              24
+            ]
+          },
+          {
+            "text": "29 伸長怪森林",
+            "layer": "surface",
+            "x": 104,
+            "y": 24,
+            "placeIndexes": [
+              28
+            ]
+          },
+          {
+            "text": "27 微笑村\n74 放屁仙人庵（內）",
+            "layer": "surface",
+            "x": 97,
+            "y": 30,
+            "placeIndexes": [
+              26,
+              73
+            ]
+          },
+          {
+            "text": "22 大江山\n07 麻雀旅館三號店（內）",
+            "layer": "surface",
+            "x": 61,
+            "y": 31,
+            "placeIndexes": [
+              21,
+              6
+            ]
+          },
+          {
+            "text": "22 大江山\n07 麻雀旅館三號店（內）",
+            "layer": "surface",
+            "x": 61,
+            "y": 32,
+            "placeIndexes": [
+              21,
+              6
+            ]
+          },
+          {
+            "text": "33 雷神洞窟",
+            "layer": "surface",
+            "x": 115,
+            "y": 35,
+            "placeIndexes": [
+              32
+            ]
+          },
+          {
+            "text": "81 怨恨洞窟",
+            "layer": "surface",
+            "x": 107,
+            "y": 36,
+            "placeIndexes": [
+              80
+            ]
+          },
+          {
+            "text": "33 雷神洞窟",
+            "layer": "surface",
+            "x": 116,
+            "y": 36,
+            "placeIndexes": [
+              32
+            ]
+          },
+          {
+            "text": "73 浮游仙人庵",
+            "layer": "surface",
+            "x": 9,
+            "y": 41,
+            "placeIndexes": [
+              72
+            ]
+          },
+          {
+            "text": "69 避鬼仙人庵",
+            "layer": "surface",
+            "x": 42,
+            "y": 42,
+            "placeIndexes": [
+              68
+            ]
+          },
+          {
+            "text": "【海底入口投影】\n63 奈落洞窟",
+            "layer": "undersea",
+            "x": 71,
+            "y": 43,
+            "placeIndexes": [
+              62
+            ]
+          },
+          {
+            "text": "28 希望之都\n79 五重塔（內）",
+            "layer": "surface",
+            "x": 103,
+            "y": 43,
+            "placeIndexes": [
+              27,
+              78
+            ]
+          },
+          {
+            "text": "【海底入口投影】\n34 左源內庵",
+            "layer": "undersea",
+            "x": 12,
+            "y": 46,
+            "placeIndexes": [
+              33
+            ]
+          },
+          {
+            "text": "75 萬金仙人庵",
+            "layer": "surface",
+            "x": 102,
+            "y": 49,
+            "placeIndexes": [
+              74
+            ]
+          },
+          {
+            "text": "68 解毒仙人庵",
+            "layer": "surface",
+            "x": 25,
+            "y": 55,
+            "placeIndexes": [
+              67
+            ]
+          },
+          {
+            "text": "18 金太郎村\n17 足柄山（內）",
+            "layer": "surface",
+            "x": 22,
+            "y": 57,
+            "placeIndexes": [
+              17,
+              16
+            ]
+          },
+          {
+            "text": "71 天之仙人塔",
+            "layer": "surface",
+            "x": 63,
+            "y": 57,
+            "placeIndexes": [
+              70
+            ]
+          },
+          {
+            "text": "46 鬼島\n47 地獄・三途川（內）\n48 地獄・黑繩地獄（內）\n49 地獄・血池地獄（內）\n50 地獄・眾合地獄（內）\n51 地獄・焦熱地獄（內）\n52 地獄・極寒地獄（內）\n53 地獄・大焦熱地獄（內）\n54 地獄・阿鼻地獄（內）\n55 伐折羅王之間（內）",
+            "layer": "surface",
+            "x": 61,
+            "y": 59,
+            "placeIndexes": [
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54
+            ]
+          },
+          {
+            "text": "09 麻雀旅館五號店",
+            "layer": "surface",
+            "x": 104,
+            "y": 59,
+            "placeIndexes": [
+              8
+            ]
+          },
+          {
+            "text": "16 無聲洞窟",
+            "layer": "surface",
+            "x": 25,
+            "y": 61,
+            "placeIndexes": [
+              15
+            ]
+          },
+          {
+            "text": "16 無聲洞窟",
+            "layer": "surface",
+            "x": 25,
+            "y": 64,
+            "placeIndexes": [
+              15
+            ]
+          },
+          {
+            "text": "06 麻雀旅館二號店",
+            "layer": "surface",
+            "x": 47,
+            "y": 65,
+            "placeIndexes": [
+              5
+            ]
+          },
+          {
+            "text": "67 鹿角仙人庵\n14 鹿角之里（內）",
+            "layer": "surface",
+            "x": 8,
+            "y": 70,
+            "placeIndexes": [
+              66,
+              13
+            ]
+          },
+          {
+            "text": "41 彩虹洞窟",
+            "layer": "surface",
+            "x": 37,
+            "y": 70,
+            "placeIndexes": [
+              40
+            ]
+          },
+          {
+            "text": "12 松葉山\n66 稻妻仙人庵（內）",
+            "layer": "surface",
+            "x": 15,
+            "y": 71,
+            "placeIndexes": [
+              11,
+              65
+            ]
+          },
+          {
+            "text": "72 避魔仙人庵",
+            "layer": "surface",
+            "x": 51,
+            "y": 72,
+            "placeIndexes": [
+              71
+            ]
+          },
+          {
+            "text": "鬼之爪痕・地下水路入口\n84 機關村",
+            "layer": "surface",
+            "x": 78,
+            "y": 72,
+            "placeIndexes": [
+              83
+            ]
+          },
+          {
+            "text": "12 松葉山\n66 稻妻仙人庵（內）",
+            "layer": "surface",
+            "x": 15,
+            "y": 73,
+            "placeIndexes": [
+              11,
+              65
+            ]
+          },
+          {
+            "text": "鬼之爪痕・地下水路入口\n84 機關村",
+            "layer": "surface",
+            "x": 92,
+            "y": 73,
+            "placeIndexes": [
+              83
+            ]
+          },
+          {
+            "text": "15 花咲村\n13 花咲村洞窟（內）",
+            "layer": "surface",
+            "x": 29,
+            "y": 77,
+            "placeIndexes": [
+              14,
+              12
+            ]
+          },
+          {
+            "text": "05 麻雀旅館一號店",
+            "layer": "surface",
+            "x": 21,
+            "y": 81,
+            "placeIndexes": [
+              4
+            ]
+          },
+          {
+            "text": "77 海之仙人庵",
+            "layer": "surface",
+            "x": 120,
+            "y": 84,
+            "placeIndexes": [
+              76
+            ]
+          },
+          {
+            "text": "10 麻雀旅館六號店",
+            "layer": "surface",
+            "x": 87,
+            "y": 86,
+            "placeIndexes": [
+              9
+            ]
+          },
+          {
+            "text": "62 新村",
+            "layer": "surface",
+            "x": 96,
+            "y": 88,
+            "placeIndexes": [
+              61
+            ]
+          },
+          {
+            "text": "40 黃泉之塔",
+            "layer": "surface",
+            "x": 58,
+            "y": 89,
+            "placeIndexes": [
+              39
+            ]
+          },
+          {
+            "text": "【海底入口投影】\n21 龍宮城",
+            "layer": "undersea",
+            "x": 35,
+            "y": 90,
+            "placeIndexes": [
+              20
+            ]
+          },
+          {
+            "text": "35 鬼族牢獄",
+            "layer": "surface",
+            "x": 103,
+            "y": 91,
+            "placeIndexes": [
+              34
+            ]
+          },
+          {
+            "text": "70 脫身仙人庵",
+            "layer": "surface",
+            "x": 30,
+            "y": 92,
+            "placeIndexes": [
+              69
+            ]
+          },
+          {
+            "text": "11 麻雀旅館七號店",
+            "layer": "surface",
+            "x": 72,
+            "y": 92,
+            "placeIndexes": [
+              10
+            ]
+          },
+          {
+            "text": "35 鬼族牢獄",
+            "layer": "surface",
+            "x": 102,
+            "y": 92,
+            "placeIndexes": [
+              34
+            ]
+          },
+          {
+            "text": "19 浦島村\n20 養老瀑布（內）",
+            "layer": "surface",
+            "x": 39,
+            "y": 93,
+            "placeIndexes": [
+              18,
+              19
+            ]
+          },
+          {
+            "text": "38 山姥洞窟",
+            "layer": "surface",
+            "x": 80,
+            "y": 93,
+            "placeIndexes": [
+              37
+            ]
+          },
+          {
+            "text": "37 猴蟹村",
+            "layer": "surface",
+            "x": 87,
+            "y": 94,
+            "placeIndexes": [
+              36
+            ]
+          },
+          {
+            "text": "39 竹取村",
+            "layer": "surface",
+            "x": 63,
+            "y": 97,
+            "placeIndexes": [
+              38
+            ]
+          },
+          {
+            "text": "03 滾飯糰洞\n04 飯糰村（內）",
+            "layer": "surface",
+            "x": 23,
+            "y": 99,
+            "placeIndexes": [
+              2,
+              3
+            ]
+          },
+          {
+            "text": "03 滾飯糰洞\n04 飯糰村（內）",
+            "layer": "surface",
+            "x": 16,
+            "y": 101,
+            "placeIndexes": [
+              2,
+              3
+            ]
+          },
+          {
+            "text": "76 金瘡仙人庵",
+            "layer": "surface",
+            "x": 77,
+            "y": 103,
+            "placeIndexes": [
+              75
+            ]
+          },
+          {
+            "text": "65 金丹仙人庵",
+            "layer": "surface",
+            "x": 22,
+            "y": 104,
+            "placeIndexes": [
+              64
+            ]
+          },
+          {
+            "text": "36 露肚怪之里",
+            "layer": "surface",
+            "x": 99,
+            "y": 112,
+            "placeIndexes": [
+              35
+            ]
+          },
+          {
+            "text": "01 桃太郎的老家",
+            "layer": "surface",
+            "x": 26,
+            "y": 116,
+            "placeIndexes": [
+              0
+            ]
+          },
+          {
+            "text": "02 啟程村",
+            "layer": "surface",
+            "x": 27,
+            "y": 118,
+            "placeIndexes": [
+              1
+            ]
+          },
+          {
+            "text": "【海底入口投影】\n64 人魚村",
+            "layer": "undersea",
+            "x": 7,
+            "y": 119,
+            "placeIndexes": [
+              63
+            ]
+          },
+          {
+            "text": "天樹入口\n58 七夕村",
+            "layer": "surface",
+            "x": 120,
+            "y": 122,
+            "placeIndexes": [
+              57
+            ]
+          }
+        ],
+        "labelBoxes": [
+          {
+            "left": 1732,
+            "top": 247,
+            "right": 1862,
+            "bottom": 294
+          },
+          {
+            "left": 2392,
+            "top": 407,
+            "right": 2495,
+            "bottom": 454
+          },
+          {
+            "left": 1172,
+            "top": 447,
+            "right": 1455,
+            "bottom": 534
+          },
+          {
+            "left": 2432,
+            "top": 507,
+            "right": 2670,
+            "bottom": 554
+          },
+          {
+            "left": 1388,
+            "top": 565,
+            "right": 1653,
+            "bottom": 652
+          },
+          {
+            "left": 1664,
+            "top": 507,
+            "right": 1929,
+            "bottom": 594
+          },
+          {
+            "left": 512,
+            "top": 547,
+            "right": 642,
+            "bottom": 594
+          },
+          {
+            "left": 2111,
+            "top": 547,
+            "right": 2268,
+            "bottom": 594
+          },
+          {
+            "left": 2492,
+            "top": 567,
+            "right": 2649,
+            "bottom": 614
+          },
+          {
+            "left": 1958,
+            "top": 587,
+            "right": 2088,
+            "bottom": 634
+          },
+          {
+            "left": 1052,
+            "top": 687,
+            "right": 1209,
+            "bottom": 734
+          },
+          {
+            "left": 2212,
+            "top": 687,
+            "right": 2396,
+            "bottom": 734
+          },
+          {
+            "left": 2072,
+            "top": 787,
+            "right": 2337,
+            "bottom": 874
+          },
+          {
+            "left": 1352,
+            "top": 807,
+            "right": 1671,
+            "bottom": 894
+          },
+          {
+            "left": 1009,
+            "top": 827,
+            "right": 1328,
+            "bottom": 914
+          },
+          {
+            "left": 2342,
+            "top": 868,
+            "right": 2499,
+            "bottom": 915
+          },
+          {
+            "left": 2091,
+            "top": 927,
+            "right": 2248,
+            "bottom": 974
+          },
+          {
+            "left": 2452,
+            "top": 927,
+            "right": 2609,
+            "bottom": 974
+          },
+          {
+            "left": 312,
+            "top": 1027,
+            "right": 496,
+            "bottom": 1074
+          },
+          {
+            "left": 972,
+            "top": 1047,
+            "right": 1156,
+            "bottom": 1094
+          },
+          {
+            "left": 1552,
+            "top": 1047,
+            "right": 1781,
+            "bottom": 1134
+          },
+          {
+            "left": 2192,
+            "top": 1047,
+            "right": 2403,
+            "bottom": 1134
+          },
+          {
+            "left": 372,
+            "top": 1107,
+            "right": 601,
+            "bottom": 1194
+          },
+          {
+            "left": 2172,
+            "top": 1187,
+            "right": 2356,
+            "bottom": 1234
+          },
+          {
+            "left": 632,
+            "top": 1307,
+            "right": 816,
+            "bottom": 1354
+          },
+          {
+            "left": 337,
+            "top": 1327,
+            "right": 548,
+            "bottom": 1414
+          },
+          {
+            "left": 1392,
+            "top": 1347,
+            "right": 1576,
+            "bottom": 1394
+          },
+          {
+            "left": 1167,
+            "top": 1425,
+            "right": 1513,
+            "bottom": 1832
+          },
+          {
+            "left": 2212,
+            "top": 1387,
+            "right": 2450,
+            "bottom": 1434
+          },
+          {
+            "left": 632,
+            "top": 1427,
+            "right": 789,
+            "bottom": 1474
+          },
+          {
+            "left": 632,
+            "top": 1487,
+            "right": 789,
+            "bottom": 1534
+          },
+          {
+            "left": 810,
+            "top": 1507,
+            "right": 1048,
+            "bottom": 1554
+          },
+          {
+            "left": 161,
+            "top": 1645,
+            "right": 399,
+            "bottom": 1732
+          },
+          {
+            "left": 872,
+            "top": 1607,
+            "right": 1029,
+            "bottom": 1654
+          },
+          {
+            "left": 432,
+            "top": 1607,
+            "right": 697,
+            "bottom": 1694
+          },
+          {
+            "left": 892,
+            "top": 1556,
+            "right": 1076,
+            "bottom": 1603
+          },
+          {
+            "left": 1525,
+            "top": 1685,
+            "right": 1835,
+            "bottom": 1772
+          },
+          {
+            "left": 288,
+            "top": 1917,
+            "right": 553,
+            "bottom": 2004
+          },
+          {
+            "left": 1972,
+            "top": 1647,
+            "right": 2282,
+            "bottom": 1734
+          },
+          {
+            "left": 712,
+            "top": 1727,
+            "right": 977,
+            "bottom": 1814
+          },
+          {
+            "left": 552,
+            "top": 1827,
+            "right": 790,
+            "bottom": 1874
+          },
+          {
+            "left": 2324,
+            "top": 1887,
+            "right": 2508,
+            "bottom": 1934
+          },
+          {
+            "left": 1872,
+            "top": 1927,
+            "right": 2110,
+            "bottom": 1974
+          },
+          {
+            "left": 1989,
+            "top": 2005,
+            "right": 2092,
+            "bottom": 2052
+          },
+          {
+            "left": 1292,
+            "top": 1987,
+            "right": 1449,
+            "bottom": 2034
+          },
+          {
+            "left": 832,
+            "top": 1987,
+            "right": 1061,
+            "bottom": 2074
+          },
+          {
+            "left": 2192,
+            "top": 2027,
+            "right": 2349,
+            "bottom": 2074
+          },
+          {
+            "left": 524,
+            "top": 2047,
+            "right": 708,
+            "bottom": 2094
+          },
+          {
+            "left": 1310,
+            "top": 2047,
+            "right": 1548,
+            "bottom": 2094
+          },
+          {
+            "left": 2082,
+            "top": 2085,
+            "right": 2239,
+            "bottom": 2132
+          },
+          {
+            "left": 781,
+            "top": 2105,
+            "right": 1019,
+            "bottom": 2192
+          },
+          {
+            "left": 1642,
+            "top": 2105,
+            "right": 1799,
+            "bottom": 2152
+          },
+          {
+            "left": 1872,
+            "top": 2087,
+            "right": 2002,
+            "bottom": 2134
+          },
+          {
+            "left": 1392,
+            "top": 2147,
+            "right": 1522,
+            "bottom": 2194
+          },
+          {
+            "left": 475,
+            "top": 2108,
+            "right": 686,
+            "bottom": 2195
+          },
+          {
+            "left": 217,
+            "top": 2207,
+            "right": 428,
+            "bottom": 2294
+          },
+          {
+            "left": 1672,
+            "top": 2267,
+            "right": 1856,
+            "bottom": 2314
+          },
+          {
+            "left": 572,
+            "top": 2287,
+            "right": 756,
+            "bottom": 2334
+          },
+          {
+            "left": 2112,
+            "top": 2447,
+            "right": 2296,
+            "bottom": 2494
+          },
+          {
+            "left": 652,
+            "top": 2527,
+            "right": 863,
+            "bottom": 2574
+          },
+          {
+            "left": 518,
+            "top": 2567,
+            "right": 648,
+            "bottom": 2614
+          },
+          {
+            "left": 272,
+            "top": 2567,
+            "right": 501,
+            "bottom": 2654
+          },
+          {
+            "left": 2532,
+            "top": 2627,
+            "right": 2662,
+            "bottom": 2714
+          }
+        ],
+        "textOverlap": false,
+        "inset": {
+          "left": 2760,
+          "top": 430,
+          "width": 1537,
+          "height": 1600,
+          "sourceLayer": "moon",
+          "placeIndexes": [
+            55,
+            79,
+            44,
+            86,
+            58,
+            43,
+            41,
+            42
+          ],
+          "pixelsMatch": true
+        }
+      },
+      {
+        "layer": "undersea",
+        "width": 3400,
+        "height": 3020,
+        "points": 5,
+        "placeIndexes": [
+          62,
+          33,
+          20,
+          63
+        ],
+        "labels": [
+          {
+            "text": "海底洞窟（勇氣之鎧）",
+            "layer": "undersea",
+            "x": 52,
+            "y": 13,
+            "placeIndexes": []
+          },
+          {
+            "text": "63 奈落洞窟",
+            "layer": "undersea",
+            "x": 71,
+            "y": 43,
+            "placeIndexes": [
+              62
+            ]
+          },
+          {
+            "text": "34 左源內庵",
+            "layer": "undersea",
+            "x": 12,
+            "y": 46,
+            "placeIndexes": [
+              33
+            ]
+          },
+          {
+            "text": "21 龍宮城",
+            "layer": "undersea",
+            "x": 35,
+            "y": 90,
+            "placeIndexes": [
+              20
+            ]
+          },
+          {
+            "text": "64 人魚村",
+            "layer": "undersea",
+            "x": 7,
+            "y": 119,
+            "placeIndexes": [
+              63
+            ]
+          }
+        ],
+        "labelBoxes": [
+          {
+            "left": 1172,
+            "top": 467,
+            "right": 1455,
+            "bottom": 514
+          },
+          {
+            "left": 1552,
+            "top": 1067,
+            "right": 1709,
+            "bottom": 1114
+          },
+          {
+            "left": 372,
+            "top": 1127,
+            "right": 529,
+            "bottom": 1174
+          },
+          {
+            "left": 832,
+            "top": 2007,
+            "right": 962,
+            "bottom": 2054
+          },
+          {
+            "left": 272,
+            "top": 2587,
+            "right": 402,
+            "bottom": 2634
+          }
+        ],
+        "textOverlap": false
+      },
+      {
+        "layer": "moon",
+        "width": 3400,
+        "height": 3020,
+        "points": 18,
+        "placeIndexes": [
+          55,
+          79,
+          44,
+          86,
+          58,
+          43,
+          41,
+          42
+        ],
+        "labels": [
+          {
+            "text": "56 月之祠",
+            "layer": "moon",
+            "x": 28,
+            "y": 3,
+            "placeIndexes": [
+              55
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 32,
+            "y": 5,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 30,
+            "y": 6,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 29,
+            "y": 9,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "45 風暴村\n87 臥龍洞窟（內）",
+            "layer": "moon",
+            "x": 7,
+            "y": 10,
+            "placeIndexes": [
+              44,
+              86
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 31,
+            "y": 11,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "56 月之祠",
+            "layer": "moon",
+            "x": 45,
+            "y": 11,
+            "placeIndexes": [
+              55
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 28,
+            "y": 12,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "59 夢之村",
+            "layer": "moon",
+            "x": 32,
+            "y": 12,
+            "placeIndexes": [
+              58
+            ]
+          },
+          {
+            "text": "44 月之宮殿",
+            "layer": "moon",
+            "x": 14,
+            "y": 14,
+            "placeIndexes": [
+              43
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 27,
+            "y": 14,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 22,
+            "y": 15,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 24,
+            "y": 16,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 20,
+            "y": 17,
+            "placeIndexes": [
+              79
+            ]
+          },
+          {
+            "text": "42 寧靜村",
+            "layer": "moon",
+            "x": 26,
+            "y": 25,
+            "placeIndexes": [
+              41
+            ]
+          },
+          {
+            "text": "56 月之祠",
+            "layer": "moon",
+            "x": 32,
+            "y": 31,
+            "placeIndexes": [
+              55
+            ]
+          },
+          {
+            "text": "43 豐饒村",
+            "layer": "moon",
+            "x": 37,
+            "y": 41,
+            "placeIndexes": [
+              42
+            ]
+          },
+          {
+            "text": "80 月之洞窟",
+            "layer": "moon",
+            "x": 35,
+            "y": 62,
+            "placeIndexes": [
+              79
+            ]
+          }
+        ],
+        "labelBoxes": [
+          {
+            "left": 1252,
+            "top": 327,
+            "right": 1382,
+            "bottom": 374
+          },
+          {
+            "left": 1412,
+            "top": 407,
+            "right": 1569,
+            "bottom": 454
+          },
+          {
+            "left": 1151,
+            "top": 447,
+            "right": 1308,
+            "bottom": 494
+          },
+          {
+            "left": 1292,
+            "top": 567,
+            "right": 1449,
+            "bottom": 614
+          },
+          {
+            "left": 412,
+            "top": 587,
+            "right": 650,
+            "bottom": 674
+          },
+          {
+            "left": 1372,
+            "top": 647,
+            "right": 1529,
+            "bottom": 694
+          },
+          {
+            "left": 1932,
+            "top": 647,
+            "right": 2062,
+            "bottom": 694
+          },
+          {
+            "left": 1071,
+            "top": 687,
+            "right": 1228,
+            "bottom": 734
+          },
+          {
+            "left": 1335,
+            "top": 725,
+            "right": 1465,
+            "bottom": 772
+          },
+          {
+            "left": 692,
+            "top": 767,
+            "right": 849,
+            "bottom": 814
+          },
+          {
+            "left": 1031,
+            "top": 767,
+            "right": 1188,
+            "bottom": 814
+          },
+          {
+            "left": 1064,
+            "top": 897,
+            "right": 1221,
+            "bottom": 944
+          },
+          {
+            "left": 1092,
+            "top": 847,
+            "right": 1249,
+            "bottom": 894
+          },
+          {
+            "left": 751,
+            "top": 887,
+            "right": 908,
+            "bottom": 934
+          },
+          {
+            "left": 1172,
+            "top": 1207,
+            "right": 1302,
+            "bottom": 1254
+          },
+          {
+            "left": 1412,
+            "top": 1447,
+            "right": 1542,
+            "bottom": 1494
+          },
+          {
+            "left": 1612,
+            "top": 1847,
+            "right": 1742,
+            "bottom": 1894
+          },
+          {
+            "left": 1532,
+            "top": 2687,
+            "right": 1689,
+            "bottom": 2734
+          }
+        ],
+        "textOverlap": false
+      }
+    ],
+    "source": "world-map-locations.json",
+    "sha256": "2a7a03ec004da06e8ec6108f75d08c1473f0f7f8632486e83c11adb2871efe6f",
+    "textOverlap": false
+  },
+  "limitations": [
+    "128x128 surface overview, not full-resolution walking terrain",
+    "Undersea entrances projected onto surface terrain; moon panel is a coordinate plot, not decoded moon terrain",
+    "Interior names use parent entrances; dynamic, regional and unresolved names are explicitly listed in the catalog, not invented as fixed points",
+    "All 87 names listed does not mean all 87 have independent verified world coordinates"
+  ],
+  "images": [
+    {
+      "path": "images/world-map-native.png",
+      "sha256": "f783bd95b7d1ef9b73cf5819551836537b98c1c8205bb37d499ba241ef4c728b"
+    },
+    {
+      "path": "images/world-map-capture.png",
+      "sha256": "dc9720e93b694d88c8eb0277623ff105090718f5ee3d30f991fb636a25b5a786"
+    },
+    {
+      "path": "images/world-map-zh-Hant.png",
+      "sha256": "a0a019f4b99ebe62864e0ef547102e3636c7001d98034437e5a13454323bd62f"
+    },
+    {
+      "path": "images/world-map-undersea-zh-Hant.png",
+      "sha256": "1cca266a58f393111241c47d5d214f01279d92a8d77fc4a239bbb9015b9b7665"
+    },
+    {
+      "path": "images/world-map-moon-zh-Hant.png",
+      "sha256": "59ddadf8168336c1a979e9011eaa84a544d0283fc5494797701c7a60354ff5fe"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "description": "Set defeated Nozuchi count to 49; apply once, then disable before another battle",
+  "code": "7E639731",
+  "address": "0x7e6397",
+  "valueDecimal": 49,
+  "defaultEnabled": false,
+  "romSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "enemyIndex": 22,
+  "enemyName": "野槌",
+  "enemyNameSource": "../translations/enemy-readings.draft.zh-Hant.json",
+  "counterTable": "0x7e6381",
+  "nativeEvidence": [
+    {
+      "offset": "0x4c2f3",
+      "hex": "e3c5",
+      "meaning": "Hermit helper 11 points to CPU 84:C5E3"
+    },
+    {
+      "offset": "0x4c5e3",
+      "hex": "9c5719a93238ef97637e90038d5719a9014c5cc3",
+      "meaning": "Compute max(50 - byte at 7E6397, 0) in the hermit condition helper"
+    },
+    {
+      "offset": "0xc2e55",
+      "hex": "3d0b",
+      "meaning": "Hermit event calls helper 11"
+    },
+    {
+      "offset": "0x68ca7",
+      "hex": "daae8e19bf81637e1869019002a9ff9f81637efa6b",
+      "meaning": "Load enemy index from 198E; increment byte at 7E6381 + index, saturating at 255"
+    }
+  ],
+  "usage": [
+    "先備份存檔。開啟此項並套用一次，讓遊戲執行後再關閉並套用關閉設定。",
+    "必須在下一場戰鬥前關閉，否則討伐數會持續被鎖回49，不能正常累加。",
+    "此項直接覆寫目前累計數，即使原本超過49也會降為49；不修改其他修行旗標，不直接解鎖避魔之術。"
+  ],
+  "verificationScope": "Static native ROM reader, incrementer and enemy-index cross-check; cheat format and preservation of previous 15 entries verified",
+  "runtimeVerified": false,
+  "deviceDeployed": false,
+  "romOrSavesModified": false
+}

@@ -1,4 +1,4 @@
-cheats = 15
+cheats = 17
 
 cheat0_desc = "Momotarou HP fixed at 999 - OFF for scripted defeats"
 cheat0_code = "7E16A1E7+7E16B603"
@@ -74,3 +74,13 @@ cheat14_desc = "Yashahime technique points fixed at 999"
 cheat14_code = "7E16F8E7+7E170D03"
 cheat14_enable = false
 cheat14_handler = 0
+
+cheat15_desc = "Nozuchi count 50 - ON while reporting to Hibima hermit; OFF after learning"
+cheat15_code = "7E639732"
+cheat15_enable = false
+cheat15_handler = 0
+
+cheat16_desc = "Mankin training - cast Kintan once to win; OFF after learning"
+cheat16_code = "82D03860+82D039FE+82FE60AD+82FE61B8+82FE6219+82FE63F0+82FE640D+82FE65AE+82FE6653+82FE671F+82FE68D0+82FE6908+82FE6AA9+82FE6BFF+82FE6C8D+82FE6DC8+82FE6E1F+82FE6F8D+82FE70C9+82FE711F+82FE724C+82FE7364+82FE74D0"
+cheat16_enable = false
+cheat16_handler = 0

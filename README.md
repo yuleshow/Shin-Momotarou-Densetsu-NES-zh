@@ -31,13 +31,24 @@
 
 ## 整合開發候選（未發布）
 
-後續採用英文姓名輸入，不擴充存檔格式；原作五字日文讀音測驗已接入中文選擇題候選，完整流程仍在驗證。v65 仍是正式版本。
+後續採用「中文預設名，直接確認；自訂時使用英文字母、數字與空格」，不擴充存檔格式；原作五字日文讀音測驗已接入中文選擇題候選，完整流程仍在驗證。v65 仍是正式版本。
+
+中文預設名修正版位於[本機候選](verification/remaining-completion/experimental-default-names-build-v4/build.json)，尚未合入下列舊 v7 候選或正式版。已修正共用繪字入口與字組偏移，11 種命名模式的中文像素、空白預填、原作初值替換、確認、英文替換及恢復預設均通過[原生驗證](verification/remaining-completion/experimental-default-names-build-v4/name-entry-verification.json)。槽 235 的本機副本也以未掛鉤 ROM、正常按鍵驗證「梅璽閣主」顯示及英文切換；沒有修改裝置存檔。完整回歸 177 項通過。
+
+[存檔驗證](verification/remaining-completion/experimental-default-names-build-v4/name-storage-verification.json)涵蓋英文、混合、舊姓名及中文預設共 12 組三槽存讀檔與冷啟動；六方向複製與三槽刪除回歸通過。存檔測試仍使用合成狀態與原生例程掛鉤，完整自然 NPC 流程、自然存檔選單及測驗整輪流程尚未驗證。`chineseNameDefaultsExperimental` 仍是實驗選項，不代表正式發布完成。
+
+移動目的地選單另已統一地名與未開放欄位的寬度，26 個地點的右欄固定在 x=136；[16 組原生排版驗證](verification/remaining-completion/travel-alignment-build-v3/travel-verification.json)涵蓋缺項及完整頁面，使用合成入口，不代表完整自然移動流程已驗證。
+
+料理清單的「やめる」已在[獨立模板](translations/restaurant-menu.json)補為「取消」。[目前候選](verification/remaining-completion/restaurant-cancel-build-v1/build.json)沿用上述對齊及預設姓名修正；[原生對照驗證](verification/remaining-completion/restaurant-cancel-build-v1/restaurant-verification.json)涵蓋三道菜、取消項與 B 鍵，菜名及價格像素不變，178 項回歸通過。測試由掛鉤入口設定菜名與價格，不代表自然 NPC 點餐及付款流程已驗證；仍未提升正式版本。
+
+使用者指定城名「梅璽大閣」、自己的名字「梅璽閣主」，以及三個討厭的人「粉紅蛆／惡臭列表／五毛黨」。原生存檔仍使用四格代碼；重新進入命名時，空白或完整匹配原作初始化表的姓名會套用中文預設，其他自訂名保留。載入已開啟命名畫面的舊即時存檔會略過初始化，需選「預設」；此操作已在槽 235 副本驗證。
 
 - [本機實驗 ROM](verification/remaining-completion/experimental-quiz-build-v7/opening-zh-Hant.sfc)與 [IPS](verification/remaining-completion/experimental-quiz-build-v7/opening-zh-Hant.ips)包含三筆固定姓名修正、實驗英文鍵盤及中文選擇題。**自然命名畫面、測驗整輪流程與最終獎勵尚未驗證，不應取代正式版。** 此候選未封裝新版歡迎畫面；路徑中的 v7 是實驗修訂序號，不是發布版本。
 - [逐筆文字審核](translations/remaining-source-review.json)：164 筆分為同文保留 71 筆、已核對中文圖表用途 64 筆、預設動物名稱替代用途 3 筆、姓名修正 3 筆，以及仍需追蹤的片段 23 筆。保留與分類不計入新增翻譯。
 - [片段索引追蹤](verification/remaining-completion/residual-fragment-callers.json)已核對 23 筆的保留位元組與巢狀索引引用；未找到現有索引譯句的引用根節點，不代表已排除原生直接呼叫。[整合選單回歸](verification/remaining-completion/integrated-menu-verification.json)通過，完整發布回歸仍未完成。
 - [姓名原生文字驗證](verification/remaining-completion/fixed-name-dialogue.json)通過 48 個測試場景；[英文按鍵驗證](verification/remaining-completion/english-input-native.json)通過 36 鍵、12 種模式與 144 次容量取樣。均為局部測試，非自然流程證明。
-- [完整姓名存檔驗證](verification/remaining-completion/name-storage-native.json)涵蓋三槽的全英文、英日混合與原有姓名，共九組、每組 11 個永久姓名；原生存讀檔、六方向複製、逐槽刪除及九次未掛鉤候選冷啟動均通過。存檔來自合成測試狀態；自然命名、存檔／複製／刪除選單及舊姓名字形仍未驗證。
+- [姓名字形驗證](verification/remaining-completion/name-entry-pixels.json)通過 11 種永久姓名模式、22 組舊姓名樣本、36 個英數鍵與 44 個輸入位置；鍵盤資料由原作初始化，舊姓名畫面與 v65 一致。合成入口在日本原版、v65 與候選都會於輸入後清掉鍵盤，因此尚未證明自然命名操作正常。來源預覽工具另修正濁音描邊合成；完整測試共 176 項通過。
+- [完整姓名存檔驗證](verification/remaining-completion/name-storage-native.json)涵蓋三槽的全英文、英日混合與原有姓名，共九組、每組 11 個永久姓名；原生存讀檔、六方向複製、逐槽刪除及九次未掛鉤候選冷啟動均通過。存檔來自合成測試狀態；自然命名及存檔／複製／刪除選單仍未驗證，舊姓名字形樣本另見上述驗證。
 - [中文選擇題資料](translations/name-quiz.zh-Hant.json)保留 44 個原抽題位置。[原生驗證](verification/remaining-completion/chinese-quiz-native.json)通過全部題目與答案像素、220 次作答／取消，以及原事件答對加 10 分、答錯／取消不加分的處理；姓名與 SRAM 不變。測試使用人工事件入口，不代表自然場景或整輪測驗已完成。
 
 建置工具的 `englishNameEntryExperimental: true` 與 `chineseNameQuizExperimental: true` 僅供明確啟用的實驗 manifest 使用，會將產物標示為未發布驗證；原有 v65 manifest 不啟用這些選項。舊有 2,660 個字碼保留，新候選只追加三個字形。完整狀態見[整合計畫](translations/remaining-completion.plan.json)，本機 `verification` 產物不會上傳 GitHub。
@@ -78,6 +89,14 @@ macOS 可用 `shasum -a 256` 核對檔案；原版若帶有額外檔頭或版本
 - 本次部署沒有改寫存檔、玩家自訂姓名或作弊開關，但不代表已驗證所有模擬器與存檔組合。
 - 即時存檔可能保留舊文字畫面；重新開啟對話／選單，或重新進入戰鬥，才會重新繪字。
 - [Snes9x 作弊檔](cheats/Shin%20Momotarou%20Densetsu%20(Traditional%20Chinese).cht)為選用功能。既有「一擊」設定排除普通蜥蜴，以保留斷尾機會；自然斷尾及物品取得仍未驗證。v65 安裝沒有重新套用或切換作弊設定。
+
+本機作弊檔現有 17 個開關，第 17 項已修正為 `Mankin training - cast Kintan once to win; OFF after learning`，預設關閉。萬金丹修行比的是先回滿體力，**不是打倒仙人**；舊版一擊傷害不能完成這場修行。新版只在此修行中提高桃太郎的回復量，交由原作限制至體力上限並判定勝利，不再修改傷害掛鉤。
+
+使用前完全退出核心再重開，以清除舊版留在記憶體中的傷害補丁；載入作弊檔（替換）並套用變更。關閉一般一擊必殺，開啟第 17 項，在修行中選擇 **術 → 金丹 → 使用 → 桃太郎**；學會萬金丹後關閉。新版不是攻擊一擊獲勝。
+
+[自然修行驗證](cheats/mankin-recovery-verification.json)使用未修改的 239 槽與原生核心：相同操作下，未開啟時金丹只回復到 41；開啟後回滿至 127，並出現[學會萬金丹畫面](cheats/mankin-recovery-learned.png)。242 槽本機重播亦回滿至其上限 134，完成授予；未改寫裝置存檔。原先的[合成戰鬥驗證](cheats/mankin-one-hit-verification.json)保留為歷史記錄，不能作為自然修行成功的證明。
+
+2026-10-09 修正版已安裝至裝置 `Snes9x` 與 `0QuickLoad` 兩處，只替換第 17 項的代碼和說明，所有開關保持原值（第 17 項仍關閉）。完整回讀通過，ROM 與 473 個存檔項目雜湊不變，沒有改寫或刪除截圖。詳見[修正版部署驗證](cheats/mankin-recovery-deployment-verification.json)及[備份清單](cheats/deployment-backup-mankin-recovery-20261009/manifest.json)。裝置上的實際啟用操作仍需玩家執行。
 - 不要直接重跑已完成的專用部署程式；它包含特定裝置路徑、舊版雜湊及備份保護，不是通用安裝器。
 
 ## 開發與驗證
@@ -135,7 +154,7 @@ MOMOTARO_MANIFEST=opening-preview-v65/resolved-translation-manifest.json \
 
 ## 已知限制
 
-- 命名改版採用英文字母、數字與空格，不提供中文輸入，也不擴充存檔格式。實驗候選的自然命名畫面及所有存讀檔流程仍待驗證。
+- 命名改版提供實驗中文預設名；自訂使用英文字母、數字與空格，不提供任意中文輸入，也不擴充存檔格式。預設字形與原生存讀檔已通過局部驗證，完整自然命名及存檔選單流程仍待驗證。
 - 原生測試包含合成場景，未涵蓋所有自然事件分支、動態姓名與數值上限、完整商店交易或通關流程。
 - 畫面逐像素相符只能支持顯示驗證，不能單獨證明譯意正確。v65 已修正 v64 的「アオマヤ」誤讀，譯為「阿歐瑪亞」。
 - 部署回讀通過不等於實體裝置啟動已確認；目前沒有完整實機遊玩驗證。

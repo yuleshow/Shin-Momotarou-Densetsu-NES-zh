@@ -86,6 +86,13 @@
     "englishNativeKeyTestsPassed": 36,
     "englishNativeModesPassed": 12,
     "englishCapacitySamplesPassed": 144,
+    "legacyNamePixelModesPassed": 11,
+    "legacyNamePixelSamplesPassed": 22,
+    "englishInputGlyphKeysPassed": 36,
+    "englishInputGlyphPositionsPassed": 44,
+    "nativeKeyboardInitializationWithoutKeyMapSeedingVerified": true,
+    "namePixelEvidence": "verification/remaining-completion/name-entry-pixels.json",
+    "namePixelLimitations": "Synthetic common naming entry verifies visible glyphs, not natural layout. The keyboard disappears after input in the Japanese original, v65 and candidate controls; residual scene sprites remain. Natural NPC entry and persistent keyboard interaction still need a correct in-game context.",
     "nativeSaveAndColdLoadCasesPassed": 9,
     "nativeSaveAndColdLoadModesPerCase": 11,
     "nativeSaveAndColdLoadSlotsPassed": 3,
@@ -93,11 +100,11 @@
     "nativeCopyDirectionsPassed": 6,
     "nativeDeleteSlotsPassed": 3,
     "nativeStorageEvidence": "verification/remaining-completion/name-storage-native.json",
-    "nativeSaveCaseLimitations": "Copies of native editor fixtures seed all 11 permanent names. Test-only hooks invoke original save/load/copy/delete routines; nine unhooked candidate cold boots use normal title/load input and preserve all SRAM bytes. Natural naming, save/copy/delete menu navigation and visible legacy-name glyphs remain unverified.",
+    "nativeSaveCaseLimitations": "Copies of native editor fixtures seed all 11 permanent names. Test-only hooks invoke original save/load/copy/delete routines; nine unhooked candidate cold boots use normal title/load input and preserve all SRAM bytes. Natural naming and save/copy/delete menu navigation remain unverified; separate pixel evidence covers selected legacy names, not all possible names.",
     "chineseQuizReplacesEnglishFreeText": true,
     "legacySaveMigrationImplemented": false,
     "nativeNameScreenVerified": false,
-    "nextRequiredEvidence": "A genuine in-game name-entry emulator state with the correct background context: the common CB:C525 event now opens and waits for the English editor, but a synthetic field entry corrupts its background tiles. Natural naming layout, legacy-name glyphs, natural save/copy/delete menus and complete quiz rounds remain unverified."
+    "nextRequiredEvidence": "A genuine in-game name-entry emulator state with the correct caller context: native clearing plus common CB:C525 opens the editor and proves sampled glyphs, but keyboard persistence fails in the original ROM and both localized controls. Natural naming layout, save/copy/delete menus and complete quiz rounds remain unverified."
   },
   "acceptance": {
     "allRemainingRecordsIndividuallyReviewed": false,
@@ -112,7 +119,7 @@
     "candidateDirectory": "verification/remaining-completion/experimental-quiz-build-v7",
     "menuRegressionPassed": true,
     "menuEvidence": "verification/remaining-completion/integrated-menu-verification.json",
-    "unitTestsPassed": 175,
+    "unitTestsPassed": 176,
     "fullReleaseRegressionPassed": false
   },
   "deviceWrites": false

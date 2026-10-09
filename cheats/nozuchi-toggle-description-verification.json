@@ -1,0 +1,29 @@
+{
+  "status": "description-only-readback-verified",
+  "code": "7E639731",
+  "existingCodesAndTogglesPreserved": true,
+  "romWritten": false,
+  "savesWritten": false,
+  "coreToggleTestPassed": true,
+  "naturalBattleVerified": false,
+  "files": [
+    {
+      "filename": "cheats/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "backup": "cheats/deployment-backup-nozuchi-toggle-description/0.cht",
+      "sha256": "3aaada3040a1afdc88cd0b440bfb5d8bd8dbc60f97a926fde4b811eb99262325",
+      "targetSha256": "38071d8b39a7b23053eaed630116a55de1900d69f84fd125ca32e1aae1035f46"
+    },
+    {
+      "filename": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "backup": "cheats/deployment-backup-nozuchi-toggle-description/1.cht",
+      "sha256": "5e40ac1dc804e7869493b2f826fe3186a2e92054d3ac07d17be8cd6a791189b1",
+      "targetSha256": "cd6787cb050f4a621da332a9c6273b843d641d6d389ffffc5bf15e5bd07d407c"
+    },
+    {
+      "filename": "/Volumes/share/cheats/cht/0QuickLoad/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "backup": "cheats/deployment-backup-nozuchi-toggle-description/2.cht",
+      "sha256": "c1bb2bf92f069c4b95598e409081880cce34f85d179fdefb01f32641184484bb",
+      "targetSha256": "43bee798f8d093c083150c1d1444aaefb4bce187affd3993071724e66aec0125"
+    }
+  ]
+}

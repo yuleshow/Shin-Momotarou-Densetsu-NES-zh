@@ -1,0 +1,34 @@
+{
+  "status": "deployed-cheats-readback-and-protected-files-verified",
+  "code": "82D09C60+82D09DFE+82FE60BD+82FE61E5+82FE6219+82FE63F0+82FE640F+82FE65BD+82FE66D5+82FE6719+82FE6809+82FE6901+82FE6AC9+82FE6BF5+82FE6CD0+82FE6D06+82FE6EA9+82FE6FFF+82FE7085+82FE710F+82FE7285+82FE7310+82FE744C+82FE75DE+82FE76D0",
+  "localCheatSha256": "5ad12f838a60a4474fa3f1a3d66d864b23c1dacc5fb32cc9d2d75d4ce043eaa3",
+  "deviceRomSha256": "b74ddb417f2cb5936c75c9046e21b731c3b8658788617a66deb2bf07d33f5a1e",
+  "backupDirectory": "/Users/yuleshow/yuleshow-github/Shin-Momotarou-Densetsu-NES-zh/cheats/deployment-backup-mankin-20261009",
+  "unchangedSaveEntries": 469,
+  "screenshotVerificationScope": "directory-entry-names-only",
+  "unchangedScreenshotEntries": 230,
+  "existingFieldsAndTogglesPreserved": true,
+  "newCheatDefaultOff": true,
+  "romWritten": false,
+  "savesWritten": false,
+  "screenshotsDeleted": 0,
+  "naturalTrainingCompletionVerified": false,
+  "physicalDeviceActivationVerified": false,
+  "targets": [
+    {
+      "folder": "Snes9x",
+      "filename": "/Volumes/share/cheats/cht/Snes9x/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "previousSha256": "9ac888bf0ce2e4dcb62fc3430935d654e5557fdd3e3ccd60951c9e4cdab84f58",
+      "targetSha256": "75c6b7459ea470f35da47ce3ab8a9d311b1acb53df676f2e9e5e90ca85fc7aba",
+      "fullReadbackVerified": true
+    },
+    {
+      "folder": "0QuickLoad",
+      "filename": "/Volumes/share/cheats/cht/0QuickLoad/Shin Momotarou Densetsu (Traditional Chinese).cht",
+      "previousSha256": "3f33a76c90044bfa45f6f65b4d0704b8ddbffc311371cb4d5e53b324922c9e3e",
+      "targetSha256": "fb6b66b0fdcc9122b6cff3eee262e90bdb8018967776ae8305ee9a0c47627c9a",
+      "fullReadbackVerified": true
+    }
+  ],
+  "completedAt": "2026-10-09T17:29:37.275Z"
+}

@@ -28,7 +28,9 @@ function section(state, tag) {
   return offset + tag.length;
 }
 const originalRam = section(original, ramTag);
-const cases = ['english', 'mixed', 'legacy'].flatMap(kind => [1, 2, 3].map(slot => ({ kind, slot })));
+const defaults = metadata.englishNameEntry?.chineseDefaults?.definitions;
+const cases = ['english', 'mixed', 'legacy', ...(defaults ? ['preset'] : [])]
+  .flatMap(kind => [1, 2, 3].map(slot => ({ kind, slot })));
 const limit = Number(process.env.MOMOTARO_STORAGE_CASE_LIMIT ?? cases.length);
 assert.ok(Number.isInteger(limit) && limit >= 1 && limit <= cases.length);
 fs.mkdirSync(output);
@@ -82,6 +84,13 @@ for (const { kind, slot } of cases.slice(0, limit)) {
     const bytes = Buffer.from(original.subarray(originalRam + mode.legacyAddress, originalRam + mode.legacyAddress + mode.legacyBytes));
     const english = kind === 'english' || (kind === 'mixed' && mode.mode % 2 === 1);
     if (english) encodeEnglishName(`${String.fromCharCode(64 + mode.mode)}${mode.mode % 2 ? ' ' : 'Z'}${slot}${mode.mode % 10}`, mode).copy(bytes, Number(mode.katakana));
+    if (kind === 'preset') {
+      const definition = defaults.find(entry => entry.mode === mode.mode);
+      assert.ok(definition);
+      const token = Buffer.from(definition.tokenHex, 'hex');
+      assert.equal(token.length, mode.capacity + 1);
+      token.copy(bytes, Number(mode.katakana));
+    }
     bytes.copy(state, ramStart + mode.legacyAddress);
     return { mode: mode.mode, english, bytes };
   });
@@ -179,9 +188,9 @@ fs.writeFileSync(path.join(output, 'verification.json'), JSON.stringify({ target
   sourceSha256: metadata.sourceSha256, runnerSha256: hash(fs.readFileSync(runner)), coreSha256: hash(fs.readFileSync(core)),
   originalFixtureSha256: originalHash, confirmationFixtureSha256: confirmationHash, originalFixturesUnchanged: true,
   synthetic: true, nativeSaveLoadRoutinesUnchanged: true, sramBytes: contract.sramBytes, results,
-  copies, deletions, coldBoots, deviceWrites: false, naturalSaveMenuVerified: false, coldBootVerified: coldBoots.length === 9,
+  copies, deletions, coldBoots, deviceWrites: false, naturalSaveMenuVerified: false, coldBootVerified: coldBoots.length === cases.length,
   nativeCopyDeleteVerified: copies.length === 6 && deletions.length === 3,
-  limitations: ['English and legacy names are seeded in copies of existing native editor fixtures, not entered through natural gameplay.',
+  limitations: ['Names are seeded in copies of existing native editor fixtures, not entered through natural gameplay.',
     'Test-only confirmation hooks call original save/load/copy/delete routines; their natural save/copy/delete menus and visible legacy-name glyphs are not verified.',
     'Cold boots use the unmodified candidate and normal title/load-menu input, but the input SRAM was produced from synthetic fixtures with non-natural stats.',
     'Only name fields, slot checksums, other slots, unused extensions and load-time SRAM preservation are asserted.'] }, null, 2) + '\n', { flag: 'wx' });

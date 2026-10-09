@@ -1,0 +1,5559 @@
+{
+  "romSha256": "6a726fb79df36a21b46a1eeec33409930ec282d110c312e4025e5538af25d470",
+  "namesSource": "../opening-preview-v37/place-names.md",
+  "travelSceneTable": "0x59568",
+  "coordinateIndex": "0x681c9",
+  "coordinateReader": "CPU 86:8163; world coordinates stored at 0x1573/0x157d",
+  "precision": "Native flight return positions projected to 128x128 overview; not building-door pixels",
+  "excluded": [
+    {
+      "id": 7,
+      "name": "寧靜村"
+    },
+    {
+      "id": 15,
+      "name": "夢之村"
+    },
+    {
+      "id": 22,
+      "name": "風暴村"
+    },
+    {
+      "id": 23,
+      "name": "月之宮殿"
+    },
+    {
+      "id": 24,
+      "name": "豐饒村"
+    },
+    {
+      "id": 25,
+      "name": "鬼島"
+    }
+  ],
+  "locations": [
+    {
+      "id": 0,
+      "name": "啟程村",
+      "placeIndex": 1,
+      "scene": 80,
+      "world": 76,
+      "worldX": 54,
+      "worldY": 237,
+      "x": 27,
+      "y": 118,
+      "pointer": "0x6821e",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 1,
+      "name": "飯糰村",
+      "placeIndex": 3,
+      "scene": 83,
+      "world": 76,
+      "worldX": 33,
+      "worldY": 203,
+      "x": 16,
+      "y": 101,
+      "pointer": "0x68225",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 2,
+      "name": "麻雀旅館一號店",
+      "placeIndex": 4,
+      "scene": 90,
+      "world": 76,
+      "worldX": 43,
+      "worldY": 162,
+      "x": 21,
+      "y": 81,
+      "pointer": "0x6822c",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 3,
+      "name": "花咲村",
+      "placeIndex": 14,
+      "scene": 96,
+      "world": 76,
+      "worldX": 59,
+      "worldY": 155,
+      "x": 29,
+      "y": 77,
+      "pointer": "0x68233",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 4,
+      "name": "金太郎村",
+      "placeIndex": 17,
+      "scene": 104,
+      "world": 76,
+      "worldX": 44,
+      "worldY": 115,
+      "x": 22,
+      "y": 57,
+      "pointer": "0x6823a",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 5,
+      "name": "麻雀旅館二號店",
+      "placeIndex": 5,
+      "scene": 91,
+      "world": 76,
+      "worldX": 94,
+      "worldY": 131,
+      "x": 47,
+      "y": 65,
+      "pointer": "0x68241",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 6,
+      "name": "浦島村",
+      "placeIndex": 18,
+      "scene": 106,
+      "world": 76,
+      "worldX": 80,
+      "worldY": 187,
+      "x": 40,
+      "y": 93,
+      "pointer": "0x68248",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 8,
+      "name": "寢太郎村左側",
+      "placeIndex": 22,
+      "scene": 107,
+      "world": 76,
+      "worldX": 140,
+      "worldY": 33,
+      "x": 70,
+      "y": 16,
+      "pointer": "0x6825a",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 9,
+      "name": "麻雀旅館三號店",
+      "placeIndex": 6,
+      "scene": 92,
+      "world": 76,
+      "worldX": 124,
+      "worldY": 64,
+      "x": 62,
+      "y": 32,
+      "pointer": "0x6824f",
+      "evidence": "native-flight-return-coordinate",
+      "note": "大江山內旅館的地面對應位置"
+    },
+    {
+      "id": 10,
+      "name": "微笑村",
+      "placeIndex": 26,
+      "scene": 101,
+      "world": 76,
+      "worldX": 195,
+      "worldY": 60,
+      "x": 97,
+      "y": 30,
+      "pointer": "0x68268",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 11,
+      "name": "希望之都",
+      "placeIndex": 27,
+      "scene": 111,
+      "world": 76,
+      "worldX": 208,
+      "worldY": 88,
+      "x": 104,
+      "y": 44,
+      "pointer": "0x6826f",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 12,
+      "name": "麻雀旅館四號店",
+      "placeIndex": 7,
+      "scene": 128,
+      "world": 76,
+      "worldX": 231,
+      "worldY": 31,
+      "x": 115,
+      "y": 15,
+      "pointer": "0x6827d",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 13,
+      "name": "麻雀旅館五號店",
+      "placeIndex": 8,
+      "scene": 93,
+      "world": 76,
+      "worldX": 209,
+      "worldY": 119,
+      "x": 104,
+      "y": 59,
+      "pointer": "0x68284",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 14,
+      "name": "新村",
+      "placeIndex": 61,
+      "scene": 129,
+      "world": 76,
+      "worldX": 193,
+      "worldY": 176,
+      "x": 96,
+      "y": 88,
+      "pointer": "0x6828b",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 16,
+      "name": "猴蟹村",
+      "placeIndex": 36,
+      "scene": 130,
+      "world": 76,
+      "worldX": 176,
+      "worldY": 189,
+      "x": 88,
+      "y": 94,
+      "pointer": "0x68299",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 17,
+      "name": "麻雀旅館六號店",
+      "placeIndex": 9,
+      "scene": 94,
+      "world": 76,
+      "worldX": 174,
+      "worldY": 172,
+      "x": 87,
+      "y": 86,
+      "pointer": "0x682a0",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 18,
+      "name": "機關村",
+      "placeIndex": 83,
+      "scene": 120,
+      "world": 76,
+      "worldX": 184,
+      "worldY": 146,
+      "x": 92,
+      "y": 73,
+      "pointer": "0x68292",
+      "evidence": "native-flight-return-coordinate",
+      "note": "地下村莊的地面對應位置"
+    },
+    {
+      "id": 19,
+      "name": "七夕村",
+      "placeIndex": 57,
+      "scene": 143,
+      "world": 76,
+      "worldX": 241,
+      "worldY": 244,
+      "x": 120,
+      "y": 122,
+      "pointer": "0x682b5",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 20,
+      "name": "麻雀旅館七號店",
+      "placeIndex": 10,
+      "scene": 95,
+      "world": 76,
+      "worldX": 144,
+      "worldY": 184,
+      "x": 72,
+      "y": 92,
+      "pointer": "0x682a7",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    },
+    {
+      "id": 21,
+      "name": "竹取村",
+      "placeIndex": 38,
+      "scene": 131,
+      "world": 76,
+      "worldX": 127,
+      "worldY": 195,
+      "x": 63,
+      "y": 97,
+      "pointer": "0x682ae",
+      "evidence": "native-flight-return-coordinate",
+      "note": "村外／入口附近"
+    }
+  ],
+  "atlas": {
+    "catalog": [
+      {
+        "index": 0,
+        "name": "桃太郎的老家",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 1,
+        "name": "啟程村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 2,
+        "name": "滾飯糰洞",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 3,
+        "name": "飯糰村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 4,
+        "name": "麻雀旅館一號店",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 5,
+        "name": "麻雀旅館二號店",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 6,
+        "name": "麻雀旅館三號店",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 7,
+        "name": "麻雀旅館四號店",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 8,
+        "name": "麻雀旅館五號店",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 9,
+        "name": "麻雀旅館六號店",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 10,
+        "name": "麻雀旅館七號店",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 11,
+        "name": "松葉山",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 12,
+        "name": "花咲村洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 13,
+        "name": "鹿角之里",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 14,
+        "name": "花咲村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 15,
+        "name": "無聲洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 16,
+        "name": "足柄山",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 17,
+        "name": "金太郎村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 18,
+        "name": "浦島村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 19,
+        "name": "養老瀑布",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 20,
+        "name": "龍宮城",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 21,
+        "name": "大江山",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 22,
+        "name": "寢太郎村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 23,
+        "name": "寢太郎之穴",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 24,
+        "name": "大太郎庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 25,
+        "name": "冰之塔",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 26,
+        "name": "微笑村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 27,
+        "name": "希望之都",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 28,
+        "name": "伸長怪森林",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 29,
+        "name": "眾神之里",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 30,
+        "name": "風神谷",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 31,
+        "name": "伏龍洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 32,
+        "name": "雷神洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 33,
+        "name": "左源內庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 34,
+        "name": "鬼族牢獄",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 35,
+        "name": "露肚怪之里",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 36,
+        "name": "猴蟹村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 37,
+        "name": "山姥洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 38,
+        "name": "竹取村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 39,
+        "name": "黃泉之塔",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 40,
+        "name": "彩虹洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 41,
+        "name": "寧靜村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 42,
+        "name": "豐饒村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 43,
+        "name": "月之宮殿",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 44,
+        "name": "風暴村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 45,
+        "name": "鬼島",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 46,
+        "name": "地獄・三途川",
+        "representation": "region-or-special",
+        "note": "鬼島地下：三途川"
+      },
+      {
+        "index": 47,
+        "name": "地獄・黑繩地獄",
+        "representation": "region-or-special",
+        "note": "鬼島地下：黑繩地獄"
+      },
+      {
+        "index": 48,
+        "name": "地獄・血池地獄",
+        "representation": "region-or-special",
+        "note": "鬼島地下：血池地獄"
+      },
+      {
+        "index": 49,
+        "name": "地獄・眾合地獄",
+        "representation": "region-or-special",
+        "note": "鬼島地下：眾合地獄"
+      },
+      {
+        "index": 50,
+        "name": "地獄・焦熱地獄",
+        "representation": "region-or-special",
+        "note": "鬼島地下：焦熱地獄"
+      },
+      {
+        "index": 51,
+        "name": "地獄・極寒地獄",
+        "representation": "region-or-special",
+        "note": "鬼島地下：極寒地獄"
+      },
+      {
+        "index": 52,
+        "name": "地獄・大焦熱地獄",
+        "representation": "region-or-special",
+        "note": "鬼島地下：大焦熱地獄"
+      },
+      {
+        "index": 53,
+        "name": "地獄・阿鼻地獄",
+        "representation": "region-or-special",
+        "note": "鬼島地下：阿鼻地獄"
+      },
+      {
+        "index": 54,
+        "name": "伐折羅王之間",
+        "representation": "region-or-special",
+        "note": "鬼島地下：伐折羅王之間"
+      },
+      {
+        "index": 55,
+        "name": "月之祠",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 56,
+        "name": "神仙鄉",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 57,
+        "name": "七夕村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 58,
+        "name": "夢之村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 59,
+        "name": "海之庵",
+        "representation": "region-or-special",
+        "note": "地名表收錄；尚未辨識獨立入口，不與海之仙人庵混稱"
+      },
+      {
+        "index": 60,
+        "name": "仙人庵",
+        "representation": "region-or-special",
+        "note": "仙人庵共用場景的預設地名；13位仙人另按名稱標註"
+      },
+      {
+        "index": 61,
+        "name": "新村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 62,
+        "name": "奈落洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 63,
+        "name": "人魚村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 64,
+        "name": "金丹仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 65,
+        "name": "稻妻仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 66,
+        "name": "鹿角仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 67,
+        "name": "解毒仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 68,
+        "name": "避鬼仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 69,
+        "name": "脫身仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 70,
+        "name": "天之仙人塔",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 71,
+        "name": "避魔仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 72,
+        "name": "浮游仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 73,
+        "name": "放屁仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 74,
+        "name": "萬金仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 75,
+        "name": "金瘡仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 76,
+        "name": "海之仙人庵",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 77,
+        "name": "玩家的城",
+        "representation": "region-or-special",
+        "note": "玩家的城可移動，沒有固定世界座標"
+      },
+      {
+        "index": 78,
+        "name": "五重塔",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 79,
+        "name": "月之洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 80,
+        "name": "怨恨洞窟",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 81,
+        "name": "漂泊之島",
+        "representation": "region-or-special",
+        "note": "神仙鄉東方海域；到過七夕村後出現，使用勇氣之鏡尋找；不假定固定落點"
+      },
+      {
+        "index": 82,
+        "name": "雪原",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 83,
+        "name": "機關村",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 84,
+        "name": "原野",
+        "representation": "mapped-entrance-or-parent",
+        "note": null
+      },
+      {
+        "index": 85,
+        "name": "月亮",
+        "representation": "region-or-special",
+        "note": "月上世界整個區域；村莊、洞窟和月之祠見月上分圖"
+      },
+      {
+        "index": 86,
+        "name": "臥龍洞窟",
+        "representation": "region-or-special",
+        "note": "經風暴村內事件進入；不是地面野外入口"
+      }
+    ],
+    "sceneNames": {
+      "77": {
+        "placeIndex": 0,
+        "namePointer": "0xc18b8"
+      },
+      "80": {
+        "placeIndex": 1,
+        "namePointer": "0xc1c53"
+      },
+      "83": {
+        "placeIndex": 3,
+        "namePointer": "0xc23f9"
+      },
+      "89": {
+        "placeIndex": 73,
+        "namePointer": "0xc2c40"
+      },
+      "90": {
+        "placeIndex": 4,
+        "namePointer": "0xc32f4"
+      },
+      "91": {
+        "placeIndex": 5,
+        "namePointer": "0xc3408"
+      },
+      "92": {
+        "placeIndex": 6,
+        "namePointer": "0xc35ba"
+      },
+      "93": {
+        "placeIndex": 8,
+        "namePointer": "0xc3705"
+      },
+      "94": {
+        "placeIndex": 9,
+        "namePointer": "0xc3841"
+      },
+      "95": {
+        "placeIndex": 10,
+        "namePointer": "0xc3989"
+      },
+      "96": {
+        "placeIndex": 14,
+        "namePointer": "0xc3b9a"
+      },
+      "101": {
+        "placeIndex": 26,
+        "namePointer": "0xc45a7"
+      },
+      "103": {
+        "placeIndex": 13,
+        "namePointer": "0xc4d45"
+      },
+      "104": {
+        "placeIndex": 17,
+        "namePointer": "0xc4e89"
+      },
+      "106": {
+        "placeIndex": 18,
+        "namePointer": "0xc5478"
+      },
+      "107": {
+        "placeIndex": 22,
+        "namePointer": "0xc5a92"
+      },
+      "108": {
+        "placeIndex": 23,
+        "namePointer": "0xc6050"
+      },
+      "110": {
+        "placeIndex": 22,
+        "namePointer": "0xc63f9"
+      },
+      "111": {
+        "placeIndex": 27,
+        "namePointer": "0xc66f7"
+      },
+      "112": {
+        "placeIndex": 27,
+        "namePointer": "0xc6dca"
+      },
+      "117": {
+        "placeIndex": 77,
+        "namePointer": "0xc7d63"
+      },
+      "119": {
+        "placeIndex": 83,
+        "note": "地下水路入口，通往機關村",
+        "namePointer": null
+      },
+      "120": {
+        "placeIndex": 83,
+        "namePointer": "0xc927e"
+      },
+      "122": {
+        "placeIndex": 24,
+        "namePointer": "0xc9777"
+      },
+      "124": {
+        "placeIndex": 11,
+        "namePointer": "0xc9968"
+      },
+      "128": {
+        "placeIndex": 7,
+        "namePointer": "0xca76f"
+      },
+      "129": {
+        "placeIndex": 61,
+        "namePointer": "0xca902"
+      },
+      "130": {
+        "placeIndex": 36,
+        "namePointer": "0xcb2d2"
+      },
+      "131": {
+        "placeIndex": 38,
+        "namePointer": "0xcb813"
+      },
+      "134": {
+        "placeIndex": 30,
+        "namePointer": "0xcbe1c"
+      },
+      "135": {
+        "placeIndex": 29,
+        "namePointer": "0xcbfbd"
+      },
+      "138": {
+        "placeIndex": 28,
+        "namePointer": "0xcc672"
+      },
+      "140": {
+        "placeIndex": 35,
+        "namePointer": "0xcc8f9"
+      },
+      "142": {
+        "placeIndex": 56,
+        "namePointer": "0xcccbe"
+      },
+      "143": {
+        "placeIndex": 57,
+        "namePointer": "0xcce5f"
+      },
+      "144": {
+        "placeIndex": 57,
+        "note": "天樹入口，通往七夕村",
+        "namePointer": null
+      },
+      "145": {
+        "placeIndex": 2,
+        "namePointer": "0xcd27e"
+      },
+      "150": {
+        "placeIndex": 15,
+        "namePointer": "0xcdc08"
+      },
+      "152": {
+        "placeIndex": 15,
+        "note": "無聲洞窟另一側入口",
+        "namePointer": null
+      },
+      "153": {
+        "placeIndex": 12,
+        "namePointer": "0xce1f8"
+      },
+      "154": {
+        "placeIndex": 16,
+        "namePointer": "0xce7cb"
+      },
+      "157": {
+        "placeIndex": 19,
+        "namePointer": "0xcfbba"
+      },
+      "158": {
+        "placeIndex": 21,
+        "namePointer": "0xd000d"
+      },
+      "168": {
+        "placeIndex": 21,
+        "note": "大江山另一側入口",
+        "namePointer": null
+      },
+      "169": {
+        "placeIndex": 25,
+        "namePointer": "0xd248f"
+      },
+      "171": {
+        "placeIndex": 80,
+        "namePointer": "0xd309f"
+      },
+      "173": {
+        "placeIndex": 31,
+        "namePointer": "0xd34e1"
+      },
+      "174": {
+        "placeIndex": 32,
+        "namePointer": "0xd364f"
+      },
+      "176": {
+        "placeIndex": 32,
+        "note": "雷神洞窟另一側入口",
+        "namePointer": null
+      },
+      "177": {
+        "placeIndex": 34,
+        "namePointer": "0xd42eb"
+      },
+      "182": {
+        "placeIndex": 34,
+        "note": "鬼族牢獄另一側入口",
+        "namePointer": null
+      },
+      "183": {
+        "placeIndex": 37,
+        "namePointer": "0xd541f"
+      },
+      "185": {
+        "placeIndex": 40,
+        "namePointer": "0xd5cc3"
+      },
+      "188": {
+        "placeIndex": 39,
+        "namePointer": "0xd6a47"
+      },
+      "189": {
+        "placeIndex": 45,
+        "namePointer": "0xd6cd3"
+      },
+      "190": {
+        "placeIndex": 46,
+        "namePointer": "0xd6ebe"
+      },
+      "192": {
+        "placeIndex": 47,
+        "namePointer": "0xd7969"
+      },
+      "193": {
+        "placeIndex": 48,
+        "namePointer": "0xd7c3f"
+      },
+      "194": {
+        "placeIndex": 49,
+        "namePointer": "0xd7d41"
+      },
+      "195": {
+        "placeIndex": 50,
+        "namePointer": "0xd7e63"
+      },
+      "196": {
+        "placeIndex": 51,
+        "namePointer": "0xd8006"
+      },
+      "197": {
+        "placeIndex": 52,
+        "namePointer": "0xd835b"
+      },
+      "198": {
+        "placeIndex": 53,
+        "namePointer": "0xd8419"
+      },
+      "200": {
+        "placeIndex": 54,
+        "namePointer": "0xd86fe"
+      },
+      "205": {
+        "placeIndex": 82,
+        "namePointer": "0xd9025"
+      },
+      "206": {
+        "placeIndex": 84,
+        "namePointer": "0xd91e0"
+      },
+      "208": {
+        "placeIndex": 44,
+        "namePointer": "0xd9644"
+      },
+      "213": {
+        "placeIndex": 41,
+        "namePointer": "0xd9e6f"
+      },
+      "214": {
+        "placeIndex": 86,
+        "namePointer": "0xd9ff1"
+      },
+      "215": {
+        "placeIndex": 42,
+        "namePointer": "0xda13f"
+      },
+      "216": {
+        "placeIndex": 58,
+        "namePointer": "0xda3ae"
+      },
+      "217": {
+        "placeIndex": 43,
+        "namePointer": "0xda52c"
+      },
+      "221": {
+        "placeIndex": 55,
+        "namePointer": "0xdb5f6"
+      },
+      "222": {
+        "placeIndex": 79,
+        "namePointer": "0xdb713"
+      },
+      "224": {
+        "placeIndex": 20,
+        "namePointer": "0xdbacb"
+      },
+      "227": {
+        "placeIndex": 62,
+        "note": "海底裂縫，向下通往奈落洞窟",
+        "namePointer": null
+      },
+      "228": {
+        "placeIndex": 62,
+        "namePointer": "0xdc8a7"
+      },
+      "233": {
+        "placeIndex": 63,
+        "namePointer": "0xdd957"
+      },
+      "235": {
+        "placeIndex": 33,
+        "namePointer": "0xddef3"
+      }
+    },
+    "points": [
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 77,
+        "entry": 2,
+        "placeIndex": 0,
+        "name": "桃太郎的老家",
+        "worldX": 52,
+        "worldY": 233,
+        "x": 26,
+        "y": 116,
+        "bounds": {
+          "left": 52,
+          "top": 233,
+          "right": 52,
+          "bottom": 233
+        },
+        "pointer": "0xc0af4",
+        "transitionPointer": "0xc0af9",
+        "namePointer": "0xc18b8",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 0,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 80,
+        "entry": 2,
+        "placeIndex": 1,
+        "name": "啟程村",
+        "worldX": 54,
+        "worldY": 237,
+        "x": 27,
+        "y": 118,
+        "bounds": {
+          "left": 54,
+          "top": 237,
+          "right": 55,
+          "bottom": 237
+        },
+        "pointer": "0xc0b01",
+        "transitionPointer": "0xc0b08",
+        "namePointer": "0xc1c53",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 1,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 64,
+        "name": "金丹仙人庵",
+        "worldX": 44,
+        "worldY": 208,
+        "x": 22,
+        "y": 104,
+        "bounds": {
+          "left": 44,
+          "top": 208,
+          "right": 44,
+          "bottom": 208
+        },
+        "pointer": "0xc0b10",
+        "transitionPointer": "0xc0b19",
+        "namePointer": "0x4c38a",
+        "hermit": 1,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 64,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 145,
+        "entry": 2,
+        "placeIndex": 2,
+        "name": "滾飯糰洞",
+        "worldX": 33,
+        "worldY": 203,
+        "x": 16,
+        "y": 101,
+        "bounds": {
+          "left": 33,
+          "top": 203,
+          "right": 33,
+          "bottom": 203
+        },
+        "pointer": "0xc0b36",
+        "transitionPointer": "0xc0b42",
+        "namePointer": "0xcd27e",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 2,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 3,
+            "note": "經滾飯糰洞到飯糰村"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 145,
+        "entry": 7,
+        "placeIndex": 2,
+        "name": "滾飯糰洞",
+        "worldX": 47,
+        "worldY": 199,
+        "x": 23,
+        "y": 99,
+        "bounds": {
+          "left": 47,
+          "top": 199,
+          "right": 48,
+          "bottom": 199
+        },
+        "pointer": "0xc0b78",
+        "transitionPointer": "0xc0b7f",
+        "namePointer": "0xcd27e",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 2,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 3,
+            "note": "經滾飯糰洞到飯糰村"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 69,
+        "name": "脫身仙人庵",
+        "worldX": 60,
+        "worldY": 184,
+        "x": 30,
+        "y": 92,
+        "bounds": {
+          "left": 60,
+          "top": 184,
+          "right": 60,
+          "bottom": 184
+        },
+        "pointer": "0xc0b87",
+        "transitionPointer": "0xc0b90",
+        "namePointer": "0x4c38f",
+        "hermit": 6,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 69,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 90,
+        "entry": 2,
+        "placeIndex": 4,
+        "name": "麻雀旅館一號店",
+        "worldX": 43,
+        "worldY": 162,
+        "x": 21,
+        "y": 81,
+        "bounds": {
+          "left": 43,
+          "top": 162,
+          "right": 43,
+          "bottom": 162
+        },
+        "pointer": "0xc0b98",
+        "transitionPointer": "0xc0b9d",
+        "namePointer": "0xc32f4",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 4,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 124,
+        "entry": 2,
+        "placeIndex": 11,
+        "name": "松葉山",
+        "worldX": 31,
+        "worldY": 147,
+        "x": 15,
+        "y": 73,
+        "bounds": {
+          "left": 31,
+          "top": 147,
+          "right": 32,
+          "bottom": 147
+        },
+        "pointer": "0xc0ba5",
+        "transitionPointer": "0xc0bac",
+        "namePointer": "0xc9968",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 11,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 65,
+            "note": "松葉山內；仙人參數 2"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 124,
+        "entry": 15,
+        "placeIndex": 11,
+        "name": "松葉山",
+        "worldX": 31,
+        "worldY": 142,
+        "x": 15,
+        "y": 71,
+        "bounds": {
+          "left": 31,
+          "top": 142,
+          "right": 32,
+          "bottom": 142
+        },
+        "pointer": "0xc0bb4",
+        "transitionPointer": "0xc0bbb",
+        "namePointer": "0xc9968",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 11,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 65,
+            "note": "松葉山內；仙人參數 2"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 96,
+        "entry": 2,
+        "placeIndex": 14,
+        "name": "花咲村",
+        "worldX": 59,
+        "worldY": 155,
+        "x": 29,
+        "y": 77,
+        "bounds": {
+          "left": 59,
+          "top": 155,
+          "right": 60,
+          "bottom": 155
+        },
+        "pointer": "0xc0bc3",
+        "transitionPointer": "0xc0bca",
+        "namePointer": "0xc3b9a",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 14,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 12,
+            "note": "花咲村內的洞窟"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 150,
+        "entry": 2,
+        "placeIndex": 15,
+        "name": "無聲洞窟",
+        "worldX": 50,
+        "worldY": 129,
+        "x": 25,
+        "y": 64,
+        "bounds": {
+          "left": 50,
+          "top": 129,
+          "right": 50,
+          "bottom": 129
+        },
+        "pointer": "0xc0bd2",
+        "transitionPointer": "0xc0bd7",
+        "namePointer": "0xcdc08",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 15,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 152,
+        "entry": 9,
+        "placeIndex": 15,
+        "name": "無聲洞窟",
+        "worldX": 51,
+        "worldY": 122,
+        "x": 25,
+        "y": 61,
+        "bounds": {
+          "left": 51,
+          "top": 122,
+          "right": 52,
+          "bottom": 122
+        },
+        "pointer": "0xc0bdf",
+        "transitionPointer": "0xc0be6",
+        "namePointer": null,
+        "hermit": null,
+        "note": "無聲洞窟另一側入口",
+        "places": [
+          {
+            "index": 15,
+            "note": "無聲洞窟另一側入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 103,
+        "entry": 2,
+        "placeIndex": 66,
+        "name": "鹿角仙人庵",
+        "worldX": 16,
+        "worldY": 140,
+        "x": 8,
+        "y": 70,
+        "bounds": {
+          "left": 16,
+          "top": 140,
+          "right": 16,
+          "bottom": 140
+        },
+        "pointer": "0xc0bee",
+        "transitionPointer": "0xc0bf7",
+        "namePointer": "0x4c38c",
+        "hermit": 3,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 66,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 13,
+            "note": "鹿角之里與鹿角仙人同一入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 67,
+        "name": "解毒仙人庵",
+        "worldX": 51,
+        "worldY": 110,
+        "x": 25,
+        "y": 55,
+        "bounds": {
+          "left": 51,
+          "top": 110,
+          "right": 51,
+          "bottom": 110
+        },
+        "pointer": "0xc0bff",
+        "transitionPointer": "0xc0c08",
+        "namePointer": "0x4c38d",
+        "hermit": 4,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 67,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 104,
+        "entry": 2,
+        "placeIndex": 17,
+        "name": "金太郎村",
+        "worldX": 44,
+        "worldY": 115,
+        "x": 22,
+        "y": 57,
+        "bounds": {
+          "left": 44,
+          "top": 115,
+          "right": 45,
+          "bottom": 115
+        },
+        "pointer": "0xc0c10",
+        "transitionPointer": "0xc0c17",
+        "namePointer": "0xc4e89",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 17,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 16,
+            "note": "金太郎村神社後方"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 68,
+        "name": "避鬼仙人庵",
+        "worldX": 84,
+        "worldY": 85,
+        "x": 42,
+        "y": 42,
+        "bounds": {
+          "left": 84,
+          "top": 85,
+          "right": 84,
+          "bottom": 85
+        },
+        "pointer": "0xc0c1f",
+        "transitionPointer": "0xc0c28",
+        "namePointer": "0x4c38e",
+        "hermit": 5,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 68,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 91,
+        "entry": 2,
+        "placeIndex": 5,
+        "name": "麻雀旅館二號店",
+        "worldX": 94,
+        "worldY": 131,
+        "x": 47,
+        "y": 65,
+        "bounds": {
+          "left": 94,
+          "top": 131,
+          "right": 94,
+          "bottom": 131
+        },
+        "pointer": "0xc0c30",
+        "transitionPointer": "0xc0c35",
+        "namePointer": "0xc3408",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 5,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 71,
+        "name": "避魔仙人庵",
+        "worldX": 103,
+        "worldY": 145,
+        "x": 51,
+        "y": 72,
+        "bounds": {
+          "left": 103,
+          "top": 145,
+          "right": 103,
+          "bottom": 145
+        },
+        "pointer": "0xc0c3d",
+        "transitionPointer": "0xc0c46",
+        "namePointer": "0x4c391",
+        "hermit": 8,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 71,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 106,
+        "entry": 2,
+        "placeIndex": 18,
+        "name": "浦島村",
+        "worldX": 79,
+        "worldY": 187,
+        "x": 39,
+        "y": 93,
+        "bounds": {
+          "left": 79,
+          "top": 187,
+          "right": 80,
+          "bottom": 187
+        },
+        "pointer": "0xc0c4e",
+        "transitionPointer": "0xc0c55",
+        "namePointer": "0xc5478",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 18,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 19,
+            "note": "浦島村內泉水後方"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 88,
+        "entry": 2,
+        "placeIndex": 70,
+        "name": "天之仙人塔",
+        "worldX": 127,
+        "worldY": 114,
+        "x": 63,
+        "y": 57,
+        "bounds": {
+          "left": 127,
+          "top": 114,
+          "right": 127,
+          "bottom": 114
+        },
+        "pointer": "0xc0c5d",
+        "transitionPointer": "0xc0c66",
+        "namePointer": "0x4c390",
+        "hermit": 7,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 70,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 158,
+        "entry": 2,
+        "placeIndex": 21,
+        "name": "大江山",
+        "worldX": 123,
+        "worldY": 64,
+        "x": 61,
+        "y": 32,
+        "bounds": {
+          "left": 123,
+          "top": 64,
+          "right": 124,
+          "bottom": 64
+        },
+        "pointer": "0xc0c6e",
+        "transitionPointer": "0xc0c75",
+        "namePointer": "0xd000d",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 21,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 6,
+            "note": "大江山內的旅館"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 168,
+        "entry": 12,
+        "placeIndex": 21,
+        "name": "大江山",
+        "worldX": 123,
+        "worldY": 62,
+        "x": 61,
+        "y": 31,
+        "bounds": {
+          "left": 123,
+          "top": 62,
+          "right": 124,
+          "bottom": 62
+        },
+        "pointer": "0xc0c7d",
+        "transitionPointer": "0xc0c84",
+        "namePointer": null,
+        "hermit": null,
+        "note": "大江山另一側入口",
+        "places": [
+          {
+            "index": 21,
+            "note": "大江山另一側入口"
+          },
+          {
+            "index": 6,
+            "note": "大江山內的旅館"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 122,
+        "entry": 2,
+        "placeIndex": 24,
+        "name": "大太郎庵",
+        "worldX": 92,
+        "worldY": 48,
+        "x": 46,
+        "y": 24,
+        "bounds": {
+          "left": 92,
+          "top": 48,
+          "right": 92,
+          "bottom": 48
+        },
+        "pointer": "0xc0c8c",
+        "transitionPointer": "0xc0c91",
+        "namePointer": "0xc9777",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 24,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 72,
+        "name": "浮游仙人庵",
+        "worldX": 19,
+        "worldY": 82,
+        "x": 9,
+        "y": 41,
+        "bounds": {
+          "left": 19,
+          "top": 82,
+          "right": 19,
+          "bottom": 82
+        },
+        "pointer": "0xc0c99",
+        "transitionPointer": "0xc0ca2",
+        "namePointer": "0x4c392",
+        "hermit": 9,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 72,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 169,
+        "entry": 2,
+        "placeIndex": 25,
+        "name": "冰之塔",
+        "worldX": 39,
+        "worldY": 34,
+        "x": 19,
+        "y": 17,
+        "bounds": {
+          "left": 39,
+          "top": 34,
+          "right": 39,
+          "bottom": 34
+        },
+        "pointer": "0xc0cad",
+        "transitionPointer": "0xc0cb2",
+        "namePointer": "0xd248f",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 25,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 107,
+        "entry": 2,
+        "placeIndex": 22,
+        "name": "寢太郎村",
+        "worldX": 140,
+        "worldY": 33,
+        "x": 70,
+        "y": 16,
+        "bounds": {
+          "left": 140,
+          "top": 33,
+          "right": 141,
+          "bottom": 33
+        },
+        "pointer": "0xc0cc8",
+        "transitionPointer": "0xc0ccf",
+        "namePointer": "0xc5a92",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 22,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 23,
+            "note": "寢太郎村內"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 110,
+        "entry": 2,
+        "placeIndex": 22,
+        "name": "寢太郎村",
+        "worldX": 144,
+        "worldY": 33,
+        "x": 72,
+        "y": 16,
+        "bounds": {
+          "left": 144,
+          "top": 33,
+          "right": 145,
+          "bottom": 33
+        },
+        "pointer": "0xc0cfc",
+        "transitionPointer": "0xc0d03",
+        "namePointer": "0xc63f9",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 22,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 23,
+            "note": "寢太郎村內"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 101,
+        "entry": 2,
+        "placeIndex": 26,
+        "name": "微笑村",
+        "worldX": 195,
+        "worldY": 60,
+        "x": 97,
+        "y": 30,
+        "bounds": {
+          "left": 195,
+          "top": 60,
+          "right": 196,
+          "bottom": 60
+        },
+        "pointer": "0xc0d0b",
+        "transitionPointer": "0xc0d12",
+        "namePointer": "0xc45a7",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 26,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 73,
+            "note": "微笑村內；仙人參數 10"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 171,
+        "entry": 2,
+        "placeIndex": 80,
+        "name": "怨恨洞窟",
+        "worldX": 215,
+        "worldY": 72,
+        "x": 107,
+        "y": 36,
+        "bounds": {
+          "left": 215,
+          "top": 72,
+          "right": 215,
+          "bottom": 72
+        },
+        "pointer": "0xc0d1a",
+        "transitionPointer": "0xc0d1f",
+        "namePointer": "0xd309f",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 80,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 111,
+        "entry": 2,
+        "placeIndex": 27,
+        "name": "希望之都",
+        "worldX": 207,
+        "worldY": 87,
+        "x": 103,
+        "y": 43,
+        "bounds": {
+          "left": 207,
+          "top": 87,
+          "right": 209,
+          "bottom": 88
+        },
+        "pointer": "0xc0d27",
+        "transitionPointer": "0xc0d32",
+        "namePointer": "0xc66f7",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 27,
+            "note": "原生世界入口"
+          },
+          {
+            "index": 78,
+            "note": "希望之都內"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 138,
+        "entry": 2,
+        "placeIndex": 28,
+        "name": "伸長怪森林",
+        "worldX": 209,
+        "worldY": 49,
+        "x": 104,
+        "y": 24,
+        "bounds": {
+          "left": 209,
+          "top": 49,
+          "right": 209,
+          "bottom": 49
+        },
+        "pointer": "0xc0d3f",
+        "transitionPointer": "0xc0d44",
+        "namePointer": "0xcc672",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 28,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 135,
+        "entry": 2,
+        "placeIndex": 29,
+        "name": "眾神之里",
+        "worldX": 217,
+        "worldY": 35,
+        "x": 108,
+        "y": 17,
+        "bounds": {
+          "left": 217,
+          "top": 35,
+          "right": 217,
+          "bottom": 35
+        },
+        "pointer": "0xc0d4c",
+        "transitionPointer": "0xc0d51",
+        "namePointer": "0xcbfbd",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 29,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 134,
+        "entry": 3,
+        "placeIndex": 30,
+        "name": "風神谷",
+        "worldX": 199,
+        "worldY": 39,
+        "x": 99,
+        "y": 19,
+        "bounds": {
+          "left": 199,
+          "top": 39,
+          "right": 199,
+          "bottom": 39
+        },
+        "pointer": "0xc0d59",
+        "transitionPointer": "0xc0d64",
+        "namePointer": "0xcbe1c",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 30,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 134,
+        "entry": 3,
+        "placeIndex": 30,
+        "name": "風神谷",
+        "worldX": 199,
+        "worldY": 38,
+        "x": 99,
+        "y": 19,
+        "bounds": {
+          "left": 199,
+          "top": 38,
+          "right": 199,
+          "bottom": 38
+        },
+        "pointer": "0xc0d71",
+        "transitionPointer": "0xc0d76",
+        "namePointer": "0xcbe1c",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 30,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 205,
+        "entry": 2,
+        "placeIndex": 82,
+        "name": "雪原",
+        "worldX": 227,
+        "worldY": 20,
+        "x": 113,
+        "y": 10,
+        "bounds": {
+          "left": 227,
+          "top": 20,
+          "right": 227,
+          "bottom": 36
+        },
+        "pointer": "0xc0d7e",
+        "transitionPointer": "0xc0d8f",
+        "namePointer": "0xd9025",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 82,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 128,
+        "entry": 2,
+        "placeIndex": 7,
+        "name": "麻雀旅館四號店",
+        "worldX": 231,
+        "worldY": 31,
+        "x": 115,
+        "y": 15,
+        "bounds": {
+          "left": 231,
+          "top": 31,
+          "right": 231,
+          "bottom": 31
+        },
+        "pointer": "0xc0d97",
+        "transitionPointer": "0xc0d9c",
+        "namePointer": "0xca76f",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 7,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 173,
+        "entry": 2,
+        "placeIndex": 31,
+        "name": "伏龍洞窟",
+        "worldX": 237,
+        "worldY": 37,
+        "x": 118,
+        "y": 18,
+        "bounds": {
+          "left": 237,
+          "top": 37,
+          "right": 238,
+          "bottom": 37
+        },
+        "pointer": "0xc0da4",
+        "transitionPointer": "0xc0dab",
+        "namePointer": "0xd34e1",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 31,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 174,
+        "entry": 2,
+        "placeIndex": 32,
+        "name": "雷神洞窟",
+        "worldX": 230,
+        "worldY": 70,
+        "x": 115,
+        "y": 35,
+        "bounds": {
+          "left": 230,
+          "top": 70,
+          "right": 230,
+          "bottom": 70
+        },
+        "pointer": "0xc0db3",
+        "transitionPointer": "0xc0db8",
+        "namePointer": "0xd364f",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 32,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 176,
+        "entry": 3,
+        "placeIndex": 32,
+        "name": "雷神洞窟",
+        "worldX": 233,
+        "worldY": 73,
+        "x": 116,
+        "y": 36,
+        "bounds": {
+          "left": 233,
+          "top": 73,
+          "right": 233,
+          "bottom": 73
+        },
+        "pointer": "0xc0dc0",
+        "transitionPointer": "0xc0dc5",
+        "namePointer": null,
+        "hermit": null,
+        "note": "雷神洞窟另一側入口",
+        "places": [
+          {
+            "index": 32,
+            "note": "雷神洞窟另一側入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 74,
+        "name": "萬金仙人庵",
+        "worldX": 205,
+        "worldY": 99,
+        "x": 102,
+        "y": 49,
+        "bounds": {
+          "left": 205,
+          "top": 99,
+          "right": 205,
+          "bottom": 99
+        },
+        "pointer": "0xc0dcd",
+        "transitionPointer": "0xc0dd6",
+        "namePointer": "0x4c394",
+        "hermit": 11,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 74,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 93,
+        "entry": 2,
+        "placeIndex": 8,
+        "name": "麻雀旅館五號店",
+        "worldX": 209,
+        "worldY": 119,
+        "x": 104,
+        "y": 59,
+        "bounds": {
+          "left": 209,
+          "top": 119,
+          "right": 209,
+          "bottom": 119
+        },
+        "pointer": "0xc0dde",
+        "transitionPointer": "0xc0de3",
+        "namePointer": "0xc3705",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 8,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 119,
+        "entry": 2,
+        "placeIndex": 83,
+        "name": "機關村",
+        "worldX": 184,
+        "worldY": 146,
+        "x": 92,
+        "y": 73,
+        "bounds": {
+          "left": 184,
+          "top": 146,
+          "right": 184,
+          "bottom": 146
+        },
+        "pointer": "0xc0deb",
+        "transitionPointer": "0xc0df0",
+        "namePointer": null,
+        "hermit": null,
+        "note": "地下水路入口，通往機關村",
+        "places": [
+          {
+            "index": 83,
+            "note": "地下水路入口，通往機關村"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 119,
+        "entry": 4,
+        "placeIndex": 83,
+        "name": "機關村",
+        "worldX": 156,
+        "worldY": 144,
+        "x": 78,
+        "y": 72,
+        "bounds": {
+          "left": 156,
+          "top": 144,
+          "right": 156,
+          "bottom": 144
+        },
+        "pointer": "0xc0df3",
+        "transitionPointer": "0xc0df8",
+        "namePointer": null,
+        "hermit": null,
+        "note": "地下水路入口，通往機關村",
+        "places": [
+          {
+            "index": 83,
+            "note": "地下水路入口，通往機關村"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 129,
+        "entry": 2,
+        "placeIndex": 61,
+        "name": "新村",
+        "worldX": 192,
+        "worldY": 176,
+        "x": 96,
+        "y": 88,
+        "bounds": {
+          "left": 192,
+          "top": 176,
+          "right": 193,
+          "bottom": 176
+        },
+        "pointer": "0xc0e06",
+        "transitionPointer": "0xc0e0d",
+        "namePointer": "0xca902",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 61,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 177,
+        "entry": 2,
+        "placeIndex": 34,
+        "name": "鬼族牢獄",
+        "worldX": 206,
+        "worldY": 182,
+        "x": 103,
+        "y": 91,
+        "bounds": {
+          "left": 206,
+          "top": 182,
+          "right": 206,
+          "bottom": 182
+        },
+        "pointer": "0xc0e52",
+        "transitionPointer": "0xc0e57",
+        "namePointer": "0xd42eb",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 34,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 182,
+        "entry": 7,
+        "placeIndex": 34,
+        "name": "鬼族牢獄",
+        "worldX": 205,
+        "worldY": 184,
+        "x": 102,
+        "y": 92,
+        "bounds": {
+          "left": 205,
+          "top": 184,
+          "right": 206,
+          "bottom": 184
+        },
+        "pointer": "0xc0e69",
+        "transitionPointer": "0xc0e70",
+        "namePointer": null,
+        "hermit": null,
+        "note": "鬼族牢獄另一側入口",
+        "places": [
+          {
+            "index": 34,
+            "note": "鬼族牢獄另一側入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 130,
+        "entry": 2,
+        "placeIndex": 36,
+        "name": "猴蟹村",
+        "worldX": 175,
+        "worldY": 189,
+        "x": 87,
+        "y": 94,
+        "bounds": {
+          "left": 175,
+          "top": 189,
+          "right": 176,
+          "bottom": 189
+        },
+        "pointer": "0xc0e81",
+        "transitionPointer": "0xc0e88",
+        "namePointer": "0xcb2d2",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 36,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 140,
+        "entry": 2,
+        "placeIndex": 35,
+        "name": "露肚怪之里",
+        "worldX": 199,
+        "worldY": 225,
+        "x": 99,
+        "y": 112,
+        "bounds": {
+          "left": 199,
+          "top": 225,
+          "right": 199,
+          "bottom": 225
+        },
+        "pointer": "0xc0f18",
+        "transitionPointer": "0xc0f1d",
+        "namePointer": "0xcc8f9",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 35,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 75,
+        "name": "金瘡仙人庵",
+        "worldX": 154,
+        "worldY": 206,
+        "x": 77,
+        "y": 103,
+        "bounds": {
+          "left": 154,
+          "top": 206,
+          "right": 154,
+          "bottom": 206
+        },
+        "pointer": "0xc0f25",
+        "transitionPointer": "0xc0f2e",
+        "namePointer": "0x4c395",
+        "hermit": 12,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 75,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 183,
+        "entry": 2,
+        "placeIndex": 37,
+        "name": "山姥洞窟",
+        "worldX": 160,
+        "worldY": 186,
+        "x": 80,
+        "y": 93,
+        "bounds": {
+          "left": 160,
+          "top": 186,
+          "right": 160,
+          "bottom": 186
+        },
+        "pointer": "0xc0f36",
+        "transitionPointer": "0xc0f3b",
+        "namePointer": "0xd541f",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 37,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 94,
+        "entry": 2,
+        "placeIndex": 9,
+        "name": "麻雀旅館六號店",
+        "worldX": 174,
+        "worldY": 172,
+        "x": 87,
+        "y": 86,
+        "bounds": {
+          "left": 174,
+          "top": 172,
+          "right": 174,
+          "bottom": 172
+        },
+        "pointer": "0xc0f43",
+        "transitionPointer": "0xc0f48",
+        "namePointer": "0xc3841",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 9,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 95,
+        "entry": 2,
+        "placeIndex": 10,
+        "name": "麻雀旅館七號店",
+        "worldX": 144,
+        "worldY": 184,
+        "x": 72,
+        "y": 92,
+        "bounds": {
+          "left": 144,
+          "top": 184,
+          "right": 144,
+          "bottom": 184
+        },
+        "pointer": "0xc0f50",
+        "transitionPointer": "0xc0f55",
+        "namePointer": "0xc3989",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 10,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 131,
+        "entry": 2,
+        "placeIndex": 38,
+        "name": "竹取村",
+        "worldX": 127,
+        "worldY": 195,
+        "x": 63,
+        "y": 97,
+        "bounds": {
+          "left": 127,
+          "top": 195,
+          "right": 128,
+          "bottom": 195
+        },
+        "pointer": "0xc0f5d",
+        "transitionPointer": "0xc0f64",
+        "namePointer": "0xcb813",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 38,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 188,
+        "entry": 2,
+        "placeIndex": 39,
+        "name": "黃泉之塔",
+        "worldX": 116,
+        "worldY": 178,
+        "x": 58,
+        "y": 89,
+        "bounds": {
+          "left": 116,
+          "top": 178,
+          "right": 116,
+          "bottom": 178
+        },
+        "pointer": "0xc0f6c",
+        "transitionPointer": "0xc0f71",
+        "namePointer": "0xd6a47",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 39,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 144,
+        "entry": 2,
+        "placeIndex": 57,
+        "name": "七夕村",
+        "worldX": 241,
+        "worldY": 244,
+        "x": 120,
+        "y": 122,
+        "bounds": {
+          "left": 241,
+          "top": 244,
+          "right": 241,
+          "bottom": 244
+        },
+        "pointer": "0xc0f79",
+        "transitionPointer": "0xc0f7e",
+        "namePointer": null,
+        "hermit": null,
+        "note": "天樹入口，通往七夕村",
+        "places": [
+          {
+            "index": 57,
+            "note": "天樹入口，通往七夕村"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 84,
+        "entry": 2,
+        "placeIndex": 76,
+        "name": "海之仙人庵",
+        "worldX": 240,
+        "worldY": 168,
+        "x": 120,
+        "y": 84,
+        "bounds": {
+          "left": 240,
+          "top": 168,
+          "right": 240,
+          "bottom": 168
+        },
+        "pointer": "0xc0f86",
+        "transitionPointer": "0xc0f8f",
+        "namePointer": "0x4c396",
+        "hermit": 13,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 76,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 142,
+        "entry": 2,
+        "placeIndex": 56,
+        "name": "神仙鄉",
+        "worldX": 160,
+        "worldY": 4,
+        "x": 80,
+        "y": 2,
+        "bounds": {
+          "left": 160,
+          "top": 4,
+          "right": 160,
+          "bottom": 4
+        },
+        "pointer": "0xc0f97",
+        "transitionPointer": "0xc0f9c",
+        "namePointer": "0xcccbe",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 56,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 189,
+        "entry": 2,
+        "placeIndex": 45,
+        "name": "鬼島",
+        "worldX": 123,
+        "worldY": 119,
+        "x": 61,
+        "y": 59,
+        "bounds": {
+          "left": 123,
+          "top": 119,
+          "right": 123,
+          "bottom": 119
+        },
+        "pointer": "0xc0fa4",
+        "transitionPointer": "0xc0fa9",
+        "namePointer": "0xd6cd3",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 45,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 185,
+        "entry": 2,
+        "placeIndex": 40,
+        "name": "彩虹洞窟",
+        "worldX": 74,
+        "worldY": 141,
+        "x": 37,
+        "y": 70,
+        "bounds": {
+          "left": 74,
+          "top": 141,
+          "right": 74,
+          "bottom": 141
+        },
+        "pointer": "0xc0fb1",
+        "transitionPointer": "0xc0fb6",
+        "namePointer": "0xd5cc3",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 40,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 20,
+        "worldY": 133,
+        "x": 10,
+        "y": 66,
+        "bounds": {
+          "left": 20,
+          "top": 133,
+          "right": 20,
+          "bottom": 133
+        },
+        "pointer": "0xc0fdb",
+        "transitionPointer": "0xc0fe0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 24,
+        "worldY": 89,
+        "x": 12,
+        "y": 44,
+        "bounds": {
+          "left": 24,
+          "top": 89,
+          "right": 24,
+          "bottom": 89
+        },
+        "pointer": "0xc0fe3",
+        "transitionPointer": "0xc0fe8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 24,
+        "worldY": 155,
+        "x": 12,
+        "y": 77,
+        "bounds": {
+          "left": 24,
+          "top": 155,
+          "right": 24,
+          "bottom": 155
+        },
+        "pointer": "0xc0feb",
+        "transitionPointer": "0xc0ff0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 26,
+        "worldY": 208,
+        "x": 13,
+        "y": 104,
+        "bounds": {
+          "left": 26,
+          "top": 208,
+          "right": 26,
+          "bottom": 208
+        },
+        "pointer": "0xc0ff3",
+        "transitionPointer": "0xc0ff8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 29,
+        "worldY": 113,
+        "x": 14,
+        "y": 56,
+        "bounds": {
+          "left": 29,
+          "top": 113,
+          "right": 29,
+          "bottom": 113
+        },
+        "pointer": "0xc0ffb",
+        "transitionPointer": "0xc1000",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 31,
+        "worldY": 99,
+        "x": 15,
+        "y": 49,
+        "bounds": {
+          "left": 31,
+          "top": 99,
+          "right": 31,
+          "bottom": 99
+        },
+        "pointer": "0xc1003",
+        "transitionPointer": "0xc1008",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 31,
+        "worldY": 218,
+        "x": 15,
+        "y": 109,
+        "bounds": {
+          "left": 31,
+          "top": 218,
+          "right": 31,
+          "bottom": 218
+        },
+        "pointer": "0xc100b",
+        "transitionPointer": "0xc1010",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 35,
+        "worldY": 186,
+        "x": 17,
+        "y": 93,
+        "bounds": {
+          "left": 35,
+          "top": 186,
+          "right": 35,
+          "bottom": 186
+        },
+        "pointer": "0xc1013",
+        "transitionPointer": "0xc1018",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 40,
+        "worldY": 137,
+        "x": 20,
+        "y": 68,
+        "bounds": {
+          "left": 40,
+          "top": 137,
+          "right": 40,
+          "bottom": 137
+        },
+        "pointer": "0xc101b",
+        "transitionPointer": "0xc1020",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 44,
+        "worldY": 226,
+        "x": 22,
+        "y": 113,
+        "bounds": {
+          "left": 44,
+          "top": 226,
+          "right": 44,
+          "bottom": 226
+        },
+        "pointer": "0xc1023",
+        "transitionPointer": "0xc1028",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 46,
+        "worldY": 104,
+        "x": 23,
+        "y": 52,
+        "bounds": {
+          "left": 46,
+          "top": 104,
+          "right": 46,
+          "bottom": 104
+        },
+        "pointer": "0xc102b",
+        "transitionPointer": "0xc1030",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 46,
+        "worldY": 109,
+        "x": 23,
+        "y": 54,
+        "bounds": {
+          "left": 46,
+          "top": 109,
+          "right": 46,
+          "bottom": 109
+        },
+        "pointer": "0xc1033",
+        "transitionPointer": "0xc1038",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 53,
+        "worldY": 116,
+        "x": 26,
+        "y": 58,
+        "bounds": {
+          "left": 53,
+          "top": 116,
+          "right": 53,
+          "bottom": 116
+        },
+        "pointer": "0xc103b",
+        "transitionPointer": "0xc1040",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 55,
+        "worldY": 137,
+        "x": 27,
+        "y": 68,
+        "bounds": {
+          "left": 55,
+          "top": 137,
+          "right": 55,
+          "bottom": 137
+        },
+        "pointer": "0xc1043",
+        "transitionPointer": "0xc1048",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 56,
+        "worldY": 242,
+        "x": 28,
+        "y": 121,
+        "bounds": {
+          "left": 56,
+          "top": 242,
+          "right": 56,
+          "bottom": 242
+        },
+        "pointer": "0xc104b",
+        "transitionPointer": "0xc1050",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 57,
+        "worldY": 108,
+        "x": 28,
+        "y": 54,
+        "bounds": {
+          "left": 57,
+          "top": 108,
+          "right": 57,
+          "bottom": 108
+        },
+        "pointer": "0xc1053",
+        "transitionPointer": "0xc1058",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 58,
+        "worldY": 116,
+        "x": 29,
+        "y": 58,
+        "bounds": {
+          "left": 58,
+          "top": 116,
+          "right": 58,
+          "bottom": 116
+        },
+        "pointer": "0xc105b",
+        "transitionPointer": "0xc1060",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 59,
+        "worldY": 219,
+        "x": 29,
+        "y": 109,
+        "bounds": {
+          "left": 59,
+          "top": 219,
+          "right": 59,
+          "bottom": 219
+        },
+        "pointer": "0xc1063",
+        "transitionPointer": "0xc1068",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 60,
+        "worldY": 206,
+        "x": 30,
+        "y": 103,
+        "bounds": {
+          "left": 60,
+          "top": 206,
+          "right": 60,
+          "bottom": 206
+        },
+        "pointer": "0xc106b",
+        "transitionPointer": "0xc1070",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 63,
+        "worldY": 88,
+        "x": 31,
+        "y": 44,
+        "bounds": {
+          "left": 63,
+          "top": 88,
+          "right": 63,
+          "bottom": 88
+        },
+        "pointer": "0xc1073",
+        "transitionPointer": "0xc1078",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 65,
+        "worldY": 178,
+        "x": 32,
+        "y": 89,
+        "bounds": {
+          "left": 65,
+          "top": 178,
+          "right": 65,
+          "bottom": 178
+        },
+        "pointer": "0xc107b",
+        "transitionPointer": "0xc1080",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 83,
+        "worldY": 151,
+        "x": 41,
+        "y": 75,
+        "bounds": {
+          "left": 83,
+          "top": 151,
+          "right": 83,
+          "bottom": 151
+        },
+        "pointer": "0xc1083",
+        "transitionPointer": "0xc1088",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 4,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 84,
+        "worldY": 56,
+        "x": 42,
+        "y": 28,
+        "bounds": {
+          "left": 84,
+          "top": 56,
+          "right": 84,
+          "bottom": 56
+        },
+        "pointer": "0xc108b",
+        "transitionPointer": "0xc1090",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 97,
+        "worldY": 175,
+        "x": 48,
+        "y": 87,
+        "bounds": {
+          "left": 97,
+          "top": 175,
+          "right": 97,
+          "bottom": 175
+        },
+        "pointer": "0xc1093",
+        "transitionPointer": "0xc1098",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 103,
+        "worldY": 123,
+        "x": 51,
+        "y": 61,
+        "bounds": {
+          "left": 103,
+          "top": 123,
+          "right": 103,
+          "bottom": 123
+        },
+        "pointer": "0xc109b",
+        "transitionPointer": "0xc10a0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 104,
+        "worldY": 158,
+        "x": 52,
+        "y": 79,
+        "bounds": {
+          "left": 104,
+          "top": 158,
+          "right": 104,
+          "bottom": 158
+        },
+        "pointer": "0xc10a3",
+        "transitionPointer": "0xc10a8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 107,
+        "worldY": 83,
+        "x": 53,
+        "y": 41,
+        "bounds": {
+          "left": 107,
+          "top": 83,
+          "right": 107,
+          "bottom": 83
+        },
+        "pointer": "0xc10ab",
+        "transitionPointer": "0xc10b0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 109,
+        "worldY": 151,
+        "x": 54,
+        "y": 75,
+        "bounds": {
+          "left": 109,
+          "top": 151,
+          "right": 109,
+          "bottom": 151
+        },
+        "pointer": "0xc10b3",
+        "transitionPointer": "0xc10b8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 122,
+        "worldY": 107,
+        "x": 61,
+        "y": 53,
+        "bounds": {
+          "left": 122,
+          "top": 107,
+          "right": 122,
+          "bottom": 107
+        },
+        "pointer": "0xc10bb",
+        "transitionPointer": "0xc10c0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 139,
+        "worldY": 72,
+        "x": 69,
+        "y": 36,
+        "bounds": {
+          "left": 139,
+          "top": 72,
+          "right": 139,
+          "bottom": 72
+        },
+        "pointer": "0xc10c3",
+        "transitionPointer": "0xc10c8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 144,
+        "worldY": 55,
+        "x": 72,
+        "y": 27,
+        "bounds": {
+          "left": 144,
+          "top": 55,
+          "right": 144,
+          "bottom": 55
+        },
+        "pointer": "0xc10cb",
+        "transitionPointer": "0xc10d0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 160,
+        "worldY": 137,
+        "x": 80,
+        "y": 68,
+        "bounds": {
+          "left": 160,
+          "top": 137,
+          "right": 160,
+          "bottom": 137
+        },
+        "pointer": "0xc10d3",
+        "transitionPointer": "0xc10d8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 170,
+        "worldY": 210,
+        "x": 85,
+        "y": 105,
+        "bounds": {
+          "left": 170,
+          "top": 210,
+          "right": 170,
+          "bottom": 210
+        },
+        "pointer": "0xc10db",
+        "transitionPointer": "0xc10e0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 180,
+        "worldY": 36,
+        "x": 90,
+        "y": 18,
+        "bounds": {
+          "left": 180,
+          "top": 36,
+          "right": 180,
+          "bottom": 36
+        },
+        "pointer": "0xc10e3",
+        "transitionPointer": "0xc10e8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 183,
+        "worldY": 72,
+        "x": 91,
+        "y": 36,
+        "bounds": {
+          "left": 183,
+          "top": 72,
+          "right": 183,
+          "bottom": 72
+        },
+        "pointer": "0xc10eb",
+        "transitionPointer": "0xc10f0",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 183,
+        "worldY": 174,
+        "x": 91,
+        "y": 87,
+        "bounds": {
+          "left": 183,
+          "top": 174,
+          "right": 183,
+          "bottom": 174
+        },
+        "pointer": "0xc10f3",
+        "transitionPointer": "0xc10f8",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 188,
+        "worldY": 100,
+        "x": 94,
+        "y": 50,
+        "bounds": {
+          "left": 188,
+          "top": 100,
+          "right": 188,
+          "bottom": 100
+        },
+        "pointer": "0xc10fb",
+        "transitionPointer": "0xc1100",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 194,
+        "worldY": 48,
+        "x": 97,
+        "y": 24,
+        "bounds": {
+          "left": 194,
+          "top": 48,
+          "right": 194,
+          "bottom": 48
+        },
+        "pointer": "0xc1103",
+        "transitionPointer": "0xc1108",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 195,
+        "worldY": 143,
+        "x": 97,
+        "y": 71,
+        "bounds": {
+          "left": 195,
+          "top": 143,
+          "right": 195,
+          "bottom": 143
+        },
+        "pointer": "0xc110b",
+        "transitionPointer": "0xc1110",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 196,
+        "worldY": 184,
+        "x": 98,
+        "y": 92,
+        "bounds": {
+          "left": 196,
+          "top": 184,
+          "right": 196,
+          "bottom": 184
+        },
+        "pointer": "0xc1113",
+        "transitionPointer": "0xc1118",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 5,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 197,
+        "worldY": 220,
+        "x": 98,
+        "y": 110,
+        "bounds": {
+          "left": 197,
+          "top": 220,
+          "right": 197,
+          "bottom": 220
+        },
+        "pointer": "0xc111b",
+        "transitionPointer": "0xc1120",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 200,
+        "worldY": 50,
+        "x": 100,
+        "y": 25,
+        "bounds": {
+          "left": 200,
+          "top": 50,
+          "right": 200,
+          "bottom": 50
+        },
+        "pointer": "0xc1123",
+        "transitionPointer": "0xc1128",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 206,
+        "worldY": 169,
+        "x": 103,
+        "y": 84,
+        "bounds": {
+          "left": 206,
+          "top": 169,
+          "right": 206,
+          "bottom": 169
+        },
+        "pointer": "0xc112b",
+        "transitionPointer": "0xc1130",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 218,
+        "worldY": 53,
+        "x": 109,
+        "y": 26,
+        "bounds": {
+          "left": 218,
+          "top": 53,
+          "right": 218,
+          "bottom": 53
+        },
+        "pointer": "0xc1133",
+        "transitionPointer": "0xc1138",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 223,
+        "worldY": 35,
+        "x": 111,
+        "y": 17,
+        "bounds": {
+          "left": 223,
+          "top": 35,
+          "right": 223,
+          "bottom": 35
+        },
+        "pointer": "0xc113b",
+        "transitionPointer": "0xc1140",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 3,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 223,
+        "worldY": 200,
+        "x": 111,
+        "y": 100,
+        "bounds": {
+          "left": 223,
+          "top": 200,
+          "right": 223,
+          "bottom": 200
+        },
+        "pointer": "0xc1143",
+        "transitionPointer": "0xc1148",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 235,
+        "worldY": 104,
+        "x": 117,
+        "y": 52,
+        "bounds": {
+          "left": 235,
+          "top": 104,
+          "right": 235,
+          "bottom": 104
+        },
+        "pointer": "0xc114b",
+        "transitionPointer": "0xc1150",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 238,
+        "worldY": 58,
+        "x": 119,
+        "y": 29,
+        "bounds": {
+          "left": 238,
+          "top": 58,
+          "right": 238,
+          "bottom": 58
+        },
+        "pointer": "0xc1153",
+        "transitionPointer": "0xc1158",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 206,
+        "entry": 2,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 238,
+        "worldY": 173,
+        "x": 119,
+        "y": 86,
+        "bounds": {
+          "left": 238,
+          "top": 173,
+          "right": 238,
+          "bottom": 173
+        },
+        "pointer": "0xc115b",
+        "transitionPointer": "0xc1160",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "undersea",
+        "world": 223,
+        "scene": 227,
+        "entry": 2,
+        "placeIndex": 62,
+        "name": "奈落洞窟",
+        "worldX": 143,
+        "worldY": 87,
+        "x": 71,
+        "y": 43,
+        "bounds": {
+          "left": 143,
+          "top": 87,
+          "right": 148,
+          "bottom": 90
+        },
+        "pointer": "0xdb941",
+        "transitionPointer": "0xdb948",
+        "namePointer": null,
+        "hermit": null,
+        "note": "海底裂縫，向下通往奈落洞窟",
+        "places": [
+          {
+            "index": 62,
+            "note": "海底裂縫，向下通往奈落洞窟"
+          }
+        ]
+      },
+      {
+        "layer": "undersea",
+        "world": 223,
+        "scene": 235,
+        "entry": 2,
+        "placeIndex": 33,
+        "name": "左源內庵",
+        "worldX": 25,
+        "worldY": 93,
+        "x": 12,
+        "y": 46,
+        "bounds": {
+          "left": 25,
+          "top": 93,
+          "right": 26,
+          "bottom": 94
+        },
+        "pointer": "0xdb950",
+        "transitionPointer": "0xdb957",
+        "namePointer": "0xddef3",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 33,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "undersea",
+        "world": 223,
+        "scene": 224,
+        "entry": 21,
+        "placeIndex": 20,
+        "name": "龍宮城",
+        "worldX": 70,
+        "worldY": 181,
+        "x": 35,
+        "y": 90,
+        "bounds": {
+          "left": 70,
+          "top": 181,
+          "right": 73,
+          "bottom": 184
+        },
+        "pointer": "0xdb97a",
+        "transitionPointer": "0xdb981",
+        "namePointer": "0xdbacb",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 20,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "undersea",
+        "world": 223,
+        "scene": 233,
+        "entry": 2,
+        "placeIndex": 63,
+        "name": "人魚村",
+        "worldX": 15,
+        "worldY": 238,
+        "x": 7,
+        "y": 119,
+        "bounds": {
+          "left": 15,
+          "top": 238,
+          "right": 17,
+          "bottom": 239
+        },
+        "pointer": "0xdb9cd",
+        "transitionPointer": "0xdb9d4",
+        "namePointer": "0xdd957",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 63,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 217,
+        "entry": 2,
+        "placeIndex": 43,
+        "name": "月之宮殿",
+        "worldX": 28,
+        "worldY": 29,
+        "x": 14,
+        "y": 14,
+        "bounds": {
+          "left": 28,
+          "top": 29,
+          "right": 29,
+          "bottom": 30
+        },
+        "pointer": "0xd93ee",
+        "transitionPointer": "0xd93f5",
+        "namePointer": "0xda52c",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 43,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 216,
+        "entry": 2,
+        "placeIndex": 58,
+        "name": "夢之村",
+        "worldX": 65,
+        "worldY": 24,
+        "x": 32,
+        "y": 12,
+        "bounds": {
+          "left": 65,
+          "top": 24,
+          "right": 66,
+          "bottom": 24
+        },
+        "pointer": "0xd93fd",
+        "transitionPointer": "0xd9404",
+        "namePointer": "0xda3ae",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 58,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 221,
+        "entry": 2,
+        "placeIndex": 55,
+        "name": "月之祠",
+        "worldX": 91,
+        "worldY": 23,
+        "x": 45,
+        "y": 11,
+        "bounds": {
+          "left": 91,
+          "top": 23,
+          "right": 91,
+          "bottom": 23
+        },
+        "pointer": "0xd940c",
+        "transitionPointer": "0xd9418",
+        "namePointer": "0xdb5f6",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 55,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 208,
+        "entry": 2,
+        "placeIndex": 44,
+        "name": "風暴村",
+        "worldX": 14,
+        "worldY": 20,
+        "x": 7,
+        "y": 10,
+        "bounds": {
+          "left": 14,
+          "top": 20,
+          "right": 15,
+          "bottom": 20
+        },
+        "pointer": "0xd9420",
+        "transitionPointer": "0xd9427",
+        "namePointer": "0xd9644",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 44,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 221,
+        "entry": 3,
+        "placeIndex": 55,
+        "name": "月之祠",
+        "worldX": 57,
+        "worldY": 7,
+        "x": 28,
+        "y": 3,
+        "bounds": {
+          "left": 57,
+          "top": 7,
+          "right": 57,
+          "bottom": 7
+        },
+        "pointer": "0xd942f",
+        "transitionPointer": "0xd943b",
+        "namePointer": "0xdb5f6",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 55,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 213,
+        "entry": 2,
+        "placeIndex": 41,
+        "name": "寧靜村",
+        "worldX": 52,
+        "worldY": 51,
+        "x": 26,
+        "y": 25,
+        "bounds": {
+          "left": 52,
+          "top": 51,
+          "right": 53,
+          "bottom": 51
+        },
+        "pointer": "0xd9443",
+        "transitionPointer": "0xd944a",
+        "namePointer": "0xd9e6f",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 41,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 221,
+        "entry": 4,
+        "placeIndex": 55,
+        "name": "月之祠",
+        "worldX": 65,
+        "worldY": 62,
+        "x": 32,
+        "y": 31,
+        "bounds": {
+          "left": 65,
+          "top": 62,
+          "right": 65,
+          "bottom": 62
+        },
+        "pointer": "0xd9452",
+        "transitionPointer": "0xd945e",
+        "namePointer": "0xdb5f6",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 55,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 215,
+        "entry": 2,
+        "placeIndex": 42,
+        "name": "豐饒村",
+        "worldX": 74,
+        "worldY": 82,
+        "x": 37,
+        "y": 41,
+        "bounds": {
+          "left": 74,
+          "top": 82,
+          "right": 75,
+          "bottom": 82
+        },
+        "pointer": "0xd9466",
+        "transitionPointer": "0xd946d",
+        "namePointer": "0xda13f",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 42,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 2,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 70,
+        "worldY": 124,
+        "x": 35,
+        "y": 62,
+        "bounds": {
+          "left": 70,
+          "top": 124,
+          "right": 70,
+          "bottom": 124
+        },
+        "pointer": "0xd9475",
+        "transitionPointer": "0xd947a",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 3,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 65,
+        "worldY": 11,
+        "x": 32,
+        "y": 5,
+        "bounds": {
+          "left": 65,
+          "top": 11,
+          "right": 65,
+          "bottom": 11
+        },
+        "pointer": "0xd9482",
+        "transitionPointer": "0xd9487",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 4,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 61,
+        "worldY": 13,
+        "x": 30,
+        "y": 6,
+        "bounds": {
+          "left": 61,
+          "top": 13,
+          "right": 61,
+          "bottom": 13
+        },
+        "pointer": "0xd948f",
+        "transitionPointer": "0xd9494",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 5,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 58,
+        "worldY": 18,
+        "x": 29,
+        "y": 9,
+        "bounds": {
+          "left": 58,
+          "top": 18,
+          "right": 58,
+          "bottom": 18
+        },
+        "pointer": "0xd949c",
+        "transitionPointer": "0xd94a1",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 6,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 63,
+        "worldY": 22,
+        "x": 31,
+        "y": 11,
+        "bounds": {
+          "left": 63,
+          "top": 22,
+          "right": 63,
+          "bottom": 22
+        },
+        "pointer": "0xd94a9",
+        "transitionPointer": "0xd94ae",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 7,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 56,
+        "worldY": 24,
+        "x": 28,
+        "y": 12,
+        "bounds": {
+          "left": 56,
+          "top": 24,
+          "right": 56,
+          "bottom": 24
+        },
+        "pointer": "0xd94b6",
+        "transitionPointer": "0xd94bb",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 8,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 54,
+        "worldY": 28,
+        "x": 27,
+        "y": 14,
+        "bounds": {
+          "left": 54,
+          "top": 28,
+          "right": 54,
+          "bottom": 28
+        },
+        "pointer": "0xd94c3",
+        "transitionPointer": "0xd94c8",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 9,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 49,
+        "worldY": 32,
+        "x": 24,
+        "y": 16,
+        "bounds": {
+          "left": 49,
+          "top": 32,
+          "right": 49,
+          "bottom": 32
+        },
+        "pointer": "0xd94d0",
+        "transitionPointer": "0xd94d5",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 10,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 45,
+        "worldY": 31,
+        "x": 22,
+        "y": 15,
+        "bounds": {
+          "left": 45,
+          "top": 31,
+          "right": 45,
+          "bottom": 31
+        },
+        "pointer": "0xd94dd",
+        "transitionPointer": "0xd94e2",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 222,
+        "entry": 11,
+        "placeIndex": 79,
+        "name": "月之洞窟",
+        "worldX": 41,
+        "worldY": 34,
+        "x": 20,
+        "y": 17,
+        "bounds": {
+          "left": 41,
+          "top": 34,
+          "right": 41,
+          "bottom": 34
+        },
+        "pointer": "0xd94ed",
+        "transitionPointer": "0xd94f2",
+        "namePointer": "0xdb713",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 79,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 15,
+        "worldY": 40,
+        "x": 7,
+        "y": 20,
+        "bounds": {
+          "left": 15,
+          "top": 40,
+          "right": 15,
+          "bottom": 40
+        },
+        "pointer": "0xd950d",
+        "transitionPointer": "0xd9512",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 18,
+        "worldY": 76,
+        "x": 9,
+        "y": 38,
+        "bounds": {
+          "left": 18,
+          "top": 76,
+          "right": 18,
+          "bottom": 76
+        },
+        "pointer": "0xd9515",
+        "transitionPointer": "0xd951a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 41,
+        "worldY": 32,
+        "x": 20,
+        "y": 16,
+        "bounds": {
+          "left": 41,
+          "top": 32,
+          "right": 41,
+          "bottom": 32
+        },
+        "pointer": "0xd951d",
+        "transitionPointer": "0xd9522",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 45,
+        "worldY": 76,
+        "x": 22,
+        "y": 38,
+        "bounds": {
+          "left": 45,
+          "top": 76,
+          "right": 45,
+          "bottom": 76
+        },
+        "pointer": "0xd9525",
+        "transitionPointer": "0xd952a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 53,
+        "worldY": 89,
+        "x": 26,
+        "y": 44,
+        "bounds": {
+          "left": 53,
+          "top": 89,
+          "right": 53,
+          "bottom": 89
+        },
+        "pointer": "0xd952d",
+        "transitionPointer": "0xd9532",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 63,
+        "worldY": 89,
+        "x": 31,
+        "y": 44,
+        "bounds": {
+          "left": 63,
+          "top": 89,
+          "right": 63,
+          "bottom": 89
+        },
+        "pointer": "0xd9535",
+        "transitionPointer": "0xd953a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 67,
+        "worldY": 56,
+        "x": 33,
+        "y": 28,
+        "bounds": {
+          "left": 67,
+          "top": 56,
+          "right": 67,
+          "bottom": 56
+        },
+        "pointer": "0xd953d",
+        "transitionPointer": "0xd9542",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 73,
+        "worldY": 122,
+        "x": 36,
+        "y": 61,
+        "bounds": {
+          "left": 73,
+          "top": 122,
+          "right": 73,
+          "bottom": 122
+        },
+        "pointer": "0xd9545",
+        "transitionPointer": "0xd954a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 77,
+        "worldY": 24,
+        "x": 38,
+        "y": 12,
+        "bounds": {
+          "left": 77,
+          "top": 24,
+          "right": 77,
+          "bottom": 24
+        },
+        "pointer": "0xd954d",
+        "transitionPointer": "0xd9552",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 88,
+        "worldY": 43,
+        "x": 44,
+        "y": 21,
+        "bounds": {
+          "left": 88,
+          "top": 43,
+          "right": 88,
+          "bottom": 43
+        },
+        "pointer": "0xd9555",
+        "transitionPointer": "0xd955a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 94,
+        "worldY": 13,
+        "x": 47,
+        "y": 6,
+        "bounds": {
+          "left": 94,
+          "top": 13,
+          "right": 94,
+          "bottom": 13
+        },
+        "pointer": "0xd955d",
+        "transitionPointer": "0xd9562",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 105,
+        "worldY": 50,
+        "x": 52,
+        "y": 25,
+        "bounds": {
+          "left": 105,
+          "top": 50,
+          "right": 105,
+          "bottom": 50
+        },
+        "pointer": "0xd9565",
+        "transitionPointer": "0xd956a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 106,
+        "worldY": 84,
+        "x": 53,
+        "y": 42,
+        "bounds": {
+          "left": 106,
+          "top": 84,
+          "right": 106,
+          "bottom": 84
+        },
+        "pointer": "0xd956d",
+        "transitionPointer": "0xd9572",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 104,
+        "worldY": 118,
+        "x": 52,
+        "y": 59,
+        "bounds": {
+          "left": 104,
+          "top": 118,
+          "right": 104,
+          "bottom": 118
+        },
+        "pointer": "0xd9575",
+        "transitionPointer": "0xd957a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 114,
+        "worldY": 83,
+        "x": 57,
+        "y": 41,
+        "bounds": {
+          "left": 114,
+          "top": 83,
+          "right": 114,
+          "bottom": 83
+        },
+        "pointer": "0xd957d",
+        "transitionPointer": "0xd9582",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "moon",
+        "world": 207,
+        "scene": 206,
+        "entry": 7,
+        "placeIndex": 84,
+        "name": "原野",
+        "worldX": 119,
+        "worldY": 57,
+        "x": 59,
+        "y": 28,
+        "bounds": {
+          "left": 119,
+          "top": 57,
+          "right": 119,
+          "bottom": 57
+        },
+        "pointer": "0xd9585",
+        "transitionPointer": "0xd958a",
+        "namePointer": "0xd91e0",
+        "hermit": null,
+        "note": "原生世界入口",
+        "places": [
+          {
+            "index": 84,
+            "note": "原生世界入口"
+          }
+        ]
+      },
+      {
+        "layer": "undersea",
+        "world": 223,
+        "scene": 234,
+        "entry": 2,
+        "placeIndex": null,
+        "name": "海底洞窟（勇氣之鎧）",
+        "worldX": 104,
+        "worldY": 26,
+        "x": 52,
+        "y": 13,
+        "bounds": {
+          "left": 104,
+          "top": 26,
+          "right": 107,
+          "bottom": 29
+        },
+        "pointer": "0xdb95f",
+        "transitionPointer": "0xdb966",
+        "namePointer": null,
+        "hermit": null,
+        "note": "海底入口；原生場景沒有獨立的87筆地名索引",
+        "places": []
+      }
+    ],
+    "unclassifiedEntrances": [
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 202,
+        "entry": 2,
+        "placeIndex": null,
+        "name": null,
+        "worldX": 24,
+        "worldY": 96,
+        "x": 12,
+        "y": 48,
+        "bounds": {
+          "left": 24,
+          "top": 96,
+          "right": 24,
+          "bottom": 96
+        },
+        "pointer": "0xc0fbe",
+        "transitionPointer": "0xc0fc3",
+        "namePointer": null,
+        "hermit": null,
+        "note": "原生世界入口"
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 202,
+        "entry": 3,
+        "placeIndex": null,
+        "name": null,
+        "worldX": 26,
+        "worldY": 97,
+        "x": 13,
+        "y": 48,
+        "bounds": {
+          "left": 26,
+          "top": 97,
+          "right": 26,
+          "bottom": 97
+        },
+        "pointer": "0xc0fc6",
+        "transitionPointer": "0xc0fcb",
+        "namePointer": null,
+        "hermit": null,
+        "note": "原生世界入口"
+      },
+      {
+        "layer": "surface",
+        "world": 76,
+        "scene": 202,
+        "entry": 4,
+        "placeIndex": null,
+        "name": null,
+        "worldX": 25,
+        "worldY": 98,
+        "x": 12,
+        "y": 49,
+        "bounds": {
+          "left": 25,
+          "top": 98,
+          "right": 25,
+          "bottom": 98
+        },
+        "pointer": "0xc0fce",
+        "transitionPointer": "0xc0fd3",
+        "namePointer": null,
+        "hermit": null,
+        "note": "原生世界入口"
+      }
+    ],
+    "sources": [
+      "ROM native world entrance events and name opcode 0x2b",
+      "https://onibaka.donburako.com/kouryaku/momo_shin/chart_5.html",
+      "https://onibaka.donburako.com/kouryaku/momo_shin/chart_6.html"
+    ]
+  }
+}

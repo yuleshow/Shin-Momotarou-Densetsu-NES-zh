@@ -13,10 +13,12 @@ const hash = bytes => createHash('sha256').update(bytes).digest('hex');
 const source = fs.readFileSync(new URL('../assets/Shin Momotarou Densetsu (Japan) (Rev 1).sfc', import.meta.url));
 const castleBattle = process.argv.includes('--castle-battle');
 const shopFollowup = process.argv.includes('--shop-followup');
+const restaurant = process.argv.includes('--restaurant');
 const recipientPartySizes = process.argv.includes('--recipient-party-sizes');
 assert.ok(!recipientPartySizes || shopFollowup, 'Recipient party-size checks require --shop-followup');
-assert.ok(!(castleBattle && shopFollowup), 'Choose one native menu verification mode');
-const definition = read(new URL(castleBattle ? '../translations/castle-battle-menu.json' : '../translations/screenshot-workshop-menus.json', import.meta.url));
+assert.ok(Number(castleBattle) + Number(shopFollowup) + Number(restaurant) <= 1, 'Choose one native menu verification mode');
+const definition = read(new URL(restaurant ? '../translations/restaurant-menu.json'
+  : castleBattle ? '../translations/castle-battle-menu.json' : '../translations/screenshot-workshop-menus.json', import.meta.url));
 const metadata = read(path.join(candidate, 'build.json'));
 const previous = read(path.join(baseline, 'build.json'));
 const target = fs.readFileSync(path.join(candidate, metadata.romFilename));
@@ -71,6 +73,11 @@ function probe(bytes, menu, mask, name, ammunition) {
       return instruction;
     })) : Buffer.alloc(0);
     Buffer.concat([Buffer.from('228ab38522d4be83', 'hex'), partySetup, Buffer.from(`${call}5c13ef81`, 'hex')]).copy(rom, 0x23e000);
+  }
+  if (restaurant) {
+    rom.fill(255, 0x23e000, 0x23e080);
+    Buffer.concat([Buffer.from('228ab38522d4be83c220a9e4008d1503a9e5008d1703a9e6008d1903a958028d2503a9b6038d2703a9b0048d2903e220a97f8d65199c69199c6a19', 'hex'),
+      wrapper, Buffer.from('5c13ef81', 'hex')]).copy(rom, 0x23e000);
   }
   rom.writeUInt16LE(65535, 0xffdc);
   rom.writeUInt16LE(0, 0xffde);
@@ -140,6 +147,49 @@ const report = { targetSha256: metadata.targetSha256, baselineSha256: previous.t
   limitations: ['Original menu wrappers and callbacks invoked from a scoped field-menu hook, not natural NPC traversal.',
     'Checks menu selection and quoted prices, not subsequent event-script payment or castle upgrade effects.',
     'Differences at 7E1600-7E160A remain unclassified; 7E187F is a native scene-object cursor (81B19B/81A3C1). All are recorded, not asserted equal; full gameplay RAM or scene timing equality is not claimed.'] };
+
+if (restaurant) {
+  const menu = definition.inlineMenus[0];
+  assert.deepEqual(target.subarray(0x3cb69, 0x3cb81), before.subarray(0x3cb69, 0x3cb81));
+  const variants = [before, target].map((bytes, index) => {
+    const name = `restaurant-${index ? 'target' : 'baseline'}`;
+    const filename = probe(bytes, menu, 0, name, 0);
+    return { name, filename, opened: run(filename, `${name}-open`, '30:3:a', fixture) };
+  });
+  const label = matchLabel(variants[1].opened.frame, menu.entries[0]);
+  assert.deepEqual(label, { x: 24, y: 72 });
+  assert.throws(() => matchLabel(variants[0].opened.frame, menu.entries[0]), /Missing native label/);
+  for (const word of ['鰻魚', '壽司', '河豚料理']) matchLabel(variants[1].opened.frame, { translation: word });
+  for (let row = 16; row < 88; row++) for (let column = 8; column < 128; column++) {
+    if (column >= label.x && column < label.x + 36 && row >= label.y && row < label.y + 16) continue;
+    sameRectangle(variants[0].opened.frame, variants[1].opened.frame, column, row, 1, 1);
+  }
+  const cases = [];
+  for (const choice of [-1, 0, 1, 2, 3]) {
+    const inputs = choice < 0 ? '30:3:b'
+      : [...Array.from({ length: choice }, (_, index) => `${30 + index * 60}:3:down`), '240:3:a'].join(',');
+    const selected = variants.map(variant => run(variant.filename, `${variant.name}-choice-${choice}`, inputs, variant.opened.state));
+    assert.equal(selected[1].ram[0x1965], selected[0].ram[0x1965]);
+    assert.deepEqual(selected[1].ram.subarray(0x1969, 0x196b), selected[0].ram.subarray(0x1969, 0x196b));
+    for (const [index, result] of selected.entries()) {
+      assert.equal(result.ram[0x1965], choice < 0 ? 127 : choice);
+      if (choice >= 0 && choice < 3) assert.equal(result.ram.readUInt16LE(0x1969), [600, 950, 1200][choice]);
+      for (const [start, end] of [[0x1621, 0x1623], [0x1569, 0x156d], [0x3d20, 0x3d70]])
+        assert.deepEqual(result.ram.subarray(start, end), variants[index].opened.ram.subarray(start, end));
+    }
+    cases.push({ choice, selected: selected[1].ram[0x1965], quotedPrice: selected[1].ram.readUInt16LE(0x1969),
+      unclassifiedRamDifferences: compareGameData(selected[1].ram, selected[0].ram) });
+  }
+  assert.equal(spawnSync('magick', [path.join(variants[1].opened.directory, 'frame-360.ppm'), path.join(output, 'restaurant.png')]).status, 0);
+  assert.equal(hash(fs.readFileSync(fixture)), fixtureHash);
+  fs.writeFileSync(path.join(output, 'verification.json'), JSON.stringify({ targetSha256: metadata.targetSha256,
+    baselineSha256: previous.targetSha256, fixtureSha256: fixtureHash, originalFixtureUnchanged: true,
+    deviceModified: false, syntheticWrapperEntry: true, label, nonLabelPanelPixelsIdentical: true, cases,
+    limitations: ['Dish IDs and prices seeded in a test-only field hook; not natural NPC traversal or a completed purchase.',
+      'Checks selected IDs, quoted prices and specified gameplay ranges, not full-scene RAM equality.'] }, null, 2) + '\n', { flag: 'wx' });
+  console.log('PASS restaurant: Chinese cancel, unchanged dish and price pixels, three dish selections, cancel item and B button');
+  process.exit(0);
+}
 
 if (shopFollowup) {
   const plan = read(new URL('../translations/shop-followup-v60.plan.json', import.meta.url));

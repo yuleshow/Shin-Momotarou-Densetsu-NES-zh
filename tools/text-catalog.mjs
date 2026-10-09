@@ -267,7 +267,7 @@ export function renderRecord(rom, bytes, dictionary) {
         const index = byte - 0xd0;
         const base = decodeGlyph(rom, katakana ? 5 : 2, rom[0x4a949 + index]);
         const marks = decodeGlyph(rom, katakana ? 6 : 3, index);
-        append(Uint8Array.from(base, (pixel, offset) => pixel | marks[offset]));
+        append(Uint8Array.from(base, (pixel, offset) => marks[offset] & 1 ? marks[offset] : pixel));
       } else if (byte >= 0xf0 && byte <= (katakana ? 0xf8 : 0xf9)) append(decodeGlyph(rom, katakana ? 7 : 4, byte - 0xf0));
       else throw new Error(`Unsupported display byte ${hex(byte)}`);
     }

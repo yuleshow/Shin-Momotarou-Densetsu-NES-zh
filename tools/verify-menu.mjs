@@ -170,6 +170,32 @@ function serviceMenuProbe(filename, menu, sourceTemplate = false, relocateOrigin
   fs.writeFileSync(filename, rom, { flag: 'wx' });
 }
 
+if (process.env.MOMOTARO_TRAVEL_STATE) {
+  const menu = metadata.inlineMenus.find(entry => entry.name === 'travel-destinations');
+  const definition = JSON.parse(fs.readFileSync(process.env.MOMOTARO_MANIFEST ?? path.join(root, 'translations/menu.zh-Hant.json')))
+    .inlineMenus.find(entry => entry.name === menu.name);
+  const filename = path.join(outputDirectory, 'travel-layout.sfc');
+  serviceMenuProbe(filename, menu);
+  const cases = [];
+  for (const indexes of [...Array.from({ length: 13 }, (_, index) => [index * 2, index * 2 + 1]),
+    [0, 2, 3], [1, 3, 5, 7, 9, 11], [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11]]) {
+    const cheats = Array.from({ length: 26 }, (_, index) =>
+      `7E${(0x0315 + index).toString(16).padStart(4, '0')}${indexes.includes(index) ? '01' : '00'}`).join(',');
+    const output = run(filename, `travel-${indexes.join('-')}`, 900,
+      '30:3:a,90:3:a,240:3:down,360:3:down,480:3:down,600:3:down', process.env.MOMOTARO_TRAVEL_STATE, 900, cheats);
+    const words = assertRenderedWords(path.join(output, 'frame-900.ppm'), indexes.map(index => definition.entries[index].translation));
+    cases.push({ indexes, words });
+    console.log(JSON.stringify({ indexes, words }));
+    for (const index of indexes) {
+      const word = definition.entries[index].translation;
+      assert.equal(words[word].x, index % 2 ? 136 : 24, `Travel column differs: ${word}`);
+    }
+  }
+  fs.writeFileSync(path.join(outputDirectory, 'verification.json'), JSON.stringify({ targetSha256: metadata.targetSha256,
+    synthetic: true, cases, columnsAligned: true, deviceWrites: false }, null, 2), { flag: 'wx' });
+  process.exit(0);
+}
+
 function fontBoundaryProbe(filename, indexedText = false) {
   const rom = Buffer.from(target);
   const cases = indexedText
@@ -407,8 +433,10 @@ if (hasTranslatedOpening && metadata.inlineMenus?.length) {
     for (const frame of destinationIndexes ? [60, 120, 180, 300, 600, 900] : [60, 120, 180]) {
       assert.ok(fs.readFileSync(path.join(outputs.source, `frame-${frame}.ppm`)).equals(fs.readFileSync(path.join(outputs.control, `frame-${frame}.ppm`))), `Service template relocation differs: ${name} frame ${frame}`);
     }
+    const positions = destinationIndexes ? Object.fromEntries(words.map((word, index) =>
+      [word, { x: destinationIndexes[index] % 2 ? 136 : 24 }])) : {};
     serviceMenus.push({ name, destinationIndexes, synthetic: true, originalRelocationFramesIdentical: true,
-      words: assertRenderedWords(path.join(outputs.translated, `frame-${frames}.ppm`), words) });
+      words: assertRenderedWords(path.join(outputs.translated, `frame-${frames}.ppm`), words, positions) });
   }
   const boundaryFilename = path.join(outputDirectory, 'font-boundaries.sfc');
   const boundaryCases = fontBoundaryProbe(boundaryFilename);

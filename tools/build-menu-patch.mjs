@@ -14,6 +14,7 @@ import { encodeInlineLabel } from './inline-text.mjs';
 import { patchDefaultMonta, patchDefaultPochi, patchDefaultKiko } from './default-names.mjs';
 import { patchEnglishNameEntry } from './english-name-entry.mjs';
 import { patchChineseNameQuiz } from './name-quiz.mjs';
+import { chineseNameDefaults, patchChineseNameDefaults } from './default-name-entry.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const manifestPath = path.resolve(process.env.MOMOTARO_MANIFEST ?? path.join(root, 'translations/menu.zh-Hant.json'));
@@ -263,6 +264,7 @@ function build(source, font, opening, translateOpening = true, welcome) {
     ...(manifest.defaultKiko ? ['琪', '可'] : []),
     ...textBlocks.flatMap(block => block.entries.flatMap(entry => entry.segments.flatMap(segment => [...(segment.text ?? '')]))),
     ...(quizDraft?.questions ?? []).flatMap(question => [...question.clue, ...question.answer]),
+    ...(manifest.chineseNameDefaultsExperimental ? [...chineseNameDefaults.join(''), ...'預設'] : []),
   ])];
   assert.ok(characters.length <= chineseGlyphCapacity, 'Chinese font capacity exceeded');
   const groupCount = Math.ceil(characters.length / 64);
@@ -358,13 +360,28 @@ function build(source, font, opening, translateOpening = true, welcome) {
       const original = Buffer.from(entry.originalHex, 'hex');
       assert.ok(offset >= position && offset + original.length <= end);
       assert.ok(source.subarray(offset, offset + original.length).equals(original), `Inline menu source differs: ${entry.offset}`);
-      const padding = entry.padding ?? 0;
-      assert.ok(Number.isInteger(padding) && padding >= 0 && padding <= 8);
+      const padding = menu.name === 'travel-destinations'
+        ? Math.floor((96 - [...entry.translation].length * 12) / 8) : entry.padding ?? 0;
+      assert.ok(Number.isInteger(padding) && padding >= 0 && padding <= (menu.name === 'travel-destinations' ? 12 : 8));
       fragments.push(source.subarray(position, offset), encodeInlineLabel(entry, character => encode(character)), Buffer.alloc(padding, 0x50));
       position = offset + original.length;
+      if (menu.name === 'travel-destinations') while (source[position] === 0x50 && position < end) position++;
     }
     fragments.push(source.subarray(position, end));
-    const data = Buffer.concat(fragments);
+    let data = Buffer.concat(fragments);
+    if (menu.name === 'travel-destinations') {
+      const placeholder = Buffer.from([0x21, 0x2d, ...Buffer.alloc(13, 0x50), 0x2c]);
+      const normalized = [];
+      let cursor = 0, match, count = 0;
+      while ((match = data.indexOf(placeholder, cursor)) !== -1) {
+        normalized.push(data.subarray(cursor, match + 2), Buffer.alloc(12, 0x50));
+        cursor = match + placeholder.length - 1;
+        count++;
+      }
+      assert.equal(count, menu.entries.length, 'Unexpected travel placeholder layout');
+      normalized.push(data.subarray(cursor));
+      data = Buffer.concat(normalized);
+    }
     assert.ok(destination >= 0x230000 && destination + data.length <= 0x23e000 && data.length <= 0x1000);
     assert.ok(target.subarray(destination, destination + data.length).every(byte => byte === 0xff), `Inline menu allocation overlaps data: ${menu.name}`);
     data.copy(target, destination);
@@ -452,6 +469,9 @@ function build(source, font, opening, translateOpening = true, welcome) {
   const defaultKiko = manifest.defaultKiko ? patchDefaultKiko(source, target, characters) : undefined;
   assert.ok(manifest.englishNameEntryExperimental === undefined || typeof manifest.englishNameEntryExperimental === 'boolean');
   const englishNameEntry = manifest.englishNameEntryExperimental ? patchEnglishNameEntry(source, target) : undefined;
+  assert.ok(manifest.chineseNameDefaultsExperimental === undefined || typeof manifest.chineseNameDefaultsExperimental === 'boolean');
+  const chineseNameDefaultsReport = manifest.chineseNameDefaultsExperimental ? patchChineseNameDefaults(source, target, characters, englishNameEntry) : undefined;
+  if (chineseNameDefaultsReport) englishNameEntry.chineseDefaults = chineseNameDefaultsReport;
   if (englishNameEntry) {
     const keyboardBlock = nameBlockReports.find(block => block.sourceStart === source.readUIntLE(0x70033, 3) - 0xc00000);
     assert.ok(keyboardBlock, 'English keyboard requires its indexed text block in the manifest');
