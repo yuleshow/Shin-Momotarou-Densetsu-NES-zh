@@ -313,6 +313,7 @@
       "note": "村外／入口附近"
     }
   ],
+  "placeNamesSource": "../translations/screenshot-locations.draft.zh-Hant.json",
   "atlas": {
     "catalog": [
       {
@@ -485,7 +486,7 @@
       },
       {
         "index": 28,
-        "name": "伸長怪森林",
+        "name": "比隆森林",
         "representation": "mapped-entrance-or-parent",
         "note": null
       },
@@ -2096,7 +2097,7 @@
         "scene": 138,
         "entry": 2,
         "placeIndex": 28,
-        "name": "伸長怪森林",
+        "name": "比隆森林",
         "worldX": 209,
         "worldY": 49,
         "x": 104,

@@ -266,7 +266,7 @@
             ]
           },
           {
-            "text": "29 伸長怪森林",
+            "text": "29 比隆森林",
             "layer": "surface",
             "x": 104,
             "y": 24,
@@ -825,7 +825,7 @@
           {
             "left": 2212,
             "top": 687,
-            "right": 2396,
+            "right": 2369,
             "bottom": 734
           },
           {
@@ -1539,7 +1539,7 @@
       }
     ],
     "source": "world-map-locations.json",
-    "sha256": "2a7a03ec004da06e8ec6108f75d08c1473f0f7f8632486e83c11adb2871efe6f",
+    "sha256": "d1efe65cc036f4a3c69435da7d4d780fac334334594062992154cf06c980b82c",
     "textOverlap": false
   },
   "limitations": [
@@ -1559,7 +1559,7 @@
     },
     {
       "path": "images/world-map-zh-Hant.png",
-      "sha256": "a0a019f4b99ebe62864e0ef547102e3636c7001d98034437e5a13454323bd62f"
+      "sha256": "caf5f9a3db6cf9613ca99efcb4cff931d8605f7d24fffff22e6ab8f5fbef4b09"
     },
     {
       "path": "images/world-map-undersea-zh-Hant.png",

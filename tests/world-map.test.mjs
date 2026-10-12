@@ -44,6 +44,35 @@ test('walkthrough includes all thirteen hermits and seven inns with matching map
   }
 });
 
+test('walkthrough prerequisite navigation resolves to unique anchors and existing files', () => {
+  const text = fs.readFileSync(new URL('README.md', root), 'utf8');
+  const anchors = [...text.matchAll(/<a id="([^"]+)"><\/a>/g)].map(match => match[1]);
+  assert.equal(anchors.length, new Set(anchors).size);
+  for (const anchor of ['prerequisites', 'haradashi-recruit', 'gods-entry', 'amanojaku-items']) {
+    assert.ok(anchors.includes(anchor), anchor);
+    assert.ok(text.includes(`](#${anchor})`), anchor);
+  }
+  for (const [, target] of text.matchAll(/\]\(([^)]+)\)/g)) {
+    if (target.startsWith('#')) assert.ok(anchors.includes(target.slice(1)), target);
+    else if (!/^https?:/.test(target)) assert.ok(fs.existsSync(new URL(target.split('#')[0], root)), target);
+  }
+});
+
+test('lizard-tail directions retain atlas references and nonlethal acquisition steps', () => {
+  const text = fs.readFileSync(new URL('README.md', root), 'utf8');
+  const section = text.split('<a id="haradashi-recruit"></a>')[1]?.split('#### 猴蟹村')[0];
+  assert.ok(section);
+  for (const [index, grid] of [[4, 'B6'], [11, 'A5']]) {
+    assert.ok(data.atlas.points.some(point => point.layer === 'surface'
+      && point.places.some(place => place.index === index)
+      && `${String.fromCharCode(65 + Math.floor(point.x / 16))}${Math.floor(point.y / 16) + 1}` === grid));
+    assert.ok(section.includes(`圖 ${String(index + 1).padStart(2, '0')}／${grid}`));
+  }
+  for (const detail of ['往西北', '隨機', '一半以下', '斷尾逃跑', '不遇敵', '里吉']) {
+    assert.ok(section.includes(detail), detail);
+  }
+});
+
 test('atlas entrance evidence matches untouched official ROM', { skip: !fs.existsSync(romFile) }, () => {
   const rom = fs.readFileSync(romFile);
   assert.equal(createHash('sha256').update(rom).digest('hex'), data.romSha256);

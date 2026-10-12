@@ -41,6 +41,10 @@
 
 料理清單的「やめる」已在[獨立模板](translations/restaurant-menu.json)補為「取消」。[目前候選](verification/remaining-completion/restaurant-cancel-build-v1/build.json)沿用上述對齊及預設姓名修正；[原生對照驗證](verification/remaining-completion/restaurant-cancel-build-v1/restaurant-verification.json)涵蓋三道菜、取消項與 B 鍵，菜名及價格像素不變，178 項回歸通過。測試由掛鉤入口設定菜名與價格，不代表自然 NPC 點餐及付款流程已驗證；仍未提升正式版本。
 
+**比隆森林名稱統一（2026-10-09，尚未部署）：**[新候選 ROM](verification/remaining-completion/biron-forest-build-v1/opening-zh-Hant.sfc)以已部署的餐廳取消版為基底，只重編碼地名表第 28 筆「伸長怪森林」為「比隆森林」，與里吉及眾神之里的既有提示一致。其餘 86 筆地名、字庫、程式碼、命名與選單修正均不變；不夾帶尚未部署的預設暱稱變更。[位元組驗證](verification/remaining-completion/biron-forest-build-v1/biron-verification.json)確認只改地名區塊與校驗碼，[原生文字驗證](verification/remaining-completion/biron-forest-build-v1/native-checks/verification.json)確認四字像素；槽 245 的本機副本可載入並保留城名代碼，183 項測試通過。尚未重跑自然招募及入村流程；分享磁碟未掛載，未改裝置 ROM、存檔或金手指。攻略及地圖已同步名稱，歷史發布產物保留原樣。
+
+此候選由[最小地名補丁工具](tools/patch-biron-forest.mjs)產生；後續整合以[候選清單](verification/remaining-completion/biron-forest-build-v1/manifest.json)為起點，不再沿用舊地名清單。裝置重新連線後，[部署工具](tools/deploy-biron-forest.mjs)可用候選目錄及其 `native-checks`、`save-load-checks` 子目錄先作唯讀檢查，明確加上 `--install` 才會備份並替換同名 ROM；不重建舊版本。
+
 使用者指定城名「梅璽大閣」、自己的名字「梅璽閣主」，以及三個討厭的人「粉紅蛆／惡臭列表／五毛黨」。原生存檔仍使用四格代碼；重新進入命名時，空白或完整匹配原作初始化表的姓名會套用中文預設，其他自訂名保留。載入已開啟命名畫面的舊即時存檔會略過初始化，需選「預設」；此操作已在槽 235 副本驗證。
 
 - [本機實驗 ROM](verification/remaining-completion/experimental-quiz-build-v7/opening-zh-Hant.sfc)與 [IPS](verification/remaining-completion/experimental-quiz-build-v7/opening-zh-Hant.ips)包含三筆固定姓名修正、實驗英文鍵盤及中文選擇題。**自然命名畫面、測驗整輪流程與最終獎勵尚未驗證，不應取代正式版。** 此候選未封裝新版歡迎畫面；路徑中的 v7 是實驗修訂序號，不是發布版本。

@@ -41,7 +41,10 @@ const dataset = {
   excluded: travelNames.filter(([, index]) => !locations.some(location => location.id === Number(index))).map(([, index, name]) => ({ id: Number(index), name })),
   locations,
 };
-const placeNames = [...names.split('## 飛燕目的地')[0].matchAll(/^\| (\d+) \| (.+) \|$/gm)].map(match => match[2].replace('[02a0]', '桃太郎').replace('[09]城', '玩家的城'));
+const locationDraft = JSON.parse(fs.readFileSync(path.join(directory, '../translations/screenshot-locations.draft.zh-Hant.json')));
+const placeNames = Object.entries(locationDraft.records).sort(([first], [second]) => Number(first) - Number(second))
+  .map(([, name]) => name.replace('[02a0]', '桃太郎').replace('[09]城', '玩家的城'));
+dataset.placeNamesSource = '../translations/screenshot-locations.draft.zh-Hant.json';
 assert.equal(placeNames.length, 87);
 function sceneEvents(scene) {
   const root = rom.readUIntLE(0xac000 + scene * 3, 3) - 0xc00000;

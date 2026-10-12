@@ -2,9 +2,23 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import test from 'node:test';
 import { catalog, compileTextDraft } from '../tools/text-catalog.mjs';
+import { crystalListText } from '../tools/crystal-list.mjs';
 
 const read = name => JSON.parse(fs.readFileSync(new URL(`../${name}`, import.meta.url)));
 const rom = fs.readFileSync(new URL('../assets/Shin Momotarou Densetsu (Japan) (Rev 1).sfc', import.meta.url));
+
+test('remaining crystal lists omit punctuation and rows for absent items', () => {
+  for (let count = 0; count <= 6; count++) {
+    const text = crystalListText(count);
+    assert.equal((text.match(/\[09\]/g) ?? []).length, count);
+    assert.ok(!/[、\n]」/.test(text));
+    assert.ok(!/\n(?:、|」)/.test(text));
+    assert.equal(text.split('\n').length, Math.max(1, Math.ceil(count / 2)));
+  }
+  assert.equal(crystalListText(3), '「[09]、[09]\n[09]」');
+  assert.equal(crystalListText(6), '「[09]、[09]\n[09]、[09]\n[09]、[09]」');
+  assert.throws(() => crystalListText(7));
+});
 
 for (const name of ['screenshot-battle-status-escape', 'screenshot-yashahime-battle']) {
   test(`raw draft ${name} retains exact source offsets and record bytes`, () => {
@@ -464,6 +478,18 @@ test('Amanojaku preserves deliberate falsehoods and the changing recruitment ite
   assert.ok(hints.records[0].includes('比隆森林'));
   assert.ok(hints.records[4].includes('１０歲'));
   assert.ok(hints.records[4].includes('６０歲'));
+});
+
+test('Biron forest location and recruitment hints use one canonical name', () => {
+  const locations = read('translations/screenshot-locations.draft.zh-Hant.json');
+  const name = locations.records[28];
+  assert.equal(name, '比隆森林');
+  const compiled = compileTextDraft(rom, locations);
+  assert.equal(compiled.entries.length, 87);
+  assert.deepEqual(compiled.entries[28].segments, [{ text: name }]);
+  for (const [draft, index] of [['gods-village-companions', 5], ['gods-village-hints', 0], ['haradashi-village-satokichi', 18]]) {
+    assert.ok(read(`translations/${draft}.draft.zh-Hant.json`).records[index].includes(name));
+  }
 });
 
 test('Biron crystal draft excludes original unintelligible-script branches intentionally', () => {
